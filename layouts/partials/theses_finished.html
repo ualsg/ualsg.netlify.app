@@ -1,0 +1,19 @@
+<table border="0">
+<col width="70%">
+<col width="30%">
+{{ range .thesis }}
+<tr>
+<td>
+<strong>{{ .title }}</strong><br /><br />
+{{ .name }}<br />
+{{ .study }} ({{ .uni }}, {{ .year }})<br />
+{{ if .paper }}
+This research has also been published as a <a href="../publication/{{ .paper }}"> paper</a>.
+{{ end }}
+</td>
+<td>
+<img src=theses/{{ .image }}>
+</td>
+</tr>
+{{ end }}
+</table>

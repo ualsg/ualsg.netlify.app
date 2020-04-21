@@ -1,46 +1,58 @@
-<p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
+## [Environment Setup](#environment-setup) 
 
-# Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)
+1. Make sure installed hugo is to install/update hugo extended, minimal
+ version 0.68.3 and above by checking `hugo versions`
+1. If not, download and install `hugo_extended_0.69.0_{OS}-{XX}bit` from the
+ [Hugo releases](https://github.com/gohugoio/hugo/releases)
+1. Clone the [ual.sg repository](#)
+1. Cd into the root of the repository folder, sync the [hugo-academic](https
+://github.com/gcushen/hugo-academic) submodule theme by typing `git submodule update --init --recursive`
+1. Run `hugo -D -F server --disableFastRender` to build and serve the website
+ from source
+1. Check website at [localhost:1313](https://localhost:1313/)
 
-[**Academic**](https://github.com/gcushen/hugo-academic) makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+## [Development Dos and Don'ts](#development-dos-and-donts)
 
-- 👉 [**Get Started**](#install)
-- 📚 [View the **documentation**](https://sourcethemes.com/academic/docs/)
-- 💬 [Chat with the **Academic community**](https://spectrum.chat/academic) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@source_themes](https://twitter.com/source_themes) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithAcademic](https://twitter.com/search?q=%23MadeWithAcademic&src=typd)
-- 💡 [Request a **feature** or report a **bug**](https://github.com/gcushen/hugo-academic/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- :heart: **Support development** of Academic:
-  - ☕️ [**Donate a coffee**](https://paypal.me/cushen)
-  - 💵 [Become a backer on **Patreon**](https://www.patreon.com/cushen)
-  - 🖼️ [Decorate your laptop or journal with an Academic **sticker**](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - 👕 [Wear the **T-shirt**](https://academic.threadless.com/)
-  - :woman_technologist: [**Contribute**](https://sourcethemes.com/academic/docs/contribute/)
+### Dos
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+1. Refer to [Hugo documentation](https://gohugo.io/documentation/) to get
+ a basic understanding of archetypes
+, taxonomies, and content management
+1. Refer to [Academic Framework documentation](https://sourcethemes.com
+/academic/docs/) on modifications and customization to the theme
+1. Refer to [Hugo commands](https://gohugo.io/commands/) to learn how to add
+ new content and configure the website 
+1. Follow the [development workflow](#development-workflow) below
+1. When creating new blog posts, follow the title, structure and other things from previous blog posts (check `content/post`).
+1. Set `draft: true` in the header of content you don't want to have published at this point.
+1. Remember to include any images, external files that is relevant to the
+ content being added, for some may have a global `.gitignore` that prevents
+  detection of those files
+1. Make sure to always check for updates from the master branch for merged
+ changes, `git checkout master && git pull origin master`
 
-## Install
+### Don'ts
 
-You can choose from one of the following four methods to install:
+1. Do not modify the original themes in `themes/academic` folder. Follow the
+ original hugo directory structure to make amendments to existing themes
+1. Do not check-in `public` and `resources` to the git repository
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
+### Additional notes:
 
-## Ecosystem
+1. If you want to deploy your local server online (e.g. for others to check as a provisional solution), have a look at `ngrok`.
+1. Importing our publications is a bit tricky, the process will be simplified
+ in the future. In short, update the `publications.bib` file and then run `academic import --bibtex publications.bib`
 
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 
-## License
+## [Development Workflow](#development-workflow)
 
-Copyright 2017-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+1. Make sure to always check for updates from the master branch for merged
+ changes, `git checkout master && git pull origin master`
+1. When ready to start making changes, make sure to create a new git branch
+ by `git checkout -b {branch-name}`
+1. Constantly save and preserve work in progress by committing to the branch and
+ push to github `git push origin {branch-name}`
+1. When content is ready for review, create a pull request of the branch to
+ be merged to `master`
