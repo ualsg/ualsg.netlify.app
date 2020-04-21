@@ -5,8 +5,7 @@
 1. If not, download and install `hugo_extended_0.69.0_{OS}-{XX}bit` from the
  [Hugo releases](https://github.com/gohugoio/hugo/releases)
 1. Clone the [ual.sg repository](#)
-1. Cd into the root of the repository folder, sync the [hugo-academic](https
-://github.com/gcushen/hugo-academic) submodule theme by typing `git submodule update --init --recursive`
+1. Cd into the root of the repository folder, sync the [hugo-academic](https://github.com/gcushen/hugo-academic) submodule theme by typing `git submodule update --init --recursive`
 1. Run `hugo -D -F server --disableFastRender` to build and serve the website
  from source
 1. Check website at [localhost:1313](https://localhost:1313/)
@@ -19,8 +18,7 @@
 1. Refer to [Hugo documentation](https://gohugo.io/documentation/) to get
  a basic understanding of archetypes
 , taxonomies, and content management
-1. Refer to [Academic Framework documentation](https://sourcethemes.com
-/academic/docs/) on modifications and customization to the theme
+1. Refer to [Academic Framework documentation](https://sourcethemes.com/academic/docs/) on modifications and customization to the theme
 1. Refer to [Hugo commands](https://gohugo.io/commands/) to learn how to add
  new content and configure the website 
 1. Follow the [development workflow](#development-workflow) below
