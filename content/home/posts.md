@@ -5,10 +5,10 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Recent Posts"
-subtitle = ""
+title = "What's up?"
+subtitle = "Updates from our lab"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -28,7 +28,6 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
     exclude_featured = false
   
 [design]
@@ -66,3 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Feel free to follow us on <a href="https://twitter.com/urbanalyticslab">Twitter</a> or through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).

@@ -1,0 +1,119 @@
+[[area]]
+area_title = "Geographic data science / Urban analytics / Urban data science"
+
+[[area.topic]]
+title = "Geolocated Twitter / social media sentiment analysis and correlation with demographics or real estate"
+summary = "There have been many studies on analysing geo-located posts on social media and finding different patterns in space and time. For example, tweets can be used to estimate the daily migration of population. The goal of this project is to analyse geolocated tweets and their relation to different aspects, such as demographics in a given area, or to real estate properties such as prices. Another interesting aspect would be to investigate whether the sentiment correlates to economic indicators such as the average income or average house price/rent in that area. Such research can be carried out in many different cities. Singapore is particularly interesting to consider as a study area: it is a very multicultural country where multiple languages are spoken, so it may also be interesting to include the linguistic aspect."
+
+[[area.topic]]
+title = "Analysing urban morphology"
+summary = "Urban morphology can be described using several indicators derived from geospatial data. This topic provides myriads of opportunities, and much of the work can be carried out using open data sources such as OpenStreetMap. Some general ideas that are possible would be comparing different cities using open data and infer different patterns, and designing new metrics to indicate urban morphology."
+
+[[area.topic]]
+title = "Green policies in Singapore (e.g. vegetated roofs, vegetated facades)"
+summary = "Singapore is one of the greenest cities on earth. How can we use GIS and data science to get a better insight in urban greenery?"
+
+[[area.topic]]
+title = "Analysing Airbnb: how do they affect neighbourhoods (rents, vacancies, amenities)"
+summary = "Airbnb is a grey zone in Singapore (short-term accommodation is tightly regulated, rendering Airbnb illegal in most cases). Nevertheless, there are still many active listings. This can be analysed to explore offenders or various patterns, among other aspects. For this topic, [Inside Airbnb](http://insideairbnb.com) is an excellent resource for data, which covers many cities around the world, enabling a comparison study between cities."
+
+[[area.topic]]
+title = "Sunshine/shadow equity"
+summary = "Sunshine exposure and shadow vary dramatically on the scale of a city, and have socioeconomic implications. This has been a topic of a recent [NYT article](https://www.nytimes.com/2019/12/01/us/los-angeles-shade-climate-change.html). This topic would couple geographic information and other data to come up with new insights."
+
+[[area.topic]]
+title = "Analysing rents and/or house prices and factors that influence them"
+summary = "This is a classic topic of research in real estate, and subject of a plethora of research papers. But there is always something new to do. Many factors influence the price of an apartment: its location, age, condition, storey, and so on. However, there are as well many external factors that play a role, such as the visibility from the flat, accessibility to public transportation, and the magnitude of traffic noise. The goal of this research is to carry out a housing price GIS analysis revealing the externalities that influence it and analysing the magnitude of their impact. In line with the research orientation of the lab, the thesis would focus on the 3D aspect."
+
+[[area.topic]]
+title = "Singapore public housing — how does it shape demographics of neighbourhoods and amenities"
+summary = "More than 80% of Singapore residents live in public housing, in a successful model praised around the world. The housing system is unique and quite different from many other countries, and coupled with the fact that the majority of people stay in the same apartment for life, all these factors shape the demographics of a neighbourhood. For example, the year of construction of a neighbourhood is correlated with the average age of people living there, resulting in differences between neighbourhoods, which may have some further influence on other phenomena (e.g. different age of residents influences the demand for different kinds of amenities in the area). There is a lot to be researched about this topic, depending on the angle from where the student comes from (urban planning, real estate, urban design, policy, ...)."
+
+[[area.topic]]
+title = "Text mining newspapers and connecting it to the geographical context"
+summary = "Text mining is making its comeback in data science. An interesting topic would be to automatically associate articles to a geographical location, and do a further analysis (e.g. do streets that suddenly get mentioned more often in the newspapers see their real estate appreciate?)."
+
+[[area.topic]]
+title = "Web scraping / automatic mining of real estate ads to infer patterns"
+summary = "This thesis would analyse real estate listings and carry out predictive modelling. An example of a research question: do ads with more adjectives have a higher price? Do photos play a significant role?"
+
+[[area.topic]]
+title = "Analysis of geolocated social media data or reviews (e.g. Foursquare, reviews in Google Maps) and their relation to real estate, amenities, gentrification, ...)"
+summary = "Another classic and saturated topic, which always offers something new to investigate."
+
+[[area.topic]]
+title = "Population estimation using GIS data"
+summary = "Various types of geographical data are often used to estimate the population at a fine scale, such as at a neighbourhood level. For example, nighttime imagery and building data can be used in such analyses, as they strongly indicate the number of people living in a given area. The aim of this project is to carry out a population estimation analysis using GIS and remote sensing data, either by replicating existing research efforts or investigating whether new sources of data can be employed for this purpose."
+
+[[area.topic]]
+title = "Mapping and analysing wheelchair access in Singapore"
+summary = "The topic is about investigating accessibility for wheelchair users, and it is important in the context of ageing population. An idea is to use information available in OpenStreetMap"
+
+[[area.topic]]
+title = "Sheltered linkways in Singapore / Optimising navigation through linkways for pedestrians"
+summary = "Pedestrian linkways are very important in Singapore. For example, Land Transport Authority’s (LTA) [Walk2Ride](https://www.lta.gov.sg/apps/news/page.aspx?c=2&id=f4d821a4-1a2c-4381-9e0f-b0f9767177df) programme seeks to build sheltered walkways to schools, healthcare facilities and other public amenities within a 400m radius of MRT stations, and within a 200m radius of bus interchanges, LRT stations and selected bus stops with high commuter volumes. This multi-pronged topic would analyse the amount of population covered by linkways, and do an optimisation analysis."
+
+[[area.topic]]
+title = "Accessibility maps of Singapore"
+summary = "How far can you get in Singapore on a bus within 30 min? What is the best connected point on the island? The topic would be principally about creating isochrone maps (e.g. stuff like [this](https://medium.com/mappinglab/how-far-you-get-by-car-in-10-20-and-30-minutes-8f0c48228e98)), and identifying transportation mode-specific aspects such as where does it make more sense to use MRT and where a taxi. A cool aspect to throw in here is of course real estate."
+
+[[area.topic]]
+title = "Impact of weather in Singapore on activities and behaviour"
+summary = "Weather has an impact on activities. The topic is about coupling weather data (e.g. rain radar) to analyse how it influences traffic, transportation choices, and so on."
+
+
+[[area]]
+area_title = "3D GIS / 3D city modelling / BIM"
+
+[[area.topic]]
+title = "Generating 3D city models from open data"
+summary = "More and more open datasets are available in cities, and some of them can be leveraged to generate 3D city models. The goal of this thesis is to investigate what relevant open data is available in a given city, generate a 3D city model, and assess it (quality, applications, maintenance, etc.)."
+
+[[area.topic]]
+title = "Estimating the number of floors of buildings"
+summary = "Some 2D datasets contain the information on the gross floor area of buildings and floor area ratio of plots. This thesis would investigate whether we can take advantage of this information to infer the number of storeys of buildings, potentially resulting in 3D models."
+
+[[area.topic]]
+title = "Application of 3D city models for urban analyses"
+summary = "This is a general topic that can be refined further depending on the interest. For example, check out our [open 3D building dataset of HDBs in Singapore](/resources/) that we have created."
+
+[[area.topic]]
+title = "Extension of the ISO standard 19157 for 3D data"
+summary = "The standard ISO 19157:2013 Geographic information---Data quality is the principal standard for describing the quality of geodata. For instance, the positional and thematic errors. However, the standard falls short when it comes to 3D data. For example, it is not possible to describe invalid 3D geometry such as solids, and that the dataset has been acquired in an insufficient level of detail. The aim of this thesis is to investigate how is it possible to extend the standard for quality concepts found in 3D. Upon successful completion of this topic, the student will become proficient with this important standard, and potentially give valuable recommendations for the new version of the standard to the developers. "
+
+[[area.topic]]
+title = "Automatic matching of 3D city models"
+summary = "3D city models may be derived with different acquisition techniques from different producers in different levels of detail (LOD), resulting in multiple datasets of the same area. The aim of this research is to design and implement a method that finds corresponding features in two or more datasets. The benefits of this research are, for instance, linking objects for consistency (e.g. updating only one model and propagate the changes in the other models). This topic is analogous with data matching in cartography."
+
+[[area.topic]]
+title = "Estimating the cooling demand with 3D city models"
+summary = "This MSc thesis will be conducted in collaboration with the European Institute for Energy Research (EIFER). It involves: (1) developing a cooling energy model based on 3D city model: morphological analysis, urban typological and classification of 3D data, cooling energy needs calculation, etc.; (2) study the influence of urban morphology on cooling needs (e.g. through statistical regressions); and (3) Implement this relation (e.g. equation between urban density and cooling needs) in a procedural tool. For more information, please read [here](https://lsecities.net/publications/reports/cities-and-energy-urban-morphology-and-heat-energy-demand/) about a project that EIFER led with the LSE for studying the relation between urban morphology and cooling demand."
+
+[[area.topic]]
+title = "Impact of quality of lidar data on the construction of 3D city models"
+summary = "3D city models are often constructed using point clouds obtained by airborne laser scanning. Point clouds often come in different levels of quality and density (number of points per square metre), influencing the quality of the end result. The aim of this thesis is to investigate how much is the quality of produced 3D city models affected by the quality of input data."
+
+[[area.topic]]
+title = "Generating a map from a 3D spatial analysis"
+summary = "3D city models may be used for a variety of purposes, such as solar mapping of rooftops, shadow estimation, and noise pollution predictions. The goal of this master thesis is to carry out a 3D GIS analysis and create a map with the results. Even though the aim of this project appears straightforward, there are many challenges involved, such as obtaining the required 3D data and scarce software support for 3D GIS analyses."
+
+[[area.topic]]
+title = "Automatic feature recognition in BIM/IFC models using machine learning"
+summary = "Many 3D urban and architectural models are rich in geometric detail, but poor in semantic resolution (e.g. a wall is not labelled as a well). This thesis would engage machine learning to automatically add semantic meaning to the geometry (e.g. detect that a wall is a wall)."
+
+[[area.topic]]
+title = "Indoor 3D modelling applications"
+summary = "The number of 3D city models containing basic indoor information is increasing. The goal of this project is to develop an application, such as creating a daylight factor map of different rooms from BIM models or 3D city models."
+
+
+
+[[area]]
+area_title = "Mapping / OpenStreetMap / General GIS"
+
+[[area.topic]]
+title = "Quality of OpenStreetMap data"
+summary = "OpenStreetMap is a very popular free source of GIS data. Its quality has been a subject of many research papers, but such efforts have mostly focused on the quality of the geometric representation (e.g. accuracy of building footprints) and completeness of features (e.g. whether all buildings have been mapped). There are still many topics that can be investigated. For example, the quality (e.g. completeness) of attributes has not been much investigated. A potential topic would be to investigate the quality of the thematic aspect of OpenStreetMap in a given geographical location. Alternatively, the student may work on a comprehensive quality study on OSM data in Singapore, replicating existing research."
+
+[[area.topic]]
+title = "Designing daylight and sunset maps"
+summary = "The nature of time zones and different durations of the day inherently means that at different places the sunset time is significantly different. For example, a huge country such as China may be covered by only one time zone. This might be convenient for administration and communication, but such an arrangement entails that the sunset at one location may be much earlier than in another, having substantial socioeconomic implications. The goal of this thesis is to produce a map illustrating the difference in daylight duration and sunset times in different locations. A challenge in a research such as this one is that there is a lack of an authoritative dataset on timezones."
