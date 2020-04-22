@@ -54,12 +54,12 @@ When using Athena for the first time, there will be a warning that requires an A
 {{< figure src="s3-bucket-warning.png" title="Set up S3 Bucket for Query Output" lightbox="true" >}}
 
 Using the query editor, we create the `default` database using the SQL query below. 
-```
+```sql
 CREATE DATABASE IF NOT EXISTS `default`;
 ```
 
 Then we will create the `planet` table with the following query:
-```
+```sql
 CREATE EXTERNAL TABLE planet (
   id BIGINT,
   type STRING,
@@ -79,9 +79,13 @@ LOCATION 's3://osm-pds/planet/';
 ```
 
 After this, we can do a quick preview of the table to check on the imported data. 
-```
+
+```sql
 SELECT * FROM planet LIMIT 10;
 ```
+
+{{< figure src="featured.png" title="Preview Table" lightbox="true" >}}
+
 
 ### Useful Features of Athena
 
@@ -167,22 +171,15 @@ except Exception as e:
 
 print(cursor.description)
 ```
+ ### Other Considerations
+ 
+Working with cloud technology often means having a 3rd party hosting our
+ private data and/or intellectual properties. We should be mindful to choose
+ the region/country where these properties are judicially bound. 
 
-### Pros and Cons
-
-There are a lot of advantages leveraging cloud technology like Athena on AWS:
-
-- Lower IT DevOps for maintenance
-- Increase accessibility, availability, and scalability
-- Increase efficiency in performance and analysis
-
-That said cloud platforms are not without its disadvantages:
-- Risk of security and privacy of private data and intellectual properties
-- Possibility of unforeseen higher cost due to careless setup and cloud usage
-
-### Summary
-
-In summary, cloud companies like Amazon and Google could enable more efficient analysis and higher performance of a small GIS team or individual GIS profession. To counter the risk of exposure of private data and/or intellectual properties, measures such as assigning only the minimum permissions required and enabling multi-factor authentication could ensure our private data and intellectual properties are protected. 
+Last but not least, it is also important to follow security best practices
+, such as enforcing secure and complex passwords, assigning only the minimum
+ permissions required, enabling multi-factor authentication, to ensure our private data and intellectual properties are protected. 
 
 
 
