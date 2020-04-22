@@ -35,12 +35,7 @@ projects: []
 
 With OpenStreetMap being one of the most frequently updated open-source datasets for GIS analysis, it is has become popular among map enthusiasts and GIS professions. Due to its high volume and frequent updates, cloud technology could be leveraged to provide an efficient environment that is easily accessible and maintained. 
 
-Being a major player in cloud platform, 
-[Amazon Web Services (AWS) hosts a registry of publicly available datasets
-](https://registry.opendata.aws/)  [^1] accessible via its resources. Among the
- datasets relevant to GIS analysis, [OpenStreetMap planet data](https
- ://registry.opendata.aws/osm/) was one of them.
-  [Amazon Athena](https://console.aws.amazon.com/athena/home) [^2] service makes the OpenStreetMap planet data easily accessible for query, analysis and export. 
+Being a major player in cloud platform, [Amazon Web Services (AWS) hosts a registry of publicly available datasets](https://registry.opendata.aws/)  [^1] accessible via its resources. Among the datasets relevant to GIS analysis, [OpenStreetMap planet data](https://registry.opendata.aws/osm/) was one of them. [Amazon Athena](https://console.aws.amazon.com/athena/home) [^2] service makes the OpenStreetMap planet data easily accessible for query, analysis and export. 
 
 This post will detail the steps to set up the OpenStreetMap planet table on Athena, mention a couple of useful features of Athena and demonstrate the automation of the weekly refresh of the latest OpenStreetMap planet data made available on AWS.
 
@@ -93,8 +88,7 @@ Athena offers some useful features such as Saved Queries, where we could save qu
 
 {{< figure src="save-query.png" title="Save Frequently Used Query" lightbox="true" >}}
 
-Also, the Query History shows all prior query attempts and their outcome
-. This is particularly useful to get an idea of the volume of data we have queried.
+Also, the Query History shows all prior query attempts and their outcome. This is particularly useful to get an idea of the volume of data we have queried.
 
 {{< figure src="query-history.png" title="Query History for Usage Review" lightbox="true" >}}
 
@@ -117,8 +111,7 @@ When deciding the output format, it is useful to keep in mind these consideratio
 
 Not only the set up of OpenStreetMap planet on Athena is easy, its maintenance and periodic refresh of the latest data can also be automated with a simple script. 
 
-Although some OpenStreetMap sources on some websites are updated daily, the OpenStreetMap dataset on AWS is only updated once a week. When that happens, we want to update the planet table for the latest version. Instead of performing the update manually, we can automate the boring stuff, set up 
-[crontab](https://crontab.guru/) to run the following script to perform the update. 
+Although some OpenStreetMap sources on some websites are updated daily, the OpenStreetMap dataset on AWS is only updated once a week. When that happens, we want to update the planet table for the latest version. Instead of performing the update manually, we can automate the boring stuff, set up [crontab](https://crontab.guru/) to run the following script to perform the update. 
 
 The script requires 
 [AWS SDK for Python (Boto3)](https://aws.amazon.com/sdk-for-python/), 
@@ -173,13 +166,9 @@ print(cursor.description)
 ```
  ### Other Considerations
  
-Working with cloud technology often means having a 3rd party hosting our
- private data and/or intellectual properties. We should be mindful to choose
- the region/country where these properties are judicially bound. 
+Working with cloud technology often means having a 3rd party hosting our private data and/or intellectual properties. We should be mindful to choose the region/country where these properties are judicially bound. 
 
-Last but not least, it is also important to follow security best practices
-, such as enforcing secure and complex passwords, assigning only the minimum
- permissions required, enabling multi-factor authentication, to ensure our private data and intellectual properties are protected. 
+Last but not least, it is also important to follow security best practices, such as enforcing secure and complex passwords, assigning only the minimum permissions required, enabling multi-factor authentication, to ensure our private data and intellectual properties are protected. 
 
 
 
