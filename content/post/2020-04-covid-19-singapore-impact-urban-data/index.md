@@ -28,6 +28,10 @@ image:
 projects: []
 ---
 
+{{% alert note %}}
+Some of the plots in this article have been updated two weeks later in a new [post]({{< ref "/post/2020-04-covid-19-mobility-update/index.md" >}}) using the latest available data.
+{{% /alert %}}
+
 The news and social media have myriads of visualisations about not only the proliferation of the COVID-19 pandemic but also on how the measures to mitigate it have affected numerous aspects of daily life and the economy.
 These aid us to understand whether social distancing is taken seriously.
 The analyses presented focus mostly on the US, China, and Europe; and I have not seen much attention on Singapore, with the notable exception[^1] of [Google's Community Mobility Reports](https://www.google.com/covid19/mobility/), and a couple of earlier comparisons with other cities relying on commercial data[^2].
@@ -181,6 +185,10 @@ The used theme is from the package [`hrbrthemes`](https://github.com/hrbrmstr/hr
 ### Acknowledgements
 
 Both datasets used are gratefully acknowledged.
+
+### Update
+
+Some of the plots in this article have been updated two weeks later in a new [post]({{< ref "/post/2020-04-covid-19-mobility-update/index.md" >}}) using the latest available data.
 
 `#StayHomeForSG`
 
