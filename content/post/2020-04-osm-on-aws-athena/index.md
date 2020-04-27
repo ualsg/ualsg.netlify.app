@@ -2,11 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Leveraging cloud technology for GIS analysis with OpenStreetMap"
-subtitle: "To increase accessibility, ease of maintenance and enable efficient analysis
- of the open-source OpenStreetMap data, we look at leveraging cloud
+subtitle: "To increase accessibility, ease of maintenance and enable efficient analysis of OpenStreetMap data, we look at leveraging cloud
   technology."
-summary: "To increase accessibility, ease of maintenance and enable efficient analysis
- of the open-source OpenStreetMap data, we look at leveraging cloud
+summary: "To increase accessibility, ease of maintenance and enable efficient analysis of OpenStreetMap data, we look at leveraging cloud
   technology."
 authors: [yoong-shin]
 tags: [AWS, Athena, OpenStreetMap, engineering, short read]
@@ -33,7 +31,7 @@ projects: []
 ---
 
 
-With OpenStreetMap being one of the most frequently updated open-source datasets for GIS analysis, it is has become popular among map enthusiasts and GIS professions. Due to its high volume and frequent updates, cloud technology could be leveraged to provide an efficient environment that is easily accessible and maintained. 
+With [OpenStreetMap](https://www.openstreetmap.org) being one of the most widespread and most frequently updated open geospatial datasets, it is has become popular among map enthusiasts and GIS professionals. Due to its high volume and frequent updates, cloud technology could be leveraged to provide an efficient environment that is easily accessible and maintained. 
 
 Being a major player in cloud platform, [Amazon Web Services (AWS) hosts a registry of publicly available datasets](https://registry.opendata.aws/)  [^1] accessible via its resources. Among the datasets relevant to GIS analysis, [OpenStreetMap planet data](https://registry.opendata.aws/osm/) was one of them. [Amazon Athena](https://console.aws.amazon.com/athena/home) [^2] service makes the OpenStreetMap planet data easily accessible for query, analysis and export. 
 
