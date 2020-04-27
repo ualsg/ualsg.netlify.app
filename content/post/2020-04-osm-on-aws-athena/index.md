@@ -11,8 +11,8 @@ summary: "To increase accessibility, ease of maintenance and enable efficient an
 authors: [yoong-shin]
 tags: [AWS, Athena, OpenStreetMap, engineering, short read]
 categories: []
-date: 2020-04-27T14:55:01+08:00
-lastmod: 2020-04-27T14:55:01+08:00
+date: 2020-04-27T12:55:01+08:00
+lastmod: 2020-04-27T12:55:01+08:00
 featured: false
 draft: false
 
