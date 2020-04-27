@@ -4,7 +4,7 @@
 title: "Updated plots on the current mobility situation around the world"
 subtitle: "An update to our transit visualisations using the latest available data"
 summary: ""
-authors: []
+authors: [filip]
 tags: [analysis]
 categories: []
 date: 2020-04-24T08:50:53+08:00
