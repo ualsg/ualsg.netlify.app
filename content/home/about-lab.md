@@ -20,7 +20,7 @@ We appreciate the importance of geoinformation powering urban informatics, and p
 The lab is led by Dr {{% mention "filip" %}}, asst prof at NUS [Architecture](http://www.sde.nus.edu.sg/arch/) and [Real Estate](http://www.rst.nus.edu.sg).
 
 We are involved in several international collaborations such as the [World Economic Forum (WEF)](https://www.weforum.org), the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org), and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
-On the national level, we have collaborations with Singapore government agencies and companies.
+On the national level, we have collaborations with Singapore Government agencies and companies.
 
 You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a> and our <a href="post/">blog</a>.
 
