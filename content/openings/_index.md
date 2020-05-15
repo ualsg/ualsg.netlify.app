@@ -23,7 +23,7 @@ Ranked as the [#1 most competitive country](https://www.straitstimes.com/busines
 {{< opening >}}
 {{< past_openings >}}
 
-## Applications
+## Roles
 
 Prospective PhD candidates and postdocs are encouraged to get in touch if they find some of the fellowships below of interest.
 We also welcome specialists and software developers (not all our openings are necessarily for academics), visiting scholars, master students (e.g. for [theses](#thesis)), undergrads (e.g. for internships), and others.
@@ -34,9 +34,29 @@ If you'd like to get in touch, please do so through the [contact](#contact) form
 We appreciate motivated prospective students and staff with dedicated applications.
 We'd like to hear about your specific interest and expect you to have a solid understanding of what we do.
 For example, you can read one of our [publications](/publication) you find interesting, provide your perspective, and let us know how do you see yourself contributing to the work.
+While we appreciate interest, we cannot attend to generic applications without a clear motivation and understanding of the scope of our work.
 
 
-## Prospective postdocs and PhD candidates: fellowship opportunities
+## Prospective PhD candidates
+
+We are happy to accept well-motivated and talented prospective PhD candidates.
+Please note that applications to the PhD programme should be done directly to the [School of Design and Environment](http://www.sde.nus.edu.sg), but you may also [first get in touch with us to discuss](https://ualsg.typeform.com/to/zSQtnN).
+The [NUS website on graduate admissions](http://www.nus.edu.sg/registrar/prospective-students/graduate) is a good starting point to get more information about doing a PhD at our university.
+
+The application deadlines are usually 15 November for the intake in August next year, and 15 May for the start in January.
+Please start preparing early, and indicate in your application that you would like to be supervised by Asst Prof Filip Biljecki.
+If you apply, let us know.
+
+At the moment, we do not offer fully-funded PhD positions.
+However, sometimes there are [scholarship opportunities by the school](http://www.nus.edu.sg/nusbulletin/school-of-design-and-environment/graduate-education/financial-assistance-and-scholarships/) to partially or fully fund your PhD journey, and there are external funding options.
+Do also check the comprehensive list in the continuation of this web page, which we prepared for candidates seeking external funding.
+For example, if applicable to you, check out the [The Schlumberger Foundation Faculty for the Future](https://www.facultyforthefuture.net) for another potential scholarship.
+Please note that most (external) scholarships require a candidate to be admitted to a PhD programme before applying for funding (e.g. providing letter of acceptance from the university).
+Thus, we recommend starting as soon as possible.
+
+You may also want to read the graduate studies website of either the [Department of Architecture](https://www.sde.nus.edu.sg/arch/programmes/higher-degrees-by-research/) (and its [FAQ](https://www.sde.nus.edu.sg/arch/programmes/higher-degrees-by-research/frequently-asked-questions/)), or the [Department of Real Estate](https://www.sde.nus.edu.sg/rst/graduate/graduate-courses-by-research/hdegree-admission/) (we are part of both).
+
+## Prospective postdocs/research fellows and PhD candidates: fellowship/scholarship opportunities
 
 We are open to endorse well motivated applications for external (mostly postdoc) fellowships and scholarships that facilitate carrying out research at our lab and at NUS.
 Depending on your nationality and university, there are many opportunities to fund your PhD or postdoc research.
@@ -79,19 +99,8 @@ The scholarship is given to faculty members of ERDT Consortium who wish to pursu
 
 + The [ASEAN-India Science, Technology & Innovation Cooperation](https://aistic.gov.in/ASEAN/HomePage) may be of interest to scholars in **India**.
 
-For a comprehensive list of opportunities please see the [ECRcentral's Funding schemes and fellowships for early career researchers](https://ecrcentral.org/fundings). We gratefully acknowledge the authors behind the list, from which we compiled the selection above.
-
-## Prospective PhD candidates: self-funded or seeking a scholarship
-
-We accept well-motivated and talented prospective PhD candidates. 
-Applications to the PhD programme should be done directly to the [School of Design and Environment](http://www.sde.nus.edu.sg), but you may also [first get in touch with us to discuss](https://ualsg.typeform.com/to/zSQtnN).
-The deadlines are usually 15 November for the intake in August next year, and 15 May for the start in January.
-Please start preparing your application early, and indicate in your application that you would like to work with Asst Prof F. Biljecki.
-
-Sometimes there are [scholarship opportunities by the school](http://www.nus.edu.sg/nusbulletin/school-of-design-and-environment/graduate-education/financial-assistance-and-scholarships/) to partially or fully fund your PhD journey (please also check the list above).
-If applicable to you, please check the [The Schlumberger Foundation Faculty for the Future](https://www.facultyforthefuture.net) for another potential scholarship.
-Please note that most (external) scholarships require a candidate to be admitted to a PhD programme before applying for funding (e.g. providing letter of acceptance from the university).
-Thus we recommend starting as soon as possible.
+For a comprehensive list of further opportunities please see the [ECRcentral's Funding schemes and fellowships for early career researchers](https://ecrcentral.org/fundings).
+We gratefully acknowledge the authors behind the list, from which we compiled the selection above.
 
 
 ## Current NUS students: theses, TAs, internships
@@ -143,6 +152,8 @@ However, if your university or country has a similar programme, contact us.
 
 Are some of the options listed above of your interest or you have a general enquiry?
 Feel free to get in touch with us through the form below.
+While we appreciate interest, we cannot attend to generic applications without a clear motivation and understanding of the scope of our work.
+
 
 {{< typeform zSQtnN >}}
 
