@@ -1,6 +1,6 @@
 +++
 date = 2020-05-14
-title = "Vacancy: Researcher (Traineeship) in Urban Analytics (1 positions)"
+title = "Vacancy: Researcher (Traineeship) in Urban Analytics (1 position)"
 +++
 
 ![](header.png)
@@ -14,7 +14,7 @@ This is a paid traineeship for 12 months.
 The apprentice will be introduced to a wide array of urban/geospatial data, guided on how to understand and manage it, conduct the analyses and experiments, build pipelines for data transformation and integration, and use the data for multidisciplinary use cases.
 
 This is an excellent opportunity to be part of a multidisciplinary international team, and gain an understanding of urban analytics and a range of transferrable skills, including programming, data science / AI, international collaboration, and scientific communication.
-A personalised development plan will be created, and the researcher will work on real-world problems and in the frame of [existing project(s) of the Lab](/projects/) under the supervision of the principal investigator of the lab [Dr Filip Biljecki](/authors/filip/).
+A personalised development plan will be created, and the researcher will work on real-world problems and in the frame of [existing project(s) of the Lab](/projects/) under the supervision of the principal investigator of the Lab [Dr Filip Biljecki](/authors/filip/).
 
 For more information about the initiative, please refer to the [R&G website](http://www.nus.edu.sg/cfg/rg/traineeships/).
 
@@ -22,14 +22,14 @@ For more information about the initiative, please refer to the [R&G website](htt
 
 Your key responsibilities will be:
 
-- Conduct literature reviews
-- Assist in designing experiments
-- Reading, processing, and writing geospatial data 
-- Development of predictive models and their testing
-- Using geospatial data for urban/spatial analyses and simulations
-- Dissemination and visualisation of data and results
-- Evaluation of data to ensure accuracy and completeness
-- Preparation of reports
+- Conduct literature reviews.
+- Assist in designing experiments.
+- Reading, processing, and writing geospatial data. 
+- Development of predictive models and their testing.
+- Using geospatial data for urban/spatial analyses and simulations.
+- Dissemination and visualisation of data and results.
+- Evaluation of data to ensure accuracy and completeness.
+- Preparation of reports.
 
 
 ### Required qualifications
