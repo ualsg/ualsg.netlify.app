@@ -5,10 +5,10 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "NUS Urban Analytics Lab"
+title = "Urban Analytics Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = ""
+hero_media = "header/e3.png"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -17,15 +17,15 @@ hero_media = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "black"
   
   # Background gradient.
   #gradient_start = "#4bb4e3"
   #gradient_end = "#2b94c3"
   
   # Background image.
-  image = "header/e2.png"  # Name of image in `static/img/`.
-  image_darken = 0.15  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image = ""  # Name of image in `static/img/`.
+  #image_darken = 0.15  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -36,3 +36,32 @@ hero_media = ""
 
 +++
 Geospatial and 3D urban modelling research group at the National University of Singapore
+<div id="profile">
+      <ul class="network-icon" aria-hidden="true">
+        <li>
+          <a itemprop="sameAs" href="mailto:filip@nus.edu.sg">
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        <li>
+          <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener">
+            <i class="fab fa-twitter big-icon"></i>
+          </a>
+        </li>     
+        <li>
+          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=jGqm4kEAAAAJ&hl=en" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>  
+        <li>
+          <a itemprop="sameAs" href="https://www.researchgate.net/profile/Filip_Biljecki" target="_blank" rel="noopener">
+            <i class="ai ai-researchgate big-icon"></i>
+          </a>
+        </li>
+        <li>
+          <a itemprop="sameAs" href="https://github.com/ualsg" target="_blank" rel="noopener">
+            <i class="fab fa-github big-icon"></i>
+          </a>
+        </li>
+      </ul>
+    </div>
