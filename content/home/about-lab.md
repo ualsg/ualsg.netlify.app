@@ -27,34 +27,5 @@ You are welcome to follow our work through <a itemprop="sameAs" href="http://twi
 Our interests and key words: Geographical Information Science (GIS), geospatial machine learning, geographic data science, 3D city modelling / 3D GIS (some people also call them digital twins), 3D urban analytics, spatial data quality and standardisation (CityJSON, CityGML), Volunteered geoinformation (VGI) and OpenStreetMap (OSM), Building Information modelling (BIM), Geospatial data visualisation, 3D underground data modelling, and 3D cadastre.
 
 <p align="center">
-  <img src="img/banner.png"/>
+  <img src="img/banner2.png"/>
 </p>
-<div id="profile">
-      <ul class="network-icon" aria-hidden="true">
-        <li>
-          <a itemprop="sameAs" href="mailto:filip@nus.edu.sg">
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-            <li>
-          <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>     
-        <li>
-          <a itemprop="sameAs" href="https://scholar.google.com/citations?user=jGqm4kEAAAAJ&hl=en" target="_blank" rel="noopener">
-            <i class="ai ai-google-scholar big-icon"></i>
-          </a>
-        </li>  
-        <li>
-          <a itemprop="sameAs" href="https://www.researchgate.net/profile/Filip_Biljecki" target="_blank" rel="noopener">
-            <i class="ai ai-researchgate big-icon"></i>
-          </a>
-        </li>
-        <li>
-          <a itemprop="sameAs" href="https://github.com/ualsg" target="_blank" rel="noopener">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-      </ul>
-    </div>
