@@ -50,12 +50,12 @@ The project seeks to build on top of the method previously presented by the proj
 The work included developing a regression model (random forest) to estimate the heights of buildings from their footprints, using only 2D datasets, without remotely sensed data.
 This project aspires to scale the method to achieve global coverage and derive heights of individual buildings around the world.
 It will also investigate the potential addition of remotely sensed data.
-The targeted deliverables are a list of predicted heights attached to all buildings in OpenStreetMap, and a 3D building model in [CityJSON](https://cityjson.org) in [LoD1](https://doi.org/10.1016/j.compenvurbsys.2016.04.005) generated using the OSM footprints and predicted heights, to facilitate use in the geospatial domain and urban analytics.
+The targeted deliverables are a list of predicted heights attached to all buildings in OpenStreetMap, and a 3D building model in [CityJSON](https://cityjson.org) in [LoD1](https://doi.org/10.1016/j.compenvurbsys.2016.04.005) generated using the OSM footprints and predicted heights, to facilitate their use in the geospatial domain and urban analytics.
 
 This ongoing project also includes other research tasks, such as:
 * Developing a method to assess the global building completeness in OSM.
 * Understanding the quality of heights already available in OSM, which can be used as training data.
-* Exploring use cases relying on the availability of such dataset.
+* Exploring use cases relying on the availability of such dataset (e.g. [population estimation](https://doi.org/10.1371/journal.pone.0156808)).
 * Using machine learning to infer the roof type of buildings, leading to the generation of highly detailed building models (as in the image in the header above). This portion has already been investigated, and a [paper](/publication/2019-inferring-roof-type/) has been published.
 
 
