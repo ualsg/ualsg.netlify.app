@@ -19,6 +19,10 @@ We appreciate the importance of geoinformation powering urban informatics, and p
 
 The lab is led by Dr {{% mention "filip" %}}, asst prof at [NUS School of Design and Environment](https://www.sde.nus.edu.sg).
 
+<p align="center">
+  <img src="img/banner2.png"/>
+</p>
+
 We are involved in several international collaborations such as the [World Economic Forum (WEF)](https://www.weforum.org), the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org), and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
 On the national level, we have collaborations with Singapore Government agencies and companies.
 
@@ -26,6 +30,3 @@ You are welcome to follow our work through <a itemprop="sameAs" href="http://twi
 
 Our interests and key words: Geographical Information Science (GIS), geospatial machine learning, geographic data science, 3D city modelling / 3D GIS (some people also call them digital twins), 3D urban analytics, spatial data quality and standardisation (CityJSON, CityGML), Volunteered geoinformation (VGI) and OpenStreetMap (OSM), Building Information modelling (BIM), Geospatial data visualisation, 3D underground data modelling, and 3D cadastre.
 
-<p align="center">
-  <img src="img/banner2.png"/>
-</p>
