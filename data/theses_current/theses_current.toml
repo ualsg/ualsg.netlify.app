@@ -4,7 +4,7 @@ name = "Ankit Palliwal"
 study = "MSc in Applied GIS"
 year = "2020"
 uni = "NUS"
-image = "ankit.png"
+image = "ankit-research.png"
 
 [[thesis]]
 title = "The effect of real void decks in Singapore ventilation"
@@ -12,7 +12,7 @@ name = "Aviva Opsomer"
 study = "MSc in Building Technology"
 year = "2019"
 uni = "TU Delft"
-image = "aviva.png"
+image = "aviva-research.png"
 
 [[thesis]]
 title = "Height Inference for all US Building Footprints in the Absence of Height Data"
@@ -20,13 +20,20 @@ name = "Imke Lánský"
 study = "MSc in Geomatics"
 year = "2019"
 uni = "TU Delft"
-image = "imke.png"
+image = "imke-research.png"
 
 [[thesis]]
-title = "The impacts of the Thomson-East Coast line on Population Change and Demography in Singapore: An Agent-Based Modelling prediction"
+title = "Spatial Disaggregation of Urban Population Data: A model-based Exploration of Demographic Patterns in Singapore"
 name = "Noée Szarka"
 study = "MSc GIS"
 year = "2020"
 uni = "University of Edinburgh"
-image = "noee.png"
+image = "noee-research.png"
 
+[[thesis]]
+title = "Assessing the quality of OpenStreetMap building data in Singapore"
+name = "Ethan Chen Wai Hoong"
+study = "MSc in Applied GIS"
+year = "2020"
+uni = "NUS"
+image = "ethan-research.png"
