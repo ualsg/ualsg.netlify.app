@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Reusable, Sharable, and Transferable Smart Data Platform for Collaborative Development of Data-driven Smart Cities"
-summary: "Augmentation of 3D city models with machine learning techniques"
+summary: "Novel technologies to connect smart cities"
 authors: [filip]
 tags: [smart cities]
 categories: []
