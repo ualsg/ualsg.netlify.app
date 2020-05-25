@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Large-scale 3D geospatial data for urban analytics"
-summary: "Augmentation of 3D city models with machine learning techniques"
+summary: "Creating country-wide 3D city models using artificial intelligence"
 authors: [filip, yoong-shin, li-min]
 tags: [machine learning, 3d gis]
 categories: []
@@ -55,8 +55,8 @@ The targeted deliverables are a list of predicted heights attached to all buildi
 This ongoing project also includes other research tasks, such as:
 * Developing a method to assess the global building completeness in OSM.
 * Understanding the quality of heights already available in OSM, which can be used as training data.
-* Exploring use cases relying on the availability of such dataset (e.g. [population estimation](https://doi.org/10.1371/journal.pone.0156808)).
+* Exploring use cases relying on the availability of such dataset (e.g. [population estimation](https://doi.org/10.1371/journal.pone.0156808), or shadow analyses like in the image below).
 * Using machine learning to infer the roof type of buildings, leading to the generation of highly detailed building models (as in the image in the header above). This portion has already been investigated, and a [paper](/publication/2019-inferring-roof-type/) has been published.
 
-
+![](/img/hdb-solar.png)
 

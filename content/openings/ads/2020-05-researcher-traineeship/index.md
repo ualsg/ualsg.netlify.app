@@ -5,6 +5,11 @@ title = "Vacancy: Researcher (Traineeship) in Urban Analytics (1 position)"
 
 ![](header.png)
 
+{{% alert warning %}}
+The deadline to apply for this position has passed.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
+{{% /alert %}}
 
 ### Description
 
@@ -60,7 +65,10 @@ Please apply by [email](mailto:filip@nus.edu.sg).
 Please submit the indication of possessing the qualifications listed above (CV, and optionally additional relevant material such as portfolio and cover letter), and do so preferably in PDF format.
 
 {{% alert note %}}
-The deadline to apply is 17 May 2020.
+~~The deadline to apply is 17 May 2020.~~
+The deadline to apply for this position has passed.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
 {{% /alert %}}
 
 ### Contact
