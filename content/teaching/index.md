@@ -49,7 +49,7 @@ Our novel assignments enable students to learn new skills (e.g. tool or programm
 
 Non-NUS students (both from other Singaporean and overseas universities) are eligible to work with us as well, please see the [NUS Non-graduating research student scheme](http://www.nus.edu.sg/registrar/academic-information-policies/non-graduating) if interested.
 
-### Completed theses
+### Completed theses / graduation projects
 
 {{< theses_finished >}}
 
