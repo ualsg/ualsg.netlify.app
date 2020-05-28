@@ -3,7 +3,7 @@
 
 title: "Large-scale 3D geospatial data for urban analytics"
 summary: "Creating country-wide 3D city models using artificial intelligence"
-authors: [filip, yoong-shin, li-min]
+authors: [filip, yoong-shin, li-min, yuchen]
 tags: [machine learning, 3d gis]
 categories: []
 date: 2019-10-01T21:11:51+08:00

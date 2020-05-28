@@ -15,7 +15,7 @@ weight = 20  # Order that this section will appear in.
 We are a new interdepartmental multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg), the #1 ranked university in Asia and world's #11 (QS). 
 
 Our mission is to leverage on spatially enabled data for urban applications, catalyse the development of 3D geoinformation in the context of smart cities, make sense of big geospatial data and digital twins in the built environment, and cater to disciplines such as architecture, urban planning, and real estate to make informed decisions using 3D city models and urban analytics.
-We appreciate the importance of geoinformation powering urban informatics, and put a particular focus on the geospatial infrastructure and technology supporting it.
+We appreciate the importance of geoinformation powering urban informatics, and put a particular focus on the geospatial infrastructure and technology.
 
 The lab is led by Dr {{% mention "filip" %}}, asst prof at [NUS School of Design and Environment](https://www.sde.nus.edu.sg).
 
