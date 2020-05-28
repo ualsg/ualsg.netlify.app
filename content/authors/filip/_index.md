@@ -50,7 +50,7 @@ social:
   link: http://sg.linkedin.com/in/filipbiljecki
 - icon: home
   icon_pack: fas
-  link: http://filip.biljecki.com
+  link: https://filipbiljecki.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=jGqm4kEAAAAJ&hl=en
