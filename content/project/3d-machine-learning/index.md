@@ -58,5 +58,5 @@ This ongoing project also includes other research tasks, such as:
 * Exploring use cases relying on the availability of such dataset (e.g. [population estimation](https://doi.org/10.1371/journal.pone.0156808), or shadow analyses like in the image below).
 * Using machine learning to infer the roof type of buildings, leading to the generation of highly detailed building models (as in the image in the header above). This portion has already been investigated, and a [paper](/publication/2019-inferring-roof-type/) has been published.
 
-![](/img/hdb-solar.png)
+{{< figure library="true" src="hdb-solar.png" title="A shadow analysis in Singapore, relying entirely on open data and open-source software (our [CityJSON 3D dataset of SG](/data-code/) and [VI-Suite + Blender](https://doi.org/10.1186/s40965-017-0036-1))" lightbox="true" >}}
 
