@@ -5,7 +5,7 @@ title: "Visit to Seoul, Korea"
 subtitle: ""
 summary: "Continuing the appearance of the UAL in East Asia"
 authors: [admin]
-tags: [visits, korea]
+tags: [visits, korea, events, talks]
 categories: []
 date: 2019-12-08T20:55:19+08:00
 lastmod: 2019-12-08T20:55:19+08:00
