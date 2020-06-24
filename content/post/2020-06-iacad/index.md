@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: Keynote at IACAD 2020
-subtitle: 
-summary: 
+subtitle: International Academic Conference on Architecture and Design
+summary: The International Academic Conference on Architecture and Design (IACAD) 2020 has been held last week, and we contributed with a keynote
 authors: [admin]
 tags: [conference, events, talks]
 categories: []
