@@ -35,7 +35,7 @@ Feel free to visit in future to check for updates as the list grows.
 
 ## Introduction
 
-In research and teaching activities that are focused on Singapore, we rely almost entirely on open data, enabling reproducibility and fostering open science.
+In our [research]({{< ref "/#projects" >}}) and [teaching]({{< ref "/teaching/index.md" >}}) activities that are focused on Singapore, we rely almost entirely on open data, enabling reproducibility and fostering open science.
 
 While [Data.gov.sg](https://data.gov.sg) is the starting and ending point to get many useful datasets, the availability of open data goes beyond that.
 Furthermore, there are some particularities that may not be evident at first and which we elaborate on in the text (e.g. some datasets are available at multiple locations with some differences).
@@ -154,7 +154,7 @@ It doesn't look that it enables querying historical data, though.
 
 Routing (fetching the distance, estimated travel time, and the geometry of the route) between two points is available through the [OneMap API](https://docs.onemap.sg).
 OpenStreetMap is also useful here, e.g. check out the [Open Source Routing Machine](http://project-osrm.org) and [Openrouteservice](https://openrouteservice.org).
-There are interfaces for Python and R, e.g. we used [osrm](https://cran.r-project.org/web/packages/osrm/index.html) in teaching.
+There are interfaces for Python and R, e.g. we used [osrm](https://cran.r-project.org/web/packages/osrm/index.html) in [teaching]({{< ref "/teaching/index.md" >}}).
 
 Although not strictly open, rather commercial (but they offer a free tier), here it is inescapable to mention the trio of APIs under the [Google Maps Platform](https://developers.google.com/maps/documentation): Directions API, Distance Matrix API, and Roads API, which are of high quality and a lot can be done within the free monthly quota they offer.
 
@@ -182,10 +182,24 @@ Traffic images are available through the [LTA DataMall](https://www.mytransport.
 
 Both the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html) and [SingStat](https://www.singstat.gov.sg/find-data/search-by-theme/industry/transport/latest-data) have more datasets worth having a look at, e.g. number of cars in SG at a fine temporal scale (updated monthly).
 
+
+### Map / Geospatial data
+
+Besides OpenStreetMap which is quite complete and of high quality for a wide range of features, well worth mentioning is the Geospatial Whole Island dataset available through the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html).
+It contains a bunch of different features related to transportation, e.g. road crossings, traffic lights, taxi stands, and cycling paths.
+
+Further, [Data.gov.sg](https://data.gov.sg) contains some datasets such as the [boundaries of administrative areas](https://data.gov.sg/dataset/master-plan-2019-subzone-boundary-no-sea), [master plan land use](https://data.gov.sg/dataset/master-plan-2019-land-use-layer) (containing the [Gross Plot Ratio](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Gross-Plot-Ratio)), and [cadastral land parcels](https://data.gov.sg/dataset/sla-cadastral-land-parcel).
+
+For trees, check out [ExploreTrees.SG](https://github.com/cheeaun/exploretrees-sg), derived from [Trees.SG](http://trees.sg).
+
+Finally, you may be interested in the [high-resolution map of Singapore’s terrestrial ecosystems](https://doi.org/10.6084/m9.figshare.8267510) that was developed by the research team of the [Natural Capital Singapore](http://www.naturalcapital.sg) and released as open data.
+There is also a [paper](https://doi.org/10.3390/data4030116) published.
+
+
 ### Aerial imagery
 
 There are no open data high-resolution resources we are aware of.
-Satellite imagery is available for academia through the [Planet's Education and Research Programme](https://www.planet.com/markets/education-and-research/), which we are a member of. 
+Satellite imagery is available for academia through the [Planet's Education and Research Programme](https://www.planet.com/markets/education-and-research/), which we are a member of and which is accessible to other academics as well. 
 
 ### Point clouds (LiDAR), terrain data
 
@@ -196,15 +210,6 @@ None, except terrain data of coarse resolution such as [SRTM](https://www2.jpl.n
 Google Street View has pretty good coverage of Singapore (it even includes [hawker centres](https://www.channelnewsasia.com/news/singapore/google-hawker-centres-stalls-street-view-maps-trekkers-11764968)), and the data is downloadable through their [API](https://developers.google.com/maps/documentation/streetview/intro) (check the T&C though).
 [Mapillary](https://www.mapillary.com) is also worth considering.
 
-
-### Map / Geospatial data
-
-Besides OpenStreetMap which is quite complete and of high quality for a wide range of features, well worth mentioning is the Geospatial Whole Island dataset available through the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html).
-It contains a bunch of different features related to transportation, e.g. road crossings, traffic lights, taxi stands, and cycling paths.
-
-Further, [Data.gov.sg](https://data.gov.sg) contains some datasets such as the [boundaries of administrative areas](https://data.gov.sg/dataset/master-plan-2019-subzone-boundary-no-sea), [master plan land use](https://data.gov.sg/dataset/master-plan-2019-land-use-layer) (containing the [Gross Plot Ratio](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Gross-Plot-Ratio)), and [cadastral land parcels](https://data.gov.sg/dataset/sla-cadastral-land-parcel).
-
-For trees, check out [ExploreTrees.SG](https://github.com/cheeaun/exploretrees-sg), derived from [Trees.SG](http://trees.sg).
 
 
 ### Airbnb
