@@ -8,7 +8,7 @@ authors: [admin]
 tags: [open data, singapore]
 categories: []
 date: 2020-06-24T08:04:48+08:00
-lastmod: 2020-06-24T08:04:48+08:00
+lastmod: 2020-06-25T15:04:48+08:00
 featured: false
 draft: false
 
@@ -100,7 +100,7 @@ Some of them, like the last example, are available in a geospatial format.
 
 However, the best place to get demographic data may be through [SingStat](https://www.singstat.gov.sg/find-data/search-by-theme/population/geographic-distribution/latest-data), which lists them for a clear overview and has detailed time series datasets, so you don't have to join multiple datasets.
 
-Worth mentioning here is also the [OneMap API](https://docs.onemap.sg) that enables retrieving various demographic data on the planning area level.
+Worth mentioning here is also the SLA's [OneMap API](https://docs.onemap.sg) that enables retrieving various demographic data on the planning area level.
 
 Note that most demographic datasets do not include foreigners who are not permanent residents, which represent a sizeable portion of the population.
 
@@ -184,12 +184,13 @@ Traffic images are available through the [LTA DataMall](https://www.mytransport.
 Both the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html) and [SingStat](https://www.singstat.gov.sg/find-data/search-by-theme/industry/transport/latest-data) have more datasets worth having a look at, e.g. number of cars in SG at a fine temporal scale (updated monthly).
 
 
-### Map / Geospatial data
+### Map / Geospatial data (general)
 
 Besides OpenStreetMap which is quite complete and of high quality for a wide range of features, well worth mentioning is the Geospatial Whole Island dataset available through the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html).
 It contains a bunch of different features related to transportation, e.g. road crossings, traffic lights, taxi stands, and cycling paths.
 
 Further, [Data.gov.sg](https://data.gov.sg) contains some datasets such as the [boundaries of administrative areas](https://data.gov.sg/dataset/master-plan-2019-subzone-boundary-no-sea), [master plan land use](https://data.gov.sg/dataset/master-plan-2019-land-use-layer) (containing the [Gross Plot Ratio](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Gross-Plot-Ratio)), and [cadastral land parcels](https://data.gov.sg/dataset/sla-cadastral-land-parcel).
+The [series of datasets by NParks](https://data.gov.sg/dataset?q=&organization=national-parks-board) hosted on Data.gov.sg deserves special attention: it covers a wide range of [park](https://data.gov.sg/dataset/parks)-related features under their purview, e.g. [boundaries of activity areas](https://data.gov.sg/dataset/nparks-activity-area), [locations of play/fitness equipment](https://data.gov.sg/dataset/nparks-playfitness-equipment), [bbq pits](https://data.gov.sg/dataset/nparks-bbq-pits), [the shape of the park connector loop](https://data.gov.sg/dataset/park-connector-loop), and [carpark lots](https://data.gov.sg/dataset/nparks-car-park-lots) (however, do note that the NParks' carparks do not appear to be covered by the LTA's API mentioned above).
 
 For trees, check out [ExploreTrees.SG](https://github.com/cheeaun/exploretrees-sg), derived from [Trees.SG](http://trees.sg).
 
