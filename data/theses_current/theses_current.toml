@@ -15,14 +15,6 @@ uni = "TU Delft"
 image = "aviva-research.png"
 
 [[thesis]]
-title = "Height Inference for all US Building Footprints in the Absence of Height Data"
-name = "Imke Lánský"
-study = "MSc in Geomatics"
-year = "2019"
-uni = "TU Delft"
-image = "imke-research.png"
-
-[[thesis]]
 title = "Spatial Disaggregation of Urban Population Data: A model-based Exploration of Demographic Patterns in Singapore"
 name = "Noée Szarka"
 study = "MSc GIS"
