@@ -7,8 +7,14 @@
 <strong>{{ .title }}</strong><br /><br />
 {{ .name }}<br />
 {{ .study }} ({{ .uni }}, {{ .year }})<br />
+{{ if .thesis }}
+<br />The thesis is available <a href="{{ .thesis }}">here</a>.
+{{ end }}
+{{ if .code }}
+The code is open-sourced <a href="{{ .code }}">here</a>.
+{{ end }}
 {{ if .paper }}
-This research has also been published as a <a href="../publication/{{ .paper }}"> paper</a>.
+<br />This research has also been published as a <a href="../publication/{{ .paper }}"> paper</a>.
 {{ end }}
 </td>
 <td>

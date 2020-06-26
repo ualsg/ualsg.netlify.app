@@ -1,4 +1,15 @@
 [[thesis]]
+title = "Height Inference for all US Building Footprints in the Absence of Height Data"
+name = "Imke Lánský"
+study = "MSc in Geomatics"
+year = "2020"
+uni = "TU Delft"
+image = "imke-research.png"
+thesis = "https://repository.tudelft.nl/islandora/object/uuid:ddcae7d1-6cc8-42a7-8c1d-a922ec7551f0?collection=education"
+code = "https://github.com/ImkeLansky/USA-BuildingHeightInference"
+
+
+[[thesis]]
 title = "The Implementation of Big Data Analysis in Regulating Online Short-Term Rental Business: A case of Airbnb in Beijing"
 name = "Li Jialin"
 study = "Master of Urban Planning"
