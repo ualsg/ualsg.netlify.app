@@ -8,7 +8,7 @@ authors: [admin]
 tags: [open data, singapore]
 categories: []
 date: 2020-06-24T08:04:48+08:00
-lastmod: 2020-06-25T15:04:48+08:00
+lastmod: 2020-06-26T11:42:48+08:00
 featured: false
 draft: false
 
@@ -120,6 +120,9 @@ The location of bus stops and train stations is available at multiple locations:
 Furthermore, rail lines are available at [Data.gov.sg](https://data.gov.sg/dataset/master-plan-2014-rail-line), but they can also be extracted from [OpenStreetMap](https://openstreetmap.org).
 
 Besides data on bus stops, the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html) contains data on bus routes, bus services, and real-time bus arrivals. 
+You may want to check [BusRouter SG](https://busrouter.sg) (together with its sister project [RailRouter SG](https://railrouter.sg)) for an awesome web visualisation of this data.
+Furthermore, there is a [Github repo](https://github.com/yinshanyang/singapore-gtfs) with the data stored according to the [General Transit Feed Specification](https://en.wikipedia.org/wiki/General_Transit_Feed_Specification).
+
 
 #### Parking data
 
@@ -165,6 +168,7 @@ Although not strictly open, rather commercial (but they offer a free tier), here
 The availability of taxis is also available on the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html).
 The API returns the location of each taxi that is currently available.
 The data does not include hired/busy taxis.
+Check out the [TaxiRouter SG](https://taxirouter.sg), which visualises this data in real-time, together with the [taxi stands](https://data.gov.sg/dataset/lta-taxi-stop).
 
 
 #### Traffic images
