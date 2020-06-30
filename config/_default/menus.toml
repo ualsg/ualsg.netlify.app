@@ -19,14 +19,18 @@
   weight = 30
 
 [[main]]
-  name = "data+code"
-  url = "/data-code"
-  weight = 40
+  name = "geospatial indexes"
+  weight = 50
 
 [[main]]
-  name = "projects"
-  url = "#projects"
-  weight = 50
+  name = "our data+code"
+  parent = "geospatial indexes"
+  url = "/data-code"
+
+[[main]]
+  name = "open data SG"
+  parent = "geospatial indexes"
+  url = "/post/2020/06/24/guide-for-open-urban-data-in-singapore/"
 
 [[main]]
   name = "publications"
@@ -39,7 +43,7 @@
   weight = 70
 
 [[main]]
-  name = "opportunities"
+  name = "openings"
   url = "/openings"
   weight = 80
 

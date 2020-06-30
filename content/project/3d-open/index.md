@@ -4,7 +4,7 @@
 title: "Large-scale 3D geospatial data for urban analytics"
 summary: "Creating country-wide 3D city models using artificial intelligence"
 authors: [filip, yoong-shin, li-min, yuchen]
-tags: [machine learning, 3d gis]
+tags: [machine learning, 3d gis, cityjson]
 categories: []
 date: 2019-10-01T21:11:51+08:00
 
@@ -41,7 +41,7 @@ slides: ""
 ---
 
 This three-year project is focused on devising a method to estimate individual building heights in the absence of traditional measurements such as lidar, to generate 3D city models solely from building footprints on a very large scale spanning scores of countries.
-It is funded by the National University of Singapore and Google, and it started in late 2019.
+It is funded by the National University of Singapore (with contributions by Amazon and Google), and it started in late 2019.
 
 The project seeks to build on top of the method previously presented by the project PI, described in the journal paper:
 
@@ -52,7 +52,7 @@ This project aspires to scale the method to achieve global coverage and derive h
 It will also investigate the potential addition of remotely sensed data.
 The targeted deliverables are a list of predicted heights attached to all buildings in OpenStreetMap, and a 3D building model in [CityJSON](https://cityjson.org) in [LoD1](https://doi.org/10.1016/j.compenvurbsys.2016.04.005) generated using the OSM footprints and predicted heights, to facilitate their use in the geospatial domain and urban analytics.
 
-This ongoing project also includes other research tasks, such as:
+This ongoing project also includes accompanying research sub-projects, such as:
 * Developing a method to assess the global building completeness in OSM.
 * Understanding the quality of heights already available in OSM, which can be used as training data.
 * Exploring use cases relying on the availability of such dataset (e.g. [population estimation](https://doi.org/10.1371/journal.pone.0156808), or shadow analyses like in the image below).
