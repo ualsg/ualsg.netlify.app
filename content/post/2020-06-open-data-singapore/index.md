@@ -73,7 +73,7 @@ It still might be useful though.
 ### 3D city models
 
 Unfortunately, 3D city models are not released as open data, except the one [we generated covering only HDBs]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
-We are [working]({{< ref "/project/3d-machine-learning/index.md" >}}) on including other buildings.
+We are [working]({{< ref "/project/3d-open/index.md" >}}) on including other buildings.
 Worth mentioning is that OpenStreetMap has a relatively high level of completeness of building heights and floors, in comparison to other countries.
 
 ### Real estate transactions
