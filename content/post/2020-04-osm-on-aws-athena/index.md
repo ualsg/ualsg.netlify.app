@@ -7,7 +7,7 @@ subtitle: "To increase accessibility, ease of maintenance and enable efficient a
 summary: "To increase accessibility, ease of maintenance and enable efficient analysis of OpenStreetMap data, we look at leveraging cloud
   technology."
 authors: [yoong-shin]
-tags: [AWS, Athena, OpenStreetMap, engineering, short read]
+tags: [AWS, Athena, OpenStreetMap, engineering, short read, guide]
 categories: []
 date: 2020-04-27T12:55:01+08:00
 lastmod: 2020-04-27T12:55:01+08:00
