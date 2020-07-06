@@ -5,7 +5,7 @@ title: "Geospatial and urban data science journals"
 subtitle: "List of relevant journals with their latest metrics"
 summary: "List of relevant journals with their latest metrics"
 authors: [filip]
-tags: [journals, guides]
+tags: [journals, guide, gis, index]
 categories: []
 date: 2020-07-06T08:56:41+08:00
 lastmod: 2020-07-06T08:56:41+08:00
@@ -97,7 +97,7 @@ For example, [PeerJ Computer Science](https://peerj.com/computer-science/) and t
 ### Why some journals have no IF and/or SJR?
 
 Some journals, such as the [Open Geospatial Data, Software and Standards](https://opengeospatialdata.springeropen.com), are not indexed (yet), even though they publish high-quality work and are managed by a reputable publisher and editorial board.
-This void is normal for new journals.
+This void is normal for new journals and it may take several years before they become indexed.
 I believe that it is just a matter of time when these journals become indexed.
 
 
@@ -107,7 +107,7 @@ In both JCR and SJR a journal can be assigned to multiple categories.
 For example, [CEUS](https://www.journals.elsevier.com/computers-environment-and-urban-systems) is part of four subdisciplines, e.g. urban studies.
 A journal will have a different ranking in each subdiscipline it is part of.
 SJR takes the best ranking.
-However, I noticed that a Q1 journal would usually be Q1 in all its subdisciplines.
+However, I noticed that a Q1 journal would usually be Q1 in all its other subdisciplines.
 
 
 ### What about ranks from IF/JCR?

@@ -5,7 +5,7 @@ title: "Guide for open urban data in Singapore"
 subtitle: "Our curated inventory of data relevant for geospatial and urban analyses"
 summary: "Our curated inventory of data relevant for geospatial and urban analyses"
 authors: [admin]
-tags: [open data, singapore]
+tags: [open data, singapore, guide, index]
 categories: []
 date: 2020-06-24T08:04:48+08:00
 lastmod: 2020-06-26T11:42:48+08:00

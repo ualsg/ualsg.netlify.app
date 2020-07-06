@@ -5,7 +5,7 @@ title: "Special issue in Transactions in GIS on 3D city modelling and BIM"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [special issue, 3d geoinfo]
+tags: [special issue, 3d geoinfo, journals]
 categories: []
 date: 2019-09-12T16:43:45+08:00
 lastmod: 2019-09-12T16:43:45+08:00
