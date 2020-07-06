@@ -29,12 +29,10 @@ projects: []
 ---
 
 We are moving our geospatial analysis to the cloud. As we are evaluating the various offerings by 
-[AWS](https://aws.amazon.com/) and [Google Cloud Platform](https://cloud.google.com/), we wonder to what extend 
-these cloud database products support spatial functions in comparison to PostGIS.  
+[AWS](https://aws.amazon.com/) and [Google Cloud Platform](https://cloud.google.com/), we wonder to what extent 
+these cloud database products support spatial functions in comparison to [PostGIS](https://postgis.net).  
 
-Being the most widely used extended PostgreSQL object-relational database system, PostGIS allows GIS 
-(Geographic Information Systems) objects to be stored in the database and offers a wide range of 
-functions for geospatial analysis and processing of GIS objects.
+Being the most widely used extended PostgreSQL object-relational database system, PostGIS allows spatial objects to be stored in the database and offers a wide range of functions for their analysis and processing.
 
 [AWS Athena](https://aws.amazon.com/athena/), [PrestoDB](https://prestodb.io/),
 [Google BigQuery](https://console.cloud.google.com/bigquery), and [AWS Redshift](https://aws.amazon.com/redshift/) 
