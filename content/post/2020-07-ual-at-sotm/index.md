@@ -5,7 +5,7 @@ title: "Our participation at the State of the Map 2020"
 subtitle: "This year's OpenStreetMap conference moved online retaining its full spirit"
 summary: "This year's OpenStreetMap conference moved online retaining its full spirit"
 authors: [admin]
-tags: [conference, sotm, openstreetmap]
+tags: [conference, sotm, openstreetmap, events]
 categories: []
 date: 2020-07-05T23:18:49+08:00
 lastmod: 2020-07-05T23:18:49+08:00

@@ -5,12 +5,12 @@
 <table id="journals" class="display">
     <thead>
         <tr>
-            <th width="340">Journal</th>
+            <th width="300">Journal</th>
             <th width="130">Publisher</th>
-            <th width="60" tabulator-hozAlign="right">IF</th>
-            <th width="50" tabulator-hozAlign="right">Change (%)</th>
-            <th width="70" tabulator-hozAlign="right">SJR</th>
-            <th width="70">SJR quartile</th>
+            <th width="75" tabulator-hozAlign="right">IF</th>
+            <th width="75" tabulator-hozAlign="right">Change (%)</th>
+            <th width="75" tabulator-hozAlign="right">SJR</th>
+            <th width="75">SJR quartile</th>
         </tr>
     </thead>
     <tbody>
@@ -36,7 +36,7 @@ var table = new Tabulator("#journals", {
     {title:"IF", field:"if", sorter:"number", hozAlign:"right"},
     {title:"Change (%)", field:"change", sorter:"number", hozAlign:"right"},
     {title:"SJR", field:"sjr", sorter:"number", hozAlign:"right"},
-    {title:"SJR quartile", field:"sjrq", hozAlign:"left"}
+    {title:"SJR quartile", field:"sjrq", hozAlign:"right"}
     ],
   initialSort:[
         {column:"journal", dir:"asc"} //sort by this first

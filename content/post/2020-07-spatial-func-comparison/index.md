@@ -5,7 +5,7 @@ title: "A Comparison of Spatial Functions: PostGIS, Athena, PrestoDB, BigQuery v
 subtitle: "A brief comparison of spatial functions supported by PostGIS, Athena, PrestoDB, BigQuery and Redshift"
 summary: ""
 authors: [yoong-shin]
-tags: [AWS, Athena, RedShift, GCP, BigQuery, PrestoDB]
+tags: [AWS, Athena, RedShift, GCP, BigQuery, PrestoDB, guide]
 categories: []
 date: 2020-07-03T16:50:51+08:00
 lastmod: 2020-07-03T16:50:51+08:00
