@@ -9,6 +9,6 @@ featured: false
 publication: "*ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.*"
 doi: "10.5194/isprs-annals-IV-4-W8-27-2019"
 projects:
-- 3d-machine-learning
+- 3d-open
 ---
 

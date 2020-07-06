@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Alumni
 ---
 
 Ang Li Min is undergraduate student at NUS pursuing a Bachelor of Social Sciences (Honours) in Geography with a double minor in Geographic Information Systems (GIS) and Urban Studies.

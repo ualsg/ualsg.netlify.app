@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+- Students
 ---
 
 Ethan is an MSc in Applied GIS candidate at National University of Singapore.

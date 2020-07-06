@@ -1,0 +1,46 @@
+<link href="https://unpkg.com/tabulator-tables@4.7.1/dist/css/tabulator.min.css" rel="stylesheet">
+<script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.7.1/dist/js/tabulator.min.js"></script>
+
+
+<table id="journals" class="display">
+    <thead>
+        <tr>
+            <th width="340">Journal</th>
+            <th width="130">Publisher</th>
+            <th width="60" tabulator-hozAlign="right">IF</th>
+            <th width="50" tabulator-hozAlign="right">Change (%)</th>
+            <th width="70" tabulator-hozAlign="right">SJR</th>
+            <th width="70">SJR quartile</th>
+        </tr>
+    </thead>
+    <tbody>
+      {{ range .journals }}
+      <tr>
+      	<td>{{ .title }}</td>
+      	<td>{{ .publisher }}</td>
+      	<td>{{ .IF }}</td>
+      	<td>{{ .change }}</td>
+      	<td>{{ .sjr }}</td>
+      	<td>{{ .sjrq }}</td>
+      </tr>
+      {{ end }}  
+    </tbody>
+</table>
+
+<script>
+var table = new Tabulator("#journals", {
+  layout:"fitDataStretch",
+  columns:[
+    {title:"Journal", field:"journal"},
+    {title:"Publisher", field:"publisher", hozAlign:"left"},
+    {title:"IF", field:"if", sorter:"number", hozAlign:"right"},
+    {title:"Change (%)", field:"change", sorter:"number", hozAlign:"right"},
+    {title:"SJR", field:"sjr", sorter:"number", hozAlign:"right"},
+    {title:"SJR quartile", field:"sjrq", hozAlign:"left"}
+    ],
+  initialSort:[
+        {column:"journal", dir:"asc"} //sort by this first
+    ]
+});
+</script>
+
