@@ -8,6 +8,15 @@ image = "imke-research.png"
 thesis = "https://repository.tudelft.nl/islandora/object/uuid:ddcae7d1-6cc8-42a7-8c1d-a922ec7551f0?collection=education"
 code = "https://github.com/ImkeLansky/USA-BuildingHeightInference"
 
+[[thesis]]
+title = "The effect of real void decks in Singapore ventilation"
+name = "Aviva Opsomer"
+study = "MSc in Building Technology"
+year = "2020"
+uni = "TU Delft"
+image = "aviva-research.png"
+thesis = "https://repository.tudelft.nl/islandora/object/uuid%3A97304da6-8938-48eb-8117-ca53321b1e34"
+
 
 [[thesis]]
 title = "The Implementation of Big Data Analysis in Regulating Online Short-Term Rental Business: A case of Airbnb in Beijing"

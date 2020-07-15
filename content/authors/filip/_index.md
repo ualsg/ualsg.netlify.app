@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Asst Prof in GIS and Lab Director
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
@@ -84,9 +84,20 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Principal investigator
+- Members
 ---
 
-I am an assistant professor at the National University of Singapore since 2019, and leading the NUS Urban Analytics Lab.
-I hold a PhD degree (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where I also did my MSc in Geomatics.
-As secondary activities, I am an academic editor for GIS in the journal PLOS ONE, and I am involved in the World Economic Forum as council fellow on cities and urbanization.
+Filip has been working at the School of Design and Environment, National University of Singapore since 2017.
+He is the principal investigator of the [NUS Urban Analytics Lab](/).
+In 2020 he was appointed as NUS Presidential Young Professor.
+
+He holds a PhD degree (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics. The list of Filip's publications is available [here](https://filipbiljecki.com).
+
+Additional appointments:
+* World Economic Forum, Global Future Council on Cities and Urbanization -- Council Fellow
+* PLOS ONE, academic editor for GIS
+* Open Geospatial Data, Standards and Software -- Editorial Board member
+* International Society for Photogrammetry and Remote Sensing, WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions -- Board member
+* Open Geospatial Consortium -- various appointments
+
  

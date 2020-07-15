@@ -22,7 +22,8 @@ organizations:
 bio: []
 
 interests:
-
+- machine learning
+- cloud processing
 
 education:
   courses:
@@ -60,6 +61,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Researchers
+- Members
 ---
 
 Yoong Shin is working on [a project]({{< ref "/project/3d-open/index.md" >}}) focused on the development of a method to generate 3D city models using geo-data science & machine learning.

@@ -16,21 +16,25 @@ Please see below for more information.
 
 ## Graduate courses
 
-Our teaching activities span multiple modules offered as part of different master programmes at the School of Design and Environment:
+Our teaching activities span multiple modules offered as part of different master programmes at the [NUS School of Design and Environment](https://www.sde.nus.edu.sg).
 
-**RE5015 Spatial Information Systems (SIS) for Urban Planning (Semester 1)**
+**GIS and Cartography (Semester 1)**
 
-- This introductory module to GIS and Cartography is compulsory for [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) and [Master of Arts in Urban Design](http://www.sde.nus.edu.sg/arch/programmes/master-of-arts-in-urban-design/) students, and it is recommended for [MSc in Real Estate](http://www.rst.nus.edu.sg/graduate/msc-programme.html) students.
+- This introductory module is compulsory for [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) and [Master of Arts in Urban Design](http://www.sde.nus.edu.sg/arch/programmes/master-of-arts-in-urban-design/) students, and it is recommended for [MSc in Real Estate](http://www.rst.nus.edu.sg/graduate/msc-programme.html) students.
 The course is also open to students from outside the School of Design and Environment, subject to a quota.
 In this course we teach the basics of geographical information science and give a thorough tutorial of [QGIS](https://www.qgis.org), supported by assignments relevant to urban planning and real estate.
 
-**AR5953G Geographic Data Science and Urban Analytics (Semester 2)**
+**Introduction to Data Science (Semester 1)**
 
-- This new module is designed for students who wish to start with (geographic) data science and urban analytics. 
-The course is heavily focused on data visualisation, and it includes programming in R.
-To get a glimpse into this course, check out our [blog series about this course](/tags/2020-teaching-series/).
+- This new module is designed for students who wish to start with data science and programming (in R) from scratch.
+The course is heavily focused on urban data and data visualisation.
 
-**DEP5111 Planning Technologies (Semester 2)**
+**Geographic Data Science and Urban Analytics (Semester 2)**
+
+- This module continues the above module, focusing on geographic data science and urban analytics.
+
+
+**Planning Technologies (Semester 2)**
 
 - A new compulsory [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) module designed to acquaint students with the state of the art of urban planning technologies and research questions from practice.
 The course is given in partnership with the Digital Planning Lab of the [Urban Redevelopment Authority](https://www.ura.gov.sg/).
@@ -42,10 +46,11 @@ The course is given in partnership with the Digital Planning Lab of the [Urban R
 
 ## Theses and dissertations
 
-We welcome motivated undergrad and grad students to conduct their thesis research with us.
+If you are a motivated undergrad and grad students, it is possible to conduct their thesis research with us.
 We offer guidance in pursuing several projects (scroll down to see the offered [topics](#potential-topics)) in the domain of GIS, 3D city modelling, and urban analytics.
 Some of the student projects in the past have been successful resulting in conference and journal papers, benefiting to the outreach of the research and the graduates' CVs.
-Our novel assignments enable students to learn new skills (e.g. tool or programming language), learn about a new multidisciplinary topic, work on a exciting real-world problem, and have the potential to have an impact.
+Our novel topics enable students to learn new skills (e.g. tool or programming language), learn about a new multidisciplinary topic, work on a exciting real-world problem, and have the potential to have an impact.
+In principle, almost all topics require knowledge of programming and managing geospatial data.
 
 Non-NUS students (both from other Singaporean and overseas universities) are eligible to work with us as well, please see the [NUS Non-graduating research student scheme](http://www.nus.edu.sg/registrar/academic-information-policies/non-graduating) if interested.
 

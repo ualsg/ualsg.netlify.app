@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: Master of Urban Planning (in progress)
+  - course: Master of Urban Planning
     institution: National University of Singapore
-    year: 
+    year: 2020
   - course: Bachelor of Science, Geographical Information Science
     institution: Northeast Normal University, PRC
     year: 2018

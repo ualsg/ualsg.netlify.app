@@ -14,10 +14,13 @@ title = "People"
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-user_groups = ["Principal investigator",
-              "Researchers",
-               "Students",
-               "Alumni"]
+user_groups = [
+#              "Principal investigator",
+#              "Researchers",
+#               "Students",
+               "Members",
+               "Alumni"
+               ]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -53,3 +56,4 @@ user_groups = ["Principal investigator",
  # CSS class.
  css_class = ""
 +++
+

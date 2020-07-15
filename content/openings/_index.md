@@ -7,15 +7,17 @@ header:
   image: "NUS_signage_4_r.jpg"
 ---
 
-Thank you for your interest in our lab.
+Thank you for your interest in our research group.
 Please find below the list of possible schemes to get involved, primarily [openings](#openings) we have subject to projects.
+
+### Aims and why us
 
 We are excited to build a new research group focused on 3D geoinformation, urban analytics, and geographic data science.
 Working at our lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire 3D GIS ecosystem under the same roof: from standardisation and generation of 3D city models all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field. 
 
 Working at NUS means being part of one of the world's top universities, and having access to an extensive network of experts across myriads of domains.
 
-Ranked as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), Singapore [successfully attracts talents from all over the world](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-world living and working experience in the heart of Southeast Asia. And great food and weather, of course.
+Considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), Singapore [successfully attracts talents from all over the world](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-world living and working experience in the heart of Southeast Asia. And great food and weather, of course.
 
 
 ## Openings
@@ -23,32 +25,31 @@ Ranked as the [#1 most competitive country](https://www.straitstimes.com/busines
 {{< opening >}}
 {{< past_openings >}}
 
-## Roles
 
-Prospective PhD candidates and postdocs are encouraged to get in touch if they find some of the fellowships below of interest.
-We also welcome specialists and software developers (not all our openings are necessarily for academics), visiting scholars, master students (e.g. for [theses](#thesis)), undergrads (e.g. for internships), and others.
+## Applications
 
-## Open application
-
-If you'd like to get in touch, please do so through the [contact](#contact) form at the end of this page.
-We appreciate motivated prospective students and staff with dedicated applications.
-We'd like to hear about your specific interest and expect you to have a solid understanding of what we do.
-For example, you can read one of our [publications](/publication) you find interesting, provide your perspective, and let us know how do you see yourself contributing to the work.
+We appreciate enquiries from motivated prospective students and staff with dedicated applications.
+Before applying, do read the sections below.
+We would like to hear about your specific interest and expect you to have a solid understanding of what we do.
+For example, you can read one of our [publications](/publication), provide your perspective and motivation, and let us know how do you see yourself contributing to the work.
 While we appreciate interest, we cannot attend to generic applications without a clear motivation and understanding of the scope of our work.
 
+## Postdocs
 
-## Prospective PhD candidates
+We announce available postdoc positions in the [openings section](#openings) above.
+Other than that, we welcome postdocs on fellowships (see below for the options, which we prepared for candidates seeking external funding).
 
-We are happy to accept well-motivated and talented prospective PhD candidates.
-Please note that applications to the PhD programme should be done directly to the [School of Design and Environment](http://www.sde.nus.edu.sg), but you may also [first get in touch with us to discuss](https://ualsg.typeform.com/to/zSQtnN).
+## PhD candidates
+
+We accept well-motivated and talented prospective PhD candidates.
+The applications to the PhD programme should be done directly to the [School of Design and Environment](http://www.sde.nus.edu.sg), but you may also [first get in touch with us to discuss](https://ualsg.typeform.com/to/zSQtnN).
 The [NUS website on graduate admissions](http://www.nus.edu.sg/registrar/prospective-students/graduate) is a good starting point to get more information about doing a PhD at our university.
 
 The application deadlines are usually 15 November for the intake in August next year, and 15 May for the start in January.
-Please start preparing early, and indicate in your application that you would like to be supervised by Asst Prof Filip Biljecki.
+Please start preparing early, and indicate in your application that you would like to be supervised by Dr {{< mention "filip" >}}.
 If you apply, let us know.
 
-At the moment, we do not offer fully-funded PhD positions.
-However, sometimes there are [scholarship opportunities by the school](http://www.nus.edu.sg/nusbulletin/school-of-design-and-environment/graduate-education/financial-assistance-and-scholarships/) to partially or fully fund your PhD journey, and there are external funding options.
+Sometimes there are [scholarship opportunities by the school](http://www.nus.edu.sg/nusbulletin/school-of-design-and-environment/graduate-education/financial-assistance-and-scholarships/) to partially or fully fund your PhD journey, and there are external funding options.
 Do also check the comprehensive list in the continuation of this web page, which we prepared for candidates seeking external funding.
 For example, if applicable to you, check out the [The Schlumberger Foundation Faculty for the Future](https://www.facultyforthefuture.net) for another potential scholarship.
 Please note that most (external) scholarships require a candidate to be admitted to a PhD programme before applying for funding (e.g. providing letter of acceptance from the university).
@@ -56,7 +57,31 @@ Thus, we recommend starting as soon as possible.
 
 You may also want to read the graduate studies website of either the [Department of Architecture](https://www.sde.nus.edu.sg/arch/programmes/higher-degrees-by-research/) (and its [FAQ](https://www.sde.nus.edu.sg/arch/programmes/higher-degrees-by-research/frequently-asked-questions/)), or the [Department of Real Estate](https://www.sde.nus.edu.sg/rst/graduate/graduate-courses-by-research/hdegree-admission/) (we are part of both).
 
-## Prospective postdocs/research fellows and PhD candidates: fellowship/scholarship opportunities
+## Undergraduate and master students
+
+We accept graduate students from NUS Architecture and Real Estate to work on theses in our research domain. 
+Provided there is a fit, we are open to working with graduate students from other NUS schools and programmes (e.g. FASS/Geography).
+If you are looking for a topic, we offer supervision of [theses](/teaching/#theses-and-dissertations) (please check the potential topics on the link, and examples of completed theses).
+It is possible to adapt them to suit your background and interest. 
+
+We do not offer internships to students who are not studying at our university.
+As an exception, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
+If your university or country has a similar programme, that might be an option.
+
+## Visitors: research visit
+
+Get in touch if you are interested in conducting a research visit with us.
+Depending on your country of residence and position, sometimes there are opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion) and the [US Fulbright Program](https://www.cies.org).
+
+
+### Graduate students
+
+External (non-NUS) master students and PhD candidates can carry out a portion of their research at our lab in the form of a research visit.
+Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) for the framework of the scheme.
+Make sure to also check [potential topics we offer for theses](/teaching/#master-theses).
+
+
+## Fellowship/scholarship opportunities (PhD, postdoc)
 
 We are open to endorse well motivated applications for external (mostly postdoc) fellowships and scholarships that facilitate carrying out research at our lab and at NUS.
 Depending on your nationality and university, there are many opportunities to fund your PhD or postdoc research.
@@ -97,65 +122,17 @@ The scholarship is given to faculty members of ERDT Consortium who wish to pursu
 
 + Permanent residents of **Hong Kong SAR** may want to check the [Croucher Fellowships for Postdoctoral Research](https://croucher.org.hk/funding/study_awards/postdoctoral_fellowships).
 
-+ The [ASEAN-India Science, Technology & Innovation Cooperation](https://aistic.gov.in/ASEAN/HomePage) may be of interest to scholars in **India**.
++ The [ASEAN-India Science, Technology & Innovation Cooperation](https://aistic.gov.in/ASEAN/HomePage) may be of interest to scholars from **India**.
 
 For a comprehensive list of further opportunities please see the [ECRcentral's Funding schemes and fellowships for early career researchers](https://ecrcentral.org/fundings).
 We gratefully acknowledge the authors behind the list, from which we compiled the selection above.
 
 
-## Current NUS students: theses, TAs, internships
-
-We accept graduate students from NUS Architecture and Real Estate to work on topics in our research domain. 
-Provided there is a fit, we are open to working with graduate students from other NUS schools and programmes (e.g. FASS/Geography).
-
-### Thesis/dissertation
-
-Are you looking for a  dissertation/thesis topic?
-We offer supervision of [theses](/teaching/#theses-and-dissertations) (please check the potential topics on the link, and examples of completed theses). It is possible to adapt them to suit your background and interest. 
-
-Feel free to get in touch to learn more.
-Please fill [this form](https://ualsg.typeform.com/to/zSQtnN) to indicate your interest or just approach us directly.
-
-### Teaching assistant positions
-
-We are involved in [teaching GIS and urban analytics](/teaching/#graduate-courses) in master programmes at the [School of Design and Environment](http://www.sde.nus.edu.sg).
-TA openings may be posted in future.
-
-
-### NUS undergraduates
-
-Occasionally we have paid internship openings, so stay tuned and check this website occasionally.
-[Our thesis topics](/teaching/#theses-and-dissertations) are available only to undergrads of our School of Design and Environment.
-
-
-## Visitors: research visit
-
-Please fill [this form](https://ualsg.typeform.com/to/zSQtnN) if you are interested in visiting us, regardless of the intended duration and your position.
-Depending on your country of residence and position, sometimes there are opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion) and the [US Fulbright Program](https://www.cies.org).
-
-
-## Non-NUS graduate students: theses, PhD research, guest researcher arrangements
-
-External (non-NUS) master students and PhD candidates can carry out a portion of their research at our lab.
-Both students from other Singaporean and overseas universities are eligible.
-Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) for the framework of the scheme.
-Make sure to also check [potential topics we offer for theses](/teaching/#master-theses).
-
-
-## Internships for undergraduate students from universities outside Singapore
-
-About undergrads from overseas universities: at the moment we are accepting only German undergraduates thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
-However, if your university or country has a similar programme, contact us.
-
-
 ## Contact
 
 Are some of the options listed above of your interest or you have a general enquiry?
-Feel free to get in touch with us through the form below.
+Feel free to get in touch with us through email (listed on the [home page](/)).
 While we appreciate interest, we cannot attend to generic applications without a clear motivation and understanding of the scope of our work.
-
-
-{{< typeform zSQtnN >}}
 
 
 ## National University of Singapore
