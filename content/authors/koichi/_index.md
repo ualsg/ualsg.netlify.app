@@ -1,37 +1,33 @@
 ---
 # Display name
-name: Abraham Noah Wu
-title:  Abraham Noah Wu
+name: Koichi Ito
+title: Koichi Ito
 
 # Username (this should match the folder name)
 authors:
-- abraham
+- koichi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
 - name: "National University of Singapore"
-  #url: ""
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
-
-interests:
-- Urban data science
-- Deep learning
+bio: []
 
 education:
   courses:
-  - course: Master in Architecture
+  - course: Master of Urban Planning
     institution: National University of Singapore
-    year: 2020
-  - course: Bachelor of Arts (Architecture)
-    institution: National University of Singapore
+    year: 2021
+  - course: B.A. in Liberal Arts, City/Urban, Community and Regional Planning
+    institution: Soka University of America
     year: 2019
 
 # Social/Academic Networking
@@ -39,11 +35,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: home
-  icon_pack: fas
-  link: https://abrahamnoah.squarespace.com/
-
-
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/koichi-ito-651464161/'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -56,12 +50,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
 - Members
 ---
 
-Abraham holds a Master of Architecture degree from our department.
-During his studies he has spent a semester at ETH Zurich, received awards, and worked on growing different projects.
+Koichi is pursuing a master's degree in urban planning at the NUS School of Design and Environment.
+His working experience includes a research internship in data analytics at the World Bank.
+At our research group, Koichi is involved in investigating the applications of emerging data sources for urban planning.
 
-His portfolio can be found [here](https://abrahamnoah.squarespace.com).
-At our group, Abraham will be working on developing new uses of urban data (mostly for urban planners) using deep learning and other evolving technologies, blending his architecture background with technical knowledge.

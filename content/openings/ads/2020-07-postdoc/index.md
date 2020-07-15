@@ -1,0 +1,109 @@
++++
+date = 2020-07-15
+title = "Vacancy: Postdoctoral research fellow"
++++
+
+![](header.png)
+
+### Job and project description
+
+The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a talented and highly motivated postdoctoral research fellow for a leading role in the research group.
+
+The successful applicant will spearhead new research initiatives in the domains of the Lab (3D geospatial data, urban analytics, and GIScience) and will be involved in the supervision of the members of the team.
+
+Candidates must have a strong computational affinity and a PhD degree in geographic information science, computer science, or another relevant field of study, with a successful track record.
+
+The research fellow will work together with the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg), on managing the group, developing its strategy and research orientation, and working on project proposals.
+
+The Lab will provide a motivating and flexible environment to explore the research fellow's interests and build skills required for future career steps.
+
+
+### Scope and responsibilities
+
+Your key responsibilities will be:
+
+- Conducting and leading research activities.
+- Exploring new research directions and experimenting with new datasets and technologies.
+- Assisting the PI in the management of the research group and supervision of team members.
+- Preparation of publications and managing other forms of research output such as software and data.
+- Supervision of students.
+- Assisting with funding applications.
+
+### Required qualifications
+
+You should demonstrate that you possess:
+
+- A PhD degree (or completed before the start of the appointment) in a related discipline from a reputable university.
+- A solid publication record, excellent writing skills, and a strong affinity to publish.
+- Prior experience in GIS, 3D city modelling, and urban simulations.
+- Excellent communication skills in English, and an ability to present research in both academic and non-academic venues.
+- Experience with programming (preferably Python and/or C/C++). Having built software used by others and/or scientific software experience is a plus.
+- Ability to supervise researchers and students.
+- Curiosity to explore new concepts, methods and technologies, and capability of identifying and quickly learning the most suitable tools for the research on the go.
+- A positive and proactive stance on open science, preferably with demonstrated activities such as using and developing open-source software, releasing data as open data, and promoting reproducible research.
+
+
+### Our offer
+
+
+- You will be working on compelling research activities at the forefront of geographic information science and urban data science in a new research group that is gaining a strong momentum in Singapore and overseas.
+- You will advance your research and transferable skills required for the next stage of your career.
+- You will work in a research and educational environment where you may not only contribute to your own personal development, but also to others, especially through advising students (for example, supervising master theses that may arise in connection to the research).
+- Opportunity to make impactful contributions in the field, on a globally relevant topic.
+- Visibility and exposure of your work.
+- Flexible working environment.
+- Exploring new ideas and an opportunity to experiment with the state of the art.
+- You will live in a beautiful and efficient city with great food and summer all-year-round, low taxes, unparalleled infrastructure and safety, and in a fully English speaking environment.
+- The remuneration will be determined according to the university's salary range depending on the degree and experience.
+
+### Duration and start
+
+The initial appointment is for one year, with a probation period of 3 months.
+The contract can be extended subject to performance.
+
+The start of the appointment is planned for Q2 2021.
+
+### Employer
+
+#### National University of Singapore
+
+The [National University of Singapore (NUS)](http://www.nus.edu.sg) is ranked consistently as one of the world's top universities.
+It aspires to be a vital community of academics, researchers, staff, students and alumni working together in a spirit of innovation and enterprise for a better world.
+
+Considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), Singapore [successfully attracts talents from all over the world](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-world living and working experience in the heart of Southeast Asia.
+
+#### Urban Analytics Lab
+
+The NUS Urban Analytics Lab is an interdepartmental multidisciplinary research group established in 2019 focusing on urban analytics, geographic data science, and 3D city modelling at the [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
+Our mission is to leverage on spatially enabled data for urban applications, catalyse the development of 3D geoinformation in the context of smart cities, make sense of big geospatial data and digital twins in the built environment, and cater to disciplines such as architecture, urban planning, and real estate to make informed decisions using 3D city models and urban analytics.
+The group is the first one in Singapore encompassing the entire 3D GIS ecosystem under the same roof: from standardisation and generation of 3D city models all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field. 
+
+The principal investigator of the Lab was awarded the prestigious presidential young professorship in 2020, supporting the development of the research group.
+
+{{< youtube iMgWJD8a2Xc >}}
+
+### Application
+
+Please apply by [email](mailto:filip@nus.edu.sg), including the following materials:
+
+* CV
+* Cover letter indicating your current and future research interests and plans, and how do you intend to contribute to our growing research group and activities. The letter should also include the expected availability / preferred starting date.
+* A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/). A link to the article is sufficient.
+* Names and contact information for three referees.
+* Other materials that indicate possessing the required qualifications, e.g. link to an open-source Github repository you have developed, talks, and portfolio.
+
+In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
+
+{{% alert note %}}
+The deadline to apply is 15 December 2020 or until a suitable candidate is identified. Applications will be considered as of 1 September 2020.
+{{% /alert %}}
+
+For general information about academic jobs at NUS, please visit [NUS  Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).
+
+We appreciate your understanding that only applicants shortlisted for the interview will be notified.
+Shortlisted candidates will later be asked to provide the full documentation, e.g. copy of diploma, letters of recommendation; these do not have to be submitted at this stage.
+
+### Contact
+
+For more information feel free to contact [Dr Filip Biljecki](/authors/filip).
+

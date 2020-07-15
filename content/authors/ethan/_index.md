@@ -61,6 +61,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Students
+- Members
 ---
 
 Ethan is an MSc in Applied GIS candidate at National University of Singapore.

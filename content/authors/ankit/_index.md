@@ -60,6 +60,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Students
+- Members
 ---
 
 Ankit is researching whether 3D city models can be used to uncover the potential of urban farming in Singapore.

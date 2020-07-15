@@ -1,37 +1,33 @@
 ---
 # Display name
-name: Abraham Noah Wu
-title:  Abraham Noah Wu
+name: Chen Xinyu
+title: Chen Xinyu
 
 # Username (this should match the folder name)
 authors:
-- abraham
+- xinyu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
 - name: "National University of Singapore"
-  #url: ""
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
-
-interests:
-- Urban data science
-- Deep learning
+bio: []
 
 education:
   courses:
-  - course: Master in Architecture
+  - course: Master's degree, Urban Planning and Geographic Information System
     institution: National University of Singapore
-    year: 2020
-  - course: Bachelor of Arts (Architecture)
-    institution: National University of Singapore
+    year: 2021
+  - course: Bachelor of Science, Human Geography and Urban-rural Planning
+    institution: Sun Yat-Sen University
     year: 2019
 
 # Social/Academic Networking
@@ -39,11 +35,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: home
-  icon_pack: fas
-  link: https://abrahamnoah.squarespace.com/
-
-
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/xinyu-chen-ab189a1a6/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -56,12 +50,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
 - Members
 ---
 
-Abraham holds a Master of Architecture degree from our department.
-During his studies he has spent a semester at ETH Zurich, received awards, and worked on growing different projects.
-
-His portfolio can be found [here](https://abrahamnoah.squarespace.com).
-At our group, Abraham will be working on developing new uses of urban data (mostly for urban planners) using deep learning and other evolving technologies, blending his architecture background with technical knowledge.
+Xinyu is pursuing her master's degree in urban planning and GIS at NUS, and she is involved in our teaching activities.
+Her working experience includes multiple internships, including one at JLL.

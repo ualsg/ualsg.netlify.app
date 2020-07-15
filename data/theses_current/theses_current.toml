@@ -7,14 +7,6 @@ uni = "NUS"
 image = "ankit-research.png"
 
 [[thesis]]
-title = "The effect of real void decks in Singapore ventilation"
-name = "Aviva Opsomer"
-study = "MSc in Building Technology"
-year = "2019"
-uni = "TU Delft"
-image = "aviva-research.png"
-
-[[thesis]]
 title = "Spatial Disaggregation of Urban Population Data: A model-based Exploration of Demographic Patterns in Singapore"
 name = "Noée Szarka"
 study = "MSc GIS"

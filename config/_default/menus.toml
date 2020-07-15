@@ -48,7 +48,7 @@
   weight = 70
 
 [[main]]
-  name = "openings"
+  name = "join"
   url = "/openings"
   weight = 80
 
