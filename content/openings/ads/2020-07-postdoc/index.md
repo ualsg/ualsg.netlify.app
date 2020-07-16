@@ -53,7 +53,7 @@ You should demonstrate that you possess:
 - Visibility and exposure of your work.
 - Flexible working environment.
 - Exploring new ideas and an opportunity to experiment with the state of the art.
-- You will live in a beautiful and efficient city with great food and summer all-year-round, low taxes, unparalleled infrastructure and safety, and in a fully English speaking environment.
+- You will live in a beautiful, clean and efficient city with great food and summer all year round, low taxes, unparalleled infrastructure and safety, and in a fully English speaking environment.
 - The remuneration will be determined according to the university's salary range depending on the degree and experience.
 
 ### Duration and start
@@ -88,9 +88,9 @@ Please apply by [email](mailto:filip@nus.edu.sg), including the following materi
 
 * CV
 * Cover letter indicating your current and future research interests and plans, and how do you intend to contribute to our growing research group and activities. The letter should also include the expected availability / preferred starting date.
-* A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/). A link to the article is sufficient.
+* A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/), which best mirrors your background and research so far. A link to the article is sufficient.
 * Names and contact information for three referees.
-* Other materials that indicate possessing the required qualifications, e.g. link to an open-source Github repository you have developed, talks, and portfolio.
+* Other materials that indicate possessing the required qualifications, e.g. link to a public Github repository you have developed, talks, and portfolio.
 
 In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
 
