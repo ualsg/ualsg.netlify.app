@@ -8,7 +8,7 @@ authors: [filip]
 tags: [journals, guide, gis, index]
 categories: []
 date: 2020-07-06T08:56:41+08:00
-lastmod: 2020-07-06T08:56:41+08:00
+lastmod: 2020-07-18T08:56:41+08:00
 featured: false
 draft: false
 exclude_jquery: true
@@ -94,6 +94,14 @@ Therefore, this list might look different next year.
 A few journals are indexed for the first time.
 For example, [PeerJ Computer Science](https://peerj.com/computer-science/) and the [International Journal of Urban Sciences](https://www.tandfonline.com/toc/rjus20/current) gained their impact factor for the first time.
 
+
+## SciRev
+
+[SciRev](https://scirev.org) is a website where researchers share their experience with the peer-review process of particular journals.
+It can be quite useful to understand the efficiency and attitude of some editors and journals.
+Before submitting your paper to a journal, I would encourage you to have a look at the website.
+
+
 ## FAQ
 
 ### Why some journals in the list have no IF and/or SJR?
@@ -120,3 +128,6 @@ For example, [IJGIS](https://www.tandfonline.com/toc/tgis20/current) is part of 
 In the former, it ranked as 11th out of 50 journals in the category, so I guess that means Q1, but I haven't seen that being used often.
 Also, do note that JCR uses citation data from a more exclusive database.
 Most of the journals above are in Q1 in SJR, but not all of them will also be in Q1 in JCR.
+
+
+

@@ -1,7 +1,6 @@
 <link href="https://unpkg.com/tabulator-tables@4.7.1/dist/css/tabulator.min.css" rel="stylesheet">
 <script type="text/javascript" src="https://unpkg.com/tabulator-tables@4.7.1/dist/js/tabulator.min.js"></script>
 
-
 <table id="journals" class="display">
     <thead>
         <tr>
@@ -16,7 +15,9 @@
     <tbody>
       {{ range .journals }}
       <tr>
-      	<td>{{ .title }}</td>
+        {{ if .warning }}
+        <td>{{ .title }} (<a href="{{ .warning }}">warning</a>)</td>
+        {{else}}<td>{{ .title }}</td>{{ end }}
       	<td>{{ .publisher }}</td>
       	<td>{{ .IF }}</td>
       	<td>{{ .change }}</td>
@@ -31,7 +32,7 @@
 var table = new Tabulator("#journals", {
   layout:"fitDataStretch",
   columns:[
-    {title:"Journal", field:"journal"},
+    {title:"Journal", field:"journal", formatter:"html"},
     {title:"Publisher", field:"publisher", hozAlign:"left"},
     {title:"IF", field:"if", sorter:"number", hozAlign:"right"},
     {title:"Change (%)", field:"change", sorter:"number", hozAlign:"right"},
@@ -43,4 +44,3 @@ var table = new Tabulator("#journals", {
     ]
 });
 </script>
-
