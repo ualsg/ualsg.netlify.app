@@ -7,7 +7,7 @@ header:
   image: "2019-Commencement-15.jpeg"
 ---
 
-We are active in the following teaching activities at the National University of Singapore:
+The Lab is active in the following teaching activities at the National University of Singapore:
 
 - [Teaching master courses](#graduate-courses)
 - [Supervising theses and dissertations](#theses-and-dissertations)
@@ -20,18 +20,17 @@ Our teaching activities span multiple modules offered as part of different maste
 
 **GIS and Cartography (Semester 1)**
 
-- This introductory module is compulsory for [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) and [Master of Arts in Urban Design](http://www.sde.nus.edu.sg/arch/programmes/master-of-arts-in-urban-design/) students, and it is recommended for [MSc in Real Estate](http://www.rst.nus.edu.sg/graduate/msc-programme.html) students.
-The course is also open to students from outside the School of Design and Environment, subject to a quota.
+- This introductory module is part of the [MSc in Real Estate](http://www.rst.nus.edu.sg/graduate/msc-programme.html). It is also recommended for [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) and [Master of Arts in Urban Design](http://www.sde.nus.edu.sg/arch/programmes/master-of-arts-in-urban-design/) students.
 In this course we teach the basics of geographical information science and give a thorough tutorial of [QGIS](https://www.qgis.org), supported by assignments relevant to urban planning and real estate.
 
 **Introduction to Data Science (Semester 1)**
 
-- This new module is designed for students who wish to start with data science and programming (in R) from scratch.
+- A new module for Architecture students, which is designed for students who wish to start with data science and programming (in R) from scratch.
 The course is heavily focused on urban data and data visualisation.
 
 **Geographic Data Science and Urban Analytics (Semester 2)**
 
-- This module continues the above module, focusing on geographic data science and urban analytics.
+- This module continues the above course with more advanced topics, focusing on geographic data science and urban analytics.
 
 
 **Planning Technologies (Semester 2)**
@@ -46,13 +45,15 @@ The course is given in partnership with the Digital Planning Lab of the [Urban R
 
 ## Theses and dissertations
 
-If you are a motivated undergrad and grad students, it is possible to conduct their thesis research with us.
+If you are a motivated undergrad or grad student, it is possible to conduct your thesis research with us.
 We offer guidance in pursuing several projects (scroll down to see the offered [topics](#potential-topics)) in the domain of GIS, 3D city modelling, and urban analytics.
 Some of the student projects in the past have been successful resulting in conference and journal papers, benefiting to the outreach of the research and the graduates' CVs.
 Our novel topics enable students to learn new skills (e.g. tool or programming language), learn about a new multidisciplinary topic, work on a exciting real-world problem, and have the potential to have an impact.
 In principle, almost all topics require knowledge of programming and managing geospatial data.
 
-Non-NUS students (both from other Singaporean and overseas universities) are eligible to work with us as well, please see the [NUS Non-graduating research student scheme](http://www.nus.edu.sg/registrar/academic-information-policies/non-graduating) if interested.
+It is also possible to propose your own topic.
+
+Non-NUS students (from other Singaporean and from overseas universities), please see the [NUS Non-graduating research student scheme](http://www.nus.edu.sg/registrar/academic-information-policies/non-graduating) if interested.
 
 ### Completed theses / graduation projects
 
@@ -64,14 +65,12 @@ Non-NUS students (both from other Singaporean and overseas universities) are eli
 
 ### Potential topics
 
-We have a list of potential topics for research (please see below), or have a look at our [ongoing research projects]({{< relref "../project/" >}}) in which there is always a plenty of ideas for student projects.
+We have a list of potential topics for research (please see below), or have a look at our [ongoing research projects]({{< relref "../project/" >}}) in which we might be able to accommodate a student project.
 The topics are mostly general, and the candidate is expected to refine a topic further.
 The topics are not carved in stone, and may be adapted to suit the student's background and interest.
 
-While many of the topics are technical and require coding, there are also less technical topics.
-
 Are you interested in one of the topics below? Get in [touch](/openings/#contact).
-Or feel free to propose your own topic that is within the lab's domain of research.
+Or feel free to propose your own topic that is within the Lab's domain of research.
 You can also check out our [blog](/post), we have published some analyses that could be extended into a thesis.
 
 {{< theses_topics >}}

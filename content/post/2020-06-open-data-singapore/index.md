@@ -8,7 +8,7 @@ authors: [admin]
 tags: [open data, singapore, guide, index]
 categories: []
 date: 2020-06-24T08:04:48+08:00
-lastmod: 2020-06-26T11:42:48+08:00
+lastmod: 2020-08-03T11:42:48+08:00
 featured: false
 draft: false
 
@@ -36,8 +36,9 @@ Feel free to visit in future to check for updates as the list grows.
 ## Introduction
 
 In our [research]({{< ref "/#projects" >}}) and [teaching]({{< ref "/teaching/index.md" >}}) activities that are focused on Singapore, we rely almost entirely on open data, enabling reproducibility and fostering open science.
+We created a guide for open urban datasets to help navigate through all the resources.
 
-While [Data.gov.sg](https://data.gov.sg) is thorough and it is the starting and ending point to obtain many useful datasets, it might take time to get an overview and the availability of open data goes beyond that.
+While [Data.gov.sg](https://data.gov.sg) (the open data portal of the Singapore Government) is thorough and it is the starting and ending point to obtain many useful datasets, it might take time to get an overview and the availability of open data goes beyond that.
 Furthermore, there are some particularities that may not be evident at first and which we elaborate on in the text (e.g. some datasets are available at multiple locations with slight differences).
 
 This index may be useful to novices to get an overview of what's available in Singapore, but also to seasoned urban scientists who may learn about datasets they might not have been aware of.
@@ -45,13 +46,13 @@ This index may be useful to novices to get an overview of what's available in Si
 The data sources can be grouped into the following categories.
 
 - [Data.gov.sg](https://data.gov.sg) -- the Government's Open Data portal, containing almost 2000 datasets on myriads of topics from dozens of public organisations. Many datasets are regularly updated. There are some GIS datasets too, and also APIs providing real-time data.
-- Government resources that are outside the realm of Data.gov.sg, e.g. there may be additional datasets not deposited in the central government repository, some that are slightly different, or those with newer updates. This includes several APIs. For example, [LTA's DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html) and [SingStat](https://www.singstat.gov.sg/find-data/search-by-a-z) have some additional resources or datasets that are arranged in various, potentially more appropriate forms (e.g. detailed time series instead of separate datasets).
+- Government resources that are outside the realm of Data.gov.sg, e.g. there may be additional datasets not deposited in the central government repository, some that are slightly different, or those with newer updates. For example, [LTA's DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html) and [SingStat](https://www.singstat.gov.sg/find-data/search-by-a-z) have some additional resources, or datasets that are available on [Data.gov.sg](https://data.gov.sg) but they are arranged in various, potentially more appropriate forms (e.g. detailed time series instead of separate datasets). Such resources include several APIs as well.
 - [OpenStreetMap](https://www.openstreetmap.org/) -- needless to mention for geospatial data, but surprisingly often overlooked.
 OSM appears to have a very high level of quality in Singapore and rapid updates.
 - Data by research groups, companies, community, ...
 
 This list is by no means a complete inventory of open datasets useful for urban analytics covering the city-state.
-While there are other datasets, these are the datasets we consider useful for our work, have used in our work, or we bookmarked them to consider using them in future.
+While there are other instances not mentioned here, these are the datasets we consider useful for our work, have used in our work, or we bookmarked them to consider using them in future.
 
 
 ## The List
@@ -240,8 +241,9 @@ You may also be interested in [data on hawker centres](https://data.gov.sg/datas
 
 ### Tabular data / geocoding
 
-Many of the datasets above are CSVs, and even though they are tied to a location, they are not available in a geo-format (e.g. real estate transaction datasets contain an address for each transaction, but not the coordinates).
-To convert the address into coordinates, use the [OneMap API](https://docs.onemap.sg), [Nominatim](https://nominatim.org), or [Google Maps API](https://cloud.google.com/maps-platform/).
+While much of the data represents _something that happens somewhere_ (e.g. real estate transactions), many datasets are not available in a GIS format.
+They are rather released as [CSVs](https://en.wikipedia.org/wiki/Comma-separated_values) (e.g. real estate transaction datasets contain an address representing each transaction, but not the coordinates nor the dataset is in a geo-format).
+To convert (geocode) the address into coordinates, may we suggest to use the [OneMap API](https://docs.onemap.sg), [Nominatim](https://nominatim.org), or [Google Maps API](https://cloud.google.com/maps-platform/).
 
 ### Web services
 
@@ -250,21 +252,20 @@ Nevertheless, they may still be useful for viewing.
 
 ### Social media
 
-[Twitter API](https://developer.twitter.com/en/docs) enables downloading Twitter data for Singapore, but the service is not very popular here, and the data comes with restrictions (so it is technically not open data).
+The [Twitter API](https://developer.twitter.com/en/docs) enables downloading their data for Singapore, but given that the social network is not very popular here, and the data comes with restrictions (so it is technically not open data), its functionality is not that great.
 
 ### Licence, validity and quality of data
 
 The usual caveats:
-* Check when the dataset has been updated last time.
+* Check when the dataset has been updated. Some datasets are not updated, a new dataset is released instead as a new instance, not superseding the old one. 
 * Check the licence, e.g. for Data.gov.sg have a look at the [Singapore Open Data Licence](https://data.gov.sg/open-data-licence).
-* Do not forget to attribute the data source in your use.
-* Some geospatial datasets may not pass all validity checks (e.g. they might have self-intersecting polygons), presenting a problem when they are used in analyses.
+* Do not forget to attribute the data source in your use and mention the year when it was updated.
+* Some geospatial datasets may not pass all validity checks (e.g. they might have self-intersecting polygons), presenting a problem when they are used in spatial analyses.
 You can try fixing them using [prepair](https://github.com/tudelft3d/prepair).
-
 
 ### Have a suggestion for an entry? Spotted an error?
 
-[Get in touch](/).
+[Get in touch](/#contact).
 
 
 
