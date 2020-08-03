@@ -33,7 +33,7 @@ projects: []
 
 It is that time of the year: the journal impact factors have been published.
 
-I maintain a list of relevant academic journals, which I have decided to publish in this article together with their latest metrics, hopefully helping fellow researchers to have a reference list and choose where to publish their next paper.
+I maintain a list of relevant academic journals in our field, which I have decided to publish in this article together with their latest metrics, hopefully helping fellow researchers to have a reference list and choose where to publish their next paper.
 
 For more information about how the journals were selected and explanations about the columns, [see below](#selection-of-journals).
 

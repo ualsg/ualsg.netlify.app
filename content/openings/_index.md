@@ -8,12 +8,12 @@ header:
 ---
 
 Thank you for your interest in our research group.
-Please find below the list of possible schemes to get involved, primarily [openings](#openings) we have subject to projects.
+Please find below the list of possible schemes to get involved, primarily [openings](#openings) we have subject to funding and projects.
 
 ### Aims and why us
 
 We are excited to build a new research group focused on 3D geoinformation, urban analytics, and geographic data science.
-Working at our lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire 3D GIS ecosystem under the same roof: from standardisation and generation of 3D city models all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field. 
+Working at our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire 3D GIS ecosystem under the same roof: from standardisation and generation of 3D city models all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field. 
 
 Working at NUS means being part of one of the world's top universities, and having access to an extensive network of experts across myriads of domains.
 
@@ -42,9 +42,9 @@ Other than that, we welcome postdocs on fellowships (see below for the options, 
 ## PhD candidates
 
 We accept well-motivated and talented prospective PhD candidates.
-The applications to the PhD programme should be done directly to the [School of Design and Environment](http://www.sde.nus.edu.sg), but you may also [first get in touch with us to discuss](https://ualsg.typeform.com/to/zSQtnN).
-The [NUS website on graduate admissions](http://www.nus.edu.sg/registrar/prospective-students/graduate) is a good starting point to get more information about doing a PhD at our university.
+The applications to the PhD programme should be done directly to the [School of Design and Environment](http://www.sde.nus.edu.sg), but you are advised to [first get in touch with us to discuss](https://ualsg.typeform.com/to/zSQtnN).
 
+The [NUS website on graduate admissions](http://www.nus.edu.sg/registrar/prospective-students/graduate) is a good starting point to get more information about doing a PhD at our university.
 The application deadlines are usually 15 November for the intake in August next year, and 15 May for the start in January.
 Please start preparing early, and indicate in your application that you would like to be supervised by Dr {{< mention "filip" >}}.
 If you apply, let us know.
@@ -59,10 +59,10 @@ You may also want to read the graduate studies website of either the [Department
 
 ## Undergraduate and master students
 
-We accept graduate students from NUS Architecture and Real Estate to work on theses in our research domain. 
-Provided there is a fit, we are open to working with graduate students from other NUS schools and programmes (e.g. FASS/Geography).
+We accept graduate students from NUS Architecture, Real Estate and Geography to work on theses in our research domain. 
 If you are looking for a topic, we offer supervision of [theses](/teaching/#theses-and-dissertations) (please check the potential topics on the link, and examples of completed theses).
 It is possible to adapt them to suit your background and interest. 
+Sometimes there are internship opportunities, which are advertised when available.
 
 We do not offer internships to students who are not studying at our university.
 As an exception, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
@@ -76,15 +76,15 @@ Depending on your country of residence and position, sometimes there are opportu
 
 ### Graduate students
 
-External (non-NUS) master students and PhD candidates can carry out a portion of their research at our lab in the form of a research visit.
+External (non-NUS) master students and PhD candidates can carry out a portion of their research at our Lab in the form of a research visit.
 Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) for the framework of the scheme.
 Make sure to also check [potential topics we offer for theses](/teaching/#master-theses).
 
 
 ## Fellowship/scholarship opportunities (PhD, postdoc)
 
-We are open to endorse well motivated applications for external (mostly postdoc) fellowships and scholarships that facilitate carrying out research at our lab and at NUS.
-Depending on your nationality and university, there are many opportunities to fund your PhD or postdoc research.
+We are open to endorse well motivated applications for external (mostly postdoc) fellowships and scholarships that facilitate carrying out research at our Lab and at NUS.
+Depending on your nationality and university, there may be opportunities to fund your PhD or postdoc research.
 Please see below for examples we have selected.
 
 ### General (open to many or all nationalities)
@@ -131,7 +131,7 @@ We gratefully acknowledge the authors behind the list, from which we compiled th
 ## Contact
 
 Are some of the options listed above of your interest or you have a general enquiry?
-Feel free to get in touch with us through email (listed on the [home page](/)).
+Feel free to get in touch with us through email (listed on the [home page](/#contact)).
 While we appreciate interest, we cannot attend to generic applications without a clear motivation and understanding of the scope of our work.
 
 
