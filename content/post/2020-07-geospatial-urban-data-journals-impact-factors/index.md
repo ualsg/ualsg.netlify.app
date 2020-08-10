@@ -48,7 +48,7 @@ For more information about how the journals were selected and explanations about
 ## Selection of journals
 
 The key question is what is a geospatial/urban data science journal?
-It depends who you ask.
+It depends on who you ask.
 
 While lists such as this one will inevitably be a tad subjective (mostly because nowadays fields have no clear boundaries and people focus on different topics), I trust that I have covered pretty much all the relevant journals in [what we do](/).
 Many of them are from the selection published in my 2016 IJGIS paper [_A scientometric analysis of selected GIScience journals_](https://doi.org/10.1080/13658816.2015.1130831), which has evolved since then following the increased convergence of journals and introduction of new ones.
