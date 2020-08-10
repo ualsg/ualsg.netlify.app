@@ -33,7 +33,7 @@ Your key responsibilities will be:
 
 You should demonstrate that you possess:
 
-- A PhD degree :mortar_board: in a related discipline from a reputable university. Current PhD candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their PhD degree is completed before the start of the appointment.
+- A PhD degree :mortar_board: in a related discipline from a reputable university. Current PhD candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their PhD degree will be completed before the start of the appointment.
 - An ability to develop an independent project within the Lab.
 - A solid publication record, excellent writing skills, and a strong affinity to publish.
 - Prior experience in GIS, 3D city modelling, and/or urban simulations.
@@ -49,7 +49,7 @@ You should demonstrate that you possess:
 
 - You will be working on compelling research activities at the forefront of geographical information science and urban data science in a new research group that is gaining a strong momentum in Singapore and overseas.
 - You will advance your research and transferable skills required for the next stage of your career.
-- You will work in a research and educational environment where you may not only contribute to your own personal development, but also to others, e.g. by supervising master theses that may arise as part of the research.
+- You will work in a research and educational environment where you may not only contribute to your own development, but also to others, e.g. by supervising master theses that may arise as part of the research.
 - Opportunity to make impactful contributions in the field, on a globally relevant topic.
 - Visibility and exposure of your work.
 - Flexible working environment.
@@ -85,10 +85,10 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 
 ### Application
 
-Please apply by [email](mailto:filip@nus.edu.sg), including the following materials:
+Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the PDRF position" in the subject), including the following materials:
 
 * CV
-* Cover letter indicating your current and future research interests and plans, and how do you intend to contribute to our growing research group and its activities. The letter should also include the expected availability / preferred starting date.
+* Cover letter (up to 2 pages) indicating (1) your current and future research interests and plans, and (2) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date.
 * A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/), which best mirrors your background and research so far. A link to the article is sufficient.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks and portfolio.
