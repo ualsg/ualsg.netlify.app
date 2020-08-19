@@ -49,7 +49,7 @@ If you are a motivated undergrad or grad student, it is possible to conduct your
 We offer guidance in pursuing several projects (scroll down to see the offered [topics](#potential-topics)) in the domain of GIS, 3D city modelling, and urban analytics.
 Some of the student projects in the past have been successful resulting in conference and journal papers, benefiting to the outreach of the research and the graduates' CVs.
 Our novel topics enable students to learn new skills (e.g. tool or programming language), learn about a new multidisciplinary topic, work on a exciting real-world problem, and have the potential to have an impact.
-In principle, almost all topics require knowledge of programming and managing geospatial data.
+In principle, most topics require at least a basic level of programming and/or data science, and managing geospatial data.
 
 It is also possible to propose your own topic.
 
