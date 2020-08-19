@@ -11,7 +11,7 @@ The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](htt
 
 The successful applicant will spearhead new research initiatives in the domains of the Lab (3D geospatial data, urban analytics, and GIScience) and will be involved in the supervision of the members of the team.
 
-Candidates must have a strong computational affinity and a PhD degree in geographical information science, computer science, or another relevant field of study, with a successful track record.
+Candidates must have a strong computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, with a successful track record.
 
 The research fellow will work together with the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg), on managing the group, developing its strategy and research orientation, and working on project proposals.
 

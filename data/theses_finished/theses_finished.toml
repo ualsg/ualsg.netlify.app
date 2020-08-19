@@ -1,4 +1,28 @@
 [[thesis]]
+title = "Using 3D city models to uncover urban farming potential in public housing blocks of Singapore"
+name = "Ankit Palliwal"
+study = "MSc in Applied GIS"
+year = "2020"
+uni = "NUS"
+image = "ankit-research.png"
+
+[[thesis]]
+title = "Enhanced population estimation beyond counts: exploring age patterns"
+name = "Noée Szarka"
+study = "MSc GIS"
+year = "2020"
+uni = "University of Edinburgh"
+image = "noee-research.png"
+
+[[thesis]]
+title = "Assessing the quality of OpenStreetMap building data in Singapore"
+name = "Ethan Chen Wai Hoong"
+study = "MSc in Applied GIS"
+year = "2020"
+uni = "NUS"
+image = "ethan-research.png"
+
+[[thesis]]
 title = "Height Inference for all US Building Footprints in the Absence of Height Data"
 name = "Imke Lánský"
 study = "MSc in Geomatics"
@@ -26,4 +50,3 @@ year = "2019"
 uni = "NUS"
 image = "jialin-research.png"
 paper = "2019-sdsc-airbnb-beijing"
-
