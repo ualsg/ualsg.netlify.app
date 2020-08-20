@@ -15,7 +15,7 @@ Candidates must have a strong computational affinity and a PhD degree in geograp
 
 The research fellow will work together with the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg), on managing the group, developing its strategy and research orientation, and working on project proposals.
 
-The Lab will provide a motivating and flexible environment to explore the research fellow's interests and build skills required for future career steps.
+The Lab will provide a motivating, conducive, and flexible environment to explore the research fellow's interests and build skills required for future career steps.
 
 
 ### Scope and responsibilities
@@ -88,7 +88,7 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the PDRF position" in the subject), including the following materials:
 
 * CV
-* Cover letter (up to 2 pages) indicating (1) your current and future research interests and plans, and (2) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date.
+* Cover letter (up to 2 pages) indicating (i) your current and future research interests and plans, and (ii) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date.
 * A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/), which best mirrors your background and research so far. A link to the article is sufficient.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks and portfolio.

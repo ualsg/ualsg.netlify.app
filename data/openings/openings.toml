@@ -4,5 +4,9 @@ deadline = "2020-12-15"
 link = "2020-07-postdoc"
 
 [[opening]]
+title = "PhD candidate in GIS/urban analytics"
+link = "2020-phd-geospatial"
+
+[[opening]]
 title = "Student researcher in GIS/urban analytics"
 link = "2020-student-researcher-gis"

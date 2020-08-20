@@ -26,7 +26,7 @@ Candidates are required to fulfill the following requirements:
 - Preferably prior experience in GIS and/or data science.
 - Excellent communication and writing skills in English, and an ability to present research.
 - Curiosity and passion to explore new concepts, methods and technologies, and capability of identifying and quickly learning the most suitable tools for the research on the go.
-- A positive and proactive stance on open science, preferably with demonstrated activities such as using and developing open-source software, releasing data as open data, and promoting reproducible research.
+- Optional: a positive and proactive stance on open science, preferably with demonstrated activities such as using and developing open-source software, releasing data as open data, and promoting reproducible research.
 
 The remuneration will be commensurate with the university's range, i.e. the [NUS Student Work Scheme (NSWS)](http://www.nus.edu.sg/osa/about/join-us/nsws).
 
