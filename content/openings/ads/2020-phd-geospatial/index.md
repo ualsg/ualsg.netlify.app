@@ -26,7 +26,7 @@ However, there are [scholarship/fellowship opportunities](/openings/#fellowships
 
 While we do not offer fully-funded positions, we offer the following:
 
-- Supplementing existing funding with a budget from our own resources for equipment and travel. For example, if you obtain a stipend from an external funding agency, we will look into providing additional funding for your expenses such as that you can travel to more conferences or buy some equipment, and to make your research and PhD experience more comfortable.
+- Co-funding: supplementing existing funding with a budget from our own resources for equipment and travel. For example, if you obtain a stipend from an external funding agency, we will look into providing additional funding for your expenses such as that you can travel to more conferences or buy some equipment, and to make your research and PhD experience more comfortable.
 - Endorsing applications for [fellowships](/openings/#fellowshipscholarship-opportunities-phd-postdoc).
 - Egalitarian environment where you will be considered as a colleague, rather than as a student.
 
