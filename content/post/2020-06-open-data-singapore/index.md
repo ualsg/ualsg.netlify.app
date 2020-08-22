@@ -8,7 +8,7 @@ authors: [admin]
 tags: [open data, singapore, guide, index]
 categories: []
 date: 2020-06-24T08:04:48+08:00
-lastmod: 2020-08-03T11:42:48+08:00
+lastmod: 2020-08-22T10:32:48+08:00
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ The data sources can be grouped into the following categories.
 - [Data.gov.sg](https://data.gov.sg) -- the Government's Open Data portal, containing almost 2000 datasets on myriads of topics from dozens of public organisations. Many datasets are regularly updated. There are some GIS datasets too, and also APIs providing real-time data.
 - Government resources that are outside the realm of Data.gov.sg, e.g. there may be additional datasets not deposited in the central government repository, some that are slightly different, or those with newer updates. For example, [LTA's DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html) and [SingStat](https://www.singstat.gov.sg/find-data/search-by-a-z) have some additional resources, or datasets that are available on [Data.gov.sg](https://data.gov.sg) but they are arranged in various, potentially more appropriate forms (e.g. detailed time series instead of separate datasets). Such resources include several APIs as well.
 - [OpenStreetMap](https://www.openstreetmap.org/) -- needless to mention for geospatial data, but surprisingly often overlooked.
-OSM appears to have a very high level of quality in Singapore and rapid updates.
+OSM appears to have a very high level of quality in Singapore and rapid updates. Its data quality assessment was subject of a recent [research conducted at our Lab]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}).
 - Data by research groups, companies, community, ...
 
 This list is by no means a complete inventory of open datasets useful for urban analytics covering the city-state.
@@ -64,7 +64,7 @@ It also includes non-residential blocks such as multi-storey carparks.
 It does not contain building footprints though.
 We used this dataset as one of the input datasets to generate [3D building models]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
 * Data on non-HDB buildings (landed houses, condos, commercial buildings...) is not as complete and it is scattered around, but [URA's data portal](https://www.ura.gov.sg/realEstateIIWeb/supply/search.action) is a good starting point for exploration.
-* For open data on building footprints the best bet is OpenStreetMap, it has nearly 100% completeness with rapid updates, but attribute data may lack.
+* For open data on building footprints the best bet is OpenStreetMap, it has [nearly 100% completeness with rapid updates]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}), but attribute data may lack.
 Data.gov.sg contains [a dataset representing building footprints](https://data.gov.sg/dataset/master-plan-2014-building), but for some reason it is not complete, covering only a subset of buildings several years ago.
 It still might be useful though.
 
@@ -75,7 +75,7 @@ It still might be useful though.
 
 Unfortunately, 3D city models are not released as open data, except the one [we generated covering only HDBs]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
 We are [working]({{< ref "/project/3d-open/index.md" >}}) on including other buildings.
-Worth mentioning is that OpenStreetMap has a relatively high level of completeness of building heights and floors, in comparison to other countries.
+Worth mentioning is that OpenStreetMap has [a relatively high level of completeness of building heights and floors]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}), in comparison to other countries.
 
 ### Real estate transactions
 
@@ -191,7 +191,7 @@ Both the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/data
 
 ### Map / Geospatial data (general)
 
-Besides OpenStreetMap which is quite complete and of high quality for a wide range of features, well worth mentioning is the Geospatial Whole Island dataset available through the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html).
+Besides OpenStreetMap which is [quite complete and of high quality for a wide range of features]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}), well worth mentioning is the Geospatial Whole Island dataset available through the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html).
 It contains a bunch of different features related to transportation, e.g. road crossings, traffic lights, taxi stands, and cycling paths.
 
 Further, [Data.gov.sg](https://data.gov.sg) contains some datasets such as the [boundaries of administrative areas](https://data.gov.sg/dataset/master-plan-2019-subzone-boundary-no-sea), [master plan land use](https://data.gov.sg/dataset/master-plan-2019-land-use-layer) (containing the [Gross Plot Ratio](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Non-Residential/Commercial/Gross-Plot-Ratio)), and [cadastral land parcels](https://data.gov.sg/dataset/sla-cadastral-land-parcel).
