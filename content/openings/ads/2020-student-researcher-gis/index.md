@@ -50,7 +50,7 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 
 * CV
 * Short cover letter (up to 1 page) briefly indicating your motivation and plans. The letter should also include the availability (preferred starting date and length).
-* Optional: portfolio demonstrating relevant work and/or links to completed projects. While at this early stage of your career we do not expect that you will have rich experience, supplementary material such as a portfolio would help us to get a hint of your activities so far, capabilities, and interests.
+* Optional: portfolio demonstrating relevant work and/or links to completed projects. While at this early stage of your career we do not expect that you will have rich experience, supplementary material such as a portfolio would help us to get a hint of your activities, capabilities, and interests so far.
 
 ### Contact
 
