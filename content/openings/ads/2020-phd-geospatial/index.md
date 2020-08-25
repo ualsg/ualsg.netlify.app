@@ -1,6 +1,6 @@
 +++
 date = 2020-08-20
-title = "Vacancy: PhD candidate in GIS/urban analytics"
+title = "Vacancy: PhD candidate in GIS/urban analytics/3D city modelling"
 +++
 
 ![](header.png)
@@ -93,7 +93,7 @@ The applications to the PhD programme should be done directly to the [School of 
 You can do so by [email](mailto:filip@nus.edu.sg) (please write "PhD enquiry" in the subject), including the following materials:
 
 * CV
-* Cover letter (about 1 page) indicating (i) your research interests and plans, and (ii) how do you intend to contribute to our growing research group and enhance its activities.
+* Cover letter (about 1 page) indicating (i) your research interests and plans (statement of research), and (ii) how do you intend to contribute to our growing research group and enhance its activities.
 
 To understand our scope of work and make your application more attractive, please have a careful look at our projects and [publications](/publication).
 While we appreciate interest, we cannot attend to generic applications without a clear motivation and understanding of the scope of our work.

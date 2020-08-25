@@ -59,14 +59,21 @@ You may also want to read the graduate studies website of either the [Department
 
 ## Undergraduate and master students
 
-We accept graduate students from NUS Architecture, Real Estate and Geography to work on theses in our research domain. 
+We accept graduate students from NUS Architecture, Real Estate and Geography, Yale-NUS College, and other related departments to work on graduation projects (theses, capstones) in our research domain. 
 If you are looking for a topic, we offer supervision of [theses](/teaching/#theses-and-dissertations) (please check the potential topics on the link, and examples of completed theses).
 It is possible to adapt them to suit your background and interest. 
-Sometimes there are internship opportunities, which are advertised when available.
 
-We do not offer internships to students who are not studying at our university.
-As an exception, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
-If your university or country has a similar programme, that might be an option.
+Due to limited supervision resources, we are able to offer guidance to only a few motivated interns per semester, who are required to conduct an internship to fulfil their graduation requirements.
+We prefer students who are highly motivated, have solid background knowledge for the topic, and are fairly independent.
+You can [contact us](/#contact) if interested.
+Before doing so, please browse through our website to get an impression about our ongoing work.
+
+In principle, we are not able to offer internships to students who are not studying at our university or at the [Yale-NUS College](https://www.yale-nus.edu.sg).
+However, there are exceptions.
+For example, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
+If your university or country has a similar programme, or if you have your own funding to come and spend time in Singapore, feel free to contact us.
+
+Occasionally there are student research jobs opportunities, which are [advertised](/openings) when available.
 
 ## Visitors: research visit
 

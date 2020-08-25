@@ -43,9 +43,9 @@ The course is given in partnership with the Digital Planning Lab of the [Urban R
 - We also participate in occasional lectures and workshops at other study programmes at NUS: Master of Landscape Architecture, Master of Science in Applied GIS, and BA in Architecture.
 
 
-## Theses and dissertations
+## Theses, dissertations, and capstone projects
 
-If you are a motivated undergrad or grad student, it is possible to conduct your thesis research with us.
+If you are a motivated undergrad or grad student, it is possible to conduct your thesis (or capstone project) research with us.
 We offer guidance in pursuing several projects (scroll down to see the offered [topics](#potential-topics)) in the domain of GIS, 3D city modelling, and urban analytics.
 Some of the student projects in the past have been successful resulting in conference and journal papers, benefiting to the outreach of the research and the graduates' CVs.
 Our novel topics enable students to learn new skills (e.g. tool or programming language), learn about a new multidisciplinary topic, work on a exciting real-world problem, and have the potential to have an impact.

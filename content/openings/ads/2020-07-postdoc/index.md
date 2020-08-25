@@ -24,9 +24,8 @@ Your key responsibilities will be:
 
 - Conducting and leading research activities.
 - Exploring new research directions and experimenting with new datasets and technologies.
-- Assisting the PI in the management of the research group and supervision of team members.
+- Assisting the PI in the management of the research group and supervision of team members, primarily students.
 - Preparation of publications and managing other forms of research output such as software and data.
-- Supervision of students.
 - Assisting with funding applications.
 
 ### Required qualifications
@@ -89,14 +88,15 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 
 * CV
 * Cover letter (up to 2 pages) indicating (i) your current and future research interests and plans, and (ii) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date.
-* A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/), which best mirrors your background and research so far. A link to the article is sufficient.
+* A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/), which best mirrors your background and research so far. A link to the article is sufficient, no need to include a PDF in your email.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks and portfolio.
 
 In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
 
 {{% alert note %}}
-The deadline to apply is 15 December 2020 or until a suitable candidate is identified. Applications will be considered as of 1 September 2020.
+The deadline to apply is 15 December 2020.
+The vacancy can be closed earlier if a suitable candidate is identified before the deadline. Applications will be considered as of 1 September 2020.
 {{% /alert %}}
 
 For general information about academic jobs at NUS, please visit [NUS  Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).
