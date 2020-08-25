@@ -7,8 +7,8 @@ summary: "We are continuously looking for talented and highly motivated prospect
 authors: [admin]
 tags: []
 categories: []
-date: 2020-08-27T13:22:48+08:00
-lastmod: 2020-08-27T13:22:48+08:00
+date: 2020-08-25T09:22:48+08:00
+lastmod: 2020-08-25T09:22:48+08:00
 featured: false
 draft: true
 
@@ -28,8 +28,9 @@ image:
 projects: []
 ---
 
-We are continuously looking for talented and highly motivated prospective graduate students to join our research group.
+We are continuously looking for talented and highly motivated prospective graduate students with a matching background to join our research group.
+The PhD candidates will work on compelling topics at the forefront of GIScience, 3D city modelling, and urban analytics.
 
 In exceptional cases, we will offer co-funding to make the PhD journey more comfortable.
 
-Read more [here]({{< ref "/openings/ads/2020-phd-geospatial/index.md" >}}).
+Read the [opening]({{< ref "/openings/ads/2020-phd-geospatial/index.md" >}}) for more information and how to apply.
