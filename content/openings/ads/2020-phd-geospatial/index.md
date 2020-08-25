@@ -7,12 +7,12 @@ title = "Vacancy: PhD candidate in GIS/urban analytics/3D city modelling"
 
 ### Description
 
-We are continuously looking for talented and highly motivated prospective graduate students to join our research group.
+We are continuously looking for talented and motivated prospective graduate students to join our research group.
 PhD candidates can join the Lab by applying to the [NUS School of Design and Environment](http://www.sde.nus.edu.sg). 
 
 The successful applicants will work on new research initiatives in the domains of the Lab (3D geospatial data, urban analytics, and GIScience) as part of existing or upcoming projects.
 
-Candidates must have a computational affinity and a master degree in a relevant field of study and from a reputable university.
+Candidates should have a computational affinity and a master degree in a relevant field of study and from a reputable university.
 
 The Lab will provide a motivating, conducive, and flexible environment to explore the candidate's interests, build relevant skills, and develop world-class research required to attain a PhD degree.
 
@@ -28,7 +28,7 @@ While we do not offer fully-funded positions, we offer the following:
 
 - Co-funding: in exceptional cases we offer supplementing existing funding with a budget from our own resources for equipment and travel. For example, if you obtain a stipend from an external funding agency, we will look into providing additional funding for your expenses such as that you can travel to more conferences or buy some equipment, and to make your research and PhD experience more comfortable.
 - Endorsing applications for [fellowships](/openings/#fellowshipscholarship-opportunities-phd-postdoc).
-- Egalitarian environment where you will be considered as a colleague, rather than as a student.
+- A diverse, inclusive, and egalitarian environment where you will be considered as a colleague, rather than as a student.
 
 
 ### Required qualifications
@@ -39,10 +39,10 @@ In general, you should demonstrate that you possess:
 - A master degree :mortar_board: in a related discipline from a reputable university. Current master candidates are eligible to apply as well, provided that they are in the final stage of their studies.
 - Basic understanding of the state-of-the-art of the field.
 - Affinity towards research and independent work, e.g. being able to carry out a literature review, understand research opportunities, and develop a relatively independent project within the Lab.
-- Excellent writing skills and a strong affinity to publish.
+- Writing skills and a strong affinity to publish.
 - Prior experience in GIS, 3D city modelling, and/or urban simulations would be a plus.
-- Excellent communication skills in English, and an ability to present research in both academic and non-academic venues.
-- Experience with programming (preferably Python and/or C/C++).
+- Communication skills in English, and an ability to present research in both academic and non-academic venues.
+- Experience with programming (preferably Python and/or C/C++) or willingness to learn.
 - Curiosity and passion to explore new concepts, methods and technologies, and capability of identifying and quickly learning the most suitable tools for the research on the go.
 - A positive and proactive stance on open science. Willingness to use and develop open-source software, release data as open data, and promote reproducible research.
 
@@ -55,7 +55,7 @@ In general, you should demonstrate that you possess:
 - You will work in a research and educational environment where you may not only contribute to your own development, but also to others, e.g. by supervising master theses that may arise as part of your research.
 - Opportunity to make impactful contributions in the field, on a globally relevant topic.
 - Visibility and exposure of your work.
-- Flexible working environment.
+- Diverse, inclusive, and flexible working environment.
 - Exploring new ideas and an opportunity to experiment with the state of the art.
 - You will live in a beautiful, clean and efficient city with great food and summer all year round :sunny:, low taxes, unparalleled infrastructure and safety, and in a fully English speaking environment.
 
