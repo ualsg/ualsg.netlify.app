@@ -51,7 +51,7 @@ You should demonstrate that you possess:
 - You will work in a research and educational environment where you may not only contribute to your own development, but also to others, e.g. by supervising master theses that may arise as part of the research.
 - Opportunity to make impactful contributions in the field, on a globally relevant topic.
 - Visibility and exposure of your work.
-- Flexible working environment.
+- A diverse, inclusive, and flexible working environment.
 - Exploring new ideas and an opportunity to experiment with the state of the art.
 - You will live in a beautiful, clean and efficient city with great food and summer all year round :sunny:, low taxes, unparalleled infrastructure and safety, and in a fully English speaking environment.
 - The remuneration will be determined according to the university's salary range depending on the degree and experience.

@@ -10,7 +10,7 @@ header:
 The Lab is active in the following teaching activities at the National University of Singapore:
 
 - [Teaching master courses](#graduate-courses)
-- [Supervising theses and dissertations](#theses-and-dissertations)
+- [Supervising student projects (theses and dissertations)](#theses-dissertations-and-capstone-projects)
 
 Please see below for more information.
 
