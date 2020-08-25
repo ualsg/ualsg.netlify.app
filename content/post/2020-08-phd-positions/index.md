@@ -7,8 +7,8 @@ summary: "We are continuously looking for talented and highly motivated prospect
 authors: [admin]
 tags: [openings, theses, phd]
 categories: []
-date: 2020-08-25T10:09:48+08:00
-lastmod: 2020-08-25T10:09:48+08:00
+date: 2020-08-25T10:14:48+08:00
+lastmod: 2020-08-25T10:14:48+08:00
 featured: false
 draft: false
 
@@ -34,3 +34,4 @@ The PhD candidates will work on compelling topics at the forefront of GIScience,
 In exceptional cases, we will offer co-funding to make the PhD journey more comfortable.
 
 Read the [opening]({{< ref "/openings/ads/2020-phd-geospatial/index.md" >}}) for more information and how to apply.
+
