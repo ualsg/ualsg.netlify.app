@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student Researcher
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Members
 ---
 
 Yuchen is majoring in Mathematical, Computational and Statistical Sciences at the Yale-NUS College, with a minor in Urban Studies.
