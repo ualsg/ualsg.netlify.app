@@ -49,7 +49,7 @@ The application deadlines are usually 15 November for the intake in August next 
 Please start preparing early, and indicate in your application that you would like to be supervised by Dr {{< mention "filip" >}}.
 If you apply, let us know.
 
-Sometimes there are [scholarship opportunities by the school](http://www.nus.edu.sg/nusbulletin/school-of-design-and-environment/graduate-education/financial-assistance-and-scholarships/) to partially or fully fund your PhD journey, and there are external funding options.
+Sometimes there are [scholarship opportunities by the school](http://www.nus.edu.sg/nusbulletin/school-of-design-and-environment/graduate-education/financial-assistance-and-scholarships/) and also by the [university](http://www.nus.edu.sg/registrar/prospective-students/graduate/scholarship) to partially or fully fund your PhD journey, and there are external funding options.
 Do also check the comprehensive list in the continuation of this web page, which we prepared for candidates seeking external funding.
 For example, if applicable to you, check out the [The Schlumberger Foundation Faculty for the Future](https://www.facultyforthefuture.net) for another potential scholarship.
 Please note that most (external) scholarships require a candidate to be admitted to a PhD programme before applying for funding (e.g. providing letter of acceptance from the university).
@@ -98,7 +98,7 @@ Please see below for examples we have selected.
 
 + [The Branco Weiss Fellowship](https://brancoweissfellowship.org) awards young researchers around the world with a generous personal research grant, giving them the freedom to work on whatever topic they choose anywhere in the world, for up to five years.
 
-+ Citizens of [Commonwealth countries](https://thecommonwealth.org/member-countries) (there are 53 countries in the Commonwealth of Nations; incl. India, Australia, Canada, New Zealand, Malaysia, several in Africa and the Caribbean, and a couple European ones -- Cyprus, Malta, and UK) can consider applying for the [NUS Commonwealth Scholarship](http://www.nus.edu.sg/admissions/graduate-studies/scholarships-financial-aid-and-fees/scholarships-awards/commonwealth-scholarship.html). The scholarship includes a monthly stipend and tuition fees.
++ Citizens of [Commonwealth countries](https://thecommonwealth.org/member-countries) (there are 53 countries in the Commonwealth of Nations; incl. India, Australia, Canada, New Zealand, Malaysia, several in Africa and the Caribbean, and a couple European ones -- Cyprus, Malta, and UK) can consider applying for the [NUS Commonwealth Scholarship](http://www.nus.edu.sg/registrar/prospective-students/graduate/scholarship/commonwealth-scholarship). The scholarship includes a monthly stipend and tuition fees.
 
 + [The Schlumberger Foundation Faculty for the Future](https://www.facultyforthefuture.net) program provides fellowship awards for women in science, technology, engineering and mathematics (STEM) from developing and emerging countries to pursue a PhD or a postdoc abroad.
 
