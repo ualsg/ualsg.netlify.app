@@ -1,22 +1,22 @@
 +++
-date = 2020-07-15
-title = "Vacancy: Postdoctoral research fellow (GIScience/3D/urban analytics)"
+date = 2020-09-10
+title = "Vacancy: Postdoctoral research fellow on data quality/integrity in 3D GIS/smart cities/digital twins"
 +++
 
-![](header.png)
+{{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
 
 ### Job and project description
 
-The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a talented and highly motivated postdoctoral research fellow for a leading role in the research group.
+The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a talented and highly motivated postdoctoral research fellow to join our research group to work on the topic of data quality and integrity in 3D city models and digital twins.
 
-The successful applicant will spearhead new research initiatives in the domains of the Lab (3D geospatial data, urban analytics, and GIScience) and will be involved in the supervision of the members of the team.
+The successful applicant will focus on establishing and improving quality procedures for 3D city models and digital twins, researching sources and the impact of errors, initiating new means of benchmarking data and solutions, and understanding the reliability and integrity of modern solutions pertaining to geospatial data infrastructure in the context of smart cities.
+The work will include implementing solutions and drafting standards.
 
-Candidates must have a strong computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, with a successful track record.
+Candidates should have a computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, with a successful track record.
 
-The research fellow will work together with the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg), on managing the group, developing its strategy and research orientation, and working on project proposals.
+The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
 The Lab will provide a motivating, conducive, and flexible environment to explore the research fellow's interests and build skills required for future career steps.
-
 
 ### Scope and responsibilities
 
@@ -24,27 +24,34 @@ Your key responsibilities will be:
 
 - Conducting and leading research activities.
 - Exploring new research directions and experimenting with new datasets and technologies.
-- Assisting the PI in the management of the research group and supervision of team members, primarily students.
+- Assisting the PI in various activities in the research group such as  supervision of students and assisting with funding applications.
 - Preparation of publications and managing other forms of research output such as software and data.
-- Assisting with funding applications.
 
 ### Required qualifications
 
 You should demonstrate that you possess:
 
 - A PhD degree :mortar_board: in a related discipline from a reputable university. Current PhD candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their PhD degree will be completed before the start of the appointment.
-- An ability to develop an independent project within the Lab.
+- An ability to conduct research independently.
 - A solid publication record, excellent writing skills, and a strong affinity to publish.
 - Prior experience in one of the following areas: GIS, Geomatics, 3D city modelling, computer science, urban planning, and/or urban simulations.
 - Good communication skills in English, and an ability to present research in both academic and non-academic venues.
-- Experience with programming (preferably Python and/or C/C++). Having built software used by others and/or scientific software experience is a plus.
-- An ability to supervise researchers and students.
+- Experience with programming. Having built software used by others and/or scientific software experience is a plus.
+- An ability to supervise others (e.g. students).
 - Curiosity and passion to explore new concepts, methods and technologies, and capability of identifying and quickly learning the most suitable tools for the research on the go.
 - A positive and proactive stance on open science, preferably with demonstrated activities such as using and developing open-source software, releasing data as open data, and promoting reproducible research.
 
+### Further reading about the topic
+
+The topic pertains to the decades old topic of spatial data quality; there are numerous research papers published.
+However, the main research gap is that much of the research is confined to 2D spatial data and it falls short with the recent trends of the proliferation of 3D city models / digital twins, increasing integration of different datasets, and growing number of actors / users of geospatial data infrastructures.
+
+The goal is to establish a new research line that caters to these trends and it considers the big picture of the quality and integrity of data and solutions in the era of digital twins and ubiquitousness of geoinformation in smart cities.
+For the work done so far in this topic by the Lab and the PI, check out the [Lab's list of publications](/publication) and [his previous work](https://filipbiljecki.com/#journals) before establishing the Lab at NUS.
+While not entirely related, you might also want to check out the outcome of the international collaborative project [GeoBIM benchmark 2019](https://3d.bk.tudelft.nl/projects/geobim-benchmark/), in which we participated.
+
 
 ### Our offer
-
 
 - You will be working on compelling research activities at the forefront of geographical information science and urban data science in a new research group that is gaining a strong momentum in Singapore and overseas.
 - You will advance your research and transferable skills required for the next stage of your career.
@@ -84,10 +91,10 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 
 ### Application
 
-Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the PDRF position" in the subject), including the following materials:
+Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the postdoc position on quality" in the subject), including the following materials:
 
 * CV
-* Cover letter (up to 2 pages) briefly indicating (i) your current and future research interests and plans; and (ii) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date.
+* Cover letter (up to 2 pages) briefly indicating (i) your outlook on the state of the art of the topic and your idea and research plans how would you improve it; and (ii) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date.
 * A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/), which best mirrors your background and research so far. A link to the article is sufficient, no need to include a PDF in your email.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks, and portfolio.
@@ -97,7 +104,7 @@ In accordance with the Personal Data Protection Act (PDPA), please provide conse
 {{% alert note %}}
 The deadline to apply is 15 December 2020.
 The vacancy can be closed earlier if a suitable candidate is identified before the deadline.
-Applications will be considered as of 1 September 2020.
+Applications will be considered as of 1 October 2020.
 {{% /alert %}}
 
 For general information about academic jobs at NUS, please visit [NUS  Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).

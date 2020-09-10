@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "We are accepting PhD students"
+title: "We are accepting PhD candidates"
 subtitle: "Come and join us"
 summary: "We are continuously looking for talented and highly motivated prospective graduate students to join our research group."
 authors: [admin]
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Photo by [Jack Lin](https://unsplash.com/@jacklin212) on [Unsplash](https://unsplash.com/)."
+  caption: "Part of the NUS campus. Photo by [Jack Lin](https://unsplash.com/@jacklin212) on [Unsplash](https://unsplash.com/)."
   focal_point: ""
   preview_only: false
 

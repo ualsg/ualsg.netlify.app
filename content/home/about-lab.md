@@ -13,7 +13,7 @@ weight = 20  # Order that this section will appear in.
 +++
 
 {{% alert note %}}
-We are [hiring](openings) a postdoctoral research fellow to join our growing research group in 2021.
+We are [hiring](openings) postdoctoral research fellows to join our growing research group in 2021.
 {{% /alert %}}
 
 We are a new interdepartmental multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg), the #1 ranked university in Asia and world's #11 (QS). 

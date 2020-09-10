@@ -16,8 +16,8 @@ header:
 
 {{< header_altmetric >}}
 
-These are our publications since the lab was established in 2019 (earlier publications of the PI of the lab [Dr Filip Biljecki](/authors/filip/) are available [here](https://filipbiljecki.com/#journals)).
+These are our publications since the Lab was established in 2019 (earlier publications of the PI of the lab [Dr Filip Biljecki](/authors/filip/) are available [here](https://filipbiljecki.com/#journals)).
 We strive to publish our papers open access when possible.
-The PDFs posted here are either as gold or green open access.
+The PDFs posted here are either published as [gold or green open access](https://en.wikipedia.org/wiki/Open_access#Colour_naming_system).
 For the authoritative publication please visit the publisher's website.
-For code and data check our [resources page](/resources/).
+For code and data check our [Github page](https://github.com/ualsg) or follow the links noted in the publications.
