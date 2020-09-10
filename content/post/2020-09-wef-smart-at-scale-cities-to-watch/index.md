@@ -4,7 +4,7 @@
 title: "Smart at Scale: Cities to Watch (25 Case Studies)"
 subtitle: "World Economic Forum community paper"
 summary: "We contributed to the latest report of the World Economic Forum focusing on successful pilot projects that scaled."
-authors: []
+authors: [admin]
 tags: [smart cities, wef]
 categories: []
 date: 2020-09-15T20:33:08+08:00
