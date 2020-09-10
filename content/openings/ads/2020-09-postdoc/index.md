@@ -9,8 +9,8 @@ title = "Vacancy: Postdoctoral research fellow on data quality/integrity in 3D G
 
 The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a talented and highly motivated postdoctoral research fellow to join our research group to work on the topic of data quality and integrity in 3D city models and digital twins.
 
-The successful applicant will focus on establishing and improving quality procedures for 3D city models and digital twins, researching sources and the impact of errors, initiating new means of benchmarking data and solutions, and understanding the reliability and integrity of modern solutions pertaining to geospatial data infrastructure in the context of smart cities.
-The work will include implementing solutions and drafting standards.
+The successful applicant will focus on establishing and improving quality procedures for 3D city models and digital twins, researching sources and the impact of errors, initiating new means of benchmarking data and workflows, and understanding the reliability and integrity of modern solutions pertaining to geospatial data infrastructure in the context of smart cities.
+The work will include implementing tools and drafting standards.
 
 Candidates should have a computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, with a successful track record.
 
