@@ -88,10 +88,12 @@ user_groups:
 ---
 
 Filip has been working at the School of Design and Environment, National University of Singapore since 2017.
-He is the principal investigator of the [NUS Urban Analytics Lab](/).
+He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In 2020 he was appointed as NUS Presidential Young Professor.
 
-He holds a PhD degree (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics. The list of Filip's publications is available [here](https://filipbiljecki.com).
+His background is in Geomatic engineering.
+Filip holds a PhD degree (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
+The list of his publications is available [here](https://filipbiljecki.com/#journals).
 
 Additional appointments:
 * World Economic Forum, Global Future Council on Cities and Urbanization -- Council Fellow

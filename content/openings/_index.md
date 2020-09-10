@@ -10,12 +10,13 @@ header:
 Thank you for your interest in our research group.
 Please find below the list of possible schemes to get involved, primarily [openings](#openings) we have subject to funding and projects.
 
-### Aims and why us
+## Aims and why us
 
-We are excited to build a new research group focused on 3D geoinformation, urban analytics, and geographic data science.
+We are excited to grow a new research group focused on 3D geoinformation, urban analytics, and geographic data science.
 Working at our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire 3D GIS ecosystem under the same roof: from standardisation and generation of 3D city models all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field. 
 
 Working at NUS means being part of one of the world's top universities, and having access to an extensive network of experts across myriads of domains.
+Beyond the university, our network and collaborations span scores of researchers around the world working on a variety of topics.
 
 Considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), Singapore [successfully attracts talents from all over the world](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-world living and working experience in the heart of Southeast Asia. And great food and weather, of course.
 
@@ -73,7 +74,7 @@ However, there are exceptions.
 For example, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
 If your university or country has a similar programme, or if you have your own funding to come and spend time in Singapore, feel free to contact us.
 
-Occasionally there are student research jobs opportunities, which are [advertised](/openings) when available.
+Occasionally there are student research jobs opportunities, which are [advertised](/openings/#openings) when available.
 
 ## Visitors: research visit
 

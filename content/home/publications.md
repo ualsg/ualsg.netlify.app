@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Recent publications"
-subtitle = "Our 10 latest papers. Enjoy"
+subtitle = "Our 15 latest papers. Enjoy"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 10
+  count = 15
   
   # Choose how many pages you would like to offset by
   offset = 0
