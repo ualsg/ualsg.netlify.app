@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Smart at Scale: Cities to Watch (25 Case Studies)"
+title: "New paper: Smart at Scale: Cities to Watch (25 Case Studies)"
 subtitle: "World Economic Forum community paper"
 summary: "We contributed to the latest report of the World Economic Forum focusing on successful pilot projects that scaled."
 authors: [admin]
 tags: [smart cities, wef]
 categories: []
-date: 2020-09-15T20:33:08+08:00
-lastmod: 2020-09-15T20:33:08+08:00
+date: 2020-09-20T20:33:08+08:00
+lastmod: 2020-09-20T20:33:08+08:00
 featured: false
 draft: true
 
