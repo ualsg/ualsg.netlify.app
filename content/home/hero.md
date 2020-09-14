@@ -9,7 +9,7 @@ title = "Urban Analytics Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 # hero_media = "header/e3.png"
-hero_media = "hdb-solar.png"
+hero_media = "hdb-solar.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.

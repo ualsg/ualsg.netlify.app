@@ -16,7 +16,7 @@ We are [hiring](openings) postdoctoral research fellows to join our growing rese
 {{% /alert %}}
 
 <p align="center">
-  <a href="openings/"><img src="img/banner-positions.png"/></a>
+  <a href="openings/"><img src="img/banner-positions.jpg"/></a>
 </p>
 
 We are a new interdepartmental multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg), the #1 ranked university in Asia and world's #11 (QS). 
