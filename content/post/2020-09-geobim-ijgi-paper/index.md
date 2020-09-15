@@ -3,7 +3,7 @@
 
 title: "New paper: Tools for BIM-GIS Integration (IFC Georeferencing and Conversions): Results from the GeoBIM Benchmark 2019"
 subtitle: ""
-summary: "Much work has been done on quality of geoinformation and interoperability between BIM and GIS. However, the intersection of the two - quality control of the conversion between BIM and GIS - remains uncharted."
+summary: ""
 authors: [admin]
 tags: [bim, gis, data integration, paper]
 categories: []
