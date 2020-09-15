@@ -37,7 +37,7 @@ We are also happy to have contributors and collaborations.
 | ------------------| ------------------------------ |
 | Short description: | About 12k semantically rich 3D buildings in Singapore in CityJSON and OBJ |
 | Formats | [CityJSON](https://cityjson.org), [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file) |
-| Further reading: | Please read more here in our [blog post]({{< ref "/post/2019-08-hdb-3d/index.md" >}}) |
+| Further reading: | Please read more here in our [blog post]({{< ref "/post/2019-08-hdb-3d/index.md" >}}) or in the [paper](/publication/2020-3-dgeoinfo-3-d-asean/) |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/hdb3d-data) |
 | Code: | The code used to generate the dataset is available in a [separate <i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/hdb3d-code) |
 | Main data source(s): | HDB, OpenStreetMap, OneMap. All open data |
