@@ -5,7 +5,7 @@ title: "New paper: Exploration of open data in Southeast Asia to generate 3D bui
 subtitle: "3D GeoInfo 2020 paper"
 summary: "This article investigates the current status of generating 3D building models across 11 countries in Southeast Asia from publicly available data, primarily volunteered geoinformation (OpenStreetMap)."
 authors: [admin]
-tags: [3d building models, asean, openstreetmap, 3d geoinfo]
+tags: [3d building models, asean, openstreetmap, 3d geoinfo, events, conference, paper]
 categories: []
 date: 2020-09-12T08:35:16+08:00
 lastmod: 2020-09-12T08:35:16+08:00

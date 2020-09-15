@@ -5,7 +5,7 @@ title: "Geospatial and urban data science journals"
 subtitle: "List of relevant journals with their latest metrics"
 summary: "List of relevant journals with their latest metrics"
 authors: [filip]
-tags: [journals, guide, gis, index]
+tags: [journals, guide, gis, index, long reads, analysis]
 categories: []
 date: 2020-07-06T08:56:41+08:00
 lastmod: 2020-07-18T08:56:41+08:00

@@ -5,7 +5,7 @@ title: "Visit by students from HFT Stuttgart"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [visits]
+tags: [visits, hft]
 categories: []
 date: 2019-08-31T18:20:18+08:00
 lastmod: 2019-08-31T18:20:18+08:00

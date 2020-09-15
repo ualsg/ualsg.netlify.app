@@ -5,7 +5,7 @@ title: "3D GeoInfo 2019 in Singapore: a success. Thanks everyone!"
 subtitle: "3D Singapore - we had a great week!"
 summary: ""
 authors: [admin]
-tags: [3d geoinfo, conferences]
+tags: [3d geoinfo, conference, paper]
 categories: []
 date: 2019-09-28T12:11:22+08:00
 lastmod: 2019-09-28T12:11:22+08:00

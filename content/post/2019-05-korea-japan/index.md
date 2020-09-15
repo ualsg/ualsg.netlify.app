@@ -5,7 +5,7 @@ title: "Visits to Korea and Japan"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [visits]
+tags: [visits, korea, japan]
 categories: []
 date: 2019-05-22T17:53:40+08:00
 lastmod: 2019-05-22T17:53:40+08:00

@@ -5,7 +5,7 @@ title: "Our participation at the World Economic Forum - Global Future Councils 2
 subtitle: ""
 summary: "The WEF’s Global Future Councils are the world’s foremost interdisciplinary knowledge network dedicated to promoting innovative thinking to shape a sustainable and inclusive future for all."
 authors: [admin]
-tags: [wef, world economic forum]
+tags: [wef, world economic forum, events, conference]
 categories: []
 date: 2019-11-05T20:02:11+04:00
 lastmod: 2019-11-05T20:02:11+04:00

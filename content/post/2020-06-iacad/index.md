@@ -5,7 +5,7 @@ title: Keynote at IACAD 2020
 subtitle: International Academic Conference on Architecture and Design
 summary: The International Academic Conference on Architecture and Design (IACAD) 2020 has been held last week, and we contributed with a keynote.
 authors: [admin]
-tags: [conference, events, talks]
+tags: [conference, events, talks, keynote]
 categories: []
 date: 2020-06-08T09:39:03+08:00
 lastmod: 2020-06-08T09:39:03+08:00

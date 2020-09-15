@@ -5,7 +5,7 @@ title: "ISPRS Geospatial Week 2019"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [conferences, isprs]
+tags: [conference, isprs, events, paper]
 categories: []
 date: 2019-06-24T07:39:14+08:00
 lastmod: 2019-06-24T07:39:14+08:00
@@ -34,4 +34,4 @@ As part of the [ISPRS WG IV/10 (Advanced Geospatial Applications for Smart Citie
 
 The papers have been published in the [ISPRS Annals](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-2-W5/index.html) and the [ISPRS Archives](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-2-W13/index.html) (our prefaces can be found [here]({{< ref "/publication/2019-gsw-preface-smartgeoapps-annals/index.md" >}}) and [here]({{< ref "/publication/2019-gsw-preface-smartgeoapps-arch/index.md" >}})).
 
-We also published a [paper]({{< ref "/publication/2019-gsw-geobim-benchmark/index.md" >}}) during the conference, about the preliminary results of the [GeoBIM benchmark](https://3d.bk.tudelft.nl/projects/geobim-benchmark/).
+We also published a collaborative [paper]({{< ref "/publication/2019-gsw-geobim-benchmark/index.md" >}}) during the conference, about the preliminary results of the [GeoBIM benchmark](https://3d.bk.tudelft.nl/projects/geobim-benchmark/).

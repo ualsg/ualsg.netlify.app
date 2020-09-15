@@ -5,7 +5,7 @@ title: "New graduation projects completed at our Lab"
 subtitle: "Great job people, it was nice working with you"
 summary: ""
 authors: [admin]
-tags: [teaching, theses]
+tags: [teaching, theses, msc, students]
 categories: []
 date: 2020-08-23T11:15:02+08:00
 lastmod: 2020-08-23T11:15:02+08:00

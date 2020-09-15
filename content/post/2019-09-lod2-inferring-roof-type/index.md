@@ -5,7 +5,7 @@ title: "Towards generating LoD2 models without aerial surveys using machine lear
 subtitle: ""
 summary: "The paper deals with inferring the type of roof from LOD1 models, potentially contributing to a broader context of a workflow of generating LoD2 models bypassing traditional approaches."
 authors: [admin]
-tags: [machine learning, lod2, geographic data science, 3D geoinfo]
+tags: [machine learning, lod2, geographic data science, 3D geoinfo, paper, events, conference]
 categories: []
 date: 2019-09-23T18:35:16+08:00
 lastmod: 2019-09-23T18:35:16+08:00

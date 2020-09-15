@@ -5,7 +5,7 @@ title: "PhD and Postdoc fellowship opportunity (Faculty for the Future Fellowshi
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [scholarship, fellowship]
+tags: [scholarship, fellowship, teaching, phd]
 categories: []
 date: 2019-08-19T19:51:36+08:00
 lastmod: 2019-08-19T19:51:36+08:00

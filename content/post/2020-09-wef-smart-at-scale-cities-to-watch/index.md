@@ -5,10 +5,10 @@ title: "New paper: Smart at Scale: Cities to Watch (25 Case Studies)"
 subtitle: "World Economic Forum community paper"
 summary: "We contributed to the latest report of the World Economic Forum focusing on successful pilot projects that scaled."
 authors: [admin]
-tags: [smart cities, wef]
+tags: [smart cities, wef, report]
 categories: []
-date: 2020-09-20T20:33:08+08:00
-lastmod: 2020-09-20T20:33:08+08:00
+date: 2020-09-25T20:33:08+08:00
+lastmod: 2020-09-25T20:33:08+08:00
 featured: false
 draft: true
 
@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [urban-modelling-smart-cities]
 ---
 
 The World Economic Forum (WEF) has published a new report -- Smart at Scale: Cities to Watch.

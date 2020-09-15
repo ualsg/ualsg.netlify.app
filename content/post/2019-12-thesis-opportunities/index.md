@@ -5,7 +5,7 @@ title: "Thesis opportunities for undergrad and grad students"
 subtitle: ""
 summary: "We unveiled the list of thrilling student projects in GIS, 3D city modelling, and urban analytics"
 authors: [admin]
-tags: [teaching]
+tags: [teaching, theses]
 categories: []
 date: 2019-12-19T05:47:19+08:00
 lastmod: 2019-12-19T05:47:19+08:00

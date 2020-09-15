@@ -5,7 +5,7 @@ title: "Participation at Geospatial Kuala Lumpur 2019"
 subtitle: "GGT, SDSC, and LADM under one roof"
 summary: ""
 authors: [admin]
-tags: [conferences]
+tags: [conference, events, paper]
 categories: []
 date: 2019-10-03T16:31:54+08:00
 lastmod: 2019-10-03T16:31:54+08:00

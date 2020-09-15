@@ -5,7 +5,7 @@ title: "New paper: Visualising detailed CityGML and ADE at the building scale"
 subtitle: "3D GeoInfo 2020 paper"
 summary: "There is an increasing activity in developing workflows and implementations to convert BIM data into CityGML. However, there are still not many platforms that are suitable to view and interact with the detailed information stored as a result of such conversions, especially if an Application Domain Extension (ADE) is involved to support additional information."
 authors: [admin]
-tags: [bim, gis, data integration, 3d geoinfo]
+tags: [bim, gis, data integration, 3d geoinfo, paper, conference, events]
 categories: []
 date: 2020-09-11T08:35:16+08:00
 lastmod: 2020-09-11T08:35:16+08:00

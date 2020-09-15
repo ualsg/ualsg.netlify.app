@@ -5,7 +5,7 @@ title: "Call for papers for our workshop at ACM ICMR 2020 in Dublin"
 subtitle: "Intelligent Cross-Data Analysis and Retrieval"
 summary: "We're involved in the ACM International Conference on Multimedia Retrieval (ICMR), by co-organising the Workshop on Intelligent Cross-Data Analysis and Retrieval"
 authors: [admin]
-tags: [conference, cfp, events]
+tags: [conference, cfp, events, icmr]
 categories: []
 date: 2019-12-02T17:18:30+08:00
 lastmod: 2019-12-02T17:18:30+08:00
