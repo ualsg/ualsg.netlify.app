@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Collaboration with Prof [Jantien Stoter](https://3d.bk.tudelft.nl/jstoter/) (TU Delft) and Dr [Serene Ho](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/h/ho-dr-serene) (RMIT University).

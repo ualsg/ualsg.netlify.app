@@ -5,7 +5,7 @@ title: "Assessing the quality of OpenStreetMap building data in Singapore"
 subtitle: "A new study focusing on buildings"
 summary: ""
 authors: [ethan]
-tags: []
+tags: [report, teaching, openstreetmap]
 categories: []
 date: 2020-08-22T10:15:02+08:00
 lastmod: 2020-08-22T10:15:02+08:00

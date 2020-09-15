@@ -5,7 +5,7 @@ title: "We are accepting PhD candidates"
 subtitle: "Come and join us"
 summary: "We are continuously looking for talented and highly motivated prospective graduate students to join our research group."
 authors: [admin]
-tags: [openings, theses, phd]
+tags: [openings, theses, phd, teaching]
 categories: []
 date: 2020-08-25T10:14:48+08:00
 lastmod: 2020-08-25T10:14:48+08:00

@@ -27,5 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-We are a new lab at the School of Design and Environment at the National University of Singapore focusing on topics related to urban analytics.
+We are a new lab at the School of Design and Environment at the National University of Singapore focusing on topics related to geospatial technologies and urban analytics.
 Please follow our website as we are building our research agenda, and feel free to get in touch with us.

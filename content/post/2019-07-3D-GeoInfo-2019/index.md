@@ -5,7 +5,7 @@ title: "3D GeoInfo 2019 conference in Singapore"
 subtitle: ""
 summary: ""
 authors: [admin]
-tags: [3D Geoinfo, conferences, 3D GIS]
+tags: [3D Geoinfo, conference, 3D GIS]
 categories: []
 date: 2019-07-28T10:35:33+08:00
 lastmod: 2019-07-28T10:35:33+08:00

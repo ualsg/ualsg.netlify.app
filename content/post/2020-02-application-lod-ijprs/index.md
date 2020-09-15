@@ -5,7 +5,7 @@ title: "Introducing the application-driven LOD modeling paradigm for 3D building
 subtitle: "New journal paper published in the ISPRS Journal of Photogrammetry and Remote Sensing"
 summary: "New journal paper published in the ISPRS Journal of Photogrammetry and Remote Sensing"
 authors: [admin]
-tags: [lod, applications]
+tags: [lod, applications, paper]
 categories: []
 date: 2020-02-04T09:50:15+08:00
 lastmod: 2020-02-04T09:50:15+08:00

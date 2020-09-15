@@ -5,7 +5,7 @@ title: "Participation at the 3D GeoInfo 2020 conference"
 subtitle: "The first online instance of the series"
 summary: "3D GeoInfo is a key conference in the 3D GIS community."
 authors: [admin]
-tags: [3d geoinfo, events]
+tags: [3d geoinfo, events, conference]
 categories: []
 date: 2020-09-13T15:07:53+08:00
 lastmod: 2020-09-13T15:07:53+08:00

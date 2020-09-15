@@ -5,7 +5,7 @@ title: "Funding opportunities for prospective PhD candidates and postdoctoral re
 subtitle: ""
 summary: "We have prepared an extensive list of external funding opportunities"
 authors: [admin]
-tags: [funding]
+tags: [funding, teaching, phd, opportunities]
 categories: []
 date: 2019-12-13T09:55:19+08:00
 lastmod: 2019-12-13T09:55:19+08:00

@@ -5,7 +5,7 @@ title: "Update on the GeoBIM benchmark"
 subtitle: "Intermediate results"
 summary: "An investigation into the implementation state of open standards in software is currently ongoing through the ISPRS/EuroSDR ‘GeoBIM benchmark 2019’ initiative"
 authors: [admin]
-tags: [ifc, geobim, citygml, bim, 3D geoinfo]
+tags: [ifc, geobim, citygml, bim, 3D geoinfo, paper, conference, events]
 categories: []
 date: 2019-09-27T09:35:16+08:00
 lastmod: 2019-09-27T09:35:16+08:00

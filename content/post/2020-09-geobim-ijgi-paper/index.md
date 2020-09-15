@@ -5,7 +5,7 @@ title: "New paper: Tools for BIM-GIS Integration (IFC Georeferencing and Convers
 subtitle: ""
 summary: "Much work has been done on quality of geoinformation and interoperability between BIM and GIS. However, the intersection of the two - quality control of the conversion between BIM and GIS - remains uncharted."
 authors: [admin]
-tags: [bim, gis, data integration]
+tags: [bim, gis, data integration, paper]
 categories: []
 date: 2020-09-14T08:00:16+08:00
 lastmod: 2020-09-14T08:00:16+08:00
@@ -30,7 +30,7 @@ projects: [geobim-benchmark]
 
 {{< figure src="featured.jpg" title="Views of the Myran model converted to CityGML by the test AGIS-FME-IFCr-L1, visualized in azul. In this case, the roof is missing." numbered="false" lightbox="true" >}}
 
-We published a new paper:
+A new collaborative paper in which we have been involved has been published:
 
 > Noardo F, Harrie L, Arroyo Ohori K, Biljecki F, Ellul C, Krijnen, T, Eriksson H, Guler D, Hintz D, Jadidi M, Pla M, Sanchez S, Soini V, Stouffs R, Tekavec J, Stoter J (2020): Tools for BIM-GIS Integration (IFC Georeferencing and Conversions): Results from the GeoBIM Benchmark 2019. _ISPRS International Journal of Geo-Information._ 9(9): 502. [<i class="ai ai-doi-square ai"></i> 10.3390/ijgi9090502](https://doi.org/10.3390/ijgi9090502) [<i class="far fa-file-pdf"></i> PDF](/publication/2020-ijgi-geobim-integration/2020-ijgi-geobim-integration.pdf) <i class="ai ai-open-access-square ai"></i>
 
