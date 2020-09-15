@@ -44,7 +44,7 @@ For more information please see the [paper](/publication/2020-3-dgeoinfo-3-d-ase
 BibTeX citation:
 ```bibtex
 @article{2020_3dgeoinfo_3d_asean,
- author = {Biljecki, F.},
+ author = {Biljecki, F},
  doi = {10.5194/isprs-annals-vi-4-w1-2020-37-2020},
  journal = {ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences},
  pages = {37--44},

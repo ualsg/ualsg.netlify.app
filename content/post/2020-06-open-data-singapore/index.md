@@ -8,7 +8,7 @@ authors: [admin]
 tags: [open data, singapore, guide, index]
 categories: []
 date: 2020-06-24T08:04:48+08:00
-lastmod: 2020-08-22T10:32:48+08:00
+lastmod: 2020-09-15T10:32:48+08:00
 featured: false
 draft: false
 
@@ -48,7 +48,7 @@ The data sources can be grouped into the following categories.
 - [Data.gov.sg](https://data.gov.sg) -- the Government's Open Data portal, containing almost 2000 datasets on myriads of topics from dozens of public organisations. Many datasets are regularly updated. There are some GIS datasets too, and also APIs providing real-time data.
 - Government resources that are outside the realm of Data.gov.sg, e.g. there may be additional datasets not deposited in the central government repository, some that are slightly different, or those with newer updates. For example, [LTA's DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall.html) and [SingStat](https://www.singstat.gov.sg/find-data/search-by-a-z) have some additional resources, or datasets that are available on [Data.gov.sg](https://data.gov.sg) but they are arranged in various, potentially more appropriate forms (e.g. detailed time series instead of separate datasets). Such resources include several APIs as well.
 - [OpenStreetMap](https://www.openstreetmap.org/) -- needless to mention for geospatial data, but surprisingly often overlooked.
-OSM appears to have a very high level of quality in Singapore and rapid updates. Its data quality assessment was subject of a recent [research conducted at our Lab]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}).
+OSM appears to have a very high level of quality in Singapore and rapid updates. Its data quality assessment was subject of recent research efforts conducted at our Lab (see [here]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}) and [here]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}})).
 - Data by research groups, companies, community, ...
 
 This list is by no means a complete inventory of open datasets useful for urban analytics covering the city-state.
@@ -75,7 +75,7 @@ It still might be useful though.
 
 Unfortunately, 3D city models are not released as open data, except the one [we generated covering only HDBs]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
 We are [working]({{< ref "/project/3d-open/index.md" >}}) on including other buildings.
-Worth mentioning is that OpenStreetMap has [a relatively high level of completeness of building heights and floors]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}), in comparison to other countries.
+Worth mentioning is that OpenStreetMap has [a relatively high level of completeness of building heights and floors]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}}), in comparison to other countries.
 
 ### Real estate transactions
 

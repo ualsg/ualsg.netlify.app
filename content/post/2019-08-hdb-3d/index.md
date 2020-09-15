@@ -135,18 +135,17 @@ If all this sounds good to you, the dataset is available on our [<i class="fab f
 The datasets are below 100MB in size thanks to the compactness of the CityJSON and OBJ formats.
 
 {{< hl >}}Terms of use: if using the data, please mention the following data sources: NUS Urban Analytics Lab, HDB Singapore, OpenStreetMap contributors, and OneMap.
-If you are using it for a nice publication, please cite the following [paper](https://doi.org/10.1016/j.compenvurbsys.2017.01.001):{{< /hl >}} 
+If you are using it for a nice publication, please cite the following [paper](https://doi.org/10.5194/isprs-annals-VI-4-W1-2020-37-2020):{{< /hl >}} 
 
 ```
-@article{ceus_inferring_heights,
-    author = {Biljecki, Filip and Ledoux, Hugo and Stoter, Jantien},
-    title = {{Generating 3D city models without elevation data}},
-    journal = {Computers, Environment and Urban Systems},
-    year = {2017},
-    volume = {64},
-    pages = {1--18},
-    month = jul,
-    doi = {10.1016/j.compenvurbsys.2017.01.001}
+@article{2020_3dgeoinfo_3d_asean,
+  author = {Biljecki, F},
+  doi = {10.5194/isprs-annals-vi-4-w1-2020-37-2020},
+  journal = {ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  pages = {37--44},
+  title = {Exploration of open data in Southeast Asia to generate 3D building models},
+  volume = {VI-4/W1-2020},
+  year = {2020}
 }
 ```
 
@@ -206,6 +205,11 @@ There are around 12 thousand HDB buildings in Singapore:
 ![](hdb3d-c3_att.png)
 More technical details are available on our Github repositories for [data](https://github.com/ualsg/hdb3d-data) and [code](https://github.com/ualsg/hdb3d-code).
 
+
+### Further reading (updated September 2020)
+
+A [paper](/publication/2020-3-dgeoinfo-3-d-asean/) has been published:
+> Biljecki F (2020): Exploration of open data in Southeast Asia to generate 3D building models. _ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences._ VI-4/W1-2020: 37-44. [<i class="ai ai-doi-square ai"></i> 10.5194/isprs-annals-vi-4-w1-2020-37-2020](https://doi.org/10.5194/isprs-annals-vi-4-w1-2020-37-2020) [<i class="far fa-file-pdf"></i> PDF](/publication/2020-3-dgeoinfo-3-d-asean/2020-3-dgeoinfo-3-d-asean.pdf) <i class="ai ai-open-access-square ai"></i>
 
 ### Point of contact
 
