@@ -12,7 +12,7 @@ The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](htt
 The successful applicant will focus on establishing and improving quality procedures for 3D city models and digital twins, researching sources and the impact of errors, initiating new means of benchmarking data and workflows, and understanding the reliability and integrity of modern solutions pertaining to geospatial data infrastructure in the context of smart cities.
 The work will include implementing tools and drafting standards.
 
-Candidates should have a computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, with a successful track record.
+Candidates should have a computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, with a successful track record (in terms of publications/impact and/or other forms of output).
 
 The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
@@ -33,7 +33,7 @@ You should demonstrate that you possess:
 
 - A PhD degree :mortar_board: in a related discipline from a reputable university. Current PhD candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their PhD degree will be completed before the start of the appointment.
 - An ability to conduct research independently.
-- A solid publication record, excellent writing skills, and a strong affinity to publish.
+- A solid publication record with demonstrated impact, excellent writing skills, and a strong affinity to publish.
 - Prior experience in one of the following areas: GIS, Geomatics, 3D city modelling, computer science, urban planning, and/or urban simulations.
 - Good communication skills in English, and an ability to present research in both academic and non-academic venues.
 - Experience with programming. Having built software used by others and/or scientific software experience is a plus.
@@ -43,11 +43,12 @@ You should demonstrate that you possess:
 
 ### Further reading about the topic
 
-The topic pertains to the decades old topic of spatial data quality; there are numerous research papers published.
+The topic pertains to the decades old topic of spatial data quality; there are numerous research papers published, and it is intertwined with knowledge on quality assurance/integrity/benchmarking in other disciplines.
 However, the main research gap is that much of the research is confined to 2D spatial data and it falls short with the recent trends of the proliferation of 3D city models / digital twins, increasing integration of different datasets, and growing number of actors / users of geospatial data infrastructures.
 
 The goal is to establish a new research line that caters to these trends and it considers the big picture of the quality and integrity of data and solutions in the era of digital twins and ubiquitousness of geoinformation in smart cities.
 For the work done so far in this topic by the Lab and the PI, check out the [Lab's list of publications](/publication) and [his previous work](https://filipbiljecki.com/#journals) before establishing the Lab at NUS.
+We are looking to further such projects, but additional reading includes many publications by other research groups.
 While not entirely related, you might also want to check out the outcome of the international collaborative project [GeoBIM benchmark 2019](https://3d.bk.tudelft.nl/projects/geobim-benchmark/), in which we participated.
 
 
@@ -68,7 +69,7 @@ While not entirely related, you might also want to check out the outcome of the 
 The initial appointment is for one year, with a probation period of 3 months.
 The contract can be extended subject to performance.
 
-The start of the appointment is planned for Q2 2021.
+The start of the appointment is planned in approx. Q2 2021.
 
 ### Employer
 

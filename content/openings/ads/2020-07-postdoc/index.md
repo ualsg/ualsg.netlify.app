@@ -11,9 +11,9 @@ The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](htt
 
 The successful applicant will spearhead new research initiatives in the domains of the Lab (3D geospatial data, urban analytics, and GIScience) and will be involved in the supervision of the members of the team.
 
-Candidates must have a strong computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, with a successful track record.
+Candidates must have a strong computational affinity and a PhD degree in geographical information science, computer science, geomatics, or another relevant field of study, with a successful track record (in terms of publications/impact and/or other forms of output).
 
-The research fellow will work together with the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg), on managing the group, developing its strategy and research orientation, and working on project proposals.
+The research fellow will work together with the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg), on managing the research activities of the group, developing its strategy and research orientation, and working on project proposals.
 
 The Lab will provide a motivating, conducive, and flexible environment to explore the research fellow's interests and build skills required for future career steps.
 
@@ -34,7 +34,7 @@ You should demonstrate that you possess:
 
 - A PhD degree :mortar_board: in a related discipline from a reputable university. Current PhD candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their PhD degree will be completed before the start of the appointment.
 - An ability to develop an independent project within the Lab.
-- A solid publication record, excellent writing skills, and a strong affinity to publish.
+- A solid publication record with demonstrated impact, excellent writing skills, and a strong affinity to publish.
 - Prior experience in one of the following areas: GIS, Geomatics, 3D city modelling, computer science, urban planning, and/or urban simulations.
 - Good communication skills in English, and an ability to present research in both academic and non-academic venues.
 - Experience with programming (preferably Python and/or C/C++). Having built software used by others and/or scientific software experience is a plus.
@@ -61,7 +61,7 @@ You should demonstrate that you possess:
 The initial appointment is for one year, with a probation period of 3 months.
 The contract can be extended subject to performance.
 
-The start of the appointment is planned for Q2 2021.
+The start of the appointment is planned in approx. Q2 2021.
 
 ### Employer
 
