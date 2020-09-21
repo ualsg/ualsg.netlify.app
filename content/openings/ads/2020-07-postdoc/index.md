@@ -88,7 +88,7 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 
 * CV
 * Cover letter (up to 2 pages) briefly indicating (i) your current and future research interests and plans; and (ii) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date.
-* A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/), which best mirrors your background and research so far. A link to the article is sufficient, no need to include a PDF in your email.
+* A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/) that mirrors your background and research so far. A link to the article is sufficient, no need to include a PDF in your email.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks, and portfolio.
 
