@@ -1,11 +1,11 @@
 ---
 # Display name
-name: Ang Li Min
-title: Ang Li Min
+name: Lawrence Chew Zheng Xiong
+title: Lawrence Chew Zheng Xiong
 
 # Username (this should match the folder name)
 authors:
-- li-min
+- lawrence
 
 # Is this the primary user of the site?
 superuser: false
@@ -16,17 +16,14 @@ role: Undergraduate Student
 # Organizations/Affiliations
 organizations:
 - name: "National University of Singapore"
-  url: ""
+  #url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: []
-
-interests:
-
+bio: ""
 
 education:
   courses:
-  - course: Bachelor of Social Science with honours (Geography, in progress) 
+  - course: Bachelor's degree with Honours, Major in Geography, Double Minor in Geospatial Information Systems and Urban Studies
     institution: National University of Singapore
     year: 2021
 
@@ -35,15 +32,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:shantong.wang@u.nus.edu'
 - icon: linkedin
   icon_pack: fab
-  link: https://sg.linkedin.com/in/anglimin123
-#- icon: twitter
-#  icon_pack: fab
-#  link: 
+  link: https://www.linkedin.com/in/lawrencechewzx/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -56,9 +48,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Researchers
+- Members
 ---
 
-Ang Li Min is undergraduate student at NUS pursuing a Bachelor of Social Sciences (Honours) in Geography with a double minor in Geographic Information Systems (GIS) and Urban Studies.
-He is interested in geospatial analysis and issues with concerns of cultural and urban geography of landscapes and places. 
-His experience includes an internship at the Urban Redevelopment Authority, and working as Research Assistant at the Asia Research Institute.
+Lawrence is final year undergraduate student at NUS Geography.
+At our Lab, he is focusing on analysing authoritative building information around the world and understanding government policies on open geospatial data.
+Lawrence's working experience includes multiple research stints: at the Singapore Land Authority, NUS Saw Swee Hock School of Public Health, and the NUS Chinese Studies Department.

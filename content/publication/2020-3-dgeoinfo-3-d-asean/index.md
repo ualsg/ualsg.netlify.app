@@ -5,7 +5,7 @@ publishDate: 2020-09-13T06:31:53.357872Z
 authors: ["filip"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: true
 publication: "*ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences*"
 doi: "10.5194/isprs-annals-vi-4-w1-2020-37-2020"
 projects:

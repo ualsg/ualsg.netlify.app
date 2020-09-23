@@ -33,6 +33,9 @@ education:
   - course: MSc in Geomatics
     institution: Delft University of Technology, Netherlands
     year: 
+  - course: BSc in Geodesy and Geoinformatics
+    institution: University of Zagreb, Croatia
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -95,11 +98,11 @@ His background is in Geomatic engineering.
 Filip holds a PhD degree (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
 The list of his publications is available [here](https://filipbiljecki.com/#journals).
 
-Additional appointments:
+### Additional appointments
 * World Economic Forum, Global Future Council on Cities and Urbanization -- Council Fellow
-* PLOS ONE, academic editor for GIS
-* Open Geospatial Data, Standards and Software -- Editorial Board member
-* International Society for Photogrammetry and Remote Sensing, WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions -- Board member
-* Open Geospatial Consortium -- various appointments
+* Open Geospatial Consortium, 3DIM DWG -- Co-Chair
+* PLOS ONE, Academic Editor for Geoinformatics
+* Open Geospatial Data, Standards and Software -- Editorial Board Member
+* International Society for Photogrammetry and Remote Sensing, WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions -- Board Member
+* International Journal of Digital Innovation in the Built Environment -- Editorial Board Member
 
- 

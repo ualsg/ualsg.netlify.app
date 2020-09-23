@@ -7,8 +7,8 @@ summary: "We contributed to the latest report of the World Economic Forum focusi
 authors: [admin]
 tags: [smart cities, wef, report]
 categories: []
-date: 2020-09-25T20:33:08+08:00
-lastmod: 2020-09-25T20:33:08+08:00
+date: 2020-09-30T20:33:08+08:00
+lastmod: 2020-09-30T20:33:08+08:00
 featured: false
 draft: true
 
