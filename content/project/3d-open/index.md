@@ -3,7 +3,7 @@
 
 title: "Large-scale 3D geospatial data for urban analytics"
 summary: "Creating country-wide 3D city models using artificial intelligence"
-authors: [filip, yoong-shin, abraham, ankit, li-min, yuchen]
+authors: [filip, yoong-shin, abraham, kay, koichi, lawrence, shiyue, ankit, li-min, yuchen]
 tags: [machine learning, 3d gis, cityjson]
 categories: []
 date: 2019-10-01T21:11:51+08:00
@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-This three-year project is focused on devising a method to estimate individual building heights in the absence of traditional measurements such as lidar, to generate 3D city models solely from building footprints on a very large scale spanning scores of countries.
+This five-year project is focused on devising a method to estimate individual building heights in the absence of traditional measurements such as lidar, to generate 3D city models solely from building footprints on a very large scale spanning scores of countries.
 It is funded by the National University of Singapore (with contributions by Amazon and Google), and it started in late 2019.
 
 The project seeks to build on top of the method previously presented by the project PI, described in the journal paper:
