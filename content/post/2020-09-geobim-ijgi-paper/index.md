@@ -36,13 +36,18 @@ A new collaborative paper in which we have been involved has been published:
 
 The lead author is [Dr Francesca Noardo](http://www.noardo.eu) from the [3D Geoinformation group](https://3d.bk.tudelft.nl) at the Delft University of Technology.
 
-The integration of 3D city models with Building Information Models (BIM), coined as GeoBIM, facilitates improved data support to several applications, e.g., 3D map updates, building permits issuing, detailed city analysis, infrastructure design, context-based building design, to name a few. To solve the integration, several issues need to be tackled and solved, i.e., harmonization of features, interoperability, format conversions, integration of procedures. The GeoBIM benchmark 2019, funded by ISPRS and EuroSDR, evaluated the state of implementation of tools addressing some of those issues. In particular, in the part of the benchmark described in this paper, the application of georeferencing to Industry Foundation Classes (IFC) models and making consistent conversions between 3D city models and BIM are investigated, considering the OGC CityGML and buildingSMART IFC as reference standards. In the benchmark, sample datasets in the two reference standards were provided. External volunteers were asked to describe and test georeferencing procedures for IFC models and conversion tools between CityGML and IFC. From the analysis of the delivered answers and processed datasets, it was possible to notice that while there are tools and procedures available to support georeferencing and data conversion, comprehensive definition of the requirements, clear rules to perform such two tasks, as well as solid technological solutions implementing them, are still lacking in functionalities. Those specific issues can be a sensible starting point for planning the next GeoBIM integration agendas.
+**Update 2020-09-26:** The paper was featured as the cover story of the September 2020 issue of IJGI!
+
+![](cover.jpg)
+
+The abstract follows.
+
+> The integration of 3D city models with Building Information Models (BIM), coined as GeoBIM, facilitates improved data support to several applications, e.g., 3D map updates, building permits issuing, detailed city analysis, infrastructure design, context-based building design, to name a few. To solve the integration, several issues need to be tackled and solved, i.e., harmonization of features, interoperability, format conversions, integration of procedures. The GeoBIM benchmark 2019, funded by ISPRS and EuroSDR, evaluated the state of implementation of tools addressing some of those issues. In particular, in the part of the benchmark described in this paper, the application of georeferencing to Industry Foundation Classes (IFC) models and making consistent conversions between 3D city models and BIM are investigated, considering the OGC CityGML and buildingSMART IFC as reference standards. In the benchmark, sample datasets in the two reference standards were provided. External volunteers were asked to describe and test georeferencing procedures for IFC models and conversion tools between CityGML and IFC. From the analysis of the delivered answers and processed datasets, it was possible to notice that while there are tools and procedures available to support georeferencing and data conversion, comprehensive definition of the requirements, clear rules to perform such two tasks, as well as solid technological solutions implementing them, are still lacking in functionalities. Those specific issues can be a sensible starting point for planning the next GeoBIM integration agendas.
 
 
 For more information please see the [paper](/publication/2020-ijgi-geobim-integration/) (open access <i class="ai ai-open-access-square ai"></i>).
 
 [![](page-one.png)](/publication/2020-ijgi-geobim-integration/)
-
 
 BibTeX citation:
 ```bibtex
