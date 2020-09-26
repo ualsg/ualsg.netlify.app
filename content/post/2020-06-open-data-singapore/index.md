@@ -9,7 +9,7 @@ tags: [open data, singapore, guide, index, long reads]
 categories: []
 date: 2020-06-24T08:04:48+08:00
 lastmod: 2020-09-15T10:32:48+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
