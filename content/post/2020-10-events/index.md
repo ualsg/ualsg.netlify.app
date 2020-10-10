@@ -28,10 +28,17 @@ image:
 projects: []
 ---
 
-Singapore Geospatial week
+
+After SOTM, IACAD, 3D Geoinfo
+
+
+Singapore Geospatial week, Regional Geospatial Youth Forum
+
 
 Indonesia
 
 Lab meeting
 
 SMU
+
+![](rgyf.jpeg)

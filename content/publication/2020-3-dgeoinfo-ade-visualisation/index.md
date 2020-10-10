@@ -6,7 +6,7 @@ authors: ["Joie Lim", "Patrick Janssen", "filip"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*"
+publication: "*Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*"
 doi: "10.5194/isprs-archives-xliv-4-w1-2020-83-2020"
 projects:
     - bim-gis
