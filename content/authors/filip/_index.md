@@ -99,10 +99,10 @@ Filip holds a PhD degree (top 5%) in 3D GIS from the Delft University of Technol
 The list of his publications is available [here](https://filipbiljecki.com/#journals).
 
 ### Additional appointments
-* World Economic Forum, Global Future Council on Cities and Urbanization -- Council Fellow
 * Open Geospatial Consortium, 3DIM DWG -- Co-Chair
-* PLOS ONE, Academic Editor for Geoinformatics
+* PLOS ONE -- Academic Editor for Geoinformatics
 * Open Geospatial Data, Standards and Software -- Editorial Board Member
 * International Society for Photogrammetry and Remote Sensing, WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions -- Board Member
 * International Journal of Digital Innovation in the Built Environment -- Editorial Board Member
+* World Economic Forum, Global Future Council on Cities and Urbanization -- Fellow (2018-2020)
 
