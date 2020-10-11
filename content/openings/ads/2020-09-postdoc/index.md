@@ -47,7 +47,7 @@ The topic pertains to the decades old topic of spatial data quality; there are n
 However, the main research gap is that much of the research is confined to 2D spatial data and it falls short with the recent trends of the proliferation of 3D city models / digital twins, increasing integration of different datasets, and growing number of actors / users of geospatial data infrastructures.
 
 The goal is to establish a new research line that caters to these trends and it considers the big picture of the quality and integrity of data and solutions in the era of digital twins and ubiquitousness of geoinformation in smart cities.
-For the work done so far in this topic by the Lab and the PI, check out the [Lab's list of publications](/publication) and [his previous work](https://filipbiljecki.com/#journals) before establishing the Lab at NUS.
+For the work done so far in this topic by the Lab and the PI, check out the [Lab's list of publications](/publication) and [his previous work](https://filipbiljecki.com/#publications) before establishing the Lab at NUS.
 We are looking to further such projects, but additional reading includes many publications by other research groups.
 While not entirely related, you might also want to check out the outcome of the international collaborative project [GeoBIM benchmark 2019](https://3d.bk.tudelft.nl/projects/geobim-benchmark/), in which we participated.
 

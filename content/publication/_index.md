@@ -16,7 +16,7 @@ header:
 
 {{< header_altmetric >}}
 
-These are our publications since the Lab was established in 2019 (earlier publications of the PI of the lab [Dr Filip Biljecki](/authors/filip/) are available [here](https://filipbiljecki.com/#journals)).
+These are our publications since the Lab was established in 2019 (earlier publications of the PI of the lab [Dr Filip Biljecki](/authors/filip/) are available [here](https://filipbiljecki.com/#publications)).
 We strive to publish our papers open access when possible.
 The PDFs posted here are either published as [gold or green open access](https://en.wikipedia.org/wiki/Open_access#Colour_naming_system).
 For the authoritative publication please visit the publisher's website.

@@ -95,8 +95,8 @@ He is the founder and the principal investigator of the [NUS Urban Analytics Lab
 In 2020 he was appointed as NUS Presidential Young Professor.
 
 His background is in Geomatic engineering.
-Filip holds a PhD degree (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
-The list of his publications is available [here](https://filipbiljecki.com/#journals).
+Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
+The list of his publications is available [here](https://filipbiljecki.com/#publications).
 
 ### Additional appointments
 * Open Geospatial Consortium, 3DIM DWG -- Co-Chair
@@ -106,3 +106,10 @@ The list of his publications is available [here](https://filipbiljecki.com/#jour
 * International Journal of Digital Innovation in the Built Environment -- Editorial Board Member
 * World Economic Forum, Global Future Council on Cities and Urbanization -- Fellow (2018-2020)
 
+### Awards and honours (selected)
+* Presidential Young Professorship (NUS), 2020
+* buildingSMART International Special Distinction Winner for Innovation, 2019
+* EuroSDR (association of European national mapping and cadastral agencies, and universities) award for the best PhD thesis related to GIS in Europe, 2017
+* PhD degree conferred with highest honours (given at Dutch universities for top 5% best theses), 2017
+* 3D GeoInfo best paper award, 2017
+* Austrian Academy of Sciences -- Young Researcher Award in GIScience, 2016
