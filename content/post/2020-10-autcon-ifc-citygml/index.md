@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Recent appearances of the Lab"
+title: "New paper: Extending CityGML for IFC-sourced 3D city models"
 subtitle: ""
-summary: ""
+summary: "Automation in Construction."
 authors: [admin]
-tags: [events, conferences]
+tags: [bim, gis, data integration, paper]
 categories: []
-date: 2020-10-28T15:00:28+08:00
-lastmod: 2020-10-28T15:00:28+08:00
+date: 2020-10-30T08:00:16+08:00
+lastmod: 2020-10-30T08:00:16+08:00
 featured: false
 draft: true
 
@@ -25,20 +25,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: [geobim-benchmark]
 ---
 
+This publication is one of the final papers stemming from the [IFC2CityGML](https://ifc2citygml.github.io) project (PI: Rudi Stouffs) carried out at NUS.
+The project was conducted in collaboration with [Ordnance Survey](https://www.ordnancesurvey.co.uk).
 
-After SOTM, IACAD, 3D Geoinfo
+As part of our commitment to open science, the publication is available open access.
 
+Other relevant papers from the project:
 
-Singapore Geospatial week, Regional Geospatial Youth Forum
-
-
-Indonesia
-
-Lab meeting
-
-SMU
-
-![](rgyf.jpeg)
