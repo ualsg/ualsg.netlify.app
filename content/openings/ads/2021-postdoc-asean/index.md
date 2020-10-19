@@ -32,7 +32,9 @@ The Lab will provide a motivating, conducive, and flexible environment to explor
 The [National University of Singapore (NUS)](http://www.nus.edu.sg) is ranked consistently as one of the world's top universities.
 It aspires to be a vital community of academics, researchers, staff, students and alumni working together in a spirit of innovation and enterprise for a better world.
 
-Considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), Singapore [successfully attracts talents from all over the world](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-world living and working experience in the heart of Southeast Asia.
+Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
+It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean, efficient and low-tax environment.
+And great food and weather, of course.
 
 #### Urban Analytics Lab
 
