@@ -5,7 +5,7 @@ title: "Guest lecture by Jinal Foflia"
 subtitle: "OpenStreetMap - Contribute, validate, extract, analyse and visualise"
 summary: ""
 authors: [admin]
-tags: [teaching, openstreetmap]
+tags: [teaching, openstreetmap, guest-lectures]
 categories: []
 date: 2020-10-17T20:00:28+08:00
 lastmod: 2020-10-17T20:00:28+08:00
