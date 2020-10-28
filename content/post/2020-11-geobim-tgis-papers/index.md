@@ -7,8 +7,8 @@ summary: "The GeoBIM benchmark project is concluded with two papers published ba
 authors: [admin]
 tags: [bim, gis, data integration, paper]
 categories: []
-date: 2020-10-30T08:00:16+08:00
-lastmod: 2020-10-30T08:00:16+08:00
+date: 2020-11-04T08:00:16+08:00
+lastmod: 2020-11-04T08:00:16+08:00
 featured: false
 draft: true
 
