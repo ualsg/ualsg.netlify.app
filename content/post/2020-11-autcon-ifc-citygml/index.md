@@ -7,8 +7,8 @@ summary: "Automation in Construction."
 authors: [admin]
 tags: [bim, gis, data integration, paper]
 categories: []
-date: 2020-10-30T08:00:16+08:00
-lastmod: 2020-10-30T08:00:16+08:00
+date: 2020-11-06T08:00:16+08:00
+lastmod: 2020-11-06T08:00:16+08:00
 featured: false
 draft: true
 
