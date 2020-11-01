@@ -66,7 +66,7 @@ While not entirely related, you might also want to check out the outcome of the 
 
 ### Duration and start
 
-The initial appointment is for one year, with a probation period of 3 months.
+The appointment is for one year, with a probation period of 3 months.
 The contract can be extended subject to performance.
 
 The start of the appointment is planned in approx. Q2 2021.
@@ -106,7 +106,7 @@ In accordance with the Personal Data Protection Act (PDPA), please provide conse
 
 {{% alert note %}}
 The deadline to apply is 15 December 2020.
-The vacancy can be closed earlier if a suitable candidate is identified before the deadline.
+The vacancy will be closed earlier if a suitable candidate is identified before the deadline.
 Applications will be considered as of 1 October 2020.
 {{% /alert %}}
 
