@@ -64,7 +64,7 @@ You may also want to read the graduate studies website of either the [Department
 
 We accept graduate students from NUS Architecture, Real Estate and Geography, Yale-NUS College, and other related departments to work on graduation projects (theses, capstones) in our research domain. 
 If you are looking for a topic, we offer supervision of [theses](/teaching/#theses-dissertations-and-capstone-projects) (please check the potential topics on the link, and examples of completed theses).
-It is possible to adapt them to suit your background and interest. 
+It is possible to adapt them to suit your background and interest, and we [embrace diverse backgrounds]({{< ref "/post/2020-11-new-student-researchers/index.md" >}}). 
 
 Due to limited supervision resources, we are able to offer guidance to only a few motivated interns per semester, who are required to conduct an internship to fulfil their graduation requirements.
 We prefer students who are highly motivated, have solid background knowledge for the topic, and are fairly independent.

@@ -32,7 +32,7 @@ defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
 summaryLength = 20  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
-paginate = 20  # Number of items per page in paginated lists.
+paginate = 50  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
