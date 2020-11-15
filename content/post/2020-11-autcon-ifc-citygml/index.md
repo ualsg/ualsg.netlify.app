@@ -7,10 +7,10 @@ summary: "Development of an application domain extension published in Automation
 authors: [admin]
 tags: [bim, gis, data integration, ade, citygml, ifc, paper]
 categories: []
-date: 2020-11-16T05:40:16+08:00
-lastmod: 2020-11-16T05:40:16+08:00
+date: 2020-11-16T05:56:16+08:00
+lastmod: 2020-11-16T05:56:16+08:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
