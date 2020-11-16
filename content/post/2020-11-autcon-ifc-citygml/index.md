@@ -43,9 +43,9 @@ We develop an ADE to support retaining relevant information from IFC.
 Besides being driven by the particular source of the input data (IFC), this multi-purpose ADE is shaped after a discovery process that involved examining potentially applicable use cases in Singapore, doubling as an extension that is adapted to a set of use cases and the local geographic context.
 We implement the conceptual work by generating an enriched dataset (with an automatic conversion from IFC to CityGML), visualising it, and discuss its added value in a use case.
 
-As part of our commitment to open science, the publication is available [open access](/publication/2021-autcon-ifc-citygml-ade/).
+As part of our commitment to open science, the publication is available in [green open access](/publication/2021-autcon-ifc-citygml-ade/).
 
-Other relevant papers from the project are available on the [project's website](https://ifc2citygml.github.io).
+Other relevant papers from the project are available on the [project's website](https://ifc2citygml.github.io), including [the publication on the developed web viewer]({{< ref "/post/2020-09-3dgeoinfo-ade-visualisation-paper/index.md" >}}), which is mentioned in the implementation section of the paper.
 
 
 [![](page-one.png)](/publication/2021-autcon-ifc-citygml-ade/)
