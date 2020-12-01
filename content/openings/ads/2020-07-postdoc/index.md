@@ -5,6 +5,12 @@ title = "Vacancy: Postdoctoral research fellow (GIScience/3D/urban analytics)"
 
 ![](header.png)
 
+{{% alert info %}}
+It is not possible to apply anymore to this position, as we have received a sufficient number of applications.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
+{{% /alert %}}
+
 ### Job and project description
 
 The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a talented and highly motivated postdoctoral research fellow for a leading role in the research group.
@@ -95,9 +101,14 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
 
 {{% alert note %}}
-The deadline to apply is 15 December 2020.
+~~The deadline to apply is 15 December 2020.
 The vacancy will be closed earlier if a suitable candidate is identified before the deadline.
-Applications will be considered as of 1 September 2020.
+Applications will be considered as of 1 September 2020.~~
+The vacancy will be closed earlier if a suitable candidate is identified before the deadline.
+Applications will be considered as of 1 October 2020.~~
+It is not possible to apply anymore to this position, as we have received a sufficient number of applications.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}})
 {{% /alert %}}
 
 For general information about academic jobs at NUS, please visit [NUS  Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).

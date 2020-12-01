@@ -12,7 +12,7 @@ Please find below the list of possible schemes to get involved, primarily [openi
 
 ## Aims and why us
 
-We are excited to grow a new research group focused on 3D geoinformation, urban analytics, and geospatial data science.
+We are excited to grow a new research group focused on the nexus of 3D geoinformation, urban analytics, and geospatial data science.
 Working at our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire 3D GIS ecosystem under the same roof: from standardisation and generation of 3D city models all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field. 
 
 Working at NUS means being part of one of the world's top universities, and having access to an extensive network of experts across myriads of domains.
@@ -29,9 +29,9 @@ And great food and weather, of course.
 {{< past_openings >}}
 
 
-## Applications
+## Open applications
 
-We appreciate enquiries from motivated prospective students and staff with dedicated applications.
+We appreciate enquiries from motivated prospective PhD candidates and postdoctoral research fellows with dedicated applications.
 Before applying, do read the sections below.
 We would like to hear about your specific interest and expect you to have a solid understanding of what we do.
 For example, you can read one of our [publications](/publication), provide your perspective and motivation, and let us know how do you see yourself contributing to the work.
@@ -41,10 +41,11 @@ While we appreciate interest, we cannot attend to generic applications without a
 
 We announce available postdoc positions in the [openings section](#openings) above.
 Other than that, we welcome postdocs on fellowships (see below for the options, which we prepared for candidates seeking external funding).
+Feel free also to send us an open application.
 
 ## PhD candidates
 
-We accept well-motivated and talented prospective PhD candidates.
+[We accept well-motivated and talented prospective PhD candidates](ads/phd-geospatial).
 The applications to the PhD programme should be done directly to the [School of Design and Environment](http://www.sde.nus.edu.sg), but you are advised to [first get in touch with us to discuss](https://ualsg.typeform.com/to/zSQtnN).
 
 The [NUS website on graduate admissions](http://www.nus.edu.sg/registrar/prospective-students/graduate) is a good starting point to get more information about doing a PhD at our university.
