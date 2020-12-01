@@ -48,6 +48,8 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 
 ### Application
 
+The next round of applications starts in January for the intake in August 2021.
+
 The applications will be handled by the university as per the [terms](http://www.nus.edu.sg/research/funding-opportunities/NUS-fellows-programme-southeast-asia) of the funding scheme.
 However, first you need to get in touch with us to discuss your application, primarily your research scope and agenda.
 
