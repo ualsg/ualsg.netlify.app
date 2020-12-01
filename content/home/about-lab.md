@@ -11,13 +11,6 @@ weight = 20  # Order that this section will appear in.
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
 +++
-{{% alert note %}}
-We are [hiring](openings) postdoctoral research fellows to join our growing research group in 2021.
-{{% /alert %}}
-
-<p align="center">
-  <a href="openings/"><img src="img/banner-positions.jpg"/></a>
-</p>
 
 We are a new interdepartmental multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg), the #1 ranked university in Asia and world's #11 (QS 2021). 
 

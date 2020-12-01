@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "New paper: Extending CityGML for IFC-sourced 3D city models"
-subtitle: "Development of an application domain extension published in Automation in Construction."
-summary: "Development of an application domain extension published in Automation in Construction."
+subtitle: "Development of an application domain extension published in Automation in Construction"
+summary: "Development of an application domain extension published in Automation in Construction"
 authors: [admin]
 tags: [bim, gis, data integration, ade, citygml, ifc, paper]
 categories: []
