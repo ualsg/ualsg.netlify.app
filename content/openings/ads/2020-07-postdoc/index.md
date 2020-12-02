@@ -104,8 +104,6 @@ In accordance with the Personal Data Protection Act (PDPA), please provide conse
 ~~The deadline to apply is 15 December 2020.
 The vacancy will be closed earlier if a suitable candidate is identified before the deadline.
 Applications will be considered as of 1 September 2020.~~
-The vacancy will be closed earlier if a suitable candidate is identified before the deadline.
-Applications will be considered as of 1 October 2020.~~
 It is not possible to apply anymore to this position, as we have received a sufficient number of applications.
 Thanks to all the applicants for their interest.
 For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}})
