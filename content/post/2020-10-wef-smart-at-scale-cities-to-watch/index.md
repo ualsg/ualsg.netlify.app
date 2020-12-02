@@ -3,7 +3,7 @@
 
 title: "New report: Smart at Scale: Cities to Watch (25 Case Studies)"
 subtitle: "World Economic Forum community paper"
-summary: "We contributed to the latest report of the World Economic Forum focusing on successful pilot projects that scaled."
+summary: "We contributed to the latest report of the World Economic Forum focusing on successful pilot projects that scaled"
 authors: [admin]
 tags: [smart cities, wef, report]
 categories: []

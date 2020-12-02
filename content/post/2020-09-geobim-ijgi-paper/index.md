@@ -3,7 +3,7 @@
 
 title: "New paper: Tools for BIM-GIS Integration (IFC Georeferencing and Conversions): Results from the GeoBIM Benchmark 2019"
 subtitle: ""
-summary: "A new collaborative paper in which we have been involved has been published."
+summary: "A new collaborative paper in which we have been involved has been published"
 authors: [admin]
 tags: [bim, gis, data integration, paper]
 categories: []

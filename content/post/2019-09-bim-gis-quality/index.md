@@ -3,7 +3,7 @@
 
 title: "Paper on quality of BIM-GIS conversion"
 subtitle: ""
-summary: "Much work has been done on quality of geoinformation and interoperability between BIM and GIS. However, the intersection of the two - quality control of the conversion between BIM and GIS - remains uncharted."
+summary: "Much work has been done on quality of geoinformation and interoperability between BIM and GIS. However, the intersection of the two - quality control of the conversion between BIM and GIS - remains uncharted"
 authors: [admin]
 tags: [bim, gis, quality, 3d city modelling, 3d geoinfo, paper, conference, events]
 categories: []

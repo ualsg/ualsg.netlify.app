@@ -2,13 +2,13 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Two new papers: Reference study of IFC/CityGML software support"
-subtitle: ""
-summary: "The GeoBIM benchmark project is concluded with two papers published back-to-back in Transactions in GIS."
+subtitle: "The GeoBIM benchmark project is concluded with two papers published back-to-back in Transactions in GIS"
+summary: "The GeoBIM benchmark project is concluded with two papers published back-to-back in Transactions in GIS"
 authors: [admin]
 tags: [bim, gis, data integration, paper]
 categories: []
-date: 2020-12-04T08:00:16+08:00
-lastmod: 2020-12-04T08:00:16+08:00
+date: 2020-12-15T08:00:16+08:00
+lastmod: 2020-12-15T08:00:16+08:00
 featured: false
 draft: true
 
@@ -38,6 +38,8 @@ We thank her, and the other members of the team, for involving us in their proje
 
 Both papers are described below.
 There is also a [third paper]({{< ref "/post/2020-09-geobim-ijgi-paper/index.md" >}}), describing the part of the benchmark focusing on BIM-GIS Integration (IFC Georeferencing and Conversions).
+
+All the three papers are published open access.
 
 
 ## Part I: Reference study of IFC software support

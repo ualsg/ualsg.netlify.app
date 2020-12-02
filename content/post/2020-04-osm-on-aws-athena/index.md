@@ -3,9 +3,9 @@
 
 title: "Leveraging cloud technology for GIS analysis with OpenStreetMap"
 subtitle: "To increase accessibility, ease of maintenance and enable efficient analysis of OpenStreetMap data, we look at leveraging cloud
-  technology."
+  technology"
 summary: "To increase accessibility, ease of maintenance and enable efficient analysis of OpenStreetMap data, we look at leveraging cloud
-  technology."
+  technology"
 authors: [yoong-shin]
 tags: [AWS, Athena, OpenStreetMap, engineering, short read, guide]
 categories: []

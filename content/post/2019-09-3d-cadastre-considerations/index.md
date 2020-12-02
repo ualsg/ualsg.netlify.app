@@ -3,7 +3,7 @@
 
 title: "Current trends, challenges, and gaps of contemporary 3D cadastre"
 subtitle: ""
-summary: "A significant number of studies has been carried out to establish 3D cadastre solutions to improve the registration of multi-level property."
+summary: "A significant number of studies has been carried out to establish 3D cadastre solutions to improve the registration of multi-level property"
 authors: [admin]
 tags: [3d cadastre, 3d geoinfo, paper, conference, events]
 categories: []
