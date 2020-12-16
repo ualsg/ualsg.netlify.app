@@ -110,9 +110,6 @@ Please see below for examples we have selected.
 
 + [NUS Fellows Programme (Southeast Asia)](http://www.nus.edu.sg/research/funding-opportunities/NUS-fellows-programme-southeast-asia) - a programme designed to attract bright young faculty members (or would-be faculty members) and researchers from ASEAN universities and research institutes to NUS for a 6 to 12-month fellowship. NUS provides accommodation and a monthly stipend. Applicants must either be citizens of an **ASEAN country** or must be residing in an ASEAN country at the time of application, and holding a PhD degree (or being at the end of their PhD).
 
-+ [Lee Kuan Yew Postdoctoral Fellowship](http://www.nus.edu.sg/research/funding-opportunities/lee-kuan-yew-postdoctoral-fellowship) - prestigious postdoc fellowship for up to 3 years. The scheme is open to nationals of all countries.
-
-
 
 ### Country-specific
 
