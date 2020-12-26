@@ -17,41 +17,38 @@ Please see below for more information.
 ## Graduate courses
 
 Our teaching activities span multiple modules offered as part of different master programmes at the [NUS School of Design and Environment](https://www.sde.nus.edu.sg).
+The exact offering of modules will depend on the academic year.
 
 **GIS and Cartography (Semester 1)**
 
 - This introductory module is part of the [MSc in Real Estate](http://www.rst.nus.edu.sg/graduate/msc-programme.html). It is also recommended for [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) and [Master of Arts in Urban Design](http://www.sde.nus.edu.sg/arch/programmes/master-of-arts-in-urban-design/) students.
-In this course we teach the basics of geographical information science and give a thorough tutorial of [QGIS](https://www.qgis.org), supported by assignments relevant to urban planning and real estate.
+In this course, we teach the basics of geographical information science and give a thorough tutorial of [QGIS](https://www.qgis.org), supported by assignments relevant to urban planning and real estate, but spanning also other disciplines.
 
 **Introduction to Data Science (Semester 1)**
 
-- A new module for Architecture students, which is designed for students who wish to start with data science and programming (in R) from scratch.
-The course is heavily focused on urban data and data visualisation.
+- A new module for Architecture students, which is designed for those who wish to start with data science and programming (in R) from scratch.
+The course is of generic nature, covering a bit of several topics, but it puts urban data and data visualisation in the spotlight.
 
-**Geographic Data Science and Urban Analytics (Semester 2)**
+**~~Geographic Data Science and Urban Analytics (Semester 2)~~**
 
-- This module continues the above course with more advanced topics, focusing on geographic data science and urban analytics.
+- ~~This module continues the above course with intermediate topics, focusing on geographic data science and urban analytics.~~ (Continuing in 2022.)
 
 
 **Planning Technologies (Semester 2)**
 
-- A new compulsory [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) module designed to acquaint students with the state of the art of urban planning technologies and research questions from practice.
-The course is given in partnership with the Digital Planning Lab of the [Urban Redevelopment Authority](https://www.ura.gov.sg/).
-
-**Guest lectures and workshops**
-
-- We also participate in occasional lectures and workshops at other study programmes at NUS: Master of Landscape Architecture, Master of Science in Applied GIS, and BA in Architecture.
+- A new compulsory [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) module designed to acquaint students with the state of the art of urban planning technologies, predominantly urban data science.
+Depending on the AY, the course may include also lectures by external partners, e.g. [Urban Redevelopment Authority](https://www.ura.gov.sg/).
 
 
 ## Theses, dissertations, and capstone projects
 
-If you are a motivated undergrad or grad student, it is possible to conduct your thesis (or capstone project) research with us.
-We offer guidance in pursuing several projects (scroll down to see the offered [topics](#potential-topics)) in the domain of GIS, 3D city modelling, and urban analytics.
+If you are a motivated and talented undergrad or grad student, it is possible to conduct your thesis (or capstone project) research with us.
+Each year, we offer guidance to a few students in pursuing projects (scroll down to see some of the offered [topics](#potential-topics)) in the domain of GIS, 3D city modelling, and urban analytics.
 Some of the student projects in the past have been successful resulting in conference and journal papers, benefiting to the outreach of the research and the graduates' CVs.
 Our novel topics enable students to learn new skills (e.g. tool or programming language), learn about a new multidisciplinary topic, work on a exciting real-world problem, and have the potential to have an impact.
 In principle, most topics require at least a basic level of programming and/or data science, and managing geospatial data.
 
-It is also possible to propose your own topic.
+The list of topics below is only directional, and it is also possible to propose your own topic.
 
 Non-NUS students (from other Singaporean and from overseas universities), please see the [NUS Non-graduating research student scheme](http://www.nus.edu.sg/registrar/academic-information-policies/non-graduating) if interested.
 
