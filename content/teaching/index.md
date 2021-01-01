@@ -5,6 +5,7 @@ title: Teaching
 header:
   caption: ""
   image: "2019-Commencement-15.jpeg"
+
 ---
 
 The Lab is active in the following teaching activities at the National University of Singapore:
@@ -43,7 +44,8 @@ Depending on the AY, the course may include also lectures by external partners, 
 ## Theses, dissertations, and capstone projects
 
 If you are a motivated and talented undergrad or grad student, it is possible to conduct your thesis (or capstone project) research with us.
-Each year, we offer guidance to a few students in pursuing projects (scroll down to see some of the offered [topics](#potential-topics)) in the domain of GIS, 3D city modelling, and urban analytics.
+Each year, we offer guidance to a few motivated students in pursuing projects (scroll down to see some of the offered [topics](#potential-topics)) in the domain of GIS, 3D city modelling, and urban analytics.
+
 Some of the student projects in the past have been successful resulting in conference and journal papers, benefiting to the outreach of the research and the graduates' CVs.
 Our novel topics enable students to learn new skills (e.g. tool or programming language), learn about a new multidisciplinary topic, work on a exciting real-world problem, and have the potential to have an impact.
 In principle, most topics require at least a basic level of programming and/or data science, and managing geospatial data.
@@ -69,6 +71,8 @@ The topics are not carved in stone, and may be adapted to suit the student's bac
 Are you interested in one of the topics below? Get in [touch](/openings/#contact).
 Or feel free to propose your own topic that is within the Lab's domain of research.
 You can also check out our [blog](/post), we have published some analyses that could be extended into a thesis.
+Further, as [OpenStreetMap](https://www.openstreetmap.org) and [volunteered geoinformation](https://en.wikipedia.org/wiki/Volunteered_geographic_information) are one of our main research interests, make sure to check also the
+[OSM research page](https://wiki.openstreetmap.org/wiki/Research), which contains some ideas for student projects.
 
 {{< theses_topics >}}
 
@@ -76,5 +80,4 @@ You can also check out our [blog](/post), we have published some analyses that c
 
 Do some of the above ideas appeal you?
 If you are interested in more topics, do not hesitate to [get in touch with us](/openings/#contact).
-
 

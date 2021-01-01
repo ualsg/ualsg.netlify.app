@@ -67,7 +67,7 @@ subtitle = "Our 15 latest papers. Enjoy"
 +++
 
 {{% alert note %}}
-All our publications are available [here]({{< ref "/publication/_index.md" >}}).
+All our papers are available [here]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
 
 {{< header_altmetric >}}

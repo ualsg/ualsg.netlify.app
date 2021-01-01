@@ -7,8 +7,8 @@ summary: "The GeoBIM benchmark project is concluded with two papers published ba
 authors: [admin]
 tags: [bim, gis, data integration, paper]
 categories: []
-date: 2020-12-15T08:00:16+08:00
-lastmod: 2020-12-15T08:00:16+08:00
+date: 2021-01-15T08:00:16+08:00
+lastmod: 2021-01-15T08:00:16+08:00
 featured: false
 draft: true
 
@@ -39,8 +39,7 @@ We thank her, and the other members of the team, for involving us in their proje
 Both papers are described below.
 There is also a [third paper]({{< ref "/post/2020-09-geobim-ijgi-paper/index.md" >}}), describing the part of the benchmark focusing on BIM-GIS Integration (IFC Georeferencing and Conversions).
 
-All the three papers are published open access.
-
+All the three papers are published as open access.
 
 ## Part I: Reference study of IFC software support
 
