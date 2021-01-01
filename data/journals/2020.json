@@ -385,6 +385,14 @@
 			"change": 4,
 			"sjr": 0.82,
 			"sjrq": "Q1"
+		},
+		{
+			"title": "Journal of Open Source Software",
+			"publisher": "Open Journals",
+			"IF": "",
+			"change": "",
+			"sjr": "",
+			"sjrq": ""
 		}
 	]
 }

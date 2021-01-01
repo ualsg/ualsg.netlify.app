@@ -13,6 +13,7 @@ study = "MSc GIS"
 year = "2020"
 uni = "University of Edinburgh"
 image = "noee-research.png"
+thesis = "https://www.geos.ed.ac.uk/~mscgis/19-20/s1853686/"
 
 [[thesis]]
 title = "Assessing the quality of OpenStreetMap building data in Singapore"

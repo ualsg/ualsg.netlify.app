@@ -17,6 +17,7 @@ Working at our Lab presents a rare opportunity in Singapore and Southeast Asia t
 
 Working at NUS means being part of one of the world's top universities, and having access to an extensive network of experts across myriads of domains.
 Beyond the university, our network and collaborations span scores of researchers around the world working on a variety of topics.
+Our Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
 
 Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean, efficient and low-tax environment.
@@ -29,24 +30,36 @@ And great food and weather, of course.
 {{< past_openings >}}
 
 
-## Open applications
+## Open applications and general info about positions
 
-We appreciate enquiries from motivated prospective PhD candidates and postdoctoral research fellows with dedicated applications.
+We appreciate enquiries from motivated prospective PhD candidates, research assistants, and postdoctoral research fellows with dedicated applications.
 Before applying, do read the sections below.
-We would like to hear about your specific interest and expect you to have a solid understanding of what we do.
-For example, you can read one of our [publications](/publication), provide your perspective and motivation, and let us know how do you see yourself contributing to the work.
+We want to hear about your specific interest and expect you to have a solid understanding of what we do.
+For example, you can read one of our [publications](/publication), provide your perspective and motivation, and let us know how do you see yourself contributing to the work and our research group.
+In your application, please highlight your computational and geospatial skills.
+
 While we appreciate interest, we cannot attend to generic applications without a clear motivation and understanding of the scope of our work.
 
-## Postdocs
+### Postdocs
 
-We announce available postdoc positions in the [openings section](#openings) above.
-Other than that, we welcome postdocs on fellowships (see below for the options, which we prepared for candidates seeking external funding).
-Feel free also to send us an open application.
+Postdocs are expected to be independent, spearhead new research initiatives, assist with funding applications, and provide guidance to junior members.
+Our Lab enables an environment that accords a degree of freedom in exploring own research ideas, and fosters independent careers of postdoctoral research fellows.
+We announce available postdoc positions in the [openings section](#openings) above, but you are welcome to send an open application, as there always might be a new funded project around the corner.
+Other than that, we welcome prospective postdoctoral fellows on fellowships (see [below](#fellowship-opportunities) for some options).
 
-## PhD candidates
+### PhD candidates and research assistants
 
-[We accept well-motivated and talented prospective PhD candidates](ads/phd-geospatial).
-The applications to the PhD programme should be done directly to the [School of Design and Environment](http://www.sde.nus.edu.sg), but you are advised to [first get in touch with us to discuss](https://ualsg.typeform.com/to/zSQtnN).
+Working as RA and/or doing a PhD at NUS is a great opportunity to grow as a scientist and follow your passion in research, and our Lab offers a vibrant and stimulating environment for academic growth.
+[We accept well-motivated and talented prospective PhD candidates](ads/phd-geospatial), but we do not admit them directly.
+Please read more [below](#doing-a-phd).
+
+We announce available RA positions in the [openings section](#openings) above, but you are also welcome to send an open application.
+
+## Doing a PhD
+
+We do not offer funded PhD positions, but we accept PhD candidates on a scholarship or those who are self-funded (e.g. through an RA job).
+The applications to the PhD programme should be done directly to the [School of Design and Environment](http://www.sde.nus.edu.sg), and you are advised to [first get in touch with us to discuss mutual interest](/#contact).
+Please send us an up-to-date CV and a brief proposal containing a summary of the topics that you find interesting and how you plan to fill existing gaps in knowledge, summary of any prior research outputs (code, papers, internships, thesis, etc.), a review of one of our [publications](/publication), and a brief literature review that covers recent developments in your area of interest.
 
 The [NUS website on graduate admissions](http://www.nus.edu.sg/registrar/prospective-students/graduate) is a good starting point to get more information about doing a PhD at our university.
 The application deadlines are usually 15 November for the intake in August next year, and 15 May for the start in January.
@@ -61,15 +74,20 @@ Thus, we recommend starting as soon as possible.
 
 You may also want to read the graduate studies website of either the [Department of Architecture](https://www.sde.nus.edu.sg/arch/programmes/higher-degrees-by-research/) (and its [FAQ](https://www.sde.nus.edu.sg/arch/programmes/higher-degrees-by-research/frequently-asked-questions/)), or the [Department of Real Estate](https://www.sde.nus.edu.sg/rst/graduate/graduate-courses-by-research/hdegree-admission/) (we are part of both).
 
-## Undergraduate and master students
 
-We accept graduate students from NUS Architecture, Real Estate and Geography, Yale-NUS College, and other related departments to work on graduation projects (theses, capstones) in our research domain. 
-If you are looking for a topic, we offer supervision of [theses](/teaching/#theses-dissertations-and-capstone-projects) (please check the potential topics on the link, and examples of completed theses).
+## Thesis and internship opportunities for BSc/MSc students
+
+Every year, we accept a number of highly motivated students from NUS Architecture, Real Estate and Geography, Yale-NUS College, and other related departments to work on graduation projects (theses, capstones) in our research domain.
+
+Such mode of work has been mutually productive, as above average quality projects have been published in top journals or conferences, enhancing students' CVs and their applications to PhD programmes.
+Further, the students have used this opportunity to advance their analytical, coding, and research skills, and build proficiency in a new topic of their interest.
+
+If you are looking for a topic, we offer [some topics](/teaching/#theses-dissertations-and-capstone-projects) (the link also includes examples of completed theses).
 It is possible to adapt them to suit your background and interest, and we [embrace diverse backgrounds]({{< ref "/post/2020-11-new-student-researchers/index.md" >}}). 
 
-Due to limited supervision resources, we are able to offer guidance to only a few motivated interns per semester, who are required to conduct an internship to fulfil their graduation requirements.
-We prefer students who are highly motivated, have solid background knowledge for the topic, and are fairly independent.
-You can [contact us](/#contact) if interested.
+When it comes to internships, due to limited supervision resources, we are able to offer guidance to only a few motivated students per semester, who are required to conduct an internship to fulfil their graduation requirements.
+We prefer students who are highly motivated, have solid background knowledge for the topic, computational skills, and are fairly independent.
+You may [contact us](/#contact) if interested.
 Before doing so, please browse through our website to get an impression about our ongoing work.
 
 In principle, we are not able to offer internships to students who are not studying at our university or at the [Yale-NUS College](https://www.yale-nus.edu.sg).
@@ -77,24 +95,20 @@ However, there are exceptions.
 For example, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
 If your university or country has a similar programme, or if you have your own funding to come and spend time in Singapore, feel free to contact us.
 
-Occasionally there are student research jobs opportunities, which are [advertised](/openings/#openings) when available.
+Occasionally there are student research jobs opportunities, which are advertised on the NUS internal student job portal (NSWS) when available.
 
 ## Visitors: research visit
 
 Get in touch if you are interested in conducting a research visit with us.
-Depending on your country of residence and position, sometimes there are opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion) and the [US Fulbright Program](https://www.cies.org).
-
-
-### Graduate students
+Depending on your country of residence and position, sometimes there are opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion), [China Scholarship Council](https://www.chinesescholarshipcouncil.com), and the [US Fulbright Program](https://www.cies.org).
 
 External (non-NUS) master students and PhD candidates can carry out a portion of their research at our Lab in the form of a research visit.
 Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) for the framework of the scheme.
 Make sure to also check [potential topics we offer for theses](/teaching/#master-theses).
 
+## Fellowship opportunities
 
-## Fellowship/scholarship opportunities (PhD, postdoc)
-
-We are open to endorse well motivated applications for external (mostly postdoc) fellowships and scholarships that facilitate carrying out research at our Lab and at NUS.
+We are open to endorsing well motivated applications for external (mostly postdoc) fellowships and scholarships that facilitate carrying out research at our Lab and at NUS.
 Depending on your nationality and university, there may be opportunities to fund your PhD or postdoc research.
 Please see below for examples we have selected.
 
