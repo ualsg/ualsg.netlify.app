@@ -37,6 +37,8 @@ This multidisciplinary work has been conducted in collaboration with the [NUS De
 His thesis has been condensed into a paper -- its preprint is available on [arXiv](https://arxiv.org/abs/2007.14203).
 The work largely relies on OpenStreetMap and open-source tools, so it can be replicated elsewhere.
 
+Update (Jan 2021): this project has been [published as a journal paper in Computers, Environment and Urban Systems](/publication/2021-ceus-3-d-farming/).
+
 {{< figure library="true" src="facadesDLI.png" title="Solar exposure of building facades of a public housing block, done using 3D building models in the study area. These results are a critical insight for decision-making for high-rise urban farming and for maximizing the crop yield. To learn more, read the [preprint](https://arxiv.org/abs/2007.14203)." >}}
 
 ### Assessing the quality of OpenStreetMap building data in Singapore
