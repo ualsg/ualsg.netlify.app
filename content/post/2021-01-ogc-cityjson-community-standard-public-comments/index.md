@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "OGC seeks public comment on new CityJSON Community Standard"
-subtitle: "CityJSON offers an easy-to-use alternative to the GML encoding of CityGML 2.0 for the storage and exchange of 3D city models."
-summary: "CityJSON offers an easy-to-use alternative to the GML encoding of CityGML 2.0 for the storage and exchange of 3D city models."
+subtitle: "CityJSON offers an easy-to-use alternative to the GML encoding of CityGML 2.0 for the storage and exchange of 3D city models"
+summary: "CityJSON offers an easy-to-use alternative to the GML encoding of CityGML 2.0 for the storage and exchange of 3D city models"
 authors: [admin]
 tags: [cityjson, ogc, 3d, 3d city models]
 categories: []
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-We're relaying [a press release from the Open Geospatial Consortium](https://www.ogc.org/pressroom/pressreleases/4381) about [CityJSON](https://cityjson.org), a standard which we (on behalf of the National University of Singapore as OGC member) submitted to OGC for adoption as a [Community Standard](https://www.ogc.org/standards/community), and have been using in our work, e.g. [to produce 3D data of Singapore's public housing buildings]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
+We're relaying [a press release by the Open Geospatial Consortium](https://www.ogc.org/pressroom/pressreleases/4381) about [CityJSON](https://cityjson.org), which we have (on behalf of the National University of Singapore as OGC member) submitted to OGC for adoption as a [Community Standard](https://www.ogc.org/standards/community) together with 6 other organisations, and have been using in our work, e.g. [to produce 3D data of Singapore's public housing buildings]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
 
 ## OGC seeks public comment on new CityJSON Community Standard
 
