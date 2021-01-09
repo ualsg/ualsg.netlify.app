@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-We're relaying [a press release by the Open Geospatial Consortium](https://www.ogc.org/pressroom/pressreleases/4381) about [CityJSON](https://cityjson.org), which we have (on behalf of the National University of Singapore as OGC member) submitted to OGC for adoption as a [Community Standard](https://www.ogc.org/standards/community) together with 6 other organisations, and have been using in our work, e.g. [to produce 3D data of Singapore's public housing buildings]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
+We're relaying [a press release by the Open Geospatial Consortium](https://www.ogc.org/pressroom/pressreleases/4381) about [CityJSON](https://cityjson.org), which we have (on behalf of the National University of Singapore as OGC member) submitted to OGC for adoption as a [Community Standard](https://www.ogc.org/standards/community) together with 6 other organisations (full list below), and have been using in our work, e.g. [to produce 3D data of Singapore's public housing buildings]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
 
 ## OGC seeks public comment on new CityJSON Community Standard
 
