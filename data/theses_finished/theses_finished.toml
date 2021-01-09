@@ -5,6 +5,7 @@ study = "MSc in Applied GIS"
 year = "2020"
 uni = "NUS"
 image = "ankit-research.png"
+paper = "2021-ceus-3-d-farming"
 
 [[thesis]]
 title = "Enhanced population estimation beyond counts: exploring age patterns"

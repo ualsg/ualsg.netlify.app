@@ -37,7 +37,7 @@ There is also a [third paper]({{< ref "/post/2020-09-geobim-ijgi-paper/index.md"
 The lead author of both papers is [Dr Francesca Noardo](http://www.noardo.eu) from the [3D Geoinformation group](https://3d.bk.tudelft.nl) at the Delft University of Technology.
 We thank her, and the other members of the team, for involving us in their project and leading a series of papers well-documenting the insights gained during this topical and very interesting initiative.
 
-The project was endorsed and co-funded by the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org).
+The project was endorsed and co-funded by the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [European Spatial Data Research (EuroSDR)](http://www.eurosdr.net).
 
 Both papers are described below, and both are (as well as the third paper), published as gold open access <i class="ai ai-open-access-square ai"></i>.
 Further, the final report of the project is available [here](/publication/2020-geobim-final-report).
