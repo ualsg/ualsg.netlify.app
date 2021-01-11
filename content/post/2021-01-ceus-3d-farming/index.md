@@ -5,18 +5,18 @@ title: "New paper: 3D city models for urban farming site identification in build
 subtitle: "A novel application of 3D geoinformation, published in Computers, Environment and Urban Systems"
 summary: "A novel application of 3D geoinformation, published in Computers, Environment and Urban Systems"
 authors: [admin]
-tags: [paper, 3d city models, urban farming, dli, par, 3d buildings, cityjson]
+tags: [paper, 3d city models, urban farming, dli, par, 3d buildings, cityjson, agriculture]
 categories: []
-date: 2021-01-11T08:00:16+08:00
-lastmod: 2021-01-11T08:00:16+08:00
+date: 2021-01-11T17:00:16+08:00
+lastmod: 2021-01-11T17:00:16+08:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Average DLI for March on facades of the study area. These results are a critical insight for decision-making for high-rise urban farming and for maximizing the crop yield."
+  caption: "Average Daily light integral (DLI) for March on façades of the study area. These results are a critical insight for decision-making for high-rise urban farming and for maximizing the crop yield."
   focal_point: ""
   preview_only: false
 
@@ -25,16 +25,16 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [geobim-benchmark]
+projects: [3d-open]
 ---
 
 We have a new paper:
 
-> Palliwal A, Song S, Tan HTW, Biljecki F (2021): 3D city models for urban farming site identification in buildings. _Computers, Environment and Urban Systems._ 86: 101584, 2021. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2020.101584](https://doi.org/10.1016/j.compenvurbsys.2020.101584) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-ceus-3-d-farming/2021-ceus-3-d-farming.pdf) <i class="ai ai-open-access-square ai"></i>
+> Palliwal A, Song S, Tan HTW, Biljecki F (2021): 3D city models for urban farming site identification in buildings. _Computers, Environment and Urban Systems_ 86: 101584, 2021. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2020.101584](https://doi.org/10.1016/j.compenvurbsys.2020.101584) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-ceus-3-d-farming/2021-ceus-3-d-farming.pdf) <i class="ai ai-open-access-square ai"></i>
 
-The first author is {{% mention "ankit" %}}, who has graduated with an MSc in Applied GIS programme, and has completed his graduation project with us, on which this paper is based.
+The first author is {{% mention "ankit" %}}, who has graduated with an MSc in Applied GIS, and has completed his graduation project with us, on which this paper is based.
 
-The paper presents a new use case for 3D models: using them to identify locations for urban farming in buildings based on the light conditions.
+The paper presents a new use case for 3D models: using them to identify locations in buildings suitable for urban farming, based on the light conditions, and potentially recommending the optimal crop to be cultivated at a particular location and estimating the yield.
 
 ### Highlights
 
