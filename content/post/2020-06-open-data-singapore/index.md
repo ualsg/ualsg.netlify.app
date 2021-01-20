@@ -8,7 +8,7 @@ authors: [admin, filip]
 tags: [open data, singapore, guide, index, long reads]
 categories: []
 date: 2020-06-24T08:04:48+08:00
-lastmod: 2020-09-15T10:32:48+08:00
+lastmod: 2021-01-20T08:32:48+08:00
 featured: true
 draft: false
 
@@ -75,7 +75,9 @@ It still might be useful though.
 
 Unfortunately, 3D city models are not released as open data, except the one [we generated covering only HDBs]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
 We are [working]({{< ref "/project/3d-open/index.md" >}}) on including other buildings.
-Worth mentioning is that OpenStreetMap has [a relatively high level of completeness of building heights and floors]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}}), in comparison to other countries.
+The recently [released OneMap3D](https://www.sla.gov.sg/articles/press-releases/2020/launch-of-onemap3d-beta-at-singapore-geospatial-week-2020) provides a [web viewer of the nation-wide 3D city model](https://www.onemap3d.gov.sg/), but the data cannot be downloaded, thus, it does not qualify as [open data](https://opendatahandbook.org/guide/en/what-is-open-data/).
+
+Worth mentioning is that OpenStreetMap has [a relatively high level of completeness of building heights and floors]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}}), in comparison to other countries, so in some locations it can be used to generate 3D data.
 
 ### Real estate transactions
 
@@ -247,7 +249,7 @@ To convert (geocode) the address into coordinates, may we suggest to use the [On
 
 ### Web services
 
-There are a few web services containing various interesting datasets (e.g. [OneMap](https://www.onemap.sg/main/v2/), [HDB Map Services](https://services2.hdb.gov.sg/web/fi10/emap.html), [URA SPACE](https://www.ura.gov.sg/maps/), [Trees.sg](http://trees.sg)), but not all of them can be downloaded, so they are not considered as [open data](https://opendatahandbook.org/guide/en/what-is-open-data/).
+There are a few web services containing various interesting datasets (e.g. [OneMap](https://www.onemap.sg/main/v2/), [OneMap3D](https://www.onemap3d.gov.sg/), [HDB Map Services](https://services2.hdb.gov.sg/web/fi10/emap.html), [URA SPACE](https://www.ura.gov.sg/maps/), [Trees.sg](http://trees.sg)), but not all of them can be downloaded, so they are not considered as [open data](https://opendatahandbook.org/guide/en/what-is-open-data/).
 Nevertheless, they may still be useful for viewing.
 
 ### Social media
