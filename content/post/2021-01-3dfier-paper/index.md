@@ -32,10 +32,17 @@ A new collaborative paper in which we have been involved has been published:
 
 > Ledoux H, Biljecki F, Dukai B, Kumar K, Peters R, Stoter J, Commandeur T (2021): 3dfier: automatic reconstruction of 3D city models. _Journal of Open Source Software 6(57): 2866_ [<i class="ai ai-doi-square ai"></i> 10.21105/joss.02866](https://doi.org/10.21105/joss.02866) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-joss-3-dfier/2021-joss-3-dfier.pdf) <i class="ai ai-open-access-square ai"></i>
 
+The paper describes [3dfier](https://github.com/tudelft3d/3dfier), an open-source software developed by [our friends at TU Delft](https://3d.bk.tudelft.nl) to automatically generate 3D city models using a 2D GIS dataset and point cloud (extrusion).
+Its advantages are speed, output in multiple formats (e.g. [CityJSON](https://www.cityjson.org)), and topological consistency.
+Its code has been released as open-source, and it is available on its [Github repo](https://github.com/tudelft3d/3dfier).
+A video about the software with an example of the output is available [here](https://vimeo.com/181421237).
+
 The paper was published in the [Journal of Open Source Software](https://joss.theoj.org), a developer friendly, open access journal for research software packages.
 The journal adheres to all open science principles :clap:, e.g. their peer review process is entirely open; for an example, [you can check the review process of our paper as a Github issue](https://github.com/openjournals/joss-reviews/issues/2866), which we find to be a very clever and commendable approach.
 
 The lead author is [Dr Hugo Ledoux](https://3d.bk.tudelft.nl/hledoux/) from the [3D Geoinformation group](https://3d.bk.tudelft.nl) at the Delft University of Technology.
+
+
 
 The abstract follows.
 > Three-dimensional city models are essential to assess the impact that environmental factors will have on citizens, because they are the input to several simulation and prediction software. Examples of such environmental factors are noise (Stoter et al., 2008), wind (Garcı́a-Sánchez et al., 2014), air pollution (Ujang et al., 2013), and temperature (Hsieh et al., 2011; Lee et al., 2013).
