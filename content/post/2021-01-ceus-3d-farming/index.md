@@ -30,7 +30,7 @@ projects: [3d-open]
 
 We have a new paper:
 
-> Palliwal A, Song S, Tan HTW, Biljecki F (2021): 3D city models for urban farming site identification in buildings. _Computers, Environment and Urban Systems_ 86: 101584, 2021. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2020.101584](https://doi.org/10.1016/j.compenvurbsys.2020.101584) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-ceus-3-d-farming/2021-ceus-3-d-farming.pdf) <i class="ai ai-open-access-square ai"></i>
+> Palliwal A, Song S, Tan HTW, Biljecki F (2021): 3D city models for urban farming site identification in buildings. _Computers, Environment and Urban Systems_ 86: 101584, 2021. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2020.101584](https://doi.org/10.1016/j.compenvurbsys.2020.101584) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-ceus-3-d-farming/2021-ceus-3-d-farming.pdf)
 
 The first author is {{% mention "ankit" %}}, who has graduated with an MSc in Applied GIS, and has completed his graduation project with us, on which this paper is based.
 
@@ -52,7 +52,7 @@ The abstract follows.
 
 ### Paper 
 
-For more information please see the [paper](/publication/2021-ceus-3-d-farming/).
+For more information, please see the [paper](/publication/2021-ceus-3-d-farming/).
 
 [![](page-one.png)](/publication/2021-ceus-3-d-farming/)
 
