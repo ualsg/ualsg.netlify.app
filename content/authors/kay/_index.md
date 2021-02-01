@@ -49,8 +49,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Members
+- Alumni
 ---
 
 Kay is majoring in Urban Studies at the Yale-NUS College, with minor in Anthropology.

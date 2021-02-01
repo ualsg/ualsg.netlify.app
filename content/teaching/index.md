@@ -27,30 +27,27 @@ In this course, we teach the basics of geographical information science and give
 
 **Introduction to Data Science (Semester 1)**
 
-- A new module for Architecture students, which is designed for those who wish to start with data science and programming (in R) from scratch.
+- A new module for Architecture students, which is designed for those who wish to start with data science and programming from scratch.
 The course is of generic nature, covering a bit of several topics, but it puts urban data and data visualisation in the spotlight.
-
-**~~Geographic Data Science and Urban Analytics (Semester 2)~~**
-
-- ~~This module continues the above course with intermediate topics, focusing on geographic data science and urban analytics.~~ (Continuing in 2022.)
-
 
 **Planning Technologies (Semester 2)**
 
-- A new compulsory [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) module designed to acquaint students with the state of the art of urban planning technologies, predominantly urban data science.
-Depending on the AY, the course may include also lectures by external partners, e.g. [Urban Redevelopment Authority](https://www.ura.gov.sg/).
+- A new core [Master in Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) module designed to acquaint students with the state of the art of urban planning technologies, predominantly urban data science.
+Depending on the AY, the course may include also guest lectures by external partners, e.g. [Urban Redevelopment Authority](https://www.ura.gov.sg/).
 
 
 ## Theses, dissertations, and capstone projects
 
-If you are a motivated and talented undergrad or grad student, it is possible to conduct your thesis (or capstone project) research with us.
-Each year, we offer guidance to a few motivated students in pursuing projects (scroll down to see some of the offered [topics](#potential-topics)) in the domain of GIS, 3D city modelling, and urban analytics.
+If you are a motivated and talented undergraduate or graduate student, it is possible to conduct your thesis (or capstone project) research with us.
+Each year, we offer supervision and guidance to a few motivated students in pursuing projects in the domain of GIScience, 3D city modelling, and urban analytics.
 
-Some of the student projects in the past have been successful resulting in conference and journal papers, benefiting to the outreach of the research and the graduates' CVs.
-Our novel topics enable students to learn new skills (e.g. tool or programming language), learn about a new multidisciplinary topic, work on a exciting real-world problem, and have the potential to have an impact.
+Some of the student projects in the past have been successful resulting in conference and journal papers, benefiting the outreach of the research and the graduates' CVs.
+Conducting such a project facilitates learning new skills (e.g. tool or programming language), mastering a new multidisciplinary topic, working on a exciting real-world problem, and having the potential to have an impact.
 In principle, most topics require at least a basic level of programming and/or data science, and managing geospatial data.
 
-The list of topics below is only directional, and it is also possible to propose your own topic.
+The exact topic is discussed based on the interests, learning goals, and skills of the student.
+It is also possible to propose your own topic.
+Get in [touch](/#contact) if interested.
 
 Non-NUS students (from other Singaporean and from overseas universities), please see the [NUS Non-graduating research student scheme](http://www.nus.edu.sg/registrar/academic-information-policies/non-graduating) if interested.
 
@@ -64,20 +61,7 @@ Non-NUS students (from other Singaporean and from overseas universities), please
 
 ### Potential topics
 
-We have a list of potential topics for research (please see below), or have a look at our [ongoing research projects]({{< relref "../project/" >}}) in which we might be able to accommodate a student project.
-The topics are mostly general, and the candidate is expected to refine a topic further.
-The topics are not carved in stone, and may be adapted to suit the student's background and interest.
+You may [approach us](/#contact) to discuss potential topics for research.
+The topics will depend on many factors, such as our [ongoing research projects]({{< relref "../project/" >}}) (in which we might be able to accommodate a student project), [latest publications]({{< relref "../publication/" >}}) (which we may want to extend), and the background/interests/study programme/learning goals of the student.
 
-Are you interested in one of the topics below? Get in [touch](/openings/#contact).
-Or feel free to propose your own topic that is within the Lab's domain of research.
-You can also check out our [blog](/post), we have published some analyses that could be extended into a thesis.
-Further, as [OpenStreetMap](https://www.openstreetmap.org) and [volunteered geoinformation](https://en.wikipedia.org/wiki/Volunteered_geographic_information) are one of our main research interests, make sure to check also the
-[OSM research page](https://wiki.openstreetmap.org/wiki/Research), which contains some ideas for student projects.
-
-{{< theses_topics >}}
-
-### Contact 
-
-Do some of the above ideas appeal you?
-If you are interested in more topics, do not hesitate to [get in touch with us](/openings/#contact).
 

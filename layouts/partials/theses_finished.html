@@ -5,7 +5,11 @@
 <tr>
 <td>
 <strong>{{ .title }}</strong><br /><br />
+{{ if .profile }}
+<a href="/authors/{{ .profile }}">{{ .name }}</a><br />
+{{else}}
 {{ .name }}<br />
+{{ end }}
 {{ .study }} ({{ .uni }}, {{ .year }})<br />
 {{ if .thesis }}
 <br />The thesis is available <a href="{{ .thesis }}">here</a>.

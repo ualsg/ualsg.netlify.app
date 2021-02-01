@@ -1,34 +1,38 @@
 ---
 # Display name
-name: Jin Yuchen
-title: Jin Yuchen
+name: Pang Hui En
+title: Pang Hui En
 
 # Username (this should match the folder name)
 authors:
-- yuchen
+- hui-en
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: "Yale-NUS College"
+- name: "National University of Singapore"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
 
 interests:
-
+- Computer vision
+- AI
 
 education:
   courses:
-  - course: Mathematical, Computational and Statistical Sciences (in progress)
-    institution: Yale-NUS College
-    year: 2021
+  - course: Master of Science in Applied GIS
+    institution: National University of Singapore
+    year: 
+  - course: BSc in Environmental Studies + USP
+    institution: National University of Singapore
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -38,9 +42,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: 'mailto:shantong.wang@u.nus.edu'
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://sg.linkedin.com/in/shantong-wang-597b3a141/en
+- icon: linkedin
+  icon_pack: fab
+  link: https://sg.linkedin.com/in/palliwala
 #- icon: twitter
 #  icon_pack: fab
 #  link: 'https://twitter.com/ShantongW'
@@ -56,9 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Members
 ---
 
-Yuchen is majoring in Mathematical, Computational and Statistical Sciences at the Yale-NUS College, with a minor in Urban Studies.
-She holds an International Baccalaureate Diploma from the United World College (New Mexico, US).
-Yuchen's diverse experience includes serving as Head of the Women in Technology Committee of Yale-NUS Women In Business, and internships on geospatial data management in Timor-Leste and on data analysis in assets and funds at Ascendas-Singbridge.
+Hui En is pursuing her MSc in Applied GIS at NUS part-time. She is currently an AI Apprentice at AISG and has had an internship as a data science intern at Grab. She graduated with a BSc in Environmental Studies + USP in 2019. 
