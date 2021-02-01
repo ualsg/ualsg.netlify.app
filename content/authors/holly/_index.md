@@ -23,7 +23,7 @@ bio: []
 
 education:
   courses:
-  - course: Master in Business Analytics
+  - course: Master in Business Analysis
     institution: Shanghai International Studies University
     year: 2021
   - course: Bachelor of Business Management
