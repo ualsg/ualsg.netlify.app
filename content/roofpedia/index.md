@@ -12,7 +12,7 @@
 
 <center><b>Explore Sustainable Roofscapes Around the World<b></center>
 
-<center><h5>Roofpedia is an open registry of sustainable roofscapes around the world. It uses deep convolutional neural network to detect sustainable roof typologies from satellite images. Building footprints identified with solar panels or rooftop greens are tagged automatically, and the results are visualized above. <h5></center>
+<center><p>Roofpedia is an open registry of sustainable roofscapes around the world. It uses deep convolutional neural network to detect sustainable roof typologies from satellite images. Building footprints identified with solar panels or rooftop greens are tagged automatically, and the results are visualized above. <p></center>
 
 
 
@@ -20,7 +20,7 @@
 
 <center><h2>The Roofpedia Index</h2></center>
 
-<center><h4> The Roofpedia Index is a measure of the penetration of sustainable roof typologies in major cities around the world. Solar roofs and Green roofs mapped by Roofpedia are compared against the total number of buildings and areas of the buildings in a city. Aggregate scores are calculated for both solar and green coverage and cities are ranked with an combined score. <h4></center>
+<center><p> The Roofpedia Index is a measure of the penetration of sustainable roof typologies in major cities around the world. Solar roofs and Green roofs mapped by Roofpedia are compared against the total number of buildings and areas of the buildings in a city. Aggregate scores are calculated for both solar and green coverage and cities are ranked with an combined score. <p></center>
 
 <center><h5>Click on city names to visit them on map</h5></center>
 

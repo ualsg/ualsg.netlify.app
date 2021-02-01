@@ -1,49 +1,43 @@
 ---
 # Display name
-name: Jin Yuchen
-title: Jin Yuchen
+name: Ying Zhang
+title: Ying Zhang
 
 # Username (this should match the folder name)
 authors:
-- yuchen
+- holly
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Visiting Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: "Yale-NUS College"
+- name: "Shanghai International Studies University"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
 
-interests:
-
-
 education:
   courses:
-  - course: Mathematical, Computational and Statistical Sciences (in progress)
-    institution: Yale-NUS College
+  - course: Master in Business Analytics
+    institution: Shanghai International Studies University
     year: 2021
+  - course: Bachelor of Business Management
+    institution: Shanghai International Studies University
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:shantong.wang@u.nus.edu'
-#- icon: linkedin
-#  icon_pack: fab
-#  link: https://sg.linkedin.com/in/shantong-wang-597b3a141/en
-#- icon: twitter
-#  icon_pack: fab
-#  link: 'https://twitter.com/ShantongW'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/zhang-ying-391316173/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -56,9 +50,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Members
 ---
 
-Yuchen is majoring in Mathematical, Computational and Statistical Sciences at the Yale-NUS College, with a minor in Urban Studies.
-She holds an International Baccalaureate Diploma from the United World College (New Mexico, US).
-Yuchen's diverse experience includes serving as Head of the Women in Technology Committee of Yale-NUS Women In Business, and internships on geospatial data management in Timor-Leste and on data analysis in assets and funds at Ascendas-Singbridge.
+Sponsored by China Scholarship Council (CSC) to be an exchange master student in NUS, I am here to do research on data analysis and data visualization in real estate industry. Meanwhile, I am very interested in joining some international competitions and volunteer works. As for work experience, I used to be a data engineer intern in the supply chain of Apple and IT assistant intern in Deloitte.

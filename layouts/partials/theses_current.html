@@ -5,14 +5,20 @@
 <tr>
 <td>
 <strong>{{ .title }}</strong><br /><br />
+{{ if .profile }}
+<a href="/authors/{{ .profile }}">{{ .name }}</a><br />
+{{else}}
 {{ .name }}<br />
+{{ end }}
 {{ .study }} ({{ .uni }}), started in {{ .year }}<br />
 {{ if .note }}
 {{ .note }}
 {{ end }}
 </td>
 <td>
+{{ if .image }}
 <img src=theses/{{ .image }}>
+{{ end }}
 </td>
 </tr>
 {{ end }}
