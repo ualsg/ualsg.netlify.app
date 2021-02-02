@@ -1,5 +1,7 @@
 ---
 title: Roofpedia
+authors: [abraham, filip]
+profile: true  # Show author profile?
 
 # Optional header image (relative to `static/img/` folder).
 header:
@@ -13,7 +15,9 @@ header:
 
 ### Explore Sustainable Roofscapes Around the World
 
-Roofpedia is an open registry of sustainable roofscapes around the world. It uses deep convolutional neural network to detect sustainable roof typologies from satellite images. Building footprints identified with solar panels or rooftop greens are tagged automatically, and the results are visualized above.
+Roofpedia is an open registry of sustainable roofscapes around the world.
+It uses deep convolutional neural network to detect sustainable roof typologies from satellite images.
+Footprints of buildings identified with solar panels or rooftop greenery are tagged automatically, and the results are visualized above.
 
 {{< figure src="feature.jpg" title="Roofpedia in a nutshell." >}}
 
@@ -21,7 +25,8 @@ Roofpedia is an open registry of sustainable roofscapes around the world. It use
 
 The Roofpedia Index is a measure of the penetration of sustainable roof typologies in major cities around the world. Solar roofs and Green roofs mapped by Roofpedia are compared against the total number of buildings and areas of the buildings in a city. Aggregate scores are calculated for both solar and green coverage and cities are ranked with an combined score.
 
-Click on city names to visit them on map.
+The results are given in the table below.
+You may click on cities to visit them on map.
 
 | **Rank**  | **City**              | **Buildings**     | **Solar Roofs**   | **%SR Count**     | **%SR Area**  | **Solar Score**   | **Green Roofs**   | **%GR Count**     | **%GR Area**  | **Green Score**   | **Overall Score**     |
 |------ |---------------    |-----------    |-------------  |------------   |-----------    |-------------  |-------------  |------------   |-----------    |-------------  |---------------    |
@@ -44,13 +49,19 @@ Click on city names to visit them on map.
 
 Disclaimer: Vancouver is green! Just not roof green compared to the top cities in the list.
 
-More cities are getting added to Roofpedia as their satellite data become available. If you'd like to contribute satellite images to expand Roofpedia, please email the author at abraham@nus.edu.sg
+More cities are getting added to Roofpedia as their satellite data become available. If you'd like to contribute satellite images to expand Roofpedia, please [email](mailto:abraham@nus.edu.sg) {{% mention "abraham" %}}, the lead developer.
 
-Full data and code of Roofpedia can be accessed at the [GitHub repo](https://github.com/Iceofsky/Roofpedia).
+## Data and code
 
-A preprint of the paper can be found on [arXiv](https://arxiv.org/abs/2012.14349).
+Full data and code of Roofpedia can be accessed at its [GitHub repo](https://github.com/Iceofsky/Roofpedia).
 
-```
+## Paper and attribution
+
+A preprint of the paper describing the project can be found on [arXiv](https://arxiv.org/abs/2012.14349).
+
+If you use Roofpedia in a scientific context, please cite the paper:
+
+```bibtex
 @misc{wu2020roofpedia,
   title={Roofpedia: Automatic mapping of green and solar roofs for an open roofscape registry and evaluation of urban sustainability}, 
   author={Abraham Noah Wu and Filip Biljecki},
@@ -60,8 +71,6 @@ A preprint of the paper can be found on [arXiv](https://arxiv.org/abs/2012.14349
   primaryClass={cs.CY}
 }
 ```
-
-
 
 
 [Zurich]:https://api.mapbox.com/styles/v1/iceofsky1/ckkaqwtr500v317r01y46xp6r.html?fresh=true&title=view&access_token=pk.eyJ1IjoiaWNlb2Zza3kxIiwiYSI6ImNraTF4ejIxaDBxNGgycm1zd3ZvMThwOGMifQ.-QrGKalxvWk3sY7BqDbI1Q#12.94/47.37444/8.52924
@@ -93,3 +102,7 @@ A preprint of the paper can be found on [arXiv](https://arxiv.org/abs/2012.14349
 [San Francisco]:https://api.mapbox.com/styles/v1/iceofsky1/ckkaqwtr500v317r01y46xp6r.html?fresh=true&title=view&access_token=pk.eyJ1IjoiaWNlb2Zza3kxIiwiYSI6ImNraTF4ejIxaDBxNGgycm1zd3ZvMThwOGMifQ.-QrGKalxvWk3sY7BqDbI1Q#12.5/37.77993/-122.42131
 
 [Vancouver]:https://api.mapbox.com/styles/v1/iceofsky1/ckkaqwtr500v317r01y46xp6r.html?fresh=true&title=view&access_token=pk.eyJ1IjoiaWNlb2Zza3kxIiwiYSI6ImNraTF4ejIxaDBxNGgycm1zd3ZvMThwOGMifQ.-QrGKalxvWk3sY7BqDbI1Q#12/49.26528/-123.11271
+
+## Acknowledgements
+
+This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start-Up Grant R-295-000-171-133.
