@@ -30,6 +30,12 @@ projects: []
 
 ![](featured.png)
 
+{{% alert note %}}
+The special issue has been published in February 2021.
+Please see the [related blog post]({{< relref "/post/2021-02-tgis-special-issue" >}}).
+Thanks to all the authors for submitting their contributions.
+{{% /alert %}}
+
 As part of the [3D GeoInfo 2019 conference, and the 2th BIM/GIS Integration Workshop]({{< ref "/post/2019-07-3D-GeoInfo-2019/index.md" >}}), we are organising a special issue in [_Transactions in GIS_](https://onlinelibrary.wiley.com/journal/14679671).
 
 Please find the call for papers below.
