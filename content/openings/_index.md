@@ -17,7 +17,7 @@ Working at our Lab presents a rare opportunity in Singapore and Southeast Asia t
 
 Our [department](https://www.sde.nus.edu.sg/arch/) is consistently ranked to be among the top globally in its discipline.
 
-Working at NUS means being part of one of the world's top universities, and having access to an extensive network of experts across myriads of domains.
+Working at NUS means being part of one of the world's top universities (the #1 university in Asia and world's #11 according to QS 2021), and having access to an extensive network of experts across myriads of domains.
 Beyond the university, our network and collaborations span scores of researchers around the world working on a variety of topics.
 Our Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
 

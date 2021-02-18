@@ -54,30 +54,30 @@ by Kevin Kelly and Bojan Šavrič.
 by Mingyue Lu, Xinhao Wang, Xintao Liu, Min Chen, Shuoben Bi, Yadong Zhang and Tengfei Lao.
 
 1. [Looking for a needle in a haystack: Probability density based classification and reconstruction of dormers from 3D point clouds](https://doi.org/10.1111/tgis.12658) <i class="ai ai-open-access-square ai"></i>
-by Youness Dehbi, Sonja Koppers and Lutz Plümer.
+ by Youness Dehbi, Sonja Koppers and Lutz Plümer.
 
 1. [Room semantics inference using random forest and relational graph convolutional networks: A case study of research building](https://doi.org/10.1111/tgis.12664)
 by Xuke Hu, Hongchao Fan, Alexey Noskov, Zhiyong Wang, Alexander Zipf, Fuqiang Gu and Jianga Shang.
 
-1. [Robust and fast reconstruction of complex roofs with active sampling from 3D point clouds](https://doi.org/10.1111/tgis.12659) <i class="ai ai-open-access-square ai"></i>
+1. [Robust and fast reconstruction of complex roofs with active sampling from 3D point clouds](https://doi.org/10.1111/tgis.12659) <i class="ai ai-open-access-square ai"></i> 
 by Youness Dehbi, André Henn, Gerhard Gröger, Viktor Stroh and Lutz Plümer.
 
-1. [Comparison of versioning methods to improve the information flow in the planning and building processes](https://doi.org/10.1111/tgis.12672) <i class="ai ai-open-access-square ai"></i>
+1. [Comparison of versioning methods to improve the information flow in the planning and building processes](https://doi.org/10.1111/tgis.12672) <i class="ai ai-open-access-square ai"></i> 
 by Helen Eriksson, Jing Sun, Väino Tarandi and Lars Harrie.
 
 1. [Automatic filtering and 2D modeling of airborne laser scanning building point cloud](https://doi.org/10.1111/tgis.12685)
 by Fayez Tarsha Kurdi, Mohammad Awrangjeb and Nosheen Munir.
 
-1. [Consistency grammar for 3D indoor model checking](https://doi.org/10.1111/tgis.12686) <i class="ai ai-open-access-square ai"></i>
+1. [Consistency grammar for 3D indoor model checking](https://doi.org/10.1111/tgis.12686) <i class="ai ai-open-access-square ai"></i> 
 by Shayan Nikoohemat, Abdoulaye A. Diakité, Ville Lehtola, Sisi Zlatanova and George Vosselman.
 
 1. [Advances in techniques to formulate the watertight concept for cadastre](https://doi.org/10.1111/tgis.12695)
 by Ali Asghari, Mohsen Kalantari and Abbas Rajabifard.
 
-1. [Improving trajectory estimation using 3D city models and kinematic point clouds](https://doi.org/10.1111/tgis.12719) <i class="ai ai-open-access-square ai"></i>
+1. [Improving trajectory estimation using 3D city models and kinematic point clouds](https://doi.org/10.1111/tgis.12719) <i class="ai ai-open-access-square ai"></i> 
 by Lukas Lucks, Lasse Klingbeil, Lutz Plümer and Youness Dehbi.
 
-1. [A modular graph transformation rule set for IFC‐to‐CityGML conversion](https://doi.org/10.1111/tgis.12723) <i class="ai ai-open-access-square ai"></i>
+1. [A modular graph transformation rule set for IFC‐to‐CityGML conversion](https://doi.org/10.1111/tgis.12723) <i class="ai ai-open-access-square ai"></i> 
 by Helga Tauscher, Joie Lim and Rudi Stouffs.
 
 
