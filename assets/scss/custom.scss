@@ -1,0 +1,40 @@
+.section-subheading.article-title.mb-0.mt-0 {
+    line-height: 1.25;
+    text-rendering: optimizeLegibility;
+    hyphens: manual;
+}
+
+a {
+    color: #1565c0;
+    text-decoration: none;
+    background-color: transparent; 
+}
+
+a:hover {
+    color: #0d417b;
+    text-decoration: underline; 
+}
+
+.section-subheading.article-title.mb-0.mt-0 > a:hover {
+    text-decoration: none;
+    color: #1565c0;
+}
+
+a.summary-link:hover {
+    text-decoration: none; 
+}
+
+div.btn-links { 
+    display: none;
+}
+
+.wg-hero {
+    padding: 3em 0;
+    clear: both;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    animation: intro .3s both;
+    animation-delay: 0s;
+    animation-delay: .25s;
+}

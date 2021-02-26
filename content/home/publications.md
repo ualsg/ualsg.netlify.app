@@ -66,9 +66,9 @@ subtitle = "Our 15 latest papers. Enjoy~"
  css_class = ""
 +++
 
-{{% alert note %}}
+{{% callout note %}}
 All our papers are available [here]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+{{% /callout %}}
 
 {{< header_altmetric >}}
 
