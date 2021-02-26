@@ -18,7 +18,7 @@ Our mission is to leverage spatially enabled data for urban applications, cataly
 The research group is led by Dr {{% mention "filip" %}}, presidential young professor at the [NUS School of Design and Environment](https://www.sde.nus.edu.sg).
 
 <p align="center">
-  <img src="img/banner2.png"/>
+  <img src="media/banner2.png"/>
 </p>
 
 We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).

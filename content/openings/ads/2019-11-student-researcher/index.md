@@ -5,11 +5,11 @@ title = "Vacancy: Student Researcher in GIS (Internship)"
 
 ![](header.png)
 
-{{% alert warning %}}
+{{% callout warning %}}
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
 For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
-{{% /alert %}}
+{{% /callout %}}
 
 ### Job and project description
 
@@ -84,13 +84,13 @@ The group is the first one in Singapore encompassing the entire 3D GIS ecosystem
 Please apply by [email](mailto:filip@nus.edu.sg).
 Please submit the indication of possessing the qualifications listed above (CV, and optionally additional relevant material such as portfolio and cover letter).
 
-{{% alert note %}}
+{{% callout note %}}
 ~~The deadline to apply is 2019-11-25.
 Please note that only NUS students are eligible to apply.~~
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
 For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
-{{% /alert %}}
+{{% /callout %}}
 
 Appreciate your understanding in advance that only selected shortlisted applicants will be notified.
 
