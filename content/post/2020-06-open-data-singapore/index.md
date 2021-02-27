@@ -8,7 +8,7 @@ authors: [admin, filip]
 tags: [open data, singapore, guide, index, long reads]
 categories: []
 date: 2020-06-24T08:04:48+08:00
-lastmod: 2021-01-20T08:32:48+08:00
+lastmod: 2021-02-27T08:32:48+08:00
 featured: true
 draft: false
 
@@ -151,11 +151,13 @@ For example, if a traveller takes a bus to an MRT station and continues the jour
 {{< figure src="euan-cameron-3Es_ZsAxj_Q-unsplash.jpg" title="Photo by [Euan Cameron](https://unsplash.com/@euanacameron) on [Unsplash](https://unsplash.com/photos/3Es_ZsAxj_Q)." lightbox="true" >}}
 
 
-#### Travel times on roads
+#### Current travel times and speeds
 
 Another API available thanks to the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html) returns the estimated travel times of expressways.
 It might be useful for studying the volume of traffic.
 It doesn't look that it enables querying historical data, though.
+
+A related API, _Traffic Speed Bands_, also on the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html), returns current traffic speeds on roads.
 
 #### Routing
 

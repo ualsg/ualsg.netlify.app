@@ -9,7 +9,7 @@ tags: [AWS, Athena, RedShift, GCP, BigQuery, PrestoDB, guide]
 categories: []
 date: 2020-07-03T16:50:51+08:00
 lastmod: 2020-07-03T16:50:51+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
