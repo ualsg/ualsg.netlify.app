@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Recent publications"
-subtitle = "Our 15 latest papers. Enjoy"
+subtitle = "Our 15 latest papers. Enjoy~"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
