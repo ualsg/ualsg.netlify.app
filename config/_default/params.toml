@@ -75,7 +75,7 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/ualsg/ualsg.netlify.app", content_dir = "", repo_branch = "master", editable = {page = false, post = true, book = true}}
+edit_page = {repo_url = "https://github.com/ualsg/ualsg.netlify.app", content_dir = "", repo_branch = "master", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
 # show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}

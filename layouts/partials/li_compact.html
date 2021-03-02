@@ -8,10 +8,13 @@
   {{ $link = $item.Params.external_link }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
+
+{{ $show_btn_links := false }}
 {{ if eq $item.Type "event" }}
   {{ $show_authors_only = true }}
 {{ else if eq $item.Type "publication" }}
   {{ $show_authors_only = true }}
+  {{ $show_btn_links = true }}
 {{ else if eq $item.Type "project" }}
   {{ $show_authors_only = true }}
 {{ end }}
@@ -65,7 +68,7 @@
     </div>
 
     {{ if $has_attachments }}
-    <div class="btn-links">
+    <div class="btn-links" {{ if $show_btn_links }} style="display: initial;" {{ end }}>
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}
