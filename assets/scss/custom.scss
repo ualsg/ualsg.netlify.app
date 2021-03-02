@@ -7,3 +7,14 @@
 div.btn-links {
 	display: none;
 }
+
+.wg-hero {
+    padding: 3em 0;
+    clear: both;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    animation: intro .3s both;
+    animation-delay: 0s;
+    animation-delay: .25s;
+}

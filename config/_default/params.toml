@@ -148,7 +148,7 @@ address_format = "en-us"
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
 ## main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
-main_menu = {align = "r", show_logo = true}
+main_menu = {enable = true, align = "r", show_logo = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -197,7 +197,7 @@ plugins_js  = []
 
 # Configuration of project pages.
 [projects]
-  # Views for associated content.
+  # Views fxor associated content.
   #   1: List
   #   2: Compact
   #   3: Card
@@ -249,7 +249,7 @@ plugins_js  = []
     app_id = ""
     api_key = ""
     index_name = ""
-    show_logo = false
+    show_logo = true
 
 ############################
 ## Maps

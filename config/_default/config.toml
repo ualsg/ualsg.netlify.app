@@ -35,7 +35,7 @@ enableEmoji = true
 enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
-disableAliases = true  # Disable aliases when `redirects` is added to the `outputs` below.
+disableAliases = false  # Disable aliases when `redirects` is added to the `outputs` below.
 
 [permalinks]
   # If only creating events which are talks, we can optimize event URLs for talks.
@@ -47,15 +47,15 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   post = "post/:year/:month/:day/:slug"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects"]
+  home = ["HTML", "RSS", "JSON", "WebAppManifest"]
 
 ## old config start
-## [mediaTypes."application/manifest+json"]
-## suffixes = ["webmanifest"]
+[mediaTypes."application/manifest+json"]
+  suffixes = ["webmanifest"]
 
-## [outputFormats.WebAppManifest]
-##   mediaType = "application/manifest+json"
-## rel = "manifest"
+[outputFormats.WebAppManifest]
+   mediaType = "application/manifest+json"
+   rel = "manifest"
 ## old config end
 
 # Configure the Markdown renderer.
