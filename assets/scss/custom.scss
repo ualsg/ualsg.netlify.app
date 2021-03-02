@@ -4,8 +4,32 @@
     hyphens: manual;
 }
 
-div.btn-links {
-	display: none;
+a {
+    color: #1565c0;
+    text-decoration: none;
+    background-color: transparent; 
+}
+
+a:hover {
+    color: #0d417b;
+    text-decoration: underline; 
+}
+
+.section-subheading.article-title.mb-0.mt-0 > a:hover {
+    text-decoration: none;
+    color: #1565c0;
+}
+
+a.summary-link:hover {
+    text-decoration: none; 
+}
+
+div.btn-links { 
+    display: none;
+}
+
+div.media-body > div.btn-links {
+    display: initial;
 }
 
 .wg-hero {

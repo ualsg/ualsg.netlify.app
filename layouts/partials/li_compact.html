@@ -36,11 +36,9 @@
     </div>
 
     {{ with $summary }}
-    <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="summary-link">
       <div class="article-style">
         {{.}}
       </div>
-    </a>
     {{ end }}
 
     <div class="stream-meta article-metadata">
