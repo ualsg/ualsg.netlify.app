@@ -5,11 +5,11 @@ title = "Vacancy: Research assistant in 3D underground modelling (2 positions)"
 
 ![](header.jpeg)
 
-{{% callout warning %}}
+{{% alert warning %}}
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
 For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
-{{% /callout %}}
+{{% /alert %}}
 
 
 ### Job and project description
@@ -106,12 +106,12 @@ Please apply through JobsBank or by [email](mailto:filip@nus.edu.sg).
 Please submit the indication of possessing the qualifications listed above (CV, and optionally additional relevant material such as portfolio and cover letter), and do so preferably in PDF format.
 In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
 
-{{% callout note %}}
+{{% alert note %}}
 ~~The deadline to apply is 2 March 2020.~~
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
 For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
-{{% /callout %}}
+{{% /alert %}}
 
 For more information, please visit NUS > Careers > [Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).
 

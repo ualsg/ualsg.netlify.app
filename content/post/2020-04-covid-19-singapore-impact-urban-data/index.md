@@ -28,9 +28,9 @@ image:
 projects: []
 ---
 
-{{% callout note %}}
+{{% alert note %}}
 Some of the plots in this article have been updated two weeks later in a new [post]({{< ref "/post/2020-04-covid-19-mobility-update/index.md" >}}) using the latest available data.
-{{% /callout %}}
+{{% /alert %}}
 
 The news and social media have myriads of visualisations about not only the proliferation of the COVID-19 pandemic but also on how the measures to mitigate it have affected numerous aspects of daily life and the economy.
 These aid us to understand whether social distancing is taken seriously.

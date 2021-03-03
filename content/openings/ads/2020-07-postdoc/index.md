@@ -5,11 +5,11 @@ title = "Vacancy: Postdoctoral research fellow (GIScience/3D/urban analytics)"
 
 ![](header.png)
 
-{{% callout info %}}
+{{% alert info %}}
 It is not possible to apply anymore to this position, as we have received a sufficient number of applications.
 Thanks to all the applicants for their interest.
 For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
-{{% /callout %}}
+{{% /alert %}}
 
 ### Job and project description
 
@@ -100,14 +100,14 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 
 In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
 
-{{% callout note %}}
+{{% alert note %}}
 ~~The deadline to apply is 15 December 2020.
 The vacancy will be closed earlier if a suitable candidate is identified before the deadline.
 Applications will be considered as of 1 September 2020.~~
 It is not possible to apply anymore to this position, as we have received a sufficient number of applications.
 Thanks to all the applicants for their interest.
 For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}})
-{{% /callout %}}
+{{% /alert %}}
 
 For general information about academic jobs at NUS, please visit [NUS  Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).
 

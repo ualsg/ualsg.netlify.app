@@ -28,10 +28,10 @@ image:
 projects: []
 ---
 
-{{% callout note %}}
+{{% alert note %}}
 TL;DR: In the spirit of academia and open science, we’re making our notes on open data in Singapore public, and intend to keep them updated.
 Feel free to visit in future to check for updates as the list grows.
-{{% /callout %}}
+{{% /alert %}}
 
 ## Introduction
 
