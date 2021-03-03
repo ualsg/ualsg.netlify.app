@@ -5,11 +5,11 @@ title = "Vacancy: Student researcher in GIS/urban analytics/urban data science"
 
 ![](header.png)
 
-{{% callout note %}}
+{{% alert note %}}
 The intake of junior researchers for 2020 is now closed.
 We might be looking for a new batch of students in 2021 to join us, stay tuned.
 In the meantime, feel free to explore the [thesis topics we offer](/teaching/#theses-dissertations-and-capstone-projects).
-{{% /callout %}}
+{{% /alert %}}
 
 ### Job and project description
 

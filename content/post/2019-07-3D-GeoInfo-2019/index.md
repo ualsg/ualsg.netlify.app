@@ -44,6 +44,6 @@ Please note that this edition of 3D GeoInfo is part of a larger event called 3D 
 For more information, including the tentative programme, please visit the [conference website](https://www.3dgeoinfo2019.com/).
 See you at the ACM in September!
 
-{{% callout note %}}
+{{% alert note %}}
 Update 2019-10-08: The conference has been a success! Read the report [here]({{< ref "/post/2019-09-3d-geoinfo-success/index.md" >}}). Thanks everyone!
-{{% /callout %}}
+{{% /alert %}}

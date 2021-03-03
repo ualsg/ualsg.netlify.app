@@ -5,11 +5,11 @@ title = "Vacancy: Scientific Developer in 3D Geographic Data Science (Full-time)
 
 ![](header.png)
 
-{{% callout warning %}}
+{{% alert warning %}}
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
 For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
-{{% /callout %}}
+{{% /alert %}}
 
 ### Job and project description
 
@@ -93,12 +93,12 @@ Please apply through [JobsBank](https://www.mycareersfuture.sg/job/architecture/
 Please submit the indication of possessing the qualifications listed above (CV, and optionally additional relevant material such as portfolio and cover letter).
 In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
 
-{{% callout note %}}
+{{% alert note %}}
 ~~The deadline to apply is 2019-12-02.~~
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
 For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
-{{% /callout %}}
+{{% /alert %}}
 
 For more information, please visit NUS > Careers > [Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).
 
