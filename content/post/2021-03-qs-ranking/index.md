@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Our department is among the top 10 globally and #1 in Asia"
+title: "Our department is among the top 10 globally and best in Asia"
 subtitle: "The 2021 QS World University Rankings by subject are released"
 summary: "The 2021 QS World University Rankings by subject are released"
 authors: [admin]
