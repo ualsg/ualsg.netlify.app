@@ -4,37 +4,58 @@
     hyphens: manual;
 }
 
-a {
-    color: #1565c0;
-    text-decoration: none;
-    background-color: transparent; 
-}
-
-a:hover {
-    color: #0d417b;
-    text-decoration: underline; 
-}
-
-.section-subheading.article-title.mb-0.mt-0 > a:hover {
-    text-decoration: none;
-    color: #1565c0;
-}
-
 a.summary-link:hover {
-    text-decoration: none; 
+    color: #2962ff;
 }
 
-div.btn-links { 
+div.article-style p a:hover {
+    text-decoration: underline;
+}
+
+div.col-12.col-lg-8 > div.media.stream-item > div.media-body > div.btn-links {
     display: none;
 }
 
-.wg-hero {
-    padding: 3em 0;
-    clear: both;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 50%;
-    animation: intro .3s both;
-    animation-delay: 0s;
-    animation-delay: .25s;
+div.universal-wrapper > div.media.stream-item > div.media-body > div.btn-links {
+    display: none;
+}
+
+a.no-text-decor:hover {
+    text-decoration: none;
+}
+
+.card h4 {
+    font-size: .9rem;
+    font-weight: 700;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+
+.card h4 a{
+    color: #000;
+    border-bottom: solid 1px transparent;
+}
+
+
+.btn-outline-primary {
+    color: #2962ff;
+    border-color: #2962ff;
+}
+
+.btn.btn-sm, .btn-group-sm > .btn {
+    padding: 5px 0.4rem 5px 0.4rem;
+    font-size: .6rem;
+    border-radius: 0.2rem;
+}
+
+li > a:hover {
+    text-decoration: underline;
+}
+
+li > del > a:hover {
+    text-decoration: underline;
+}
+
+td > a:hover {
+    text-decoration: underline;
 }
