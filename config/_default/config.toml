@@ -85,7 +85,7 @@ disableAliases = false  # Disable aliases when `redirects` is added to the `outp
 # Related content.
 [related]
   threshold = 80.0
-  includeNewer = true
+  includeNewer = false
   toLower = true
 
   [[related.indices]]

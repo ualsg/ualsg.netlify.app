@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "minimal"
+theme = "old_minimal"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -78,7 +78,7 @@ privacy_pack = false
 edit_page = {repo_url = "https://github.com/ualsg/ualsg.netlify.app", content_dir = "", repo_branch = "master", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-# show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
 
 ############################
 ## Contact details
