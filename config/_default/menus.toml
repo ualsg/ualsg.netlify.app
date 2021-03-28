@@ -28,6 +28,11 @@
   url = "/data-code"
 
 [[main]]
+  name = "sustainable roof index"
+  parent = "geospatial indexes"
+  url = "/project/roofpedia/"
+
+[[main]]
   name = "open data SG"
   parent = "geospatial indexes"
   url = "/post/2020/06/24/guide-for-open-urban-data-in-singapore/"

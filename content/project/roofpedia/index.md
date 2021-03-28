@@ -1,12 +1,18 @@
 ---
 title: Roofpedia
+summary: Mapping Roofscapes with AI
 authors: [abraham, filip]
 profile: true  # Show author profile?
+date: 2021-03-27T19:30:16+08:00
+lastmod: 2021-03-27T19:30:16+08:00
 
-# Optional header image (relative to `static/img/` folder).
-header:
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
   caption: ""
-  image: ""
+  focal_point: ""
+  preview_only: true
 ---
 
 {{< roofpedia >}}
@@ -19,11 +25,11 @@ Roofpedia is an open registry of sustainable roofscapes around the world.
 It uses deep convolutional neural network to detect sustainable roof typologies from satellite images.
 Footprints of buildings identified with solar panels or rooftop greenery are tagged automatically, and the results are visualized above.
 
-{{< figure src="feature.jpg" title="Roofpedia in a nutshell." >}}
+{{< figure src="featured.jpg" title="Roofpedia in a nutshell." >}}
 
 ## The Roofpedia Index
 
-The Roofpedia Index is a measure of the penetration of sustainable roof typologies in major cities around the world. Solar roofs and Green roofs mapped by Roofpedia are compared against the total number of buildings and areas of the buildings in a city. Aggregate scores are calculated for both solar and green coverage and cities are ranked with an combined score.
+The Sustainable Roof Index by Roofpedia is a measure of the penetration of sustainable roof typologies in major cities around the world. Solar roofs and Green roofs mapped by Roofpedia are compared against the total number of buildings and areas of the buildings in a city. Aggregate scores are calculated for both solar and green coverage and cities are ranked with an combined score.
 
 The results are given in the table below.
 You may click on cities to visit them on map.
@@ -103,6 +109,19 @@ If you use Roofpedia in a scientific context, please cite the paper:
 
 [Vancouver]:https://api.mapbox.com/styles/v1/iceofsky1/ckkaqwtr500v317r01y46xp6r.html?fresh=true&title=view&access_token=pk.eyJ1IjoiaWNlb2Zza3kxIiwiYSI6ImNraTF4ejIxaDBxNGgycm1zd3ZvMThwOGMifQ.-QrGKalxvWk3sY7BqDbI1Q#12/49.26528/-123.11271
 
+## Contact
+
+### Research and development
+{{% mention "abraham" %}}
+
+### Principal investigator
+{{% mention "filip" %}}
+
+Urban Analytics Lab, National University of Singapore (NUS)
+
 ## Acknowledgements
 
 This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start-Up Grant R-295-000-171-133.
+
+We gratefully acknowledge the sources of the used input data.
+For more information, please see the aforementioned paper.
