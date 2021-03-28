@@ -18,7 +18,7 @@ Our mission is to leverage spatially enabled data for urban applications, cataly
 The research group is led by Dr {{% mention "filip" %}}, presidential young professor at the [NUS School of Design and Environment](https://www.sde.nus.edu.sg).
 
 <p align="center">
-  <img src="media/banner2.png"/>
+  <img src="media/banner-gbmi.png"/>
 </p>
 
 We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
@@ -27,3 +27,6 @@ You are welcome to follow our work through <a itemprop="sameAs" href="http://twi
 
 The full list of our interests and key words: Geographical Information Science (GIS), geospatial machine learning, geographic data science, spatial data infrastructure (SDI), 3D city modelling / 3D GIS (some people also call them digital twins), 3D urban analytics, spatial data quality and standardisation (CityJSON, CityGML), Volunteered geoinformation (VGI) and OpenStreetMap (OSM), Building Information modelling (BIM), Geospatial data visualisation, 3D underground data modelling, and 3D cadastre.
 
+<p align="center">
+  <img src="media/banner2.png"/>
+</p>
