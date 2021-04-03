@@ -14,7 +14,7 @@ Please find below the list of possible schemes to get involved, primarily [openi
 We are excited to grow a new research group focused on the nexus of 3D geoinformation, urban analytics, and geospatial data science.
 Working at our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire 3D GIS ecosystem under the same roof: from standardisation and generation of 3D city models all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field. 
 
-Our [department](https://www.sde.nus.edu.sg/arch/) is consistently ranked to be among the top globally in its discipline.
+Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked to be among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
 
 Working at NUS means being part of one of the world's top universities (the #1 university in Asia and world's #11 according to QS 2021), and having access to an extensive network of experts across myriads of domains.
 Beyond the university, our network and collaborations span scores of researchers around the world working on a variety of topics.
@@ -23,6 +23,9 @@ Our Lab is located at SDE4, [the first newly-built net-zero energy building in S
 Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean, efficient and low-tax environment.
 And great food and weather, of course.
+
+Our research group aims to increase the share of women in research.
+Female candidates are therefore encouraged to apply.
 
 
 ## Openings
@@ -33,19 +36,19 @@ And great food and weather, of course.
 
 ## Open applications and general info about positions
 
-We appreciate enquiries from motivated prospective PhD candidates, research assistants, and postdoctoral research fellows with dedicated applications.
-Before applying, do read the sections below.
-We want to hear about your specific interest and expect you to have a solid understanding of what we do.
-Do read one of our [publications](/publication), provide your perspective and motivation (e.g. write a short proposal how you would take these results further), and let us know how do you see yourself contributing to our research group.
-In your application, please highlight your computational and geospatial skills.
+We appreciate open enquiries from motivated prospective PhD candidates, research assistants, postdoctoral research fellows, and visiting scholars but we expect dedicated applications.
+Before applying, please read the sections below.
 
+We want to hear about your specific interest and expect you to have at least a basic understanding of what we do and what our research lines are about.
+We suggest that you have a look at one of our [publications](/publication), provide your perspective and motivation (e.g. write a short proposal how you would take these results further), and let us know how do you envision contributing to our research group.
+In your application, please highlight your computational, programming, and geospatial skills.
 Your experience should be evident from the courses followed, publications, and your GitHub account.
 
-While we appreciate interest, we cannot attend to generic applications without a clear motivation and understanding of the scope of our work.
+While we appreciate interest, we cannot entertain generic applications without a clear motivation and understanding of the scope of our work.
 
 ### Postdocs
 
-Postdoctoral research fellows are expected to be independent, spearhead new research initiatives, assist with funding applications, and provide guidance to junior members.
+Postdoctoral research fellows are expected to be moderately independent, spearhead new research initiatives, contribute to funding applications, and provide guidance to junior members.
 Our Lab enables an environment that accords a degree of freedom in exploring own research ideas, and fosters careers of postdocs in several ways such as support to attend conferences and involvements in multiple projects and collaborations.
 
 We announce available postdoc positions in the [openings section](#openings) above, but you are welcome to send an open application, as sometimes there might be a new funded project just around the corner.
@@ -54,18 +57,19 @@ Other than that, we welcome prospective postdoctoral fellows on fellowships (see
 ### PhD candidates and research assistants
 
 Working as RA and/or doing a PhD at NUS is a great opportunity to grow as a scientist and follow your passion in research, and our Lab offers a vibrant and stimulating environment for academic growth.
-[We accept well-motivated and talented prospective PhD candidates](ads/phd-geospatial), but we do not admit them directly as the applications are processed by the school.
-Please read more [below](#doing-a-phd).
-
+RA positions depend on funded projects.
 We announce available RA positions in the [openings section](#openings) above, but you are also welcome to send an open application.
 Computational/programming skills are a must.
+
+[We accept well-motivated and talented prospective PhD candidates](ads/phd-geospatial), but we do not admit them directly as the applications are processed by the school.
+Please read more [below](#doing-a-phd).
 
 ### Visiting scholars and research visits
 
 Feel free to get in touch with us if you are interested in conducting a research visit at the Urban Analytics Lab.
 
-Please prepare a short proposal of the research you plan to conduct in our Lab.
-Feel free to have a look at our website and recent papers, and think of a common overlap, which will ensure a mutually beneficial research visit.
+Please prepare a short proposal of the research you plan to conduct in our Lab together with a timeline and other specifics.
+Feel free to have a look at our website and recent papers, and think of a common overlap or complementary research direction, which will ensure a mutually beneficial research visit.
 Potential contributions to our research group are also important.
 Every year, we have bandwidth to accept only a few visiting researchers.
 Thus, we prefer to prioritise those who work on research that is closely aligned with our activities and ensure a complementary fit and contribution to our projects and team.
