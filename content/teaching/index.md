@@ -1,11 +1,9 @@
 ---
 title: Teaching
 
-# Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
   image: "2019-Commencement-15.jpeg"
-
+  caption: ""
 ---
 
 The Lab is active in the following teaching activities at the National University of Singapore:
