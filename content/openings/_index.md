@@ -1,10 +1,9 @@
 ---
 title: Opportunities
 
-# Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
   image: "NUS_signage_4_r.jpg"
+  caption: ""
 ---
 
 Thank you for your interest in our research group.
@@ -37,7 +36,7 @@ And great food and weather, of course.
 We appreciate enquiries from motivated prospective PhD candidates, research assistants, and postdoctoral research fellows with dedicated applications.
 Before applying, do read the sections below.
 We want to hear about your specific interest and expect you to have a solid understanding of what we do.
-For example, you can read one of our [publications](/publication), provide your perspective and motivation, and let us know how do you see yourself contributing to the work and our research group.
+Do read one of our [publications](/publication), provide your perspective and motivation (e.g. write a short proposal how you would take these results further), and let us know how do you see yourself contributing to our research group.
 In your application, please highlight your computational and geospatial skills.
 
 Your experience should be evident from the courses followed, publications, and your GitHub account.
@@ -59,7 +58,22 @@ Working as RA and/or doing a PhD at NUS is a great opportunity to grow as a scie
 Please read more [below](#doing-a-phd).
 
 We announce available RA positions in the [openings section](#openings) above, but you are also welcome to send an open application.
-Strong computational skills are a must.
+Computational/programming skills are a must.
+
+### Visiting scholars and research visits
+
+Feel free to get in touch with us if you are interested in conducting a research visit at the Urban Analytics Lab.
+
+Please prepare a short proposal of the research you plan to conduct in our Lab.
+Feel free to have a look at our website and recent papers, and think of a common overlap, which will ensure a mutually beneficial research visit.
+Potential contributions to our research group are also important.
+Every year, we have bandwidth to accept only a few visiting researchers.
+Thus, we prefer to prioritise those who work on research that is closely aligned with our activities and ensure a complementary fit and contribution to our projects and team.
+
+Depending on your country of residence and position, sometimes there are opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion), [China Scholarship Council](https://www.chinesescholarshipcouncil.com), and the [US Fulbright Program](https://www.cies.org).
+
+External (non-NUS) students can carry out a portion of their research at our Lab in the form of a research visit.
+Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) for the framework of the scheme.
 
 ## Doing a PhD
 
@@ -81,9 +95,9 @@ You may also want to read the graduate studies website of either the [Department
 
 ## Thesis and internship opportunities for BSc/MSc students
 
-Every year, we accept a number of highly motivated students from NUS Architecture, Real Estate and Geography, Yale-NUS College, and other related departments to work on graduation projects (theses, capstones) in our research domain.
+Every year, we accept a number of highly motivated and talented students from NUS Architecture, Real Estate and Geography, Yale-NUS College, and other related departments to work on graduation projects (theses, capstones) in our research domain.
 
-Such mode of work has been mutually productive, as above average quality projects [have been published in top journals or conferences](/publication), enhancing students' CVs and their applications to PhD programmes.
+Such mode of work has been mutually productive, as above average quality projects [have been published in top journals or conferences](/publication), enhancing students' CVs and boosting their applications to PhD programmes.
 At the same time, the multidisciplinary spectrum and interest of the students and the research has enriched the breadth of expertise and knowledge of the Lab.
 Further, the students have used this opportunity to advance their analytical, coding, and research skills, and build proficiency in a new topic of their interest.
 
@@ -101,14 +115,6 @@ For example, we are accepting undergraduates from universities in Germany thanks
 If your university or country has a similar programme, or if you have another funding arrangement to come and spend time in Singapore, feel free to contact us.
 
 Occasionally there are student research jobs opportunities, which are advertised on the NUS internal student job portal (NSWS) when available.
-
-## Visitors: research visit
-
-Get in touch if you are interested in conducting a research visit with us.
-Depending on your country of residence and position, sometimes there are opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion), [China Scholarship Council](https://www.chinesescholarshipcouncil.com), and the [US Fulbright Program](https://www.cies.org).
-
-External (non-NUS) master students and PhD candidates can carry out a portion of their research at our Lab in the form of a research visit.
-Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) for the framework of the scheme.
 
 ## Fellowship opportunities
 

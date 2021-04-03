@@ -28,7 +28,7 @@
   url = "/data-code"
 
 [[main]]
-  name = "sustainable roof index"
+  name = "roofpedia index"
   parent = "geospatial indexes"
   url = "/project/roofpedia/"
 
