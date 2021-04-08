@@ -9,6 +9,9 @@ header:
 Thank you for your interest in our research group.
 Please find below the list of possible schemes to get involved, primarily [openings](#openings) we have subject to funding and projects.
 
+Our research group aims to increase the share of women in research.
+Female candidates are therefore encouraged to apply.
+
 ## Aims and why us
 
 We are excited to grow a new research group focused on the nexus of 3D geoinformation, urban analytics, and geospatial data science.
@@ -16,16 +19,13 @@ Working at our Lab presents a rare opportunity in Singapore and Southeast Asia t
 
 Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked to be among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
 
-Working at NUS means being part of one of the world's top universities (the #1 university in Asia and world's #11 according to QS 2021), and having access to an extensive network of experts across myriads of domains.
+Working at NUS means being part of a leading global university centred in Asia (the #1 university in Asia and world's #11 according to QS 2021), and having access to an extensive network of experts across myriads of domains.
 Beyond the university, our network and collaborations span scores of researchers around the world working on a variety of topics.
 Our Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
 
 Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean, efficient and low-tax environment.
 And great food and weather, of course.
-
-Our research group aims to increase the share of women in research.
-Female candidates are therefore encouraged to apply.
 
 
 ## Openings
