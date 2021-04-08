@@ -12,7 +12,7 @@ weight = 20  # Order that this section will appear in.
   columns = "1"
 +++
 
-We are a new multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg).
+We are a new multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centred in Asia.
 Our mission is to leverage spatially enabled data for urban applications, catalyse the development of spatial data infrastructures in the context of smart cities, and make sense of big geospatial data and digital twins in the built environment.
 
 The research group is led by Dr {{% mention "filip" %}}, [NUS School of Design and Environment](https://www.sde.nus.edu.sg).
