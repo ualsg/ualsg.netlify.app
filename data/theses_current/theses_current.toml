@@ -41,3 +41,12 @@ study = "Master in Business Analysis"
 year = "2021"
 uni = "Shanghai International Studies University"
 image = "holly-research.png"
+
+[[thesis]]
+title = "Taking Urban Farming to New Heights: Integrated Rooftop Farming Systems in Singapore"
+name = "Shaila Narendran"
+profile = "shaila"
+study = "MSc in Urban Science, Policy and Planning"
+year = "2021"
+uni = "Singapore University of Technology and Design"
+image = "shaila-research.jpg"
