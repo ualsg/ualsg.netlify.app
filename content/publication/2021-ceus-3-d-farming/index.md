@@ -11,3 +11,7 @@ doi: "10.1016/j.compenvurbsys.2020.101584"
 projects:
 - 3d-open
 ---
+
+{{% callout note %}}
+Update (April 2021): this research was featured by the National University of Singapore as a [news item](https://news.nus.edu.sg/novel-use-of-3d-geoinformation-to-identify-urban-farming-sites/).
+{{% /callout %}}
