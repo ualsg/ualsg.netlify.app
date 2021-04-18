@@ -36,6 +36,10 @@ The first author is {{% mention "ankit" %}}, who has graduated with an MSc in Ap
 
 The paper presents a new use case for 3D models: using them to identify locations in buildings suitable for urban farming, based on the light conditions, and potentially recommending the optimal crop to be cultivated at a particular location and estimating the yield.
 
+{{% callout note %}}
+Update (April 2021): this research was featured by the National University of Singapore as a [news item](https://news.nus.edu.sg/novel-use-of-3d-geoinformation-to-identify-urban-farming-sites/).
+{{% /callout %}}
+
 ### Highlights
 
 - Residential buildings are becoming an increasingly relevant venue for urban farming.
