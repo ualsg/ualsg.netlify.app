@@ -188,6 +188,8 @@ Traffic images are available through the [LTA DataMall](https://www.mytransport.
 
 [Apple Mobility Trends Reports](https://www.apple.com/covid19/mobility), [Google Community Mobility Reports](https://www.google.com/covid19/mobility/), and [CityMapper Mobility Index](https://citymapper.com/cmi) all include Singapore.
 
+[CITYDATA](https://citydata.ai) has released [Singapore mobility trip patterns as open data](https://univercity.ai/mobility-trip-patterns-for-singapore/). 
+
 #### Assorted
 
 Both the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html) and [SingStat](https://www.singstat.gov.sg/find-data/search-by-theme/industry/transport/latest-data) have more datasets worth having a look at, e.g. number of cars in SG at a fine temporal scale (updated monthly).
