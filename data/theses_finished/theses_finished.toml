@@ -1,4 +1,22 @@
 [[thesis]]
+title = "Usability of Street View Imagery in Assessing Bikeability"
+name = "Koichi Ito"
+profile = "koichi"
+study = "Master in Urban Planning"
+year = "2021"
+uni = "NUS"
+image = "koichi-research.jpg"
+
+[[thesis]]
+title = "Classification of Urban Morphology with Deep Learning: A Case Study of its Application on Urban Vitality Prediction"
+name = "Chen Wangyang"
+profile = "wangyang"
+study = "Master in Urban Planning"
+year = "2021"
+uni = "NUS"
+image = "wangyang-research.png"
+
+[[thesis]]
 title = "Using 3D city models to uncover urban farming potential in public housing blocks of Singapore"
 name = "Ankit Palliwal"
 profile = "ankit"
