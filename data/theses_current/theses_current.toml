@@ -1,19 +1,11 @@
 [[thesis]]
-title = "Usability of Street View Imagery in Assessing Bikeability"
-name = "Koichi Ito"
-profile = "koichi"
-study = "Master in Urban Planning"
-year = "2021"
-uni = "NUS"
-image = "koichi-research.png"
-
-[[thesis]]
 title = "3D building reconstruction using deep learning methods"
 name = "Pang Hui En"
 profile = "hui-en"
 study = "MSc in Applied GIS"
 year = "2021"
 uni = "NUS"
+image = "hui-en-research.jpg"
 
 [[thesis]]
 title = "Exploiting real estate data for the enrichment of spatial data infrastructure"
@@ -23,15 +15,6 @@ study = "MSc in Applied GIS"
 year = "2021"
 uni = "NUS"
 image = "xinyu-research.jpg"
-
-[[thesis]]
-title = "Deep Learning Based Study of Urban Morphology and its Impact on Urban Vitality"
-name = "Chen Wangyang"
-profile = "wangyang"
-study = "Master in Urban Planning"
-year = "2021"
-uni = "NUS"
-image = "wangyang-research.png"
 
 [[thesis]]
 title = "What influences the price of real estate in Singapore?"
