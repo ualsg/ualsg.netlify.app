@@ -21,7 +21,6 @@ The PhD candidate will be supervised by the Lab's principal investigator Prof [F
 Please note that the Lab does not offer stipends and fully-funded positions at the moment.
 However, there are [scholarship/fellowship opportunities](/openings/#fellowshipscholarship-opportunities-phd-postdoc), which we would happy to endorse if we think that you are a match.
 
-
 ### Support
 
 While we do not offer fully-funded positions, we offer the following:
