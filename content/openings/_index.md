@@ -17,7 +17,7 @@ Female candidates are therefore encouraged to apply.
 We are excited to grow a new research group focused on the nexus of 3D geoinformation, urban analytics, and geospatial data science.
 Working at our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire 3D GIS ecosystem under the same roof: from standardisation and generation of 3D city models all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field. 
 
-Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked to be among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
+Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
 
 Working at NUS means being part of a leading global university centred in Asia (the #1 university in Asia and world's #11 according to QS 2021), and having access to an extensive network of experts across myriads of domains.
 Beyond the university, our network and collaborations span scores of researchers around the world working on a variety of topics.

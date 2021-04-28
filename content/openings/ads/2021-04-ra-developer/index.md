@@ -8,10 +8,13 @@ title = "Vacancy: Developer / Research associate (digital twins)"
 ### Job and project description
 
 The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a research associate to join the research group and spearhead research on 3D city models / BIM, data integration (focusing on crowdsourced and dynamic geospatial data) and use cases, under the umbrella of digital twins.
-This position is part of an upcoming large project, spanning multiple scales: human, building, transportation, and urban scale.
+This position is part of an upcoming large project, spanning multiple scales: human, building, transportation, and urban extents.
 The project will be carried out primarily with our two sister labs at NUS: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org) and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io).
 
-The successful applicant will be engaged on novel research lines in the context of digital twins, namely: integration of nascent data sources, initiating new means of benchmarking and quality assessment of data and workflows, and developing new use cases pertaining to building/urban/geospatial data infrastructure in the context of smart cities.
+This vacancy is advertised concurrently with a related
+[postdoc opening.]({{< relref "/openings/ads/2021-04-postdoc/" >}})
+
+The successful applicant will be engaged on novel research lines in the context of digital twins, namely: integration of nascent data sources, initiating new means of benchmarking and quality assessment of data and workflows, and developing new use cases pertaining to building/urban/geospatial data infrastructure in the frame of smart cities.
 Positioned at the intersection of academia, industry, international organisations and government, the nature of the work is computational and practical.
 It will include implementing software tools, drafting standards, and producing data.
 For example, the researcher will be involved in coding translation mechanisms between datasets stored in different formats and spanning different scales, crunching big / dynamic / crowdsourced / geospatial data and developing software to make use of them, and visualisation.
@@ -41,7 +44,7 @@ Your key responsibilities will be:
 
 You should demonstrate that you possess:
 
-- A degree degree :mortar_board: in a related discipline from a reputable university. Current students are eligible to apply as well, provided that they are in the final stage of their studies and that their degree will be completed before the start of the appointment.
+- A degree :mortar_board: in a related discipline from a reputable university. Current students are eligible to apply as well, provided that they are in the final stage of their studies and that their degree will be completed before the start of the appointment.
 - An ability to conduct research semi-independently.
 - A publication record is not required, but candidates with demonstrated impact, writing skills, and a strong affinity to publish are welcome to emphasise these in their application.
 - Proficiency in one or more of the following areas: GIS, game engines, Geomatics, 3D city modelling, computer science, urban planning, and/or urban simulations.
@@ -62,7 +65,7 @@ You should demonstrate that you possess:
 - Exploring new ideas and an opportunity to experiment with the state of the art.
 - The remuneration will be determined according to the university's salary range depending on the degree and experience.
 
-__Please note that this is not a PhD position. This is a full-time research position.__
+__Please note that this is not a PhD position. This is a full-time research job.__
 
 ### Duration and start
 
@@ -86,7 +89,7 @@ Working at our Lab presents a rare opportunity in Singapore and Southeast Asia t
 
 Our Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
 
-Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked to be among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
+Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
 
 The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-biljecki-appointed-as-presidential-young-professor/) the prestigious presidential young professorship in 2020, supporting the longterm development of the research group.
 
