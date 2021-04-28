@@ -12,7 +12,7 @@ This position is part of an upcoming large project, spanning multiple scales: hu
 The project will be carried out primarily with our two sister labs at NUS: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org) and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io).
 
 This vacancy is advertised concurrently with a related
-[developer / Research associate opening.]({{< relref "/openings/ads/2021-04-ra-developer/" >}})
+[developer / research associate opening.]({{< relref "/openings/ads/2021-04-ra-developer/index.md" >}})
 
 The successful applicant will be engaged on novel research lines in the context of digital twins, namely: integration of nascent data sources, initiating new means of benchmarking and quality assessment of data and workflows, and developing new use cases pertaining to building/urban/geospatial data infrastructure in the frame of smart cities.
 Positioned at the intersection of academia, industry, international organisations and government, the nature of the work is computational and practical.
