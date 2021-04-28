@@ -12,6 +12,10 @@ weight = 20  # Order that this section will appear in.
   columns = "1"
 +++
 
+{{% callout note %}}
+We are hiring developers and computational research associates/fellows on a new project on digital twins. Please see our [opportunities page]({{< ref "/openings/_index.md" >}}).
+{{% /callout %}}
+
 We are a new multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centred in Asia.
 Our mission is to leverage spatially enabled data for urban applications, catalyse the development of spatial data infrastructures in the context of smart cities, and make sense of big geospatial data and digital twins in the built environment.
 
@@ -20,7 +24,7 @@ The research group is led by Dr {{% mention "filip" %}}, [NUS School of Design a
 ![](banner-gbmi.png)
 
 We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
-Within NUS, we collaborate primarily with two sibling labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org) and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), forming a constellation of research groups with complementary activities and scales.
+Within NUS, we collaborate primarily with two sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org) and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), forming a constellation of research groups with complementary activities and scales.
 
 You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, our <a href="post/">blog</a>, and our <a href="publication/">papers</a>.
 
