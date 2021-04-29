@@ -97,7 +97,7 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 
 ### Application
 
-Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the postdoc position on digital twins" in the subject), including the following materials:
+Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the developer/RA position on digital twins" in the subject), including the following materials:
 
 * CV
 * Short cover letter (0.5-1 p.) briefly indicating (i) your relevant experience so far and outlook on the topic; and (ii) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date. Keep it short and simple, please.
