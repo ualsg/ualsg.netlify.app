@@ -34,26 +34,32 @@ The Sustainable Roof Index by Roofpedia is a measure of the penetration of susta
 The results are given in the table below.
 You may click on cities to visit them on map.
 
-| **Rank**  | **City**              | **Buildings**     | **Solar Roofs**   | **%SR Count**     | **%SR Area**  | **Solar Score**   | **Green Roofs**   | **%GR Count**     | **%GR Area**  | **Green Score**   | **Overall Score**     |
-|------ |---------------    |-----------    |-------------  |------------   |-----------    |-------------  |-------------  |------------   |-----------    |-------------  |---------------    |
-| 1     | [Zurich][Zurich]          | 18440         | 838           | 4.5           | 12.9          | 86            | 5760          | 31.2          | 41.6          | 100           | 93                |
-| 2     | [Berlin][Berlin]          | 28677         | 809           | 2.8           | 11.3          | 61            | 3899          | 13.6          | 24.8          | 51            | 56                |
-| 3     | [Las Vegas][Las Vegas]        | 20389         | 805           | 3.9           | 17.3          | 93            | 192           | 0.9           | 7.8           | 9             | 51                |
-| 4     | [Phoenix][Phoenix]        | 15217         | 576           | 3.8           | 14.1          | 81            | 245           | 1.6           | 9.9           | 13            | 47                |
-| 5     | [Melbourne][Melbourne]        | 16809         | 486           | 2.9           | 17.3          | 81            | 258           | 1.5           | 8.4           | 11            | 46                |
-| 6     | [New York][New York]      | 34385         | 677           | 2.0           | 9.4           | 46            | 1924          | 5.6           | 17.2          | 28            | 37                |
-| 7     | [Copenhagen][Copenhagen]      | 15505         | 354           | 2.3           | 9.0           | 48            | 735           | 4.7           | 13.1          | 22            | 35                |
-| 8     | [Paris][Paris]            | 74014         | 1507          | 2.0           | 9.1           | 45            | 2766          | 3.7           | 11.2          | 18            | 32                |
-| 9     | [San Diego][San Diego]        | 28303         | 237           | 0.8           | 7.4           | 27            | 373           | 1.3           | 11.0          | 14            | 20                |
-| 10    | [Los Angeles][Los Angeles]    | 50978         | 384           | 0.8           | 6.3           | 22            | 419           | 0.8           | 4.7           | 6             | 14                |
-| 11    | [San Jose][San Jose]          | 182314        | 732           | 0.4           | 4.9           | 14            | 2650          | 1.5           | 10.2          | 13            | 13                |
-| 12    | [Seattle][Seattle]        | 81044         | 263           | 0.3           | 5.4           | 15            | 347           | 0.4           | 5.6           | 6             | 10                |
-| 13    | [Portland][Portland]          | 122900        | 482           | 0.4           | 4.2           | 11            | 302           | 0.2           | 3.7           | 3             | 7                 |
-| 14    | [San Francisco][San Francisco]    | 165814        | 560           | 0.3           | 3.9           | 10            | 389           | 0.2           | 2.6           | 2             | 6                 |
-| 15    | [Vancouver][Vancouver]        | 163818        | 145           | 0.1           | 1.6           | 0             | 108           | 0.1           | 1.0           | 0             | 0                 |0               |
+| **Rank** | **City**                           | **Solar Score** | **Green Score** | **Overall Score** |
+| -------- | ---------------------------------- | --------------- | --------------- | ----------------- |
+| 1        | [Zurich][Zurich]                   | 81              | 100             | 91                |
+| 2        | [Berlin][Berlin]                   | 57              | 51              | 54                |
+| 3        | [Las Vegas][Las Vegas]             | 86              | 9               | 48                |
+| 4        | [Phoenix][Phoenix]                 | 75              | 13              | 44                |
+| 5        | [Melbourne][Melbourne]             | 74              | 11              | 43                |
+| 6        | [New York][New York]               | 42              | 28              | 35                |
+| 7        | [Copenhagen][Copenhagen]           | 45              | 22              | 34                |
+| 8        | [Paris][Paris]                     | 42              | 18              | 30                |
+| 9        | [San Diego][San Diego]             | 24              | 14              | 19                |
+| 10       | [Los Angeles][Los Angeles]         | 20              | 6               | 13                |
+| 11       | [San Jose][San Jose]               | 12              | 13              | 13                |
+| 12       | [Seattle][Seattle]                 | 13              | 6               | 10                |
+| 13       | [Portland][Portland]               | 10              | 3               | 7                 |
+| 14       | [Luxembourg City][Luxembourg City] | 7               | 4               | 6                 |
+| 15       | [San Francisco][San Francisco]     | 9               | 2               | 6                 |
+| 16       | [Vancouver][Vancouver]             | 0               | 0               | 0                 |
+| 17       | [Singapore*][Singapore]             | 75              | -               | -                 |
+
+
 
 
 Disclaimer: Vancouver is green! Just not roof green compared to the top cities in the list.
+*Due to the lack of high quality satellite imagery for rooftop greenery, Green Score for Singapore is not calculated.
+
 
 More cities are getting added to Roofpedia as their satellite data become available. If you'd like to contribute satellite images to expand Roofpedia, please [email](mailto:abraham@nus.edu.sg) {{% mention "abraham" %}}, the lead developer.
 
@@ -108,6 +114,14 @@ If you use Roofpedia in a scientific context, please cite the paper:
 [San Francisco]:https://api.mapbox.com/styles/v1/iceofsky1/ckkaqwtr500v317r01y46xp6r.html?fresh=true&title=view&access_token=pk.eyJ1IjoiaWNlb2Zza3kxIiwiYSI6ImNraTF4ejIxaDBxNGgycm1zd3ZvMThwOGMifQ.-QrGKalxvWk3sY7BqDbI1Q#12.5/37.77993/-122.42131
 
 [Vancouver]:https://api.mapbox.com/styles/v1/iceofsky1/ckkaqwtr500v317r01y46xp6r.html?fresh=true&title=view&access_token=pk.eyJ1IjoiaWNlb2Zza3kxIiwiYSI6ImNraTF4ejIxaDBxNGgycm1zd3ZvMThwOGMifQ.-QrGKalxvWk3sY7BqDbI1Q#12/49.26528/-123.11271
+
+[Luxembourg City]:  https://api.mapbox.com/styles/v1/iceofsky1/ckkaqwtr500v317r01y46xp6r.html?fresh=true&title=view&access_token=pk.eyJ1IjoiaWNlb2Zza3kxIiwiYSI6ImNraTF4ejIxaDBxNGgycm1zd3ZvMThwOGMifQ.-QrGKalxvWk3sY7BqDbI1Q#13.49/49.61314/6.12884
+
+[Singapore]: https://api.mapbox.com/styles/v1/iceofsky1/ckkaqwtr500v317r01y46xp6r.html?fresh=true&title=view&access_token=pk.eyJ1IjoiaWNlb2Zza3kxIiwiYSI6ImNraTF4ejIxaDBxNGgycm1zd3ZvMThwOGMifQ.-QrGKalxvWk3sY7BqDbI1Q#11.35/1.3625/103.7974
+
+
+
+
 
 ## Contact
 
