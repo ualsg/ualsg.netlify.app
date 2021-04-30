@@ -45,7 +45,7 @@ Further, the final report of the project is available [here](/publication/2020-g
 
 ## Part I: Reference study of IFC software support
 
-> Noardo F, Krijnen T, Arroyo Ohori K, Biljecki F, Ellul C, Harrie L, Eriksson H, Polia L, Salheb N, Tauscher H, van Liempt J, Goerne H, Hintz D, Kaiser T, Leoni C, Warchol A, Stoter J (2021): Reference study of IFC software support: The GeoBIM benchmark 2019---Part I. _Transactions in GIS_. [<i class="ai ai-doi-square ai"></i> 10.1111/tgis.12709](https://doi.org/10.1111/tgis.12709) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-tgis-geobim-ifc/2021-tgis-geobim-ifc.pdf) <i class="ai ai-open-access-square ai"></i>
+> Noardo F, Krijnen T, Arroyo Ohori K, Biljecki F, Ellul C, Harrie L, Eriksson H, Polia L, Salheb N, Tauscher H, van Liempt J, Goerne H, Hintz D, Kaiser T, Leoni C, Warchol A, Stoter J (2021): Reference study of IFC software support: The GeoBIM benchmark 2019---Part I. _Transactions in GIS_ 25: 805-841, 2021. [<i class="ai ai-doi-square ai"></i> 10.1111/tgis.12709](https://doi.org/10.1111/tgis.12709) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-tgis-geobim-ifc/2021-tgis-geobim-ifc.pdf) <i class="ai ai-open-access-square ai"></i>
 
 Abstract:
 
@@ -61,6 +61,8 @@ BibTeX citation:
  author = {Noardo, Francesca and Krijnen, Thomas and Arroyo Ohori, Ken and Biljecki, Filip and Ellul, Claire and Harrie, Lars and Eriksson, Helen and Polia, Lorenzo and Salheb, Nebras and Tauscher, Helga and van Liempt, Jordi and Goerne, Hendrik and Hintz, Dean and Kaiser, Tim and Leoni, Cristina and Warchol, Artur and Stoter, Jantien},
  doi = {10.1111/tgis.12709},
  journal = {Transactions in GIS},
+ volume = {25},
+ pages = {805-841},
  title = {Reference study of IFC software support: The GeoBIM benchmark 2019---Part I},
  year = {2021}
 }
@@ -69,7 +71,7 @@ BibTeX citation:
 
 ## Part II: Reference study of CityGML software support
 
-> Noardo F, Arroyo Ohori K, Biljecki F, Ellul C, Harrie L, Krijnen T, Eriksson H, van Liempt J, Pla M, Ruiz A, Hintz D, Krueger N, Leoni C, Leoz L, Moraru D, Vitalis S, Willkomm P, Stoter J (2021): Reference study of CityGML software support: The GeoBIM benchmark 2019---Part II. _Transactions in GIS_. [<i class="ai ai-doi-square ai"></i> 10.1111/tgis.12710](https://doi.org/10.1111/tgis.12710) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-tgis-geobim-citygml/2021-tgis-geobim-citygml.pdf) <i class="ai ai-open-access-square ai"></i>
+> Noardo F, Arroyo Ohori K, Biljecki F, Ellul C, Harrie L, Krijnen T, Eriksson H, van Liempt J, Pla M, Ruiz A, Hintz D, Krueger N, Leoni C, Leoz L, Moraru D, Vitalis S, Willkomm P, Stoter J (2021): Reference study of CityGML software support: The GeoBIM benchmark 2019---Part II. _Transactions in GIS_ 25: 842-868, 2021. [<i class="ai ai-doi-square ai"></i> 10.1111/tgis.12710](https://doi.org/10.1111/tgis.12710) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-tgis-geobim-citygml/2021-tgis-geobim-citygml.pdf) <i class="ai ai-open-access-square ai"></i>
 
 Abstract:
 
@@ -85,6 +87,8 @@ BibTeX citation:
  author = {Noardo, Francesca and Arroyo Ohori, Ken and Biljecki, Filip and Ellul, Claire and Harrie, Lars and Krijnen, Thomas and Eriksson, Helen and van Liempt, Jordi and Pla, Maria and Ruiz, Antonio and Hintz, Dean and Krueger, Nina and Leoni, Cristina and Leoz, Leire and Moraru, Diana and Vitalis, Stelios and Willkomm, Philipp and Stoter, Jantien},
  doi = {10.1111/tgis.12710},
  journal = {Transactions in GIS},
+ volume = {25},
+ pages = {842-868},
  title = {Reference study of CityGML software support: The GeoBIM benchmark 2019---Part II},
  year = {2021}
 }
