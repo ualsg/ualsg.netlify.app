@@ -34,6 +34,8 @@ The Sustainable Roof Index by Roofpedia is a measure of the penetration of susta
 The results are given in the table below.
 You may click on cities to visit them on map.
 
+<center>
+
 | **Rank** | **City**                           | **Solar Score** | **Green Score** | **Overall Score** |
 | -------- | ---------------------------------- | --------------- | --------------- | ----------------- |
 | 1        | [Zurich][Zurich]                   | 81              | 100             | 91                |
@@ -52,10 +54,9 @@ You may click on cities to visit them on map.
 | 14       | [Luxembourg City][Luxembourg City] | 7               | 4               | 6                 |
 | 15       | [San Francisco][San Francisco]     | 9               | 2               | 6                 |
 | 16       | [Vancouver][Vancouver]             | 0               | 0               | 0                 |
-| 17       | [Singapore*][Singapore]             | 75              | -               | -                 |
+| *        | [Singapore][Singapore]             | 75              | -               | -                 |
 
-
-
+</center>
 
 Disclaimer: Vancouver is green! Just not roof green compared to the top cities in the list.
 *Due to the lack of high quality satellite imagery for rooftop greenery, Green Score for Singapore is not calculated.
