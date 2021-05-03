@@ -71,6 +71,7 @@ __Please note that this is not a PhD position. This is a full-time research job.
 
 The appointment is for one year, with a probation period of 3 months.
 The contract can be extended for another year subject to performance.
+The exact start date will be determined later.
 
 ### Employer
 
@@ -81,6 +82,7 @@ It aspires to be a vital community of academics, researchers, staff, students an
 
 Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean, efficient and low-tax environment.
+It is also [considered as the world's best place to be during the ongoing pandemic](https://www.bbc.com/news/world-asia-56939261.amp).
 
 #### Urban Analytics Lab
 
@@ -100,7 +102,11 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the developer/RA position on digital twins" in the subject), including the following materials:
 
 * CV
-* Short cover letter (0.5-1 p.) briefly indicating (i) your relevant experience so far and outlook on the topic; and (ii) how do you intend to contribute to our growing research group and enhance its activities. The letter should also include the expected availability / preferred starting date. Keep it short and simple, please.
+* Short cover letter (about one page) briefly indicating:
+    * (i) your computational skills and relevant experience so far and how would they translate to benefit this project;
+    * (ii) outlook on the topic, project, some of our work/publications; and
+    * (iii) how do you intend to contribute to our growing research group and enhance its activities beyond this project.
+    * The letter should also include the expected availability / preferred starting date. Keep it short and simple, please.
 * Optional: publications are not required to apply for this position, but if you have published a paper that mirrors your background and research so far, and one that you are particularly proud of, you are welcome to include it. A link to the article is sufficient, no need to include a PDF in your email.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks, and portfolio. Candidates who can demonstrate software development and computational skills will be preferred.
