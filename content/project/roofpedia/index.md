@@ -23,18 +23,22 @@ image:
 
 Roofpedia is an open registry of sustainable roofscapes around the world.
 It uses deep convolutional neural network to detect sustainable roof typologies from satellite images.
-Footprints of buildings identified with solar panels or rooftop greenery are tagged automatically, and the results are visualized above.
+Footprints of buildings identified with solar panels or rooftop greenery are tagged automatically, and the results are visualized above for a score of cities.
+
+While most studies so far have been focused on estimating the potential of rooftops, Roofpedia enables us to understand the current and actual status of the rooftops, i.e. how many of them are currently occupied with solar panels and/or extensive greenery.
+Such information advances the state of the art, complements existing studies (including those estimating the potential), and it is useful for several purposes, e.g. gauging the efficiency of government policies, tracking and monitoring pledges by businesses, verifying the use of subsidies, estimating the current carbon offsetting capacity of cities and benchmarking them (see below), and determining how much of the potential has already been realised.
+
+The nature of our project is open --- data and code are released openly, and the project is modular, enabling the addition of new geographies and roof typologies.
 
 {{< figure src="featured.jpg" title="Roofpedia in a nutshell." >}}
 
 ## The Roofpedia Index
 
-The Sustainable Roof Index by Roofpedia is a measure of the penetration of sustainable roof typologies in major cities around the world. Solar roofs and Green roofs mapped by Roofpedia are compared against the total number of buildings and areas of the buildings in a city. Aggregate scores are calculated for both solar and green coverage and cities are ranked with an combined score.
+We introduce a measure of the penetration of sustainable roof typologies in major cities around the world.
+Solar roofs and Green roofs mapped by Roofpedia are compared against the total number of buildings and areas of the buildings in a city. Aggregate scores are calculated for both solar and green coverage and cities are ranked with an combined score.
 
 The results are given in the table below.
 You may click on cities to visit them on map.
-
-<center>
 
 | **Rank** | **City**                           | **Solar Score** | **Green Score** | **Overall Score** |
 | -------- | ---------------------------------- | --------------- | --------------- | ----------------- |
@@ -53,20 +57,19 @@ You may click on cities to visit them on map.
 | 13       | [Portland][Portland]               | 10              | 3               | 7                 |
 | 14       | [Luxembourg City][Luxembourg City] | 7               | 4               | 6                 |
 | 15       | [San Francisco][San Francisco]     | 9               | 2               | 6                 |
-| 16       | [Vancouver][Vancouver]             | 0               | 0               | 0                 |
-| *        | [Singapore][Singapore]             | 75              | -               | -                 |
+| 16       | [Vancouver][Vancouver] [^1]             | 0               | 0               | 0                 |
+| *        | [Singapore][Singapore] [^2]            | 75              | -               | -                 |
 
-</center>
+ 
+[^1]: Vancouver is green! Just not roof green compared to the top cities in the list.
+[^2]: Due to the lack of high quality satellite imagery for rooftop greenery, Green Score for Singapore is not calculated.
 
-Disclaimer: Vancouver is green! Just not roof green compared to the top cities in the list.
-*Due to the lack of high quality satellite imagery for rooftop greenery, Green Score for Singapore is not calculated.
-
-
-More cities are getting added to Roofpedia as their satellite data become available. If you'd like to contribute satellite images to expand Roofpedia, please [email](mailto:abraham@nus.edu.sg) {{% mention "abraham" %}}, the lead developer.
+More cities are getting added to Roofpedia as their aerial or satellite imagery become available.
+If you'd like to contribute images to expand Roofpedia, please [email](mailto:abraham@nus.edu.sg) {{% mention "abraham" %}}, the lead developer.
 
 ## Data and code
 
-Full data and code of Roofpedia can be accessed at its [GitHub repo](https://github.com/Iceofsky/Roofpedia).
+Full data and code of Roofpedia can be accessed at its [GitHub repo](https://github.com/ualsg/Roofpedia).
 
 ## Paper and attribution
 
@@ -132,6 +135,7 @@ If you use Roofpedia in a scientific context, please cite the paper:
 ### Principal investigator
 {{% mention "filip" %}}
 
+### Research group
 Urban Analytics Lab, National University of Singapore (NUS)
 
 ## Acknowledgements
@@ -139,4 +143,4 @@ Urban Analytics Lab, National University of Singapore (NUS)
 This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start-Up Grant R-295-000-171-133.
 
 We gratefully acknowledge the sources of the used input data.
-For more information, please see the aforementioned paper.
+For more information, please see the aforementioned [paper](https://arxiv.org/abs/2012.14349).
