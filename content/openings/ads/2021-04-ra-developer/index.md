@@ -16,7 +16,7 @@ This vacancy is advertised concurrently with a related
 
 The successful applicant will be engaged on novel research lines in the context of digital twins, namely: integration of nascent data sources, initiating new means of benchmarking and quality assessment of data and workflows, and developing new use cases pertaining to building/urban/geospatial data infrastructure in the frame of smart cities.
 Positioned at the intersection of academia, industry, international organisations and government, the nature of the work is computational and practical.
-It will include implementing software tools, drafting standards, and producing data.
+It will include implementing software tools, drafting standards (e.g. advancing [CityJSON](https://www.cityjson.org)), and producing data.
 For example, the researcher will be involved in coding translation mechanisms between datasets stored in different formats and spanning different scales, crunching big / dynamic / crowdsourced / geospatial data and developing software to make use of them, and visualisation.
 A portion of the project will involve data collection, e.g. imagery and point clouds.
 
@@ -114,7 +114,7 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
 
 {{% callout note %}}
-The deadline to apply is 17 May 2021.
+Applications will be considered as they are received and the position will remain open until filled.
 {{% /callout %}}
 
 For general information about academic jobs at NUS, please visit [NUS  Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).
