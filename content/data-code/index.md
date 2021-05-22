@@ -20,14 +20,14 @@ Besides open access [publications](/publication), we are committed to publishing
 
 For the list of resources that we are happy to share with fellow scientists and practitioners, please see below (and stay tuned as we will be adding more resources in future along with new projects).
 
-If you use the code and/or the data for presentations and publications, we kindly ask you to cite us and credit our work. 
+If you use the code and/or the data for presentations and publications, we kindly ask you to cite the related paper(s) and credit our work. 
 We have provided guidelines in each resource.
 
-While a great deal of effort has been put into each project, we cannot be held responsible for the use of data and any errors that may arise.
+While a great deal of effort has been put into each project, they are not free of errors, and we cannot be held responsible for the use of data and any issues that may arise.
 
 Feel free to contact us for more information, to report bugs and errors, or simply to inform us what are you using the data for.
+We would be pleased to hear how are others using our research.
 We are also happy to have contributors and collaborations.
-
 
 ## 3D dataset of all public housing (HDB) in Singapore 
 
@@ -42,3 +42,18 @@ We are also happy to have contributors and collaborations.
 | Code: | The code used to generate the dataset is available in a [separate <i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/hdb3d-code) |
 | Main data source(s): | HDB, OpenStreetMap, OneMap. All open data |
 | Coverage: | Singapore | 
+
+
+## Roofpedia -- solar and green roofs around the world
+
+![Density of solar panels in Singapore](roofpedia-singapore.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | Locations of buildings that have installed photovoltaics or greenery on their rooftops |
+| Formats | GeoJSON |
+| Further reading: | Please read more here at our [website]({{< ref "/project/roofpedia/index.md" >}}) or in the [paper](https://arxiv.org/abs/2012.14349) |
+| Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Roofpedia) |
+| Code: | The code used to generate the dataset is available in the [same <i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/Roofpedia) |
+| Main data source(s): | Various satellite imagery, OpenStreetMap. All open data |
+| Coverage: | 17 cities around the world | 

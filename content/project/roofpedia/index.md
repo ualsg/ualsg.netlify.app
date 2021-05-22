@@ -125,11 +125,21 @@ If you use Roofpedia in a scientific context, please cite the paper:
 
 
 
+## Limitations, issues, and future work
+
+Roofpedia is an experimental research prototype, which leaves much opportunity for improvement and future work.
+
+As with all other machine learning workflows, the results are not always 100% accurate.
+Much of the performance of the predictions (e.g. classification of whether a building has a solar panel on its rooftop) depends on the quality of the input imagery.
+Therefore, some buildings are misclassified, especially in imagery in which it is difficult even for humans to discern rooftop greenery and photovoltaics, resulting in false positives and false negatives.
+However, when these results are aggregated at the city-scale, the results tend to be more accurate.
+
+For future work, we hope to add more cities to our collection and add the temporal aspect to the project, tracking the evolution of greenery and solar panels through time.
 
 
 ## Contact
 
-### Research and development
+### Lead research and development
 {{% mention "abraham" %}}
 
 ### Principal investigator
