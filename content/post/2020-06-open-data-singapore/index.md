@@ -67,6 +67,7 @@ We used this dataset as one of the input datasets to generate [3D building model
 * For open data on building footprints the best bet is OpenStreetMap, it has [nearly 100% completeness with rapid updates]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}), but attribute data may lack.
 Data.gov.sg contains [a dataset representing building footprints](https://data.gov.sg/dataset/master-plan-2014-building), but for some reason it is not complete, covering only a subset of buildings several years ago.
 It still might be useful though.
+* Check out [Roofpedia](/project/roofpedia/), our project that maps solar panels and green roofs on buildings, which includes open data on Singapore, together with several other cities.
 
 {{< figure src="danist-FXeaLbv2DQU-unsplash.jpg" title="Photo by [贝莉儿 DANIST](https://unsplash.com/@danist07) on [Unsplash](https://unsplash.com/photos/FXeaLbv2DQU)." lightbox="true" >}}
 
