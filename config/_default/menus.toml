@@ -33,6 +33,11 @@
   url = "/project/roofpedia/"
 
 [[main]]
+  name = "open building data"
+  parent = "geospatial indexes"
+  url = "/project/open-building-data/"
+
+[[main]]
   name = "open data SG"
   parent = "geospatial indexes"
   url = "/post/2020/06/24/guide-for-open-urban-data-in-singapore/"
