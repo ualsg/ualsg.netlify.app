@@ -17,6 +17,12 @@ image:
 
 {{< building >}}
 
+{{% callout note %}}
+The inventory is currently in beta, as we are working on cleaning it and adding new datasets.
+We estimate having a release by the end of June 2021.
+An early snapshot is provided here to raise awareness of the project, solicit more datasets, and help us detect errors.
+{{% /callout %}}
+
 ## Mapping and Analysing the Availability of Datasets on Buildings
 
 ### Explore Sources of Building Footprints Around the World
@@ -29,7 +35,19 @@ The results are available as a map (above) and as a list (below).
 
 Please note that this is an ongoing work, and we will be adding new datasets as we check their content.
 
-## List of Datasets
+### Inclusion Criteria
+
+The criteria for inclusion in the list are as follows.
+The dataset should:
+- [x] be released as [open data](https://opendefinition.org). There are no restrictions, approvals required, etc. to access the data.
+- [x] be created and released by a governmental authority, such as national mapping agency or city administration.
+- [x] contain 2D spatial data on buildings (i.e. footprints). For example, non-spatial datasets (e.g. spreadsheets or aggregated statistics) and point-based datasets (e.g. geocoded addresses) are not considered for this project.
+- [ ] While we regard also the semantic content of data (i.e. attributes) such as type of building, they are not a requirement for the inclusion, and purely spatial datasets with no attributes are welcome as well. Where attributes are available, we have analysed them too (more info coming soon).
+
+Please note that we are not covering datasets that are not of official nature.
+For example, commercial releases and volunteered geoinformation are not in the focus of this research.
+
+### List of Datasets
 
 The results are given in the table below.
 You may click on the links to visit the website linking to the data.
@@ -161,9 +179,10 @@ You may click on the links to visit the website linking to the data.
 | Wyndham |	| Australia |	| [Link](https://data.gov.au/dataset/ds-dga-1ac84b6c-aef0-445f-a8da-0f19d0796181/details?q=BUILDING%20FOOTPRINT) |
 | Yavapai |	| US |	| [Link](https://hub.arcgis.com/datasets/YavGIS::building-2014-footprints?geometry=-118.918%2C33.121%2C-105.998%2C36.282) |
 
+### Adding a New Dataset
 
 More open government building data are getting added to this data repository as we expand our search.
-If you'd like to contribute with new entries to expand our inventory, please [email](mailto:filip@nus.edu.sg) {{% mention "filip" %}}, the principal investigator.
+If you'd like to contribute with new entries to expand our inventory, you are more than welcome to do so by filling the following [form](https://forms.gle/GVMUBgf3ntSViHK1A).
 
 ## Paper
 
