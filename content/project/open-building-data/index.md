@@ -166,7 +166,6 @@ You may click on the links to visit the website linking to the data.
 | Summit  |	| US |	| [Link](https://hub.arcgis.com/datasets/summitgis::building-footprints?geometry=-83.154%2C40.766%2C-79.924%2C41.490) |
 | Surprise |	| US |	| [Link](https://hub.arcgis.com/datasets/Surprise::commercial-footprints?geometry=-112.812%2C33.545%2C-112.004%2C33.745) |
 | Tampere |	| Finland |	| [Link](https://data.tampere.fi/data/fi/dataset/tampereen-rakennukset) |
-| Val d'Ille - Aubigné |	| US |	| [Link](https://data.europa.eu/data/datasets/fr-ccvia-bati_ccvia_date?locale=de) |
 | Val d'llle-Aubigne |	| France |	| [Link](https://www.data.gouv.fr/fr/datasets/bati-val-dille-aubigne/) |
 | Vilas  |	| US |	| [Link](https://hub.arcgis.com/datasets/vilas::buildings?geometry=-91.105%2C45.743%2C-87.875%2C46.410) |
 | Ville De Quebec |	| Canada |	| [Link](https://www.donneesquebec.ca/recherche/fr/dataset/empreintes-des-batiments) |
