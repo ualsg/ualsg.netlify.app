@@ -19,7 +19,6 @@ image:
 
 {{% callout note %}}
 The inventory is currently in beta, as we are working on cleaning it and adding new datasets.
-We estimate having a release by the end of June 2021.
 An early snapshot is provided here to raise awareness of the project, solicit more datasets, and help us detect errors.
 {{% /callout %}}
 
@@ -182,6 +181,11 @@ You may click on the links to visit the website linking to the data.
 
 More open government building data are getting added to this data repository as we expand our search.
 If you'd like to contribute with new entries to expand our inventory, you are more than welcome to do so by filling the following [form](https://forms.gle/GVMUBgf3ntSViHK1A).
+
+### Errors
+
+The inventory is not free of errors, especially in jurisdictions where English is not an official language. 
+If you spot an error, please report it through this [form](https://forms.gle/JnhuGobgaJQiwMop8).
 
 ## Paper
 
