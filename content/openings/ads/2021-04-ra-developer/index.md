@@ -9,7 +9,7 @@ title = "Vacancy: Developer / Research associate (digital twins)"
 
 The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a research associate to join the research group and spearhead research on 3D city models / BIM, data integration (focusing on crowdsourced and dynamic geospatial data) and use cases, under the umbrella of digital twins.
 This position is part of an upcoming large project, spanning multiple scales: human, building, transportation, and urban extents.
-The project will be carried out primarily with our two sister labs at NUS: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org) and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io).
+The project will be carried out primarily with our sister labs at NUS: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab](https://www.sde.nus.edu.sg/arch/ucdl/).
 
 This vacancy is advertised concurrently with a related
 [postdoc opening.]({{< relref "/openings/ads/2021-04-postdoc/index.md" >}})
