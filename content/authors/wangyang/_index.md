@@ -50,7 +50,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
+- Alumni
 ---
 
 Wangyang is pursuing a master’s degree in urban planning at the NUS School of Design and Environment. His working experience includes an internship in data operation at Meituan, China. His research interest is in applying machine learning and deep learning techniques in urban planning studies.

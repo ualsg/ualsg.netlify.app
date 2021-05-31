@@ -24,7 +24,7 @@ The research group is led by Dr {{% mention "filip" %}}, [NUS School of Design a
 ![](banner-gbmi.png)
 
 We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
-Within NUS, we collaborate primarily with two sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org) and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), forming a constellation of research groups with complementary activities and scales.
+Within NUS, we collaborate primarily with three sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab](https://www.sde.nus.edu.sg/arch/ucdl/), forming a constellation of research groups with complementary activities and scales.
 
 You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, our <a href="post/">blog</a>, and our <a href="publication/">papers</a>.
 
