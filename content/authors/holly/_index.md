@@ -50,7 +50,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
+- Alumni
 ---
 
 Sponsored by China Scholarship Council (CSC) to be an exchange master student in NUS, I am here to do research on data analysis and data visualization in real estate industry. Meanwhile, I am very interested in joining some international competitions and volunteer works. As for work experience, I used to be a data engineer intern in the supply chain of Apple and IT assistant intern in Deloitte.
