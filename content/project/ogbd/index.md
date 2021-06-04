@@ -18,43 +18,62 @@ image:
 {{< building >}}
 
 {{% callout note %}}
-The inventory is currently in beta, as we are working on cleaning it and adding new datasets.
-An early snapshot is provided here to raise awareness of the project, solicit more datasets, and help us detect errors.
+This is an ongoing project: the inventory is currently in beta, as we are working on cleaning it and adding new datasets.
+A preliminary snapshot is provided here to raise awareness of the project, solicit more datasets, and help us detect errors.
 {{% /callout %}}
 
-## Mapping and Analysing the Availability of Datasets on Buildings
+## Mapping and Analysing the Worldwide Availability of Authoritative Datasets on Buildings
 
-### Explore Sources of Building Footprints Around the World
+### About the project
 
 Open government data on buildings is becoming increasingly available and accessible globally.
-While [OpenStreetMap](https://www.openstreetmap.org/) covers a large number of buildings, government datasets often have an authoritative status due to their full completeness in their jurisdictions, homogeneous approaches to collecting data, and often an extended set of attributes not available elsewhere.
+While [OpenStreetMap](https://www.openstreetmap.org/) (OSM) [covers a large number of buildings and has made impressive progress in the past few years](/publication/2020-3-dgeoinfo-3-d-asean/), datasets released by governments often have authoritative status thanks to their full completeness in their jurisdictions, homogeneous data collecting, and sometimes an extended set of attributes not available elsewhere.
 
-We have created an inventory of open government data on buildings.
-The results are available as a map (above) and as a list (below).
+We have created a global inventory of open government data on buildings.
+The principal results are available as a map (above) and as a list (below), with an ongoing [analysis](#analysis).
+The results of this project have several purposes, e.g. draw attention to these datasets to practitioners and scientists, and aid governments in understanding how their data fares in comparison to others, or for governments that have not released their data yet, to provide insights about common practices of their counterparts around the world.
+Further, we seek to understand the intertwined relationships with other sources of data such as volunteered geoinformation and commercial entities, and the role authoritative data has amid the increasing role of other actors in the same geographies.
+
+This research is funded by the [National University of Singapore (NUS)](https://nus.edu.sg) and it is carried out by the [NUS Urban Analytics Lab](https://ual.sg) in collaboration with [others](#people).
 
 Please note that this is an ongoing work, and we will be adding new datasets as we check their content.
 
-### Inclusion Criteria
+
+### Inclusion criteria
 
 The criteria for inclusion in the list are as follows.
 The dataset should:
-- [x] be released as [open data](https://opendefinition.org). There are no restrictions, approvals required, etc. to access the data.
-- [x] be created and released by a governmental authority, such as national mapping agency or city administration.
-- [x] contain 2D spatial data on buildings (i.e. footprints). For example, non-spatial datasets (e.g. spreadsheets or aggregated statistics) and point-based datasets (e.g. geocoded addresses) are not considered for this project.
-- [ ] While we regard also the semantic content of data (i.e. attributes) such as type of building, they are not a requirement for the inclusion, and purely spatial datasets with no attributes are welcome as well. Where attributes are available, we have analysed them too (more info coming soon).
+- [x] be released as [open data](https://opendefinition.org), i.e. it can be freely used, modified, and shared by anyone for any purpose. For example, a viewer that enables viewing the data, but one that does not allow downloading it, is not considered to be a case of open data.
+- [x] be created and released by a governmental authority, such as national mapping/cadastral agency, regional government, or city administration.
+- [x] contain 2D spatial data on buildings (i.e. footprints). For example, non-spatial datasets (e.g. spreadsheets or aggregated statistics) and point-based datasets (e.g. geocoded addresses) are not considered for this project due to their limited usefulness in geospatial workflows and urban studies.
 
-Please note that we are not covering datasets that are not of official nature.
-For example, commercial releases and volunteered geoinformation are not in the focus of this research.
+While we regard also the semantic content of data (i.e. attributes) such as type of building, number of storeys, and its year of construction, they are not a requirement for the inclusion, thus, purely spatial datasets with no attributes are included in this study. In fact, about 47% of the datasets we have identified contain no semantic content whatsoever. Where attributes are available, we have [analysed them](#analysis).
+
+The datasets have been identified through an exploration of data portals, crowdsourcing (through social media), and examining research papers.
+
+Do note that we are not covering datasets that are not of official nature.
+For example, commercial releases and volunteered geoinformation are not in the focus of this research (they are subject of [our other research activities](/)).
 
 ### List of Datasets
 
-The results are given in the table below.
-You may click on the links to visit the website linking to the data.
+The key result of the project is an inventory, which is given in the tables below, by type of jurisdiction.
+You may click on the links to visit the website linking to the data and often describing it with metadata.
+
+#### Country-wide datasets
+
+| **Country** | | **Website** | 
+| --- | --- | --- |
+| Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6) |
+| Estonia || [Link](https://geoportaal.maaamet.ee/eng/Maps-and-Data/Estonian-Topographic-Database/Download-Topographic-Data-p618.html) |
+| France || [Link](https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#bd-topo) |
+| Netherlands || [Link](https://nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search;jsessionid=00BBD805A35CB4968F9CC7E1A94316FD#/metadata/aa3b5e6e-7baa-40c0-8972-3353e927ec2f) |
+| New Zealand || [Link](https://data.linz.govt.nz/layer/101292-nz-building-outlines-all-sources/) |
+| Norway || [Link](https://inspire-geoportal.ec.europa.eu/results.html?country=no&view=details&theme=bu) |
 
 
-#### City and region datasets
+#### City and regional datasets
 
-|**Coverage** | | **Country** | | **Website** | 
+|**Geographic Coverage** | | **Country** | | **Website** | 
 | --- | --- | --- | --- | --- |
 | Christmas Island || Australia || [Link](https://data.gov.au/dataset/ds-wa-460b724b-0ed2-4348-8866-78feefc8cb21/details?q=buildings) |
 | Cocos Island || Australia || [Link](https://data.gov.au/dataset/ds-wa-9159fce6-4328-4cb9-bdd7-ad7778ce8818/details?q=buildings) |
@@ -183,24 +202,10 @@ You may click on the links to visit the website linking to the data.
 | Yavapai || US || [Link](https://hub.arcgis.com/datasets/YavGIS::building-2014-footprints-1/about) |
 
 
-
-#### Country-wide datasets
-
-| **Country** | | **Website** | 
-| --- | --- | --- |
-| Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6) |
-| Estonia || [Link](https://geoportaal.maaamet.ee/eng/Maps-and-Data/Estonian-Topographic-Database/Download-Topographic-Data-p618.html) |
-| France || [Link](https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#bd-topo) |
-| Netherlands || [Link](https://nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search;jsessionid=00BBD805A35CB4968F9CC7E1A94316FD#/metadata/aa3b5e6e-7baa-40c0-8972-3353e927ec2f) |
-| New Zealand || [Link](https://data.linz.govt.nz/layer/101292-nz-building-outlines-all-sources/) |
-| Norway || [Link](https://inspire-geoportal.ec.europa.eu/results.html?country=no&view=details&theme=bu) |
-
-
-
 #### Datasets with partial coverage
 
 During our exploration, we have identified several datasets that do not include all the buildings in their geographic extent.
-For example, there are datasets that have only commercial buildings mapped, buildings with a footprint larger than a threshold of considerable size.
+For example, there are datasets that have only commercial buildings mapped, or buildings with a footprint larger than a threshold of considerable size.
 Further, some datasets have partial coverage as they have an indicative purpose, serving as a sample.
 These datasets may still be found useful for some spatial analyses.
 We list such datasets in this table.
@@ -217,23 +222,43 @@ We list such datasets in this table.
 | Wyndham || [Link](https://data.gov.au/dataset/ds-dga-1ac84b6c-aef0-445f-a8da-0f19d0796181/details?q=BUILDING%20FOOTPRINT) |
 
 
+### Analysis
 
+Putting up the inventory of publicly available building datasets by governments is just the first part of this project.
+For each dataset, we have analysed the metadata and checked it to understand their content, geometric validity, etc.
+The full results will be published in a paper.
+In the meantime, we include two figures as a sneak peek into the ongoing work.
+
+{{< figure src="attribute_content.png" caption="Frequency of most common attributes pertaining to buildings, which we identified in 100+ datasets we analysed. The information that is most commonly available is on the type of the building. The level of semantic richness has a wide range. On the one hand, a fifth of the datasets has 4 or more attributes stored for each building. On the other hand, nearly half of the datasets do not contain a single attribute, describing only the geometry of the building footprint." numbered="true" >}}
+
+{{< figure src="year_acq.png" caption="In many geographies, the built environment is dynamic. Therefore, it is beneficial to keep datasets on buildings fresh. Our analysis reveals that the most recently available version of most datasets is not more than a year old, which -- depending on the use case -- may be considered to be sufficiently up-to-date. A few datasets are updated on a weekly basis. On the other side of the spectrum, there are datasets that have not been updated in a decade." numbered="true" >}}
+
+### Webmap
+
+The map at the top of this page is intended to show the locations of the datasets and the global distribution of the availability of authoritative open data on buildings.
+The locations of the datasets are represented in two ways: by approximate centroids of the entire dataset and by their approximate coverage (this is visible when zooming in).
+The latter has been generated in two different ways: for some datasets, we have (i) computed the [convex hulls](https://en.wikipedia.org/wiki/Convex_hull); while for others, we have (ii) used the polygon of the administrative unit the dataset states to represent.
+The administrative polygons have been sourced from [GADM](https://gadm.org/), the
+Database of Global Administrative Areas.
 
 ### Adding a New Dataset
 
 More open government building data are getting added to this data repository as we expand our search.
-If you'd like to contribute with new entries to expand our inventory, you are more than welcome to do so by filling the following [form](https://forms.gle/GVMUBgf3ntSViHK1A).
+If you'd like to contribute with new entries to expand our inventory, you are welcome to do so by filling the following [form](https://forms.gle/GVMUBgf3ntSViHK1A).
+Before doing so, please read the [inclusion criteria](#inclusion-criteria) above.
 
 ### Errors
 
-The inventory is not free of errors, especially in jurisdictions where English is not an official language. 
+The inventory is not free of errors, especially in jurisdictions we are less familiar with.
+The links have been checked during the Q2 2021.
+However, it is possible that some of them are broken.
 If you spot an error, please report it through this [form](https://forms.gle/JnhuGobgaJQiwMop8).
 
 ## Paper
 
 A paper is coming out soon. Stay tuned!
 
-## Contact
+## People
 
 ### Research Assistant
 {{% mention "lawrence" %}}
@@ -242,7 +267,7 @@ A paper is coming out soon. Stay tuned!
 
 [Nikola Milojević-Dupont](https://www.mcc-berlin.net/en/about/team/milojevic-dupont-nikola.html) and [Felix Creutzig](https://www.mcc-berlin.net/en/about/team/creutzig-felix.html) (Mercator Research Institute on Global Commons and Climate Change and Technical University of Berlin)
 
-### Principal investigator
+### Principal Investigator
 {{% mention "filip" %}}
 
 ### Research group
@@ -250,7 +275,7 @@ Urban Analytics Lab, National University of Singapore (NUS)
 
 ## Acknowledgements
 
-We thank all contributors who have pointed out cities covered by authoritative building datasets, which we included in our list.
+We thank all contributors who have pointed out new authoritative building datasets, which we included in our list.
 
 This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start-Up Grant R-295-000-171-133.
 
