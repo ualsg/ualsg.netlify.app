@@ -244,14 +244,14 @@ Database of Global Administrative Areas.
 ### Adding a New Dataset
 
 More open government building data are getting added to this data repository as we expand our search.
-If you'd like to contribute with new entries to expand our inventory, you are welcome to do so by filling the following [form](https://forms.gle/GVMUBgf3ntSViHK1A).
+If you'd like to contribute with new entries to enlarge our inventory, you are welcome to do so by filling the following [form](https://forms.gle/GVMUBgf3ntSViHK1A).
 Before doing so, please read the [inclusion criteria](#inclusion-criteria) above.
 
 ### Errors
 
-The inventory is not free of errors, especially in jurisdictions we are less familiar with.
-The links have been checked during the Q2 2021.
-However, it is possible that some of them are broken.
+The registry is not free of errors, especially in jurisdictions we are less familiar with.
+The links have been checked during Q2 2021.
+However, it is possible that some of them are broken, with some datasets moved to another link and some removed.
 If you spot an error, please report it through this [form](https://forms.gle/JnhuGobgaJQiwMop8).
 
 ## Paper
@@ -275,7 +275,7 @@ Urban Analytics Lab, National University of Singapore (NUS)
 
 ## Acknowledgements
 
-We thank all contributors who have pointed out new authoritative building datasets, which we included in our list.
+We thank all contributors who have pointed out authoritative building datasets, which we included in our list.
 
 This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start-Up Grant R-295-000-171-133.
 
