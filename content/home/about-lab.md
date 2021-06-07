@@ -26,7 +26,7 @@ The research group is led by Dr {{% mention "filip" %}}, [NUS School of Design a
 We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
 Within NUS, we collaborate primarily with three sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab](https://www.sde.nus.edu.sg/arch/ucdl/), forming a constellation of research groups with complementary activities and scales.
 
-You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, our <a href="post/">blog</a>, and our <a href="publication/">papers</a>.
+You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a href="post/">blog</a>, and <a href="publication/">papers</a>.
 
 The full list of our interests and key words: Geographical Information Science (GIS), geospatial machine learning, geographic data science, spatial data infrastructure (SDI), 3D city modelling / 3D GIS / digital twins, 3D urban analytics, spatial data quality and standardisation (CityJSON, CityGML), Volunteered geoinformation (VGI) and OpenStreetMap (OSM), Building Information modelling (BIM) 3D underground data modelling, and 3D cadastre.
 

@@ -100,7 +100,7 @@ Comparing Figure [3](#fig-3) and Figure [4](#fig-4), we can see that the volume 
 
 Next, we compare the total passenger volumes by planning area of Jan 2020 and Jan 2021.
 
-{{< figure src="5.png" id="fig-5" caption="Changes of total volume by different land use." numbered="true" >}}
+{{< figure src="5.png" id="fig-5" caption="Changes of total volume by planning area." numbered="true" >}}
 
 Figure [5](#fig-5) suggests that Yishun and Bukit Batok, which are predominantly residential areas, have a smaller difference in total trip value than Woodlands and Bukit Panjang in comparison to the same period last year, and have shown better recovery rates.
 Meanwhile, Kallang, Jurong West, Jurong East, Houguang, and Geylang, etc. show a similar trend. It is assumed that the demographic structure of the area may have some influence on the degree of traffic volume recovery.

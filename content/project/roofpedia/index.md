@@ -137,7 +137,7 @@ However, when these results are aggregated at the city-scale, the results tend t
 For future work, we hope to add more cities to our collection and add the temporal aspect to the project, tracking the evolution of greenery and solar panels through time.
 
 
-## Contact
+## People
 
 ### Lead research and development
 {{% mention "abraham" %}}
