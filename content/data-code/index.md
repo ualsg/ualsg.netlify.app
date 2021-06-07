@@ -57,3 +57,15 @@ We are also happy to have contributors and collaborations.
 | Code: | The code used to generate the dataset is available in the [same <i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/Roofpedia) |
 | Main data source(s): | Various satellite imagery, OpenStreetMap. All open data |
 | Coverage: | 17 cities around the world | 
+
+
+## Classification of Urban Morphology with Deep Learning
+
+![](urban-morphology-classification.jpg)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | Software to generate diagrams of the urban form at the city-scale and classify them using deep learning |
+| Further reading: | Please read more in the [paper](https://arxiv.org/abs/2105.09908) |
+| Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Road-Network-Classification) |
+
