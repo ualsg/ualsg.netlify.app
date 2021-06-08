@@ -3,8 +3,8 @@ title: Open Government Building Data
 summary: Exploring Open Government Building Data
 authors: [admin]
 profile: true  # Show author profile?
-date: 2021-06-03T14:30:16+08:00
-lastmod: 2021-06-03T14:30:16+08:00
+date: 2021-06-08T14:30:16+08:00
+lastmod: 2021-06-08T14:30:16+08:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -22,12 +22,15 @@ This is an ongoing project: the inventory is currently in beta, as we are workin
 A preliminary snapshot is provided here to raise awareness of the project, solicit more datasets, and help us detect errors.
 {{% /callout %}}
 
-## Mapping and Analysing the Worldwide Availability of Authoritative Datasets on Buildings
+## Mapping and analysing the worldwide availability of authoritative datasets on buildings
+
+![](footprints.png)
 
 ### About the project
 
-Open government data on buildings is becoming increasingly available and accessible globally.
-While [OpenStreetMap](https://www.openstreetmap.org/) (OSM) [covers a large number of buildings and has made impressive progress in the past few years](/publication/2020-3-dgeoinfo-3-d-asean/), datasets released by governments often have authoritative status thanks to their full completeness in their jurisdictions, homogeneous data collecting, and sometimes an extended set of attributes not available elsewhere.
+Open government data on buildings is becoming increasingly available and accessible globally, being useful for a variety of use cases, e.g. in urban morphology and energy simulations.
+While [OpenStreetMap](https://www.openstreetmap.org/) (OSM) [covers a large number of buildings and has made impressive progress in the past few years](/publication/2020-3-dgeoinfo-3-d-asean/), datasets released by governments often have authoritative status thanks to their full completeness in their jurisdictions, homogeneous data collection, and sometimes an extended set of attributes not available elsewhere.
+However, these datasets have limited availability.
 
 We have created a global inventory of open government data on buildings.
 The principal results are available as a map (above) and as a list (below), with an ongoing [analysis](#analysis).
@@ -52,11 +55,11 @@ While we regard also the semantic content of data (i.e. attributes) such as type
 The datasets have been identified through an exploration of data portals, crowdsourcing (through social media), and examining research papers.
 
 Do note that we are not covering datasets that are not of official nature.
-For example, commercial releases and volunteered geoinformation are not in the focus of this research (they are subject of [our other research activities](/)).
+For example, commercial releases and volunteered geoinformation are not in the focus of this research (however, they are subject of [our other research activities](/)).
 
-### List of Datasets
+### List of datasets
 
-The key result of the project is an inventory, which is given in the tables below, by type of jurisdiction.
+The key result of the project is an inventory, which is given in the tables below, by level of jurisdiction.
 You may click on the links to visit the website linking to the data and often describing it with metadata.
 
 #### Country-wide datasets
@@ -193,7 +196,6 @@ You may click on the links to visit the website linking to the data and often de
 | St Augustine || US || [Link](https://hub.arcgis.com/datasets/STAUG::buildingfootprints?geometry=-81.508%2C29.849%2C-81.104%2C29.953) |
 | Summit  || US || [Link](https://data-summitgis.opendata.arcgis.com/datasets/6fed86513a004125a3333a7e6a34f49e) |
 | Tempe || US || [Link](https://data.tempe.gov/datasets/2c749ab250aa4a72985332b0cd019a51_0) |
-| Val d'Ille - AubignÈ || US || [Link](https://data.europa.eu/data/datasets/fr-ccvia-bati_ccvia_date?locale=de) |
 | Vilas  || US || [Link](https://hub.arcgis.com/datasets/vilas::buildings?geometry=-91.105%2C45.743%2C-87.875%2C46.410) |
 | Vilas || US || [Link](https://geodata.wisc.edu/?utf8=%E2%9C%93&search_field=all_fields&q=building+) |
 | Washburn || US || [Link](https://geodata.wisc.edu/catalog/B0069926-5DAA-4FC1-B33F-D2ED0310C8D2) |
@@ -202,11 +204,12 @@ You may click on the links to visit the website linking to the data and often de
 | Yavapai || US || [Link](https://hub.arcgis.com/datasets/YavGIS::building-2014-footprints-1/about) |
 
 
+
 #### Datasets with partial coverage
 
-During our exploration, we have identified several datasets that do not include all the buildings in their geographic extent.
-For example, there are datasets that have only commercial buildings mapped, or buildings with a footprint larger than a threshold of considerable size.
-Further, some datasets have partial coverage as they have an indicative purpose, serving as a sample.
+During our exploration, we have identified several datasets that do not include all the buildings in their administrative extent.
+For example, there are datasets that have only commercial buildings mapped, or buildings with a footprint larger than a threshold of considerable size, not being representative of buildings in the area.
+Further, some datasets have partial coverage as they have an indicative purpose, e.g. serving as a sample dataset.
 These datasets may still be found useful for some spatial analyses.
 We list such datasets in this table.
 
@@ -220,6 +223,7 @@ We list such datasets in this table.
 | Singapore || [Link](https://data.gov.sg/dataset/master-plan-2019-building-layer) |
 | Surprise || [Link](https://hub.arcgis.com/datasets/Surprise::commercial-footprints?geometry=-112.812%2C33.545%2C-112.004%2C33.745) |
 | Wyndham || [Link](https://data.gov.au/dataset/ds-dga-1ac84b6c-aef0-445f-a8da-0f19d0796181/details?q=BUILDING%20FOOTPRINT) |
+
 
 
 ### Analysis
@@ -243,7 +247,7 @@ Database of Global Administrative Areas.
 
 ### Adding a New Dataset
 
-More open government building data are getting added to this data repository as we expand our search.
+More open government building data are getting added to this index as we expand our search.
 If you'd like to contribute with new entries to enlarge our inventory, you are welcome to do so by filling the following [form](https://forms.gle/GVMUBgf3ntSViHK1A).
 Before doing so, please read the [inclusion criteria](#inclusion-criteria) above.
 
@@ -279,5 +283,4 @@ We thank all contributors who have pointed out authoritative building datasets, 
 
 This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start-Up Grant R-295-000-171-133.
 
-
-
+The location and the source of the illustration of the building footprints at the top of this webpage: Middlesex County, Massachusetts, United States (Bureau of Geographic Information -- MassGIS, Commonwealth of Massachusetts, Executive Office of Technology and Security Services, 2021.)
