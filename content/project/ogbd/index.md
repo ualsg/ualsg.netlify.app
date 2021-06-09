@@ -34,6 +34,8 @@ However, these datasets have limited availability.
 
 We have created a global inventory of open government data on buildings.
 The principal results are available as a map (above) and as a list (below), with an ongoing [analysis](#analysis).
+The index spans datasets containing more than 100 million building footprints from dozens of locations around the world.
+
 The results of this project have several purposes, e.g. draw attention to these datasets to practitioners and scientists, and aid governments in understanding how their data fares in comparison to others, or for governments that have not released their data yet, to provide insights about common practices of their counterparts around the world.
 Further, we seek to understand the intertwined relationships with other sources of data such as volunteered geoinformation and commercial entities, and the role authoritative data has amid the increasing role of other actors in the same geographies.
 
