@@ -295,4 +295,4 @@ We thank all contributors who have pointed out authoritative building datasets, 
 
 This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start-Up Grant R-295-000-171-133.
 
-The location and the source of the illustration of the building footprints at the top of this webpage: Middlesex County, Massachusetts, United States (Bureau of Geographic Information -- MassGIS, Commonwealth of Massachusetts, Executive Office of Technology and Security Services, 2021.)
+The location and the source of the illustration of the building footprints at the top of this webpage: [Middlesex County](https://www.openstreetmap.org/#map=17/42.54988/-71.56806), Massachusetts, United States (Bureau of Geographic Information -- MassGIS, Commonwealth of Massachusetts, Executive Office of Technology and Security Services, 2021.)
