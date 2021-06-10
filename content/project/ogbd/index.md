@@ -19,12 +19,13 @@ image:
 
 {{% callout note %}}
 This is an ongoing project: the inventory is currently in beta, as we are working on cleaning it and adding new datasets.
-A preliminary snapshot is provided here to raise awareness of the project, solicit more datasets, and help us detect errors.
+A preliminary snapshot is provided here to raise awareness of the project, [solicit more datasets](#adding-a-new-dataset), and help us detect errors.
 {{% /callout %}}
 
-## Mapping and analysing the worldwide availability of authoritative datasets on buildings
+## Mapping and analysing the availability of authoritative datasets on buildings worldwide
 
 ![](footprints.png)
+
 
 ### About the project
 
@@ -74,11 +75,12 @@ You may click on the links to visit the website linking to the data and often de
 | France || [Link](https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#bd-topo) |
 | Japan || [Link](https://fgd.gsi.go.jp/download/mapGis.php) |
 | Lithuania || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-106902a4-2bd0-11e9-a83c-52540023a883_20210526-134902%2Fservices%2F1%2FPullResults%2F1-50%2Fdatasets%2F45&expandedSection=metadata) |
-| Luxemborg || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-93ee1068-1dc3-11e7-a02d-52540023a883_20201215-103902%2Fservices%2F1%2FPullResults%2F1-20%2Fdatasets%2F18&expandedSection=metadata) |
+| Luxembourg || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-93ee1068-1dc3-11e7-a02d-52540023a883_20201215-103902%2Fservices%2F1%2FPullResults%2F1-20%2Fdatasets%2F18&expandedSection=metadata) |
 | Malta || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-80e86358-9378-11e5-a300-a0369f4c5bc0_20210322-151802%2Fservices%2F1%2FPullResults%2F281-299%2Fdatasets%2F5&expandedSection=metadata) |
 | Netherlands || [Link](https://nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search;jsessionid=00BBD805A35CB4968F9CC7E1A94316FD#/metadata/aa3b5e6e-7baa-40c0-8972-3353e927ec2f) |
 | New Zealand || [Link](https://data.linz.govt.nz/layer/101292-nz-building-outlines-all-sources/) |
 | Norway || [Link](https://inspire-geoportal.ec.europa.eu/results.html?country=no&view=details&theme=bu) |
+
 
 
 
@@ -103,11 +105,6 @@ You may click on the links to visit the website linking to the data and often de
 | Lower Mainland || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-8) |
 | Mauricie Sud || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-15) |
 | Montreal || Canada || [Link](https://donnees.montreal.ca/ville-de-montreal/batiment-2d) |
-| Montreal || Canada || [Link](https://donnees.montreal.ca/ville-de-montreal/batiment-2d) |
-| Montreal || Canada || [Link](http://donnees.ville.montreal.qc.ca/dataset/batiment-2d) |
-| Montreal || Canada || [Link](https://donnees.montreal.ca/ville-de-montreal/batiment-2d) |
-| Montreal || Canada || [Link](https://donnees.montreal.ca/ville-de-montreal/batiment-2d) |
-| Niagara Falls || Canada || [Link](https://niagaraopendata.ca/dataset/city-of-niagara-falls-building-footprints-2010) |
 | Niagara Falls || Canada || [Link](https://niagaraopendata.ca/dataset/building-footprints) |
 | Prince George || Canada || [Link](https://data-cityofpg.opendata.arcgis.com/datasets/building-outlines) |
 | Quebec || Canada || [Link](https://open.canada.ca/data/en/dataset/fab160ae-c81d-46f8-8f92-4a01c10d4390#wb-auto-6) |
@@ -132,7 +129,7 @@ You may click on the links to visit the website linking to the data and often de
 | Finistere || France  || [Link](https://www.data.gouv.fr/fr/datasets/liste-des-batiments-du-departement-du-finistere/) |
 | Garges-les-Gonesse || France  || [Link](https://www.data.gouv.fr/fr/datasets/cadastre-garges-les-gonesse/) |
 | Blagnac || France || [Link](https://www.data.gouv.fr/fr/datasets/batiments-communaux-blagnac/) |
-| Grand Poiters || France || [Link](https://www.data.gouv.fr/fr/datasets/referentiel-geographique-cadastre-donnees-batiments-grand-poitiers-donnees-de-reference/) |
+| Grand Poitiers || France || [Link](https://www.data.gouv.fr/fr/datasets/referentiel-geographique-cadastre-donnees-batiments-grand-poitiers-donnees-de-reference/) |
 | Isere  || France || [Link](https://www.data.gouv.fr/fr/datasets/bati-agrege-de-2016-isere/) |
 | La Rochelle || France || [Link](https://www.data.gouv.fr/en/datasets/cadastre-bati-dur-1/) |
 | Le Havre Sine || France || [Link](https://www.data.gouv.fr/fr/datasets/batiment/) |
@@ -168,7 +165,6 @@ You may click on the links to visit the website linking to the data and often de
 | Centre || US || [Link](https://gisdata-centrecountygov.opendata.arcgis.com/datasets/CentreCountyGov::buildings?geometry=-79.486%2C40.603%2C-76.017%2C41.329) |
 | Chicago || US || [Link](https://data.cityofchicago.org/Buildings/Building-Footprints-current-/hz9b-7nh8) |
 | Cibolo || US || [Link](https://hub.arcgis.com/datasets/cibolotx::cibolo-building-footprints?geometry=-98.581%2C29.454%2C-97.774%2C29.664) |
-| Cibolo || US || [Link](https://hub.arcgis.com/datasets/cibolotx::cibolo-building-footprints?geometry=-98.581%2C29.454%2C-97.774%2C29.664) |
 | Cincinnati || US || [Link](https://data-cagisportal.opendata.arcgis.com/datasets/building-footprints/explore) |
 | Clark || US || [Link](https://geodata.wisc.edu/catalog/67315C46-0A56-459A-B100-04832CD90826) |
 | Cook || US || [Link](https://datacatalog.cookcountyil.gov/GIS-Maps/Historical-ccgisdata-ESRI-Suburban-Cook-Building-F/dh3h-25vu) |
@@ -185,7 +181,6 @@ You may click on the links to visit the website linking to the data and often de
 | Hobart || US || [Link](https://hub.arcgis.com/datasets/hobartcc::building-footprints?geometry=146.909%2C-42.980%2C147.717%2C-42.804) |
 | Indianapolis || US || [Link](https://data.indy.gov/datasets/building-footprints) |
 | Jefferson || US || [Link](https://geodata.wisc.edu/catalog/DD659D58-2C37-40BC-94C2-FF529EA7BBEE) |
-| John Creeks || US || [Link](https://datahub.johnscreekga.gov/datasets/structure-footprints-1?geometry=-84.478%2C33.988%2C-83.913%2C34.088) |
 | John Creeks || US || [Link](https://datahub.johnscreekga.gov/datasets/structure-footprints-1?geometry=-84.478%2C33.988%2C-83.913%2C34.088) |
 | Kentucky || US || [Link](https://data.louisvilleky.gov/dataset/neural-network-generated-building-footprints) |
 | Kerville || US || [Link](https://hub.arcgis.com/datasets/kerrvilletx::kerrville-building-footprints?geometry=-99.549%2C29.928%2C-98.741%2C30.136) |
