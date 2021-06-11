@@ -69,7 +69,6 @@ You may click on the links to visit the website linking to the data and often de
 
 | **Country** | | **Website** | 
 | --- | --- | --- |
-| Belgium || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-f5201eb0-2404-11e5-8130-52540004b857_20210429-085202%2Fservices%2F1%2FPullResults%2F161-180%2Fseries%2F7&expandedSection=metadata) |
 | Denmark || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-6e8353b4-de80-11e7-a188-52540023a883_20210604-072602%2Fservices%2F1%2FPullResults%2F221-240%2Fdatasets%2F17&expandedSection=metadata) |
 | Estonia || [Link](https://geoportaal.maaamet.ee/eng/Maps-and-Data/Estonian-Topographic-Database/Download-Topographic-Data-p618.html) |
 | France || [Link](https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#bd-topo) |
@@ -80,8 +79,6 @@ You may click on the links to visit the website linking to the data and often de
 | Netherlands || [Link](https://nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search;jsessionid=00BBD805A35CB4968F9CC7E1A94316FD#/metadata/aa3b5e6e-7baa-40c0-8972-3353e927ec2f) |
 | New Zealand || [Link](https://data.linz.govt.nz/layer/101292-nz-building-outlines-all-sources/) |
 | Norway || [Link](https://inspire-geoportal.ec.europa.eu/results.html?country=no&view=details&theme=bu) |
-
-
 
 
 #### City and regional datasets
@@ -95,6 +92,7 @@ You may click on the links to visit the website linking to the data and often de
 | Launceston || Australia || [Link](https://data.gov.au/dataset/ds-launceston-https%3A%2F%2Fopendata.launceston.tas.gov.au%2Fdatasets%2F6e55c56aeb244d0eb0b57e0271cccf7e_6/details?q=building%20footprints) |
 | Manningham || Australia || [Link](https://data.gov.au/dataset/ds-dga-4622bbd1-82d6-4f05-ae70-4ec317ccac75/details?q=BUILDING%20FOOTPRINT) |
 | Tirol || Austria || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-61494ff5-6fad-11e8-b649-52540023a883_20210527-095402%2Fservices%2F1%2FPullResults%2F351-400%2Fdatasets%2F1&expandedSection=metadata) |
+| Wallonia || Belgium || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-f5201eb0-2404-11e5-8130-52540004b857_20210429-085202%2Fservices%2F1%2FPullResults%2F161-180%2Fseries%2F7&expandedSection=metadata) |
 | Blaineville || Canada  || [Link](https://www.donneesquebec.ca/recherche/fr/dataset/batiments-municipaux-hackqc2018) |
 | Caledon || Canada || [Link](https://data.peelregion.ca/datasets/building-footprints-caledon) |
 | Fleuve St Laurent || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-14) |
@@ -211,6 +209,7 @@ You may click on the links to visit the website linking to the data and often de
 | Waukesha || US || [Link](https://data-waukeshacounty.opendata.arcgis.com/datasets/bdf2fcbffaee40f0879f0471dd648822_0/explore) |
 | Yavapai || US || [Link](https://hub.arcgis.com/datasets/YavGIS::building-2014-footprints-1/about) |
 | Pulyny || Ukraine || [Link](https://data.gov.ua/dataset/24eac8c9-71f0-4504-bceb-3ebfe6b196c2) |
+
 
 
 
