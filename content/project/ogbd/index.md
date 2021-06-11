@@ -94,16 +94,21 @@ You may click on the links to visit the website linking to the data and often de
 | Tirol || Austria || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-61494ff5-6fad-11e8-b649-52540023a883_20210527-095402%2Fservices%2F1%2FPullResults%2F351-400%2Fdatasets%2F1&expandedSection=metadata) |
 | Wallonia || Belgium || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-f5201eb0-2404-11e5-8130-52540004b857_20210429-085202%2Fservices%2F1%2FPullResults%2F161-180%2Fseries%2F7&expandedSection=metadata) |
 | Blaineville || Canada  || [Link](https://www.donneesquebec.ca/recherche/fr/dataset/batiments-municipaux-hackqc2018) |
+| Burlington || Canada || [Link](https://navburl-burlington.opendata.arcgis.com/datasets/buildings) |
 | Caledon || Canada || [Link](https://data.peelregion.ca/datasets/building-footprints-caledon) |
+| Edmonton || Canada || [Link](https://data.edmonton.ca/Geospatial-Boundaries/City-of-Edmonton-Rooflines-as-of-2019-/jpxi-a9a5) |
 | Fleuve St Laurent || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-14) |
 | Grande Prairie County || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-7) |
 | Grasslands || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-17) |
+| Halifax || Canada || [Link](https://catalogue-hrm.opendata.arcgis.com/datasets/625d718e3dd04dc4ac69ae2861f6df36_0) |
+| Hamilton || Canada || [Link](https://open.hamilton.ca/datasets/9b0ccd920ab34810a155b9f21ed1b075_8) |
 | Jackhead || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-9) |
 | Lake Manitoba || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-10) |
 | Lower Mainland || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-8) |
 | Mauricie Sud || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-15) |
 | Montreal || Canada || [Link](https://donnees.montreal.ca/ville-de-montreal/batiment-2d) |
 | Niagara Falls || Canada || [Link](https://niagaraopendata.ca/dataset/building-footprints) |
+| Ottawa || Canada || [Link](https://open.ottawa.ca/datasets/building-footprints?geometry=-76.344%2C45.154%2C-75.052%2C45.492) |
 | Prince George || Canada || [Link](https://data-cityofpg.opendata.arcgis.com/datasets/building-outlines) |
 | Quebec || Canada || [Link](https://open.canada.ca/data/en/dataset/fab160ae-c81d-46f8-8f92-4a01c10d4390#wb-auto-6) |
 | Regina || Canada || [Link](http://open.regina.ca/dataset/building-outline) |
@@ -143,7 +148,6 @@ You may click on the links to visit the website linking to the data and often de
 | Gisborne || New Zealand || [Link](https://hub.arcgis.com/datasets/gizzy::building-footprints?geometry=177.826%2C-38.712%2C178.230%2C-38.619) |
 | Seoul || South Korea || [Link](http://data.seoul.go.kr/dataList/OA-13227/S/1/datasetView.do) |
 | Navarre || Spain || [Link](https://gobiernoabierto.navarra.es/es/open-data/datos/cartografia-11000-recinto-edificio) |
-| Halifax || UK || [Link](https://catalogue-hrm.opendata.arcgis.com/datasets/625d718e3dd04dc4ac69ae2861f6df36_0) |
 | Alabama || US  || [Link](https://hub.arcgis.com/datasets/geoplatform::alabama-building-footprints) |
 | Ann Arbor || US  || [Link](https://www.a2gov.org/services/data/Pages/default.aspx) |
 | Atlanta  || US  || [Link](https://dpcd-coaplangis.opendata.arcgis.com/datasets/building-footprints) |
@@ -158,7 +162,6 @@ You may click on the links to visit the website linking to the data and often de
 | Brown || US || [Link](https://geodata.wisc.edu/catalog/0BA56134-0F03-4DCD-A5EC-585360A1F623) |
 | Buffalo || US || [Link](https://geodata.wisc.edu/catalog/39359B3B-6F07-4A35-ABE6-EA96D81FDE80) |
 | Buncombe || US || [Link](https://data-avl.opendata.arcgis.com/datasets/bunco::buncombe-county-building-footprints?geometry=-82.565%2C35.595%2C-82.540%2C35.601) |
-| Burlington || US || [Link](https://navburl-burlington.opendata.arcgis.com/datasets/buildings) |
 | Calumet || US || [Link](http://www.calumetmaps.com/data.html) |
 | Centre || US || [Link](https://gisdata-centrecountygov.opendata.arcgis.com/datasets/CentreCountyGov::buildings?geometry=-79.486%2C40.603%2C-76.017%2C41.329) |
 | Chicago || US || [Link](https://data.cityofchicago.org/Buildings/Building-Footprints-current-/hz9b-7nh8) |
@@ -171,11 +174,9 @@ You may click on the links to visit the website linking to the data and often de
 | Dauphin || US || [Link](https://data-dauphinco.opendata.arcgis.com/datasets/building-outlines) |
 | Denver || US || [Link](https://hub.arcgis.com/datasets/0d43652d038a4a0dbca68f0501151bb0_0?geometry=-108.219%2C38.963%2C-101.759%2C40.442) |
 | Douglas || US || [Link](https://geodata.wisc.edu/catalog/5DEB9585-F7F6-4082-9370-7F66715E164F) |
-| Edmonton || US || [Link](https://data.edmonton.ca/Geospatial-Boundaries/City-of-Edmonton-Rooflines-as-of-2019-/jpxi-a9a5) |
 | FlagStaff || US || [Link](https://gis.flagstaffaz.gov/portal/apps/sites/#/opendata/datasets/c7eab6bfb9b14a408379ffd63fa063af) |
 | Fond du Lac || US || [Link](https://geodata.wisc.edu/catalog/6023030B-F7F6-4D0A-9D70-90A1615E4948) |
 | Fort Collins || US || [Link](https://opendata.fcgov.com/High-Performing-Government/Building-Footprints-Map/2wan-k89y) |
-| Hamilton || US || [Link](https://open.hamilton.ca/datasets/9b0ccd920ab34810a155b9f21ed1b075_8) |
 | Hobart || US || [Link](https://hub.arcgis.com/datasets/hobartcc::building-footprints?geometry=146.909%2C-42.980%2C147.717%2C-42.804) |
 | Indianapolis || US || [Link](https://data.indy.gov/datasets/building-footprints) |
 | Jefferson || US || [Link](https://geodata.wisc.edu/catalog/DD659D58-2C37-40BC-94C2-FF529EA7BBEE) |
@@ -189,7 +190,6 @@ You may click on the links to visit the website linking to the data and often de
 | New York City || US || [Link](https://data.cityofnewyork.us/Housing-Development/Building-Footprints/nqwf-w8eh) |
 | Newport News || US || [Link](https://hub.arcgis.com/datasets/nngov::building-footprints?geometry=-77.313%2C36.899%2C-75.698%2C37.282) |
 | Orange || US || [Link](https://data-ocpw.opendata.arcgis.com/datasets/8db4b58e6bbf4f6cac676f477348be48_0/explore) |
-| Ottawa || US || [Link](https://open.ottawa.ca/datasets/building-footprints?geometry=-76.344%2C45.154%2C-75.052%2C45.492) |
 | Philadephia || US || [Link](https://www.opendataphilly.org/dataset/buildings) |
 | Pierece || US || [Link](https://geodata.wisc.edu/catalog/46C0CB62-6B9D-41CB-BBD2-4FADC8468157) |
 | Portage || US || [Link](https://geodata.wisc.edu/catalog/E7A7D524-5BA7-44F8-B72E-639CFE4624F6) |
