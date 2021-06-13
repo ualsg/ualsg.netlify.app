@@ -3,8 +3,8 @@ title: Open Government Building Data
 summary: Exploring Open Government Building Data
 authors: [admin]
 profile: true  # Show author profile?
-date: 2021-06-11T12:30:16+08:00
-lastmod: 2021-06-11T12:30:16+08:00
+date: 2021-06-13T12:30:16+08:00
+lastmod: 2021-06-13T12:30:16+08:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -286,7 +286,11 @@ A paper is coming out soon. Stay tuned!
 {{% mention "filip" %}}
 
 ### Research group
-Urban Analytics Lab, National University of Singapore (NUS)
+[Urban Analytics Lab, National University of Singapore (NUS)](/)
+
+## Disclaimer
+
+We remain neutral with respect to jurisdictional claims in the datasets.
 
 ## Acknowledgements
 
