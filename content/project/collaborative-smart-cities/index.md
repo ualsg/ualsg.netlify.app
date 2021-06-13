@@ -5,6 +5,7 @@ title: "Reusable, Sharable, and Transferable Smart Data Platform for Collaborati
 summary: "Novel technologies to connect smart cities"
 authors: [filip]
 tags: [smart cities]
+draft: yes
 categories: []
 date: 2020-04-01T21:11:51+08:00
 
