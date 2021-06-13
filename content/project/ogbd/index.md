@@ -89,6 +89,7 @@ You may click on the links to visit the website linking to the data and often de
 | Cocos Island || Australia || [Link](https://data.gov.au/dataset/ds-wa-9159fce6-4328-4cb9-bdd7-ad7778ce8818/details?q=buildings) |
 | Geelong || Australia || [Link](https://data.gov.au/dataset/ds-dga-41527e85-0907-4faf-b5f4-e9655b23d128/details) |
 | Greater Sheppparton || Australia || [Link](https://data.gov.au/dataset/ds-dga-f1b95fd3-57b6-4a66-9af9-80b364bdd832/details?q=BUILDING%20FOOTPRINT) |
+| Hobart || Australia || [Link](https://hub.arcgis.com/datasets/hobartcc::building-footprints?geometry=146.909%2C-42.980%2C147.717%2C-42.804) |
 | Launceston || Australia || [Link](https://data.gov.au/dataset/ds-launceston-https%3A%2F%2Fopendata.launceston.tas.gov.au%2Fdatasets%2F6e55c56aeb244d0eb0b57e0271cccf7e_6/details?q=building%20footprints) |
 | Manningham || Australia || [Link](https://data.gov.au/dataset/ds-dga-4622bbd1-82d6-4f05-ae70-4ec317ccac75/details?q=BUILDING%20FOOTPRINT) |
 | Tirol || Austria || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-61494ff5-6fad-11e8-b649-52540023a883_20210527-095402%2Fservices%2F1%2FPullResults%2F351-400%2Fdatasets%2F1&expandedSection=metadata) |
@@ -177,7 +178,6 @@ You may click on the links to visit the website linking to the data and often de
 | FlagStaff || US || [Link](https://gis.flagstaffaz.gov/portal/apps/sites/#/opendata/datasets/c7eab6bfb9b14a408379ffd63fa063af) |
 | Fond du Lac || US || [Link](https://geodata.wisc.edu/catalog/6023030B-F7F6-4D0A-9D70-90A1615E4948) |
 | Fort Collins || US || [Link](https://opendata.fcgov.com/High-Performing-Government/Building-Footprints-Map/2wan-k89y) |
-| Hobart || US || [Link](https://hub.arcgis.com/datasets/hobartcc::building-footprints?geometry=146.909%2C-42.980%2C147.717%2C-42.804) |
 | Indianapolis || US || [Link](https://data.indy.gov/datasets/building-footprints) |
 | Jefferson || US || [Link](https://geodata.wisc.edu/catalog/DD659D58-2C37-40BC-94C2-FF529EA7BBEE) |
 | John Creeks || US || [Link](https://datahub.johnscreekga.gov/datasets/structure-footprints-1?geometry=-84.478%2C33.988%2C-83.913%2C34.088) |
