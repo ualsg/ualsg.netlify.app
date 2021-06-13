@@ -17,15 +17,6 @@ uni = "NUS"
 image = "xinyu-research.jpg"
 
 [[thesis]]
-title = "What influences the price of real estate in Singapore?"
-name = "Ying Zhang"
-profile = "holly"
-study = "Master in Business Analysis"
-year = "2021"
-uni = "Shanghai International Studies University"
-image = "holly-research.png"
-
-[[thesis]]
 title = "Taking Urban Farming to New Heights: Integrated Rooftop Farming Systems in Singapore"
 name = "Shaila Narendran"
 profile = "shaila"
