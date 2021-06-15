@@ -3,8 +3,8 @@ title: Open Government Building Data
 summary: Exploring Open Government Building Data
 authors: [admin]
 profile: true  # Show author profile?
-date: 2021-06-13T12:30:16+08:00
-lastmod: 2021-06-13T12:30:16+08:00
+date: 2021-06-15T12:30:16+08:00
+lastmod: 2021-06-15T12:30:16+08:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -72,6 +72,7 @@ You may click on the links to visit the website linking to the data and often de
 | Denmark || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-6e8353b4-de80-11e7-a188-52540023a883_20210604-072602%2Fservices%2F1%2FPullResults%2F221-240%2Fdatasets%2F17&expandedSection=metadata) |
 | Estonia || [Link](https://geoportaal.maaamet.ee/eng/Maps-and-Data/Estonian-Topographic-Database/Download-Topographic-Data-p618.html) |
 | France || [Link](https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#bd-topo) |
+| Germany || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-4fed3eb0-06fa-11ea-8480-525400695e9c_20210527-165503%2Fservices%2F1%2FPullResults%2F7521-7540%2Fdatasets%2F9&expandedSection=download) |
 | Japan || [Link](https://fgd.gsi.go.jp/download/mapGis.php) |
 | Lithuania || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-106902a4-2bd0-11e9-a83c-52540023a883_20210526-134902%2Fservices%2F1%2FPullResults%2F1-50%2Fdatasets%2F45&expandedSection=metadata) |
 | Luxembourg || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-93ee1068-1dc3-11e7-a02d-52540023a883_20201215-103902%2Fservices%2F1%2FPullResults%2F1-20%2Fdatasets%2F18&expandedSection=metadata) |
@@ -79,6 +80,8 @@ You may click on the links to visit the website linking to the data and often de
 | Netherlands || [Link](https://nationaalgeoregister.nl/geonetwork/srv/dut/catalog.search;jsessionid=00BBD805A35CB4968F9CC7E1A94316FD#/metadata/aa3b5e6e-7baa-40c0-8972-3353e927ec2f) |
 | New Zealand || [Link](https://data.linz.govt.nz/layer/101292-nz-building-outlines-all-sources/) |
 | Norway || [Link](https://inspire-geoportal.ec.europa.eu/results.html?country=no&view=details&theme=bu) |
+| Poland || [Link](https://mapy.geoportal.gov.pl/imap/Imgp_2.html?gpmap=gp0) |
+| Switzerland || [Link](https://www.swisstopo.admin.ch/en/geodata/landscape/tlm3d.html#download) |
 
 
 #### City and regional datasets
@@ -108,7 +111,7 @@ You may click on the links to visit the website linking to the data and often de
 | Lower Mainland || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-8) |
 | Mauricie Sud || Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-15) |
 | Montreal || Canada || [Link](https://donnees.montreal.ca/ville-de-montreal/batiment-2d) |
-| Niagara Falls || Canada || [Link](https://niagaraopendata.ca/dataset/building-footprints) |
+| Niagara Falls || Canada || [Link](https://niagaraopendata.ca/dataset/city-of-niagara-falls-building-footprints-2010) |
 | Ottawa || Canada || [Link](https://open.ottawa.ca/datasets/building-footprints?geometry=-76.344%2C45.154%2C-75.052%2C45.492) |
 | Prince George || Canada || [Link](https://data-cityofpg.opendata.arcgis.com/datasets/building-outlines) |
 | Quebec || Canada || [Link](https://open.canada.ca/data/en/dataset/fab160ae-c81d-46f8-8f92-4a01c10d4390#wb-auto-6) |
@@ -133,7 +136,7 @@ You may click on the links to visit the website linking to the data and often de
 | Finistere || France  || [Link](https://www.data.gouv.fr/fr/datasets/liste-des-batiments-du-departement-du-finistere/) |
 | Garges-les-Gonesse || France  || [Link](https://www.data.gouv.fr/fr/datasets/cadastre-garges-les-gonesse/) |
 | Blagnac || France || [Link](https://www.data.gouv.fr/fr/datasets/batiments-communaux-blagnac/) |
-| Grand Poitiers || France || [Link](https://www.data.gouv.fr/fr/datasets/referentiel-geographique-cadastre-donnees-batiments-grand-poitiers-donnees-de-reference/) |
+| Grand Poiters || France || [Link](https://www.data.gouv.fr/fr/datasets/referentiel-geographique-cadastre-donnees-batiments-grand-poitiers-donnees-de-reference/) |
 | Isere  || France || [Link](https://www.data.gouv.fr/fr/datasets/bati-agrege-de-2016-isere/) |
 | La Rochelle || France || [Link](https://www.data.gouv.fr/en/datasets/cadastre-bati-dur-1/) |
 | Le Havre Sine || France || [Link](https://www.data.gouv.fr/fr/datasets/batiment/) |
@@ -175,7 +178,7 @@ You may click on the links to visit the website linking to the data and often de
 | Dauphin || US || [Link](https://data-dauphinco.opendata.arcgis.com/datasets/building-outlines) |
 | Denver || US || [Link](https://hub.arcgis.com/datasets/0d43652d038a4a0dbca68f0501151bb0_0?geometry=-108.219%2C38.963%2C-101.759%2C40.442) |
 | Douglas || US || [Link](https://geodata.wisc.edu/catalog/5DEB9585-F7F6-4082-9370-7F66715E164F) |
-| FlagStaff || US || [Link](https://gis.flagstaffaz.gov/portal/apps/sites/#/opendata/datasets/c7eab6bfb9b14a408379ffd63fa063af) |
+| Flagstaff || US || [Link](https://gis.flagstaffaz.gov/portal/apps/sites/#/opendata/datasets/c7eab6bfb9b14a408379ffd63fa063af) |
 | Fond du Lac || US || [Link](https://geodata.wisc.edu/catalog/6023030B-F7F6-4D0A-9D70-90A1615E4948) |
 | Fort Collins || US || [Link](https://opendata.fcgov.com/High-Performing-Government/Building-Footprints-Map/2wan-k89y) |
 | Indianapolis || US || [Link](https://data.indy.gov/datasets/building-footprints) |
@@ -212,8 +215,6 @@ You may click on the links to visit the website linking to the data and often de
 
 
 
-
-
 #### Datasets with partial coverage
 
 During our exploration, we have identified several datasets that do not include all the buildings in their administrative extent.
@@ -224,17 +225,16 @@ We list such datasets in this table.
 
 | **Coverage** | | **Website** | 
 | --- | --- | --- |
-|Canada (Canada)|| [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6) |
-|Cape Town (South Africa)|| [Link](https://web1.capetown.gov.za/web1/opendataportal/DatasetDetail?DatasetName=Building%20footprints) |
-|Gold Coast (Australia)|| [Link](https://data.gov.au/dataset/ds-dga-da4f31ac-2716-4eca-b067-359f0b868d3c/details?q=buildings) |
-|Greene (US)|| [Link](https://hub.arcgis.com/datasets/GIMSOH29::buildings?geometry=-84.689%2C39.515%2C-83.074%2C39.885) |
-|Jasper Park (Canada)|| [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-6) |
-|Park Canada (Canada)|| [Link](https://open.canada.ca/data/en/dataset/aff6b442-1b27-4f24-8546-6b38f96bba1d) |
-|Queensland (Australia)||[Link](https://data.gov.au/dataset/ds-qld-00bb290d-a45e-4a80-acd6-84ea2c394d0f/details?q=BUILDING%20FOOTPRINT) |
-|Singapore (Singapore)|| [Link](https://data.gov.sg/dataset/master-plan-2019-building-layer) |
-|Surprise (US)|| [Link](https://hub.arcgis.com/datasets/Surprise::commercial-footprints?geometry=-112.812%2C33.545%2C-112.004%2C33.745) |
-|Wyndham (Australia)|| [Link](https://data.gov.au/dataset/ds-dga-1ac84b6c-aef0-445f-a8da-0f19d0796181/details?q=BUILDING%20FOOTPRINT) |
-
+| Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6) |
+| Cape Town (South Africa) || [Link](https://web1.capetown.gov.za/web1/opendataportal/DatasetDetail?DatasetName=Building%20footprints) |
+| Gold Coast (Australia) || [Link](https://data.gov.au/dataset/ds-dga-da4f31ac-2716-4eca-b067-359f0b868d3c/details?q=buildings) |
+| Greene (US) || [Link](https://hub.arcgis.com/datasets/GIMSOH29::buildings?geometry=-84.689%2C39.515%2C-83.074%2C39.885) |
+| Jasper Park (Canada) || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-6) |
+| Park Canada (Canada) || [Link](https://open.canada.ca/data/en/dataset/aff6b442-1b27-4f24-8546-6b38f96bba1d) |
+| Queensland (Australia) || [Link](https://data.gov.au/dataset/ds-qld-00bb290d-a45e-4a80-acd6-84ea2c394d0f/details?q=BUILDING%20FOOTPRINT) |
+| Singapore || [Link](https://data.gov.sg/dataset/master-plan-2019-building-layer) |
+| Surprise (US) || [Link](https://hub.arcgis.com/datasets/Surprise::commercial-footprints?geometry=-112.812%2C33.545%2C-112.004%2C33.745) |
+| Wyndham (Australia) || [Link](https://data.gov.au/dataset/ds-dga-1ac84b6c-aef0-445f-a8da-0f19d0796181/details?q=BUILDING%20FOOTPRINT) |
 
 
 ### Analysis
