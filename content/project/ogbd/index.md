@@ -3,8 +3,8 @@ title: Open Government Building Data
 summary: Exploring Open Government Building Data
 authors: [admin]
 profile: true  # Show author profile?
-date: 2021-06-15T12:30:16+08:00
-lastmod: 2021-06-15T12:30:16+08:00
+date: 2021-06-20T12:30:16+08:00
+lastmod: 2021-06-20T12:30:16+08:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -69,10 +69,10 @@ You may click on the links to visit the website linking to the data and often de
 
 | **Country** | | **Website** | 
 | --- | --- | --- |
+| Czechia || [Link](https://services.cuzk.cz/gml/inspire/bu/) |
 | Denmark || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-6e8353b4-de80-11e7-a188-52540023a883_20210604-072602%2Fservices%2F1%2FPullResults%2F221-240%2Fdatasets%2F17&expandedSection=metadata) |
 | Estonia || [Link](https://geoportaal.maaamet.ee/eng/Maps-and-Data/Estonian-Topographic-Database/Download-Topographic-Data-p618.html) |
 | France || [Link](https://geoservices.ign.fr/documentation/diffusion/telechargement-donnees-libres.html#bd-topo) |
-| Germany || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-4fed3eb0-06fa-11ea-8480-525400695e9c_20210527-165503%2Fservices%2F1%2FPullResults%2F7521-7540%2Fdatasets%2F9&expandedSection=download) |
 | Japan || [Link](https://fgd.gsi.go.jp/download/mapGis.php) |
 | Lithuania || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-106902a4-2bd0-11e9-a83c-52540023a883_20210526-134902%2Fservices%2F1%2FPullResults%2F1-50%2Fdatasets%2F45&expandedSection=metadata) |
 | Luxembourg || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-93ee1068-1dc3-11e7-a02d-52540023a883_20201215-103902%2Fservices%2F1%2FPullResults%2F1-20%2Fdatasets%2F18&expandedSection=metadata) |
@@ -227,6 +227,7 @@ We list such datasets in this table.
 | --- | --- | --- |
 | Canada || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6) |
 | Cape Town (South Africa) || [Link](https://web1.capetown.gov.za/web1/opendataportal/DatasetDetail?DatasetName=Building%20footprints) |
+| Germany || [Link](https://inspire-geoportal.ec.europa.eu/download_details.html?view=downloadDetails&resourceId=%2FINSPIRE-4fed3eb0-06fa-11ea-8480-525400695e9c_20210527-165503%2Fservices%2F1%2FPullResults%2F7521-7540%2Fdatasets%2F9&expandedSection=download) |
 | Gold Coast (Australia) || [Link](https://data.gov.au/dataset/ds-dga-da4f31ac-2716-4eca-b067-359f0b868d3c/details?q=buildings) |
 | Greene (US) || [Link](https://hub.arcgis.com/datasets/GIMSOH29::buildings?geometry=-84.689%2C39.515%2C-83.074%2C39.885) |
 | Jasper Park (Canada) || [Link](https://open.canada.ca/data/en/dataset/7a5cda52-c7df-427f-9ced-26f19a8a64d6#wb-auto-6) |
@@ -235,6 +236,7 @@ We list such datasets in this table.
 | Singapore || [Link](https://data.gov.sg/dataset/master-plan-2019-building-layer) |
 | Surprise (US) || [Link](https://hub.arcgis.com/datasets/Surprise::commercial-footprints?geometry=-112.812%2C33.545%2C-112.004%2C33.745) |
 | Wyndham (Australia) || [Link](https://data.gov.au/dataset/ds-dga-1ac84b6c-aef0-445f-a8da-0f19d0796181/details?q=BUILDING%20FOOTPRINT) |
+
 
 
 ### Analysis
