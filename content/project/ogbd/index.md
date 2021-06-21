@@ -3,8 +3,8 @@ title: Open Government Building Data
 summary: Exploring Open Government Building Data
 authors: [admin]
 profile: true  # Show author profile?
-date: 2021-06-20T12:30:16+08:00
-lastmod: 2021-06-20T12:30:16+08:00
+date: 2021-06-21T19:20:16+08:00
+lastmod: 2021-06-21T19:20:16+08:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -88,6 +88,7 @@ You may click on the links to visit the website linking to the data and often de
 
 |**Coverage** | | **Country** | | **Website** | 
 | --- | --- | --- | --- | --- |
+| Buenos Aires || Argentina || [Link](https://data.buenosaires.gob.ar/dataset/tejido-urbano) |
 | Christmas Island || Australia || [Link](https://data.gov.au/dataset/ds-wa-460b724b-0ed2-4348-8866-78feefc8cb21/details?q=buildings) |
 | Cocos Island || Australia || [Link](https://data.gov.au/dataset/ds-wa-9159fce6-4328-4cb9-bdd7-ad7778ce8818/details?q=buildings) |
 | Geelong || Australia || [Link](https://data.gov.au/dataset/ds-dga-41527e85-0907-4faf-b5f4-e9655b23d128/details) |
