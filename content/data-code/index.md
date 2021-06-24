@@ -52,7 +52,7 @@ We are also happy to have contributors and collaborations.
 | ------------------| ------------------------------ |
 | Short description: | Locations of buildings that have installed photovoltaics or greenery on their rooftops |
 | Formats | GeoJSON |
-| Further reading: | Please read more here at our [website]({{< ref "/project/roofpedia/index.md" >}}) or in the [paper](https://arxiv.org/abs/2012.14349) |
+| Further reading: | Please read more here at our [website]({{< ref "/project/roofpedia/index.md" >}}) or in the [paper](https://doi.org/10.1016/j.landurbplan.2021.104167) |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Roofpedia) |
 | Code: | The code used to generate the dataset is available in the [same <i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/Roofpedia) |
 | Main data source(s): | Various satellite imagery, OpenStreetMap. All open data |
