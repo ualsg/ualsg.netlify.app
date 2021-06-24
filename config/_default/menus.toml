@@ -5,63 +5,111 @@
 
 [[main]]
   name = "about"
-  url = "#about-lab"
+  url = "/about"
   weight = 10
 
 [[main]]
-  name = "posts"
-  url = "#posts"
-  weight = 20
+  name = "about us"
+  parent = "about"
+  url = "/about"
+  weight = 11
 
 [[main]]
   name = "people"
+  parent = "about"
   url = "/people"
-  weight = 30
+  weight = 12
 
 [[main]]
-  name = "geospatial indexes"
-  weight = 50
+  name = "projects"
+  parent = "about"
+  url = "/project"
+  weight = 13
 
 [[main]]
-  name = "list of journals"
-  parent = "geospatial indexes"
-  url = "/post/2020/07/06/geospatial-and-urban-data-science-journals/"
-
-[[main]]
-  name = "our data+code"
-  parent = "geospatial indexes"
-  url = "/data-code"
-
-[[main]]
-  name = "roofpedia index"
-  parent = "geospatial indexes"
-  url = "/project/roofpedia/"
-
-[[main]]
-  name = "open building data"
-  parent = "geospatial indexes"
-  url = "/project/ogbd/"
-
-[[main]]
-  name = "open data SG"
-  parent = "geospatial indexes"
-  url = "/post/2020/06/24/guide-for-open-urban-data-in-singapore/"
-
+  name = "news"
+  url = "/post"
+  weight = 20
 
 [[main]]
   name = "publications"
   url = "/publication"
-  weight = 60
+  weight = 30
 
 [[main]]
-  name = "teaching"
-  url = "/teaching"
-  weight = 70
+  name = "geospatial resources"
+  weight = 50
 
 [[main]]
-  name = "join"
-  url = "/openings"
+  name = "our data+code"
+  parent = "geospatial resources"
+  url = "/data-code"
+  weight = 51
+
+[[main]]
+  name = "list of journals"
+  parent = "geospatial resources"
+  url = "/post/2020/07/06/geospatial-and-urban-data-science-journals/"
+  weight = 52
+
+[[main]]
+  name = "roofpedia"
+  parent = "geospatial resources"
+  url = "/project/roofpedia/"
+  weight = 53
+
+[[main]]
+  name = "open building data"
+  parent = "geospatial resources"
+  url = "/project/ogbd/"
+  weight = 54
+
+[[main]]
+  name = "open data SG"
+  parent = "geospatial resources"
+  url = "/post/2020/06/24/guide-for-open-urban-data-in-singapore/"
+  weight = 55
+
+[[main]]
+  name = "opportunities"
   weight = 80
+
+[[main]]
+  name = "why us"
+  parent = "opportunities"
+  url = "/opportunities/why-us"
+  weight = 81
+
+[[main]]
+  name = "openings"
+  parent = "opportunities"
+  url = "/opportunities/vacancies"
+  weight = 82
+
+[[main]]
+  name = "phd"
+  parent = "opportunities"
+  url = "/opportunities/phd"
+  weight = 83
+
+[[main]]
+  name = "NUS courses"
+  parent = "opportunities"
+  url = "/opportunities/teaching"
+  weight = 84
+
+[[main]]
+  name = "student initiated projects"
+  parent = "opportunities"
+  url = "/opportunities/student-projects"
+  weight = 85
+
+[[main]]
+  name = "fellowships"
+  parent = "opportunities"
+  url = "/opportunities/fellowships"
+  weight = 86
+
 
 [[main]]
   name = "contact"

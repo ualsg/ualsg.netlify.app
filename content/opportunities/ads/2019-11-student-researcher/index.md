@@ -8,7 +8,7 @@ title = "Vacancy: Student Researcher in GIS (Internship)"
 {{% callout warning %}}
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
-For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
 {{% /callout %}}
 
 ### Job and project description
@@ -89,7 +89,7 @@ Please submit the indication of possessing the qualifications listed above (CV, 
 Please note that only NUS students are eligible to apply.~~
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
-For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
 {{% /callout %}}
 
 Appreciate your understanding in advance that only selected shortlisted applicants will be notified.

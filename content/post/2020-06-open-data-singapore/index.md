@@ -35,7 +35,7 @@ Feel free to visit in future to check for updates as the list grows.
 
 ## Introduction
 
-In our [research]({{< ref "/#projects" >}}) and [teaching]({{< ref "/teaching/index.md" >}}) activities that are focused on Singapore, we rely almost entirely on open data, enabling reproducibility and fostering open science.
+In our [research]({{< ref "/project" >}}) and [teaching]({{< ref "/opportunities/teaching.md" >}}) activities that are focused on Singapore, we rely almost entirely on open data, enabling reproducibility and fostering open science.
 We created a guide for open urban datasets to help navigate through all the resources.
 
 While [Data.gov.sg](https://data.gov.sg) (the open data portal of the Singapore Government) is thorough and it is the starting and ending point to obtain many useful datasets, it might take time to get an overview and the availability of open data goes beyond that.
@@ -164,7 +164,7 @@ A related API, _Traffic Speed Bands_, also on the [LTA DataMall](https://www.myt
 
 Routing (fetching the distance, estimated travel time, and the geometry of the route) between two points is available through the [OneMap API](https://docs.onemap.sg).
 OpenStreetMap is also useful here, e.g. check out the [Open Source Routing Machine](http://project-osrm.org) and [Openrouteservice](https://openrouteservice.org).
-There are interfaces for Python and R, e.g. we used [osrm](https://cran.r-project.org/web/packages/osrm/index.html) in [teaching]({{< ref "/teaching/index.md" >}}).
+There are interfaces for Python and R, e.g. we used [osrm](https://cran.r-project.org/web/packages/osrm/index.html) in [teaching]({{< ref "/opportunities/teaching.md" >}}).
 
 Although not strictly open, rather commercial (but they offer a free tier), here it is inescapable to mention the trio of APIs under the [Google Maps Platform](https://developers.google.com/maps/documentation): Directions API, Distance Matrix API, and Roads API, which are of high quality and a lot can be done within the free monthly quota they offer.
 

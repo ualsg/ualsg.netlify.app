@@ -1,6 +1,6 @@
 +++
 date = 2020-02-04
-title = "Vacancy: Research assistant in 3D underground modelling (2 positions)"
+title = "Vacancy: Postdoctoral research fellow in 3D underground modelling (1 position)"
 +++
 
 ![](header.jpeg)
@@ -8,7 +8,7 @@ title = "Vacancy: Research assistant in 3D underground modelling (2 positions)"
 {{% callout warning %}}
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
-For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
 {{% /callout %}}
 
 
@@ -42,16 +42,17 @@ You will be supervised by the work package leaders and co-principal investigator
 
 Your key responsibilities, besides the principal tasks of the work package listed above, will be:
 
-- Assisting the research on data modelling and developing automated workflows.
-- Contributing to publications and other forms of research output.
-- Documenting and testing the developed workflow and software prototype, and writing documentation.
+- Leading the research on data modelling and developing automated workflows.
+- Assisting the Co-PIs in the management of the project and supervision of team members.
+- Preparation of publications and managing the research output.
 
 
 ### Preferred qualifications
 
 You should demonstrate that you possess:
 
-- A master degree (or completed before the start of the project) in a related discipline from a reputable university.
+- A PhD degree (or completed before the start of the project) in a related discipline from a reputable university.
+- A solid publication record.
 - Prior experience in modelling underground information and/or (3D) geographic data modelling.
 - Excellent communication skills in English.
 - Experience with programming (preferably Python and/or C/C++). Having built software used by others and/or scientific software experience is a plus.
@@ -110,7 +111,7 @@ In accordance with the Personal Data Protection Act (PDPA), please provide conse
 ~~The deadline to apply is 2 March 2020.~~
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
-For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
 {{% /callout %}}
 
 For more information, please visit NUS > Careers > [Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).

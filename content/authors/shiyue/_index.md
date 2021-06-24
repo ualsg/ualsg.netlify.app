@@ -51,8 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Members
+- Students
 ---
 
 Shiyue is pursuing a Masters in International Affairs at the Lee Kuan Yew School of Public Policy at NUS.
