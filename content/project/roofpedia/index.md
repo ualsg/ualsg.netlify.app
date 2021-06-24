@@ -73,18 +73,20 @@ Full data and code of Roofpedia can be accessed at its [GitHub repo](https://git
 
 ## Paper and attribution
 
-A preprint of the paper describing the project can be found on [arXiv](https://arxiv.org/abs/2012.14349).
+A [paper](https://doi.org/10.1016/j.landurbplan.2021.104167) describing the project was published in _Landscape and Urban Planning_.
 
 If you use Roofpedia in a scientific context, please cite the paper:
 
 ```bibtex
-@misc{wu2020roofpedia,
-  title={Roofpedia: Automatic mapping of green and solar roofs for an open roofscape registry and evaluation of urban sustainability}, 
-  author={Abraham Noah Wu and Filip Biljecki},
-  year={2020},
-  eprint={2012.14349},
-  archivePrefix={arXiv},
-  primaryClass={cs.CY}
+@article{2021_land_roofpedia,
+  author = {Abraham Noah Wu and Filip Biljecki},
+  doi = {10.1016/j.landurbplan.2021.104167},
+  journal = {Landscape and Urban Planning},
+  pages = {104167},
+  title = {Roofpedia: Automatic mapping of green and solar roofs for an open roofscape registry and evaluation of urban sustainability},
+  url = {https://doi.org/10.1016%2Fj.landurbplan.2021.104167},
+  volume = {214},
+  year = 2021
 }
 ```
 
