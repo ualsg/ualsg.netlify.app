@@ -81,10 +81,10 @@ We wish you all the best in your future career steps.
 
 Are you an NUS student and would like to carry out a cool research as your graduation project?
 As it was the case last year, in the new academic year we will be accepting a few motivated students to carry out a research project with us.
-Feel free to check the [topics we offer]({{< ref "/teaching/index.md#theses-dissertations-and-capstone-projects" >}}), or you can propose your own idea.
+Feel free to check the [topics we offer]({{< ref "/opportunities/student-projects.md#theses-dissertations-and-capstone-projects" >}}), or you can propose your own idea.
 We are also running a large [project]({{< ref "/project/3d-open/index.md" >}}) in which we have prospects for graduation research / capstone projects.
 
 ### Looking rather for a student researcher job?
 
-We have announced an [opening]({{< ref "/openings/ads/2020-student-researcher-gis/index.md" >}}) for a student researcher to assist us in our projects.
+We have announced an [opening]({{< ref "/opportunities/ads/2020-student-researcher-gis/index.md" >}}) for a student researcher to assist us in our projects.
 

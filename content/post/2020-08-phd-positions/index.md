@@ -33,5 +33,5 @@ The PhD candidates will work on compelling topics at the forefront of GIScience,
 
 In exceptional cases, we will offer co-funding to make the PhD journey more comfortable.
 
-Read the [opening]({{< ref "/openings/ads/phd-geospatial/index.md" >}}) for more information and how to apply.
+Read the [opening]({{< ref "/opportunities/ads/phd-geospatial/index.md" >}}) for more information and how to apply.
 

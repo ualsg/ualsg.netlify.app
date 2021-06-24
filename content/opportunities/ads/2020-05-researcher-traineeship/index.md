@@ -8,7 +8,7 @@ title = "Vacancy: Researcher (Traineeship) in Urban Analytics (1 position)"
 {{% callout warning %}}
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
-For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
 {{% /callout %}}
 
 ### Description
@@ -68,7 +68,7 @@ Please submit the indication of possessing the qualifications listed above (CV, 
 ~~The deadline to apply is 17 May 2020.~~
 The deadline to apply for this position has passed.
 Thanks to all the applicants for their interest.
-For new vacancies please follow our [opportunities page]({{< ref "/openings/_index.md" >}}).
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
 {{% /callout %}}
 
 ### Contact

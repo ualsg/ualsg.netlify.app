@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Members
+- Students
 ---
 
 Hui En is pursuing her MSc in Applied GIS at NUS part-time. She is currently an AI Apprentice at AISG and has had an internship as a data science intern at Grab. She graduated with a BSc in Environmental Studies + USP in 2019. 

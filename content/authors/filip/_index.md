@@ -86,8 +86,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal investigator
-- Members
+- Principal Investigator
 ---
 
 Filip has been working at the School of Design and Environment, National University of Singapore since 2017.
