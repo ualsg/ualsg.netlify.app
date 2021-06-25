@@ -152,7 +152,16 @@ Urban Analytics Lab, National University of Singapore (NUS)
 
 ## Acknowledgements
 
+Roofpedia is made possible by using the following packages:
+
+* [PyTorch](https://pytorch.org/)
+* [GeoPandas](https://geopandas.org/)
+* [Robosat](https://github.com/mapbox/robosat) -- 
+loading of slippy map tiles for training and mask to feature function is borrowed from robosat
+
 This research is part of the project Large-scale 3D Geospatial Data for Urban Analytics, which is supported by the National University of Singapore under the Start-Up Grant R-295-000-171-133.
 
 We gratefully acknowledge the sources of the used input data.
-For more information, please see the aforementioned [paper](https://arxiv.org/abs/2012.14349).
+For more information, please see the aforementioned [paper](https://doi.org/10.1016/j.landurbplan.2021.104167).
+
+Some of the aspects of the project and its name —- Roofpedia -— are inspired by [Treepedia](http://senseable.mit.edu/treepedia), an excellent project by the [MIT Senseable City Lab](https://senseable.mit.edu) to measure and map the amount of street greenery in cities from the pedestrian perspective, and compare cities around the world.
