@@ -1,5 +1,5 @@
 +++
-date = 2021-04-28
+date = 2021-06-28
 title = "Vacancy: Developer / Research associate (digital twins)"
 +++
 
