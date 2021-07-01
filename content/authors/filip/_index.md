@@ -89,7 +89,7 @@ user_groups:
 - Principal Investigator
 ---
 
-Filip has been working at the School of Design and Environment, National University of Singapore since 2017.
+Filip is jointly appointed as faculty at the Department of Architecture (School of Design and Environment) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In 2020 he was appointed as NUS Presidential Young Professor.
 
