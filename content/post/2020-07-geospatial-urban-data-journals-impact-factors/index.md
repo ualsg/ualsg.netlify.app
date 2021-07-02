@@ -31,9 +31,7 @@ projects: []
 
 ## Introduction
 
-It is that time of the year: the journal impact factors have been released.
-
-Our research group maintains a list of relevant academic journals in our field, which I have decided to publish in this article together with their latest metrics, hopefully helping fellow researchers to have a reference list and choose where to publish their next paper.
+UAL maintains a list of relevant academic journals with their latest metrics which we hope might be of use to fellow researchers. Feel free to check out our other geospatial resources or opportunities to collaborate with us in the tabs above.
 
 For more information about how the journals were selected and explanations about the columns, [see below](#selection-of-journals).
 
@@ -104,14 +102,14 @@ Before submitting your paper to a journal, I would encourage you to have a look 
 
 ## FAQ
 
-### Why some journals in the list have no IF and/or SJR?
+### Why do some journals in the list have no IF and/or SJR?
 
 Some journals, such as the [Open Geospatial Data, Software and Standards](https://opengeospatialdata.springeropen.com), are not indexed (yet), even though they publish high-quality work and are managed by a reputable publisher and editorial board.
 This void is common for new journals because it may take several years before a journal becomes indexed.
 
 There is also the [Journal of Open Source Software](https://joss.theoj.org), which is not a typical journal and might not have an IF any time soon, but it could be considered relevant, and it is a journal we warmly recommend if you have released an open-source software that warrants a paper.
 
-### Hey, why __________________ is not in the list?
+### Hey, why is __________________ not in the list?
 
 Probably because we don't find it relevant, it has predatory practices, and/or it has a consistent record of editorial mishandling.
 

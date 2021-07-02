@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Recent activities of the UAL: guest lectures and lab seminars"
-subtitle: ""
-summary: "Periodic overview of our exciting lectures and seminars"
+subtitle: "Guest lectures with Urban Redevelopment Authority (URA) and Grab"
+summary: "Guest lectures with Urban Redevelopment Authority (URA) and Grab"
 authors: [admin]
 tags: [events, conferences]
 categories: []

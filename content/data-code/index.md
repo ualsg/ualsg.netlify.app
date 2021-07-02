@@ -18,16 +18,17 @@ summary = "Open stuff"
 We believe in open science and reproducible research.
 Besides open access [publications](/publication), we are committed to publishing our code and data on [our Github account](https://github.com/ualsg).
 
-For the list of resources that we are happy to share with fellow scientists and practitioners, please see below (and stay tuned as we will be adding more resources in future along with new projects).
+Please see below for a list of resources and projects. 
 
 If you use the code and/or the data for presentations and publications, we kindly ask you to cite the related paper(s) and credit our work. 
-We have provided guidelines in each resource.
+We have provided guidelines to do so in each resource.
 
 While a great deal of effort has been put into each project, they are not free of errors, and we cannot be held responsible for the use of data and any issues that may arise.
 
-Feel free to contact us for more information, to report bugs and errors, or simply to inform us what are you using the data for.
-We would be pleased to hear how are others using our research.
-We are also happy to have contributors and collaborations.
+Feel free to contact us for more information, report bugs and errors, or simply to inform us what are you using the data for.
+We would be pleased to hear how others are using our research.
+
+In you are interested in collaborating with us, please check the opportunities tab for more information.
 
 ## 3D dataset of all public housing (HDB) in Singapore 
 

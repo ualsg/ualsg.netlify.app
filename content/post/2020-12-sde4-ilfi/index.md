@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The new building of our school is the first one in SE Asia to achieve the stringent Zero Energy Certification"
-subtitle: "Recognition by the prestigious International Living Future Institute"
-summary: "Recognition by the prestigious International Living Future Institute"
+title: "SDE4 recognised as the first Zero Energy building in Southeast Asia"
+subtitle: "The prestigious certification was awarded by the International Living Future Institute"
+summary: "The prestigious certification was awarded by the International Living Future Institute"
 authors: [admin]
 tags: [sde, nus, building energy, smart cities, sde4, climate, carbon neutrality]
 categories: []

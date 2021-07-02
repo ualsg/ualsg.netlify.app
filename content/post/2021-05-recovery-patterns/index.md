@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Impact of the pandemic on bus ridership in Singapore"
-subtitle: "Featuring an urban data science project by our Master of Urban Planning students"
-summary: "Featuring an urban data science project by our Master of Urban Planning students"
+subtitle: "Research conducted by our Master of Urban Planning students offers public transport optimisations"
+summary: "Research conducted by our Master of Urban Planning students offers public transport optimisations"
 authors: ["Chen Bingling", "Liang Xiucheng", "Liu Lina", "Wen Ruiwen"]
 tags: [teaching, analysis]
 categories: []
