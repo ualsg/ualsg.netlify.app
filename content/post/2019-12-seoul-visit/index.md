@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Visit to Seoul, Korea"
-subtitle: ""
-summary: "Continuing the appearance of the UAL in East Asia"
+subtitle: "Dr Filip Biljecki/UAL visits academic partners in South Korea to strength research collaborations"
+summary: "Dr Filip Biljecki/UAL visits academic partners in South Korea to strength research collaborations"
 authors: [admin]
 tags: [visits, korea, events, talks]
 categories: []

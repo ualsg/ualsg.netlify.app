@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "NUS Urban Analytics Lab scales research globally with AWS"
-subtitle: "Our work has been featured by Amazon"
-summary: "Our work has been featured by Amazon"
+subtitle: "UAL’s AWS-supported urban toolkits and databases were featured on Amazon’s Public Service blog"
+summary: "UAL’s AWS-supported urban toolkits and databases were featured on Amazon’s Public Service blog"
 authors: [admin]
 tags: [press release, research, paper, news, urban morphology]
 categories: []

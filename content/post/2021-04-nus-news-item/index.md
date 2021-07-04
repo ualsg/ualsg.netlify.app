@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Our recent research was featured in the NUS news"
-subtitle: "Novel use of 3D geoinformation to identify urban farming sites"
-summary: "Novel use of 3D geoinformation to identify urban farming sites"
+title: "Novel 3D geospatial model helps identify better urban farming sites"
+subtitle: "The tool allows for the maximisation of crop yields within buildings"
+summary: "The tool allows for the maximisation of crop yields within buildings"
 authors: [admin]
 tags: [press release, research, paper, news, urban farming]
 categories: []

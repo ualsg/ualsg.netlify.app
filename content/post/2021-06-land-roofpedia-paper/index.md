@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "New paper: Roofpedia"
-subtitle: "Landscape and Urban Planning publishes the results of our research on automatic mapping of green and solar roofs for an open roofscape registry and evaluation of urban sustainability"
-summary: "Landscape and Urban Planning publishes the results of our research on automatic mapping of green and solar roofs for an open roofscape registry and evaluation of urban sustainability"
+subtitle: "UAL's research on sustainable rooftops was published by Landscape and Urban Planning"
+summary: "UAL's research on sustainable rooftops was published by Landscape and Urban Planning"
 authors: [admin]
 tags: [paper, roofpedia, green roofs, solar panels, deep learning]
 categories: []
