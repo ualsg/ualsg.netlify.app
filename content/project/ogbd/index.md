@@ -3,8 +3,8 @@ title: Open Government Building Data
 summary: Exploring Open Government Building Data
 authors: [admin]
 profile: true  # Show author profile?
-date: 2021-06-21T19:20:16+08:00
-lastmod: 2021-06-21T19:20:16+08:00
+date: 2021-07-09T08:40:16+08:00
+lastmod: 2021-07-09T08:40:16+08:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -20,6 +20,7 @@ image:
 {{% callout note %}}
 This is an ongoing project: the inventory is currently in beta, as we are working on cleaning it and adding new datasets.
 A preliminary snapshot is provided here to raise awareness of the project, [solicit more datasets](#adding-a-new-dataset), and help us detect errors.
+A [preprint](https://arxiv.org/abs/2107.04023) is available.
 {{% /callout %}}
 
 ## Mapping and analysing the availability of authoritative datasets on buildings worldwide
@@ -274,7 +275,20 @@ If you spot an error, please report it through this [form](https://forms.gle/Jnh
 
 ## Paper
 
-A paper is coming out soon. Stay tuned!
+A [preprint](https://arxiv.org/abs/2107.04023) is available describing the project and methodology, including the results of the analyses and discussion.
+
+If you use this work in a scientific context, please cite it:
+
+```bibtex
+@misc{biljecki2021open,
+      title={Open government geospatial data on buildings for planning sustainable and resilient cities}, 
+      author={Filip Biljecki and Lawrence Zheng Xiong Chew and Nikola Milojevic-Dupont and Felix Creutzig},
+      year={2021},
+      eprint={2107.04023},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY}
+}
+```
 
 ## People
 
