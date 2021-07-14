@@ -107,6 +107,7 @@ disableAliases = false  # Disable aliases when `redirects` is added to the `outp
 # Install Wowchemy CMS
 [module]
   [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
+    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5"
   [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5"
+
