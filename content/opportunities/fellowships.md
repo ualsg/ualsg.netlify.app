@@ -11,6 +11,7 @@ header:
 We are open to endorsing well motivated applications for external (mostly postdoc) fellowships and scholarships that facilitate carrying out research at our Lab and at NUS.
 Depending on your nationality and university, there may be opportunities to partly or fully fund your PhD or postdoc journey.
 Please see below for selected examples.
+We are eligible to host awardees of such fellowships.
 
 ### General (open to many or all nationalities)
 
@@ -22,7 +23,7 @@ Please see below for selected examples.
 
 + [AXA Fellowships](https://www.axa-research.org/en/page/AXA-Fellowships?xtatc=INT-1-%5BAXA_FELLOWSHIPS%5D) are for researchers who completed a PhD degree up to 5 years before the application. 
 
-+ [NUS Fellows Programme (Southeast Asia)](http://www.nus.edu.sg/research/funding-opportunities/NUS-fellows-programme-southeast-asia) - a programme designed to attract bright young faculty members (or would-be faculty members) and researchers from ASEAN universities and research institutes to NUS for a 6 to 12-month fellowship. NUS provides accommodation and a monthly stipend. Applicants must either be citizens of an **ASEAN country** or must be residing in an ASEAN country at the time of application, and holding a PhD degree (or being at the end of their PhD).
++ The [SG Academies ASEAN Fellowship Programme](https://snas.org.sg/aseanfellowship) aims to attract bright postgraduate researchers from ASEAN countries to Singapore research institutions for a 2-year long fellowship.
 
 
 ### Country-specific
