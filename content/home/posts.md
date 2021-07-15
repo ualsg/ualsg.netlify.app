@@ -66,4 +66,8 @@ subtitle = "Updates from our Lab"
  css_class = ""
 +++
 
+{{% callout note %}}
+We are hiring developers, postdocs, and computational research associates on a new project on digital twins. Please see our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
+
 Feel free to follow us on <a href="https://twitter.com/urbanalyticslab">Twitter</a> or through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).

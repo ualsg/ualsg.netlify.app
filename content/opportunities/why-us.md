@@ -17,6 +17,8 @@ Working at NUS means being part of a leading global university centred in Asia (
 Beyond the university, our network and collaborations span scores of researchers around the world working on a variety of topics.
 Our Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
 
+The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-biljecki-appointed-as-presidential-young-professor/) the prestigious presidential young professorship in 2020, supporting the longterm development of the research group.
+
 Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive), the [best place to be during the ongoing pandemic](https://www.bbc.com/news/world-asia-56939261.amp), and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey). Singapore offers world-class living standards and a very clean, efficient, and low-tax environment which has [successfully attracted talents from all over the world](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness).
 
