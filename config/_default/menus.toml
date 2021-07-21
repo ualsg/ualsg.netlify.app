@@ -27,6 +27,12 @@
   weight = 13
 
 [[main]]
+  name = "media"
+  parent = "about"
+  url = "/media"
+  weight = 14
+
+[[main]]
   name = "news"
   url = "/post"
   weight = 20

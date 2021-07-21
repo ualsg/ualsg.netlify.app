@@ -222,7 +222,7 @@ None, except terrain data of coarse resolution such as [SRTM](https://www2.jpl.n
 ### Street-level imagery
 
 Google Street View has pretty good coverage of Singapore (it even includes [hawker centres](https://www.channelnewsasia.com/news/singapore/google-hawker-centres-stalls-street-view-maps-trekkers-11764968)), and the data is downloadable through their [API](https://developers.google.com/maps/documentation/streetview/intro) (check the T&C though).
-[Mapillary](https://www.mapillary.com) is also worth considering.
+[Mapillary](https://www.mapillary.com) and [KartaView](https://kartaview.org/) are also worth considering.
 
 
 
@@ -266,7 +266,7 @@ The [Twitter API](https://developer.twitter.com/en/docs) enables downloading the
 The usual caveats:
 * Check when the dataset has been updated. Some datasets are not updated, a new dataset is released instead as a new instance, not superseding the old one. 
 * Check the licence, e.g. for Data.gov.sg have a look at the [Singapore Open Data Licence](https://data.gov.sg/open-data-licence).
-* Do not forget to attribute the data source in your use and mention the year when it was updated.
+* Do not forget to attribute the data source in your use and mention the year when it was created/updated.
 * Some geospatial datasets may not pass all validity checks (e.g. they might have self-intersecting polygons), presenting a problem when they are used in spatial analyses.
 You can try fixing them using [prepair](https://github.com/tudelft3d/prepair).
 
