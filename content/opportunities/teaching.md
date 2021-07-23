@@ -20,8 +20,8 @@ The exact offering of modules will depend on the academic year.
 
 **GIS and Cartography (Semester 1)**
 
-- This introductory module is part of the [MSc in Real Estate](http://www.rst.nus.edu.sg/graduate/msc-programme.html). It is also recommended for [Master of Urban Planning](http://www.sde.nus.edu.sg/arch/programmes/master-of-urban-planning/) and [Master of Arts in Urban Design](http://www.sde.nus.edu.sg/arch/programmes/master-of-arts-in-urban-design/) students.
-In this course, we teach the basics of geographical information science and give a thorough tutorial of [QGIS](https://www.qgis.org), supported by assignments relevant to urban planning and real estate, but spanning also other disciplines.
+- This introductory module is part of the [MSc in Real Estate](http://www.rst.nus.edu.sg/graduate/msc-programme.html).
+In this course, we teach the basics of geographical information science and give a thorough tutorial of [QGIS](https://www.qgis.org) from scratch, supported by assignments relevant to urban planning and real estate, but spanning also other disciplines.
 
 **Planning Technologies (Semester 2)**
 
