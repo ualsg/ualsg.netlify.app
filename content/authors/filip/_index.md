@@ -98,12 +98,13 @@ Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (top 5%) in 3D GI
 The list of his publications is available [here](https://filipbiljecki.com/#publications).
 
 ### Additional appointments
-* Open Geospatial Consortium, 3DIM DWG -- Co-Chair
-* PLOS ONE -- Academic Editor for Geoinformatics
-* Open Geospatial Data, Standards and Software -- Editorial Board Member
-* International Society for Photogrammetry and Remote Sensing, WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions -- Board Member
-* International Journal of Digital Innovation in the Built Environment -- Editorial Board Member
-* World Economic Forum, Global Future Council on Cities and Urbanization -- Fellow (2018-2020)
+* [Open Geospatial Consortium](https://www.ogc.org), [3DIM DWG](https://www.ogc.org/projects/groups/3dimdwg) -- Co-Chair
+* [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Editorial Board Member
+* [PLOS ONE](https://journals.plos.org/plosone/) -- Academic Editor for Geoinformatics
+* International Society for Photogrammetry and Remote Sensing, [WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions](https://www2.isprs.org/commissions/comm4/wg10/) -- Board Member
+* [International Journal of Digital Innovation in the Built Environment](https://www.igi-global.com/journal/international-journal-digital-innovation-built/224363) -- Editorial Board Member
+* [Open Geospatial Data, Standards and Software](https://opengeospatialdata.springeropen.com/) -- Editorial Board Member (2018-2021)
+* [World Economic Forum](https://www.weforum.org/), Global Future Council on Cities and Urbanization -- Fellow (2018-2020)
 
 ### Awards and honours (selected)
 * Presidential Young Professorship (NUS), 2020
