@@ -1,4 +1,22 @@
 [[thesis]]
+title = "3D building reconstruction using deep learning methods"
+name = "Pang Hui En"
+profile = "hui-en"
+study = "MSc in Applied GIS"
+year = "2021"
+uni = "NUS"
+image = "hui-en-research.jpg"
+
+[[thesis]]
+title = "Exploiting real estate data for the enrichment of spatial data infrastructure"
+name = "Chen Xinyu"
+profile = "xinyu"
+study = "MSc in Applied GIS"
+year = "2021"
+uni = "NUS"
+image = "xinyu-research.jpg"
+
+[[thesis]]
 title = "Usability of Street View Imagery in Assessing Bikeability"
 name = "Koichi Ito"
 profile = "koichi"
