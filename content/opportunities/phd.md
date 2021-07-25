@@ -10,7 +10,7 @@ header:
 Thanks for your interest in conducting a PhD with us at the National University of Singapore.
 
 We welcome motivated and talented prospective PhD candidates in our research group.
-However, research groups at NUS usually do not admit them directly and do not provide stipends. Applications to the PhD programme should be done directly to our [School of Design and Environment](http://www.sde.nus.edu.sg).
+However, research groups at NUS usually do not admit them directly and do not provide stipends on their own. Applications to the PhD programme should be done directly to our [School of Design and Environment](http://www.sde.nus.edu.sg).
 
 That said, [do get in touch with us](/#contact) beforehand to discuss mutual interest and fit.
 Before contacting us and applying to the PhD programme, you are advised to read this page in detail, which contains information for prospective doctoral candidates.
@@ -36,29 +36,29 @@ Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked among
 
 ### Contacting us
 
-Before you contact us, do familiarise yourself with our group.
-Our webpage is sufficiently comprehensive (e.g. it has a blog and our publications, which are all available open access) to become acquainted with our work and research agenda, and decide whether it is compatible with your interests and aspirations.
+Before you contact us, please familiarise yourself with our group.
+Our webpage is comprehensive enough (e.g. we have a blog and all our publications are available open access) to become acquainted with our work and research agenda, and decide whether it is aligned with your interests and aspirations.
 
-While we appreciate interest, we do not respond to generic applications and those without a clear motivation and understanding of the scope of our work.
-Also, your application should demonstrate your research affinity.
-We are more likely to reply and support prospective candidates who did a bit of research on what we do and those that are able to demonstrate their aptitude for research and motivate their wish to join us in particular.
-This is most evident from a tailored and research-focused application pertaining to our Lab (more about that in the next paragraph).
+While we appreciate interest, we do not respond to generic applications and those without a clear motivation and understanding of the scope of our work, and those that do not demonstrate research affinity.
+We are more likely to reply and support prospective candidates who did a bit of research on what we do and those that are able to exhibit their aptitude for research and motivate their wish to join us in particular.
+This is most evident from a tailored and research-focused application pertaining to our Lab and university (more about that in the next paragraph).
 
-When contacting us, please send us your CV (in particular, highlight your computational and research skills), accompanied by:
-* a brief research proposal containing a summary of the topics that you find interesting and a short literature review that covers recent developments in your area of interest. You should be able to briefly formulate existing gaps and think about how do you plan to fill them. This does not have to be comprehensive and advanced, as during the first months of your PhD you'll have a plenty of time to work on that, but you should be able to demonstrate your motivation and research skills;
+When getting in touch with us, please send us your CV (in particular, highlight your computational and research skills), accompanied by:
+* a brief research proposal containing a summary of the topics that you find interesting and a short literature review that covers recent developments in your area of interest. You should be able to briefly formulate existing gaps and think about how do you plan to fill them in the next few years. This does not have to be comprehensive and advanced, as during the first months of your PhD you'll have a plenty of time to work on all that and sharpen your plans, but you should be able to demonstrate your motivation and research skills;
 * summary of prior research outputs (code, papers, data, internships, thesis, etc. preferably with evidence such as developed GitHub repositories and a personal website);
 * a short review of one of our [publications](/publication) with brief ideas how would you take these results further and/or how would you use them for your research; and
 * a brief statement how do you envision contributing to our research group. A PhD is a substantial commitment from both sides for a few years, thus, your fit is no less important than your research finesse.
 
-Most of these documents will be required later for the official application to the graduate programme, so you will be able to re-use your effort for it.
+All the points above should be brief, e.g. a few paragraphs for each aforementioned aspect.
+Most of these materials will be required later for the official application to the graduate programme, so you will be able to re-use your effort for it.
 Preparing such documentation is quite beneficial as it will also help you explore and refine your thoughts and interests.
 
-Further, make sure that you send your materials in PDF.
+Further, do make sure that you send your materials in PDF.
 Sending Word documents is not only bad practice, but it also implies a lack of computer literacy, which is not viewed favourably.
 
 Finally, if your email goes unattended, please do not send us reminders.
 If you did not receive a response, there may be a reason for that, and it is unlikely that you will get one after a reminder.
-We receive a large volume of emails, and we are only able to focus on prospective candidates who demonstrate their interest and that they are most likely to succeed in their PhD journey.
+We receive a large volume of emails, and we are only able to focus on prospective candidates who demonstrate their keen interest and that they are likely to succeed in their PhD journey at NUS.
 We thank you for your interest and understanding.
 
 ### Application to NUS and more information
@@ -71,20 +71,29 @@ You may also want to read the graduate studies website of either the [Department
 
 ### After applying
 
-Do note that we are not involved in the application process nor in admission decisions.
-Therefore, we do not have an insight in your application status.
+Applications are handed by the administration and graduate admission committee.
+Do note that we are not involved in this process nor in admission decisions.
+Therefore, we are afraid that we do not have an insight in your application status and are not able to keep you updated.
+Rest assured that your application is carefully evaluated and that you will hear back from the university in time.
+
 However, you are welcome to get in touch with us about other matters.
 
 ### Funding
 
+Funding is a very important aspect of doing a PhD and a common obstacle, and it should be considered as early as possible.
 While the current reality of academia is that obtaining longterm and full scholarships for a PhD is unfortunately often difficult and highly competitive, securing funding is not impossible.
-Some of our members and others at our department have been successful in obtaining it.
+Some of our [graduate students](/people/) and others at our departments have been successful in obtaining it.
+
 There are [scholarship opportunities](https://nusgs.nus.edu.sg/scholarships/) to partially or fully fund your PhD journey, and there are external funding options as well.
-There are also [financial aid schemes](https://nusgs.nus.edu.sg/financial-aid/).
 Do also check the [comprehensive list](../fellowships) that we prepared for candidates seeking external funding.
 For example, if applicable to you, check out the [The Schlumberger Foundation Faculty for the Future](https://www.facultyforthefuture.net) for a potential scholarship opportunity.
-Please note that most external scholarship programmes require a candidate to be admitted to a PhD programme before applying for funding (e.g. providing the letter of acceptance from the university).
+There are further opportunities that are not listed on the links above and may be available depending on your particulars.
+
+There are also [financial aid schemes](https://nusgs.nus.edu.sg/financial-aid/).
+
+Please note that most external scholarships require a candidate to be admitted to a PhD programme before applying for funding (e.g. providing the letter of acceptance from the university).
 Thus, we recommend starting as soon as possible.
+On the other hand, some programmes do not require an admission, rather a letter of interest from a PI or a research group.
 If there is a match, we'll be happy to endorse your application.
 
 Good luck!
