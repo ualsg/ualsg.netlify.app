@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "School of Design and Environment, 4 Architecture Dr", city = "Singapore", postcode = "117566", country = "Singapore", country_code = "SG"}
+address = {street = "School of Design and Environment, 8 Architecture Dr", city = "Singapore", postcode = "117356", country = "Singapore", country_code = "SG"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "1.297311", longitude = "103.770353"}
+coordinates = {latitude = "1.29695", longitude = "103.77026"}
 
 # Directions for visitors to locate you.
 ## directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

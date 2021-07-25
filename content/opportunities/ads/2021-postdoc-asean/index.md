@@ -55,7 +55,7 @@ However, first you need to get in touch with us to discuss your application, pri
 Please do so by [email](mailto:filip@nus.edu.sg), including the following materials:
 
 * CV
-* Cover letter (up to 1 page) briefly indicating (i) your research interests, ideas for projects and research plans; and (ii) how do you intend to contribute to our growing research group and enhance its activities.
+* Cover letter (up to 1 page) briefly indicating (i) your research interests, ideas for projects and research plans; and (ii) how do you intend to contribute to our growing research group and enhance its activities. One paragraph for each of these points is sufficient.
 
 
 ### Contact
