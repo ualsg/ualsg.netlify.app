@@ -106,7 +106,7 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
     * (i) your computational skills and relevant experience so far and how would they translate to benefit this project;
     * (ii) outlook on the topic, project, some of our work/publications; and
     * (iii) how do you intend to contribute to our growing research group and enhance its activities beyond this project.
-    * The letter should also include the expected availability / preferred starting date. Keep it short and simple, please.
+    * The letter should also include the expected availability / preferred starting date. Keep it short and simple, please. One paragraph for each of these points is sufficient.
 * Optional: publications are not required to apply for this position, but if you have published a paper that mirrors your background and research so far, and one that you are particularly proud of, you are welcome to include it. A link to the article is sufficient, no need to include a PDF in your email.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks, and portfolio. Candidates who can demonstrate software development and computational skills will be preferred.

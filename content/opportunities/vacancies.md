@@ -42,7 +42,7 @@ We announce available RA positions in the openings section above, but you are al
 Computational/programming skills are a must, and evidence of them (e.g. developed GitHub repositories) will be appreciated.
 
 We accept well-motivated and talented prospective PhD candidates, but we do not admit them directly as the applications are processed by the school.
-Please read more [here](../phd).
+Before applying, read more [here](../phd).
 
 ### Visiting scholars and research visits
 

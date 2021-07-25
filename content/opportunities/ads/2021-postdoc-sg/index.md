@@ -93,7 +93,7 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the postdoc position -- smart cities" in the subject), including the following materials:
 
 * CV
-* Short cover letter (about one page) briefly indicating your computational skills, relevant experience so far, and interests. The letter should also include the expected availability / preferred starting date. Keep it short and simple, please.
+* Short cover letter (about one page) briefly indicating your computational skills, relevant experience so far, and interests. The letter should also include the expected availability / preferred starting date. Keep it short and simple, please. One paragraph for each of these points is sufficient.
 * Optional: A copy of one first-authored paper published in a reputable journal that mirrors your background and research so far, and one that you are particularly proud of. A link to the article is sufficient, no need to include a PDF in your email.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks, and portfolio. Candidates who can demonstrate software development and computational skills will be preferred.
