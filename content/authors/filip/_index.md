@@ -89,9 +89,9 @@ user_groups:
 - Principal Investigator
 ---
 
-Filip is jointly appointed as faculty at the Department of Architecture (School of Design and Environment) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
+Dr Filip Biljecki is jointly appointed as faculty at the Department of Architecture (School of Design and Environment) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
-In 2020 he was appointed as NUS Presidential Young Professor.
+In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
 
 His background is in Geomatic engineering.
 Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
@@ -101,7 +101,7 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 * [Open Geospatial Consortium](https://www.ogc.org), [3DIM DWG](https://www.ogc.org/projects/groups/3dimdwg) -- Co-Chair
 * [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Editorial Board Member
 * [PLOS ONE](https://journals.plos.org/plosone/) -- Academic Editor for Geoinformatics
-* International Society for Photogrammetry and Remote Sensing, [WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions](https://www2.isprs.org/commissions/comm4/wg10/) -- Board Member
+* [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org), [WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions](https://www2.isprs.org/commissions/comm4/wg10/) -- Board Member
 * [International Journal of Digital Innovation in the Built Environment](https://www.igi-global.com/journal/international-journal-digital-innovation-built/224363) -- Editorial Board Member
 * [Open Geospatial Data, Standards and Software](https://opengeospatialdata.springeropen.com/) -- Editorial Board Member (2018-2021)
 * [World Economic Forum](https://www.weforum.org/), Global Future Council on Cities and Urbanization -- Fellow (2018-2020)

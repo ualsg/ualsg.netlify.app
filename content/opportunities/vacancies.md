@@ -24,12 +24,12 @@ Your experience should be evident from the courses followed, publications, and y
 
 While we appreciate interest, we cannot entertain generic applications without a clear motivation and understanding of the scope of our work.
 We are more likely to reply and support prospective candidates who have made effort to do a bit of research on what we do and those that are able to motivate their wish to join us in particular.
-This is most evident from a tailored application pertaining to our Lab.
+This is most evident from a tailored and research-focused application pertaining to our Lab (you may also check [this link](../phd) for further details).
 
 ### Postdocs
 
 Postdoctoral research fellows are expected to be moderately independent, spearhead new research initiatives, contribute to funding applications, and provide guidance to junior members.
-Our Lab enables an environment that accords a degree of freedom in exploring own research ideas, and fosters careers of postdocs in several ways such as support to attend conferences and involvements in multiple projects and collaborations, paving the way to a potential faculty position.
+Our Lab cultivates an environment that accords a degree of freedom in exploring own research ideas, and fosters careers of postdocs in several ways such as involvements in multiple projects and taking part in strategy development, paving the way for a potential faculty position.
 
 We announce available postdoc positions in the openings section above, but you are welcome to send an open application, as sometimes there might be a new funded project just around the corner.
 Other than that, we welcome prospective postdoctoral fellows on fellowships (see [the other page](../fellowships/) for some options).
@@ -59,28 +59,24 @@ Depending on your country of residence and position, sometimes there are opportu
 Provided there is a fit and space, external (non-NUS) students may carry out a portion of their research at our Lab in the form of a research visit.
 Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) for the framework of the scheme.
 
-## Thesis and internship opportunities for BSc/MSc students
+## Opportunities for master students
 
-Every year, we accept a number of highly motivated, independent, and talented students to work on graduation projects (theses, capstones) in our research domain.
+Every year, we accept a number of highly motivated, independent, and talented students to work on graduation projects (theses/dissertations) in our research domain.
+These are the main channel how students can work with us.
 
-Such mode of work has been mutually productive, as above average quality projects [have been published in top journals and conferences](/publication), enhancing students' CVs and boosting their applications to PhD programmes.
-At the same time, the multidisciplinary spectrum and interest of the students and the research has enriched the breadth of expertise and knowledge of the Lab.
+Such mode of work has been mutually quite productive, as above average quality projects [have been published in top journals and conferences](/publication), enhancing students' CVs and boosting their applications to PhD programmes.
+At the same time, we are happy that the [multidisciplinary spectrum and interest of the students]({{< ref "/post/2020-11-new-student-researchers/index.md" >}}) and the research has enriched the breadth of expertise and knowledge of our group.
 Further, the students have used this opportunity to advance their analytical, coding, and research skills, and build proficiency in a new topic of their interest.
 
 If you are looking for a topic, have a look at [existing projects](/opportunities/student-projects#theses-dissertations-and-capstone-projects) (the link also includes examples of completed theses) to get an impression of the scope.
-It is possible to adapt a topic to suit your background and interest, and we [embrace diverse backgrounds]({{< ref "/post/2020-11-new-student-researchers/index.md" >}}). 
+It is possible to discuss a topic that will suit your background and interest.
 
-When it comes to internships, due to limited supervision resources, we are able to offer guidance to only a few motivated students per year.
-We prefer students who are highly motivated, have solid background knowledge for the topic, computational skills, and are fairly independent.
-You may [contact us](/#contact) if interested.
-Before doing so, please browse through our website to get an impression about our ongoing work.
-
+When it comes to internships, due to restricted supervision resources, we rarely have such opportunities.
+When available, we prefer students who are highly motivated, have solid background knowledge for the topic, computational skills, and are fairly independent.
 In principle, we are not able to offer internships to students who are not studying at our university.
-However, there are exceptions.
+However, there are some exceptions.
 For example, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
 If your university or country has a similar programme, or if you have another funding arrangement to come and spend time in Singapore, feel free to contact us.
-
-Occasionally there are student research jobs opportunities, which are advertised on the NUS internal student job portal (NSWS) when available.
 
 ## Contact
 
