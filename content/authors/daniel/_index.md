@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Students
+- Graduate Researchers and Students
 ---
 
 Daniel is a second year undergraduate pursuing a degree in Computer Science + USP at NUS. At our Lab, he is working on assessing the quality of open data and building pipelines for processing OpenStreetMap data.
