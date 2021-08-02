@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Principal Investigator
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
