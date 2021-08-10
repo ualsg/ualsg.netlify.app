@@ -21,12 +21,6 @@
   weight = 12
 
 [[main]]
-  name = "projects"
-  parent = "about"
-  url = "/project"
-  weight = 13
-
-[[main]]
   name = "media"
   parent = "about"
   url = "/media"
