@@ -50,7 +50,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+- Alumni
 ---
 
 Xinyu is pursuing her master's degree in urban planning and GIS at NUS, and she is involved in our teaching activities.
