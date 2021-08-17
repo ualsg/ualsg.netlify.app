@@ -1,17 +1,17 @@
 ---
 # Display name
-name: Pang Hui En
-title: Pang Hui En
+name: Leon Gaw
+title: Leon Gaw
 
 # Username (this should match the folder name)
 authors:
-- hui-en
+- leon
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Research Associate
 
 # Organizations/Affiliations
 organizations:
@@ -21,33 +21,24 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: []
 
-interests:
-- Computer vision
-- AI
-
 education:
   courses:
-  - course: Master of Science in Applied GIS
+  - course: MSc of Science in Geospatial Technologies
+    institution: Institute for Geoinformatics, Germany
+    year: 2018
+  - course: BSc in Geography
     institution: National University of Singapore
-    year: 
-  - course: BSc in Environmental Studies + USP
-    institution: National University of Singapore
-    year: 2019
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:shantong.wang@u.nus.edu'
-- icon: linkedin
-  icon_pack: fab
-  link: https://sg.linkedin.com/in/palliwala
-#- icon: twitter
-#  icon_pack: fab
-#  link: 'https://twitter.com/ShantongW'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.sg/citations?user=_SRPFOYAAAAJ&hl=en
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -60,7 +51,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Staff and Doctoral Candidates
 ---
 
-Hui En is pursuing her MSc in Applied GIS at NUS part-time. She is currently an AI Apprentice at AISG and has had an internship as a data science intern at Grab. She graduated with a BSc in Environmental Studies + USP in 2019. 
+Leon is a researcher with experience in GIS, Remote Sensing, and environmental modelling. He holds a master’s in geospatial technologies and his research interest can be summarised as LEMURS: **L**and Cover Change; **E**nvironmental Conservation; **M**angroves; **U**nmanned Aerial Systems; and **R**emote **S**ensing. He has worked on projects that investigated mangrove deforestation in Southeast Asia and modelling ecosystem services in Singapore. At the UAL, Leon will examine novel remote sensing techniques and energy usage in the urban areas.
+
