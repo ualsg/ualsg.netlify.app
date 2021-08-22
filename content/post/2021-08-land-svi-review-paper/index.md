@@ -30,7 +30,7 @@ projects: [3d-open]
 
 We have a new paper:
 
-> Biljecki F, Ito K (2021): Street view imagery in urban analytics and GIS: A review. _Landscape and Urban Planning_ 215: 104217, 2021. [<i class="ai ai-doi-square ai"></i> 10.1016/j.landurbplan.2021.104217](https://doi.org/10.1016/j.landurbplan.2021.104217) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-land-svi-review/2021-land-svi-review.pdf) <i class="ai ai-open-access-square ai"></i>
+> Biljecki F, Ito K (2021): Street view imagery in urban analytics and GIS: A review. _Landscape and Urban Planning_ 215: 104217. [<i class="ai ai-doi-square ai"></i> 10.1016/j.landurbplan.2021.104217](https://doi.org/10.1016/j.landurbplan.2021.104217) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-land-svi-review/2021-land-svi-review.pdf) <i class="ai ai-open-access-square ai"></i>
 
 Street view imagery has rapidly increased in prominence as to an important and omnipresent urban data source. 
 In this review, published open access, {{% mention "filip" %}} and {{% mention "koichi" %}} have combed through 619 papers to explore the versatile range of applications of street view imagery and current challenges, services, and opportunities.
