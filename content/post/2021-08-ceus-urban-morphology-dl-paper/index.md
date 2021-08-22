@@ -30,7 +30,7 @@ image:
 
 We have a new paper:
 
-> Chen W, Wu AN, Biljecki F (2021): Classification of Urban Morphology with Deep Learning: Application on Urban Vitality. _Computers, Environment and Urban Systems_ 90: 101706, 2021. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2021.101706](https://doi.org/10.1016/j.compenvurbsys.2021.101706) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-ceus-dl-morphology/2021-ceus-dl-morphology.pdf) <i class="ai ai-open-access-square ai"></i>
+> Chen W, Wu AN, Biljecki F (2021): Classification of Urban Morphology with Deep Learning: Application on Urban Vitality. _Computers, Environment and Urban Systems_ 90: 101706. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2021.101706](https://doi.org/10.1016/j.compenvurbsys.2021.101706) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-ceus-dl-morphology/2021-ceus-dl-morphology.pdf) <i class="ai ai-open-access-square ai"></i>
 
 
 In this research, an entirely new approach to characterise the urban form is developed.

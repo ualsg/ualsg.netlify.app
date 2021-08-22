@@ -30,7 +30,7 @@ projects: []
 
 A new collaborative paper in which we have been involved has been published:
 
-> Ledoux H, Biljecki F, Dukai B, Kumar K, Peters R, Stoter J, Commandeur T (2021): 3dfier: automatic reconstruction of 3D city models. _Journal of Open Source Software 6(57): 2866_ [<i class="ai ai-doi-square ai"></i> 10.21105/joss.02866](https://doi.org/10.21105/joss.02866) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-joss-3-dfier/2021-joss-3-dfier.pdf) <i class="ai ai-open-access-square ai"></i>
+> Ledoux H, Biljecki F, Dukai B, Kumar K, Peters R, Stoter J, Commandeur T (2021): 3dfier: automatic reconstruction of 3D city models. _Journal of Open Source Software_ 6(57): 2866. [<i class="ai ai-doi-square ai"></i> 10.21105/joss.02866](https://doi.org/10.21105/joss.02866) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-joss-3-dfier/2021-joss-3-dfier.pdf) <i class="ai ai-open-access-square ai"></i>
 
 The paper describes [3dfier](https://github.com/tudelft3d/3dfier), an open-source software developed by [our friends at TU Delft](https://3d.bk.tudelft.nl) to automatically generate 3D city models using a 2D GIS dataset and point cloud (extrusion).
 Its advantages are speed, output in multiple formats (e.g. [CityJSON](https://www.cityjson.org)), and topological consistency.
