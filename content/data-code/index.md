@@ -67,6 +67,18 @@ In you are interested in collaborating with us, please check the opportunities t
 | | |
 | ------------------| ------------------------------ |
 | Short description: | Software to generate diagrams of the urban form at the city-scale and classify them using deep learning |
-| Further reading: | Please read more in the [paper](https://arxiv.org/abs/2105.09908) |
+| Further reading: | Please read more in the [paper](https://doi.org/10.1016/j.compenvurbsys.2021.101706) |
 | Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Road-Network-Classification) |
+
+
+## GANmapper: geographical content filling
+
+![](ganmapper.jpg)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A building footprint generator using Generative Adversarial Networks from sparse data such as street networks |
+| Further reading: | Please read more in the [paper](https://arxiv.org/abs/2108.04232) |
+| Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/GANmapper) |
+
 
