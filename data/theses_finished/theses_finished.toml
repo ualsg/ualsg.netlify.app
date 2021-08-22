@@ -33,6 +33,7 @@ study = "Master in Urban Planning"
 year = "2021"
 uni = "NUS"
 image = "wangyang-research.png"
+paper = "2021-ceus-dl-morphology"
 
 [[thesis]]
 title = "Using 3D city models to uncover urban farming potential in public housing blocks of Singapore"
