@@ -23,7 +23,7 @@ bio: []
 
 education:
   courses:
-  - course: MSc of Science in Geospatial Technologies
+  - course: MSc in Geospatial Technologies
     institution: Institute for Geoinformatics, Germany
     year: 2018
   - course: BSc (Hons) in Geography
