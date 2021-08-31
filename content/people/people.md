@@ -56,5 +56,3 @@ user_groups = [
  css_class = ""
 +++
 
-Update 2020-11-03: [Read the profiles of our student researchers]({{< ref "/post/2020-11-new-student-researchers/index.md" >}}).
-
