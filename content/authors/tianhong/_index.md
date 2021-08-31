@@ -43,6 +43,10 @@ education:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/tianhong-04559a1a9
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
