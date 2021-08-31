@@ -26,7 +26,7 @@ education:
   - course: MSc of Science in Geospatial Technologies
     institution: Institute for Geoinformatics, Germany
     year: 2018
-  - course: BSc in Geography
+  - course: BSc (Hons) in Geography
     institution: National University of Singapore
     year: 2015
 
