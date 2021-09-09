@@ -35,6 +35,8 @@ We have a new paper:
 In this study, published in _Landscape and Urban Planning_, we have mapped the content of 1 million rooftops in 17 cities around the world, detecting solar panels and greenery, to understand their prevalence in cities.
 Through Roofpedia, a research prototype developed thanks to the excellent work of {{% mention "abraham" %}} (his first paper, in a top journal no less :tada: :clap:), we can obtain insights that may aid in uncovering the pattern of sustainable rooftops, complement studies on their potential, evaluate the effectiveness of existing incentives, verify the use of subsidies and fulfilment of climate pledges, estimate carbon offset capacities of cities, and ultimately support better policies and strategies to increase the adoption of instruments for sustainable development of urban areas.
 
+Landscape and Urban Planning is a top 1% journal in its discipline according to Scopus.
+
 {{< figure src="grabs.jpg" title="Illustration describing the project and its organisation in three parts." numbered="false" lightbox="true" >}}
 
 ### Highlights

@@ -38,6 +38,8 @@ In this review, published open access, {{% mention "filip" %}} and {{% mention "
 The review presents scores of interesting insights.
 For example, the most comprehensive source of street view imagery -- Google Street View -- dominates and underpins 2/3 of the body of knowledge. It is followed by Baidu & Tencent. All these commercial services are increasingly restrictive, not guaranteeing easy access in the future. On the other hand, volunteered SVI -- Mapillary & KartaView provide an alternative but they’re not used frequently, due to scarce panoramas and heterogeneous quality/coverage. However, crowdsourced street view imagery has advantages too, e.g. permissive licence, opposing the restrictions of commercial counterparts.
 
+Landscape and Urban Planning is a top 1% journal in its discipline according to Scopus.
+
 {{< figure src="5.png" title="" numbered="false" lightbox="true" >}}
 
 ### Highlights

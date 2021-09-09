@@ -44,7 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+- Alumni
 ---
 
 Juliane finished her Bachelor in Geomatics (Surveying and Geoinformatics) at the University of Applied Sciences Dresden (Germany) in July 2021 and will start her Master program in Geodesy at the TU Dresden in October 2021.

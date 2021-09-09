@@ -20,15 +20,16 @@ Before applying, please read the sections below.
 We want to hear about your specific interest and expect you to have at least a basic understanding of what we do and what our research lines are about.
 We suggest that you have a look at one of our [publications](/publication), provide your perspective and motivation (e.g. write a short proposal how you would take these results further), and let us know how do you envision contributing to our research group.
 In your application, please highlight your computational, programming, and geospatial skills.
-Your experience should be evident from the courses followed, publications, and your GitHub account.
+Your experience should be evident from the courses followed, publications (optional if you are applying to a junior role), and your GitHub account.
 
 While we appreciate interest, we cannot entertain generic applications without a clear motivation and understanding of the scope of our work.
-We are more likely to reply and support prospective candidates who have made effort to do a bit of research on what we do and those that are able to motivate their wish to join us in particular.
-This is most evident from a tailored and research-focused application pertaining to our Lab (you may also check [this link](../phd) for further details).
+We are more likely to reply and support prospective candidates who did a bit of research on what we do and those that are able to motivate their wish to join us in particular.
+This is most evident from a tailored and research-focused application pertaining to our Lab (you may also check [this link](../phd) for further details, especially if you are a prospective PhD candidate).
 
 ### Postdocs
 
-Postdoctoral research fellows are expected to be moderately independent, spearhead new research initiatives, contribute to funding applications, and provide guidance to junior members.
+Postdoctoral research fellows are expected to be moderately independent and have a demonstrated record of research excellence and publications. 
+In a postdoc job with us, they will spearhead new research initiatives, contribute to funding applications, and provide guidance to junior members.
 Our Lab cultivates an environment that accords a degree of freedom in exploring own research ideas, and fosters careers of postdocs in several ways such as involvements in multiple projects and taking part in strategy development, paving the way for a potential faculty position.
 
 We announce available postdoc positions in the openings section above, but you are welcome to send an open application, as sometimes there might be a new funded project just around the corner.
@@ -68,7 +69,7 @@ Such mode of work has been mutually quite productive, as above average quality p
 At the same time, we are happy that the [multidisciplinary spectrum and interest of the students]({{< ref "/post/2020-11-new-student-researchers/index.md" >}}) and the research has enriched the breadth of expertise and knowledge of our group.
 Further, the students have used this opportunity to advance their analytical, coding, and research skills, and build proficiency in a new topic of their interest.
 
-If you are looking for a topic, have a look at [existing projects](/opportunities/student-projects#theses-dissertations-and-capstone-projects) (the link also includes examples of completed theses) to get an impression of the scope.
+If you are looking for a topic, have a look at [examples of completed theses](/opportunities/student-projects#theses-dissertations-and-capstone-projects) to get an impression of the scope.
 It is possible to discuss a topic that will suit your background and interest.
 
 When it comes to internships, due to restricted supervision resources, we rarely have such opportunities.
@@ -76,7 +77,7 @@ When available, we prefer students who are highly motivated, have solid backgrou
 In principle, we are not able to offer internships to students who are not studying at our university.
 However, there are some exceptions.
 For example, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
-If your university or country has a similar programme, or if you have another funding arrangement to come and spend time in Singapore, feel free to contact us.
+If your university or country has a similar programme, or if you have another funding arrangement to come and spend time in Singapore, feel free to contact us to enquiry whether we are able to welcome you.
 
 ## Contact
 

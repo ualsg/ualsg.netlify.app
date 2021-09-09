@@ -40,6 +40,8 @@ Congratulations to {{% mention "wangyang" %}}, our Master of Urban Planning grad
 
 The code supporting this research has been [released as open-source software](https://github.com/ualsg/Road-Network-Classification). 
 
+CEUS is a top 1% journal in its discipline according to Scopus.
+
 
 ### Highlights
 

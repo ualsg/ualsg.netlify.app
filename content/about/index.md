@@ -12,15 +12,15 @@ title = "About the Urban Analytics Lab"
   columns = "1"
 +++
 
-We are a new multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centred in Asia.
+We are a multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centred in Asia.
 Our mission is to leverage spatially enabled data for urban applications, catalyse the development of spatial data infrastructures in the context of smart cities, and make sense of big geospatial data and digital twins in the built environment.
 
-The research group is led by Dr {{% mention "filip" %}}, [NUS School of Design and Environment](https://www.sde.nus.edu.sg).
+The research group is led by Dr {{% mention "filip" %}}, Assistant Professor at the [NUS School of Design and Environment](https://www.sde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg).
 
 ![](banner-gbmi.png)
 
 We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
-Within NUS, we collaborate primarily with three sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab](https://www.sde.nus.edu.sg/arch/ucdl/), forming a constellation of research groups with complementary activities and scales.
+Within NUS, we collaborate primarily with three sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab](https://www.sde.nus.edu.sg/arch/ucdl/), forming a constellation of research groups with complementary activities at converging scales.
 
 You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a href="post/">blog</a>, and <a href="../publication/">papers</a>.
 

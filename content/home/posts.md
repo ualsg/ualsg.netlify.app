@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "News"
-subtitle = "Updates from our Lab"
+subtitle = "Updates from our group"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
