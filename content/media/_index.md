@@ -13,6 +13,7 @@ design:
 
 ## 2021
 
+* NUS: [NUS researchers develop AI-powered tool to map sustainable roofs globally](https://news.nus.edu.sg/nus-researchers-develop-ai-powered-tool-to-map-sustainable-roofs-globally/)
 * Amazon: [NUS Urban Analytics Lab scales research globally with AWS](https://aws.amazon.com/blogs/publicsector/nus-urban-analytics-lab-scales-research-globally-aws/)
 * NUS: [Novel use of 3D geoinformation to identify urban farming sites](https://news.nus.edu.sg/novel-use-of-3d-geoinformation-to-identify-urban-farming-sites/)
 
