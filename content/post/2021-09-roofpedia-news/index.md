@@ -5,7 +5,7 @@ title: "UAL researchers develop AI-powered tool to map sustainable roofs globall
 subtitle: "Our research is in the news again. Our method ranks Singapore highly amongst 17 cities for solar roof utilisation"
 summary: "Our research is in the news again. Our method ranks Singapore highly amongst 17 cities for solar roof utilisation"
 authors: [admin]
-tags: [press release, research, paper, news, urban farming]
+tags: [press release, research, paper, news, solar roofs, green roofs]
 categories: []
 date: 2021-09-10T08:43:28+08:00
 lastmod: 2021-09-10T08:43:28+08:00
@@ -61,7 +61,7 @@ Mr Wu said, “While Singapore has ambitious plans to considerably expand its so
 
 Mr Wu elaborated that the scoring system considers both building count and total building area, thus allowing users to study the degree of adoption by individual owners as well as the overall extensiveness of rooftop solar and vegetation cover in other cities.
 
-{{< figure src="1920_20210907roofpedia-1.jpg" caption="Mr Abraham Noah Wu (left) and Dr Filip Biljecki (right) showing the features of Roofpedia, an automated tool that they had developed, which uses satellite images to track solar and green roof penetration." >}}
+{{< figure src="1920_20210907roofpedia-1.jpg" caption="Mr Abraham Noah Wu (left) and Dr Filip Biljecki (right) showing the features of Roofpedia, an automated tool that they had developed, which uses satellite images to track solar and green roof penetration. Credit: NUS." >}}
 
 The researchers emphasised that each city has its unique characteristics, and the exact benefit of greenery or solar panels on rooftops much depends on the urban form and design. The geolocation and macroclimate of the city also plans a part. For instance, in drier areas, green roofs are harder to maintain while in rainy and dark areas, solar roofs may not make economic sense. Taking these limitations into consideration, a city could still be environmentally progressive without a sustainable roofscape. 
 
