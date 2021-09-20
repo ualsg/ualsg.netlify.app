@@ -53,7 +53,7 @@ Following the completion of this successful research, at the intersection of com
 
 {{% mention "koichi" %}} graduated from the Master of Urban Planning with an interesting research on a new application of computer vision and street view imagery: assessing bikeability.
 Koichi's excellent work has demonstrated the value of these technologies and datasets for virtual audits gauging the cycling appeal, widely and at a high resolution.
-His thesis has been condensed into a paper -- its preprint is available on [arXiv](https://arxiv.org/abs/2105.08499).
+His thesis has been condensed into a paper -- it has been published in [TRC](https://doi.org/10.1016/j.trc.2021.103371).
 
 {{< figure library="true" src="bikeability-maps.png" title="Bikeability maps in Singapore and Tokyo, generated with Koichi's automated assessment." >}}
 
