@@ -24,6 +24,7 @@ study = "Master in Urban Planning"
 year = "2021"
 uni = "NUS"
 image = "koichi-research.jpg"
+paper = "2021-trc-bikeability"
 
 [[thesis]]
 title = "Classification of Urban Morphology with Deep Learning: A Case Study of its Application on Urban Vitality Prediction"
