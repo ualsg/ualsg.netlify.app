@@ -15,20 +15,20 @@ header:
 ## Open applications and general info about positions
 
 We appreciate open enquiries from motivated prospective PhD candidates, research assistants, postdoctoral research fellows, and visiting scholars but we expect dedicated applications.
-Before applying, please read the sections below.
+Before applying, please read the sections below and [more about us](../why-us).
 
 We want to hear about your specific interest and expect you to have at least a basic understanding of what we do and what our research lines are about.
-We suggest that you have a look at one of our [publications](/publication), provide your perspective and motivation (e.g. write a short proposal how you would take these results further), and let us know how do you envision contributing to our research group.
+We suggest that you have a look at one of our [publications](/publication), provide your perspective and motivation (e.g. write a few words on how you would take these results further), and let us know how do you envision contributing to our research group.
 In your application, please highlight your computational, programming, and geospatial skills.
-Your experience should be evident from the courses followed, publications (optional if you are applying to a junior role), and your GitHub account.
+Your experience should be evident from the courses followed, publications (optional if you are applying to a junior role), and your GitHub account as evidence of coding and open science affinity.
 
 While we appreciate interest, we cannot entertain generic applications without a clear motivation and understanding of the scope of our work.
 We are more likely to reply and support prospective candidates who did a bit of research on what we do and those that are able to motivate their wish to join us in particular.
-This is most evident from a tailored and research-focused application pertaining to our Lab (you may also check [this link](../phd) for further details, especially if you are a prospective PhD candidate).
+This is most obvious from a tailored and research-focused application pertaining to our Lab (you may also check [this link](../phd) for further details, especially if you are a prospective PhD candidate).
 
 ### Postdocs
 
-Postdoctoral research fellows are expected to be moderately independent and have a demonstrated record of research excellence and publications. 
+Postdoctoral research fellows are expected to be moderately independent, and have a demonstrated record of research excellence and a momentum in publishing. 
 In a postdoc job with us, they will spearhead new research initiatives, contribute to funding applications, and provide guidance to junior members.
 Our Lab cultivates an environment that accords a degree of freedom in exploring own research ideas, and fosters careers of postdocs in several ways such as involvements in multiple projects and taking part in strategy development, paving the way for a potential faculty position.
 
@@ -40,7 +40,7 @@ Other than that, we welcome prospective postdoctoral fellows on fellowships (see
 Working as RA and/or doing a PhD at NUS is a great opportunity to grow as a scientist and follow your passion in research, and our Lab offers a vibrant and stimulating environment for academic growth.
 RA positions depend on funded projects.
 We announce available RA positions in the openings section above, but you are also welcome to send an open application.
-Computational/programming skills are a must, and evidence of them (e.g. developed GitHub repositories) will be appreciated.
+In most cases, computational/programming skills are a must, and evidence of them (e.g. developed GitHub repositories) will be appreciated.
 
 We accept well-motivated and talented prospective PhD candidates, but we do not admit them directly as the applications are processed by the school.
 Before applying, read more [here](../phd).
@@ -51,19 +51,19 @@ Feel free to get in touch with us if you are interested in conducting a research
 
 Please prepare a short proposal of the research you plan to conduct in our Lab together with a timeline and other specifics.
 Feel free to have a look at our website and recent papers, and think of a common overlap or complementary research direction, which will ensure a mutually beneficial research visit.
-Potential contributions to our research group are also important.
-Every year, we have bandwidth to accept only a few visiting researchers.
+Potential contributions to our research group are also important, as visiting fellowships should be a two-way relationship.
+Every year, we have bandwidth and space to accept only a few visiting researchers.
 Thus, we prefer to prioritise those who work on research that is closely aligned with our activities and ensure a complementary fit and contribution to our projects and team.
 
 Depending on your country of residence and position, sometimes there are opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion), [China Scholarship Council](https://www.chinesescholarshipcouncil.com), and the [US Fulbright Program](https://www.cies.org).
 
-Provided there is a fit and space, external (non-NUS) students may carry out a portion of their research at our Lab in the form of a research visit.
+Provided there is a fit and space, external (non-NUS) PhD students may carry out a portion of their research at our Lab in the form of a research visit.
 Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) for the framework of the scheme.
 
 ## Opportunities for master students
 
 Every year, we accept a number of highly motivated, independent, and talented students to work on graduation projects (theses/dissertations) in our research domain.
-These are the main channel how students can work with us.
+That is the main channel how students can work with us.
 
 Such mode of work has been mutually quite productive, as above average quality projects [have been published in top journals and conferences](/publication), enhancing students' CVs and boosting their applications to PhD programmes.
 At the same time, we are happy that the [multidisciplinary spectrum and interest of the students]({{< ref "/post/2020-11-new-student-researchers/index.md" >}}) and the research has enriched the breadth of expertise and knowledge of our group.
@@ -72,12 +72,14 @@ Further, the students have used this opportunity to advance their analytical, co
 If you are looking for a topic, have a look at [examples of completed theses](/opportunities/student-projects#theses-dissertations-and-capstone-projects) to get an impression of the scope.
 It is possible to discuss a topic that will suit your background and interest.
 
-When it comes to internships, due to restricted supervision resources, we rarely have such opportunities.
-When available, we prefer students who are highly motivated, have solid background knowledge for the topic, computational skills, and are fairly independent.
+When it comes to internships and undergraduate projects, due to restricted supervision resources, we rarely have such opportunities.
+When they are available, they are posted on internal NUS platforms.
+In such cases, we prefer students who are highly motivated, have solid background knowledge for the topic, computational skills, and are fairly independent.
+
 In principle, we are not able to offer internships to students who are not studying at our university.
-However, there are some exceptions.
+However, there are some exceptions depending on bilateral agreements and similar.
 For example, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
-If your university or country has a similar programme, or if you have another funding arrangement to come and spend time in Singapore, feel free to contact us to enquiry whether we are able to welcome you.
+If your university or country has a similar programme, or it is associated with NUS in one way or another, or if you have another funding arrangement to come and spend time in Singapore, feel free to contact us to enquiry whether we are able to welcome you and have you join an ongoing project.
 
 ## Contact
 

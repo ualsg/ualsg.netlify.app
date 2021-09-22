@@ -1,13 +1,15 @@
 +++
-date = 2021-07-15
-title = "Postdoctoral research fellow (SG Academies ASEAN Fellowship Programme)"
+date = 2021-09-22
+title = "Vacancy: Postdoctoral research fellow (SG Academies ASEAN Fellowship Programme)"
 +++
 
 {{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
 
 ### Description
 
-The [SG Academies ASEAN Fellowship Programme](https://snas.org.sg/aseanfellowship) aims to attract bright postgraduate researchers from ASEAN countries to Singapore research institutions for a 2-year long fellowship. The programme, first started in 2020, is administered by three academies in Singapore - the Singapore National Academy of Science (SNAS), together with the Academy of Medicine Singapore (AMS), and the Academy of Engineering Singapore (AES) - and funded by the National Research Foundation (NRF). It involves the participating host institutions, including Singapore universities and research institutions such as A*STAR, and candidates aligning to agreed fields of research (science, medicine, engineering, and computer science). 
+The [SG Academies ASEAN Fellowship Programme](https://snas.org.sg/aseanfellowship) aims to attract bright postgraduate researchers from ASEAN countries to Singapore research institutions for a 2-year long fellowship.
+The programme, first started in 2020, is administered by three academies in Singapore -- the Singapore National Academy of Science (SNAS), together with the Academy of Medicine Singapore (AMS), and the Academy of Engineering Singapore (AES) -- and funded by the National Research Foundation (NRF).
+It involves the participating host institutions, including Singapore universities and research institutions such as A*STAR, and candidates aligning to agreed fields of research (science, medicine, engineering, and computer science). 
 
 The [NUS Urban Analytics Lab](/) is seeking a talented and motivated postdoctoral research fellow to join our research group through this fellowship, to work on a topic in the domain of the Lab.
 
@@ -19,10 +21,7 @@ Candidates should have a computational affinity and a PhD degree in geographical
 
 The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
-The Lab will provide a motivating, conducive, and flexible environment to explore the research fellow's interests and build skills required for future career steps.
-
-*Our research group aims to increase the share of women in research.
-Female candidates are therefore encouraged to apply.*
+The Lab will provide a motivating, conducive, and flexible environment to explore the research fellow's interests and build skills required for future career steps
 
 ### Venue
 
@@ -52,10 +51,10 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 The applications will be handled externally as per the [terms](https://snas.org.sg/aseanfellowship) of the funding scheme.
 However, first you need to get in touch with us to discuss your application, primarily your research scope and agenda.
 
-Please do so by [email](mailto:filip@nus.edu.sg), including the following materials:
+Please do so by [email](mailto:filip@nus.edu.sg) (please write "ASEAN Fellowship" in the subject), including the following materials:
 
 * CV
-* Cover letter (up to 1 page) briefly indicating (i) your research interests, ideas for projects and research plans; and (ii) how do you intend to contribute to our growing research group and enhance its activities. One paragraph for each of these points is sufficient.
+* Cover letter (up to 1 page) briefly indicating (i) your research interests, ideas for projects and research plans; and (ii) how do you intend to contribute to our growing research group and enhance its activities. One paragraph for each of these points is sufficient. These materials can be re-used for the fellowship application, as it will be evaluated for mutual fit.
 
 
 ### Contact
