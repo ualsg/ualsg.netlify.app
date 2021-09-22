@@ -10,7 +10,8 @@ header:
 Thanks for your interest in conducting a PhD with us at the National University of Singapore.
 
 We welcome motivated and talented prospective PhD candidates in our research group.
-However, research groups at NUS usually do not admit them directly and do not provide stipends on their own. Applications to the PhD programme should be done directly to our [School of Design and Environment](http://www.sde.nus.edu.sg).
+However, research groups at NUS usually do not admit them directly and do not provide stipends on their own.
+Applications to the PhD programme should be done directly to our [School of Design and Environment](http://www.sde.nus.edu.sg), and candidates are expected to devise their funding plan.
 
 That said, [do get in touch with us](/#contact) beforehand to discuss mutual interest and fit.
 Before contacting us and applying to the PhD programme, you are advised to read this page in detail, which contains information for prospective doctoral candidates.
@@ -24,8 +25,8 @@ It aspires to be a vital community of academics, researchers, staff, students an
 Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean and efficient environment.
 
-Successful PhD applicants will work on new research initiatives in the domains of the Lab (3D geospatial data, urban analytics, and GIScience) as part of existing or upcoming projects, and will have a chance to produce high-impact research.
-Working at our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire 3D GIS ecosystem under the same roof: from standardisation and generation of 3D city models all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field. 
+Successful PhD applicants will work on new research initiatives in the domains of the Lab (e.g. 3D geospatial data, urban analytics, digital twins, street view imagery, crowdsourced data, and GIScience) as part of existing or upcoming projects, and will have a chance to produce high-impact research.
+Working at our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire GIS ecosystem under the same roof: from standardisation and generation of geoinformation all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field such as interface with AI and other developments.
 
 We provide a motivating, conducive, and flexible environment to explore the candidate's interests, build relevant skills, and develop world-class research required to attain a PhD degree.
 Our conducive and collaborative setting enables you to integrate your project with existing projects and leverage on our network and other activities to turbocharge your research.
@@ -37,7 +38,7 @@ Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked among
 ### Contacting us
 
 Before you contact us, please familiarise yourself with our group.
-Our webpage is comprehensive enough (e.g. we have a blog and all our publications are available open access) to become acquainted with our work and research agenda, and decide whether it is aligned with your interests and aspirations.
+Our website is comprehensive enough (e.g. we have a blog and all our publications are available open access) to become acquainted with our work and research agenda, and decide whether it is aligned with your interests and aspirations.
 
 While we appreciate interest, we do not respond to generic applications and those without a clear motivation and understanding of the scope of our work, and those that do not demonstrate research affinity.
 We are more likely to reply and support prospective candidates who did a bit of research on what we do and those that are able to exhibit their aptitude for research and motivate their wish to join us in particular.
@@ -46,15 +47,14 @@ This is most evident from a tailored and research-focused application pertaining
 When getting in touch with us, please send us your CV (in particular, highlight your computational and research skills), accompanied by:
 * a brief research proposal containing a summary of the topics that you find interesting and a short literature review that covers recent developments in your area of interest. You should be able to briefly formulate existing gaps and think about how do you plan to fill them in the next few years. This does not have to be comprehensive and advanced, as during the first months of your PhD you'll have a plenty of time to work on all that and sharpen your plans, but you should be able to demonstrate your motivation and research skills;
 * summary of prior research outputs (code, papers, data, internships, thesis, etc. preferably with evidence such as developed GitHub repositories and a personal website);
-* a short review of one of our [publications](/publication) with brief ideas how would you take these results further and/or how would you use them for your research; and
+* a few words about one of our [publications](/publication) with brief ideas how would you take these results further and/or how would you use them for your research; and
 * a brief statement how do you envision contributing to our research group. A PhD is a substantial commitment from both sides for a few years, thus, your fit is no less important than your research finesse.
 
 All the points above should be brief, e.g. a few paragraphs for each aforementioned aspect.
 Most of these materials will be required later for the official application to the graduate programme, so you will be able to re-use your effort for it.
-Preparing such documentation is quite beneficial as it will also help you explore and refine your thoughts and interests.
+Preparing such documentation is quite beneficial as it will also help you to explore and refine your thoughts and interests.
 
-Further, do make sure that you send your materials in PDF.
-Sending Word documents is not only bad practice, but it also implies a lack of computer literacy, which is not viewed favourably.
+Further, do make sure that you write your application in clear and concise English, and that you send your materials in PDF (sending Word documents is not only bad practice, but it also implies a lack of computer literacy, which is not viewed favourably at a computational research group).
 
 Finally, if your email goes unattended, please do not send us reminders.
 If you did not receive a response, there may be a reason for that, and it is unlikely that you will get one after a reminder.
@@ -66,6 +66,7 @@ We thank you for your interest and understanding.
 The [NUS website on graduate admissions](http://www.nus.edu.sg/registrar/prospective-students/graduate) is a good starting point to get more information about doing a PhD at our university.
 The application deadlines are usually 15 November for the intake in August next year, and 15 May for the start in January.
 Please start preparing early, and indicate in your application that you would like to be supervised by Dr {{< mention "filip" >}}.
+The supervisor is assigned to the candidate after the successful admission to the PhD programme.
 
 You may also want to read the graduate studies website of either the [Department of Architecture](https://www.sde.nus.edu.sg/arch/programmes/higher-degrees-by-research/) (and its [FAQ](https://www.sde.nus.edu.sg/arch/programmes/higher-degrees-by-research/frequently-asked-questions/)), or the [Department of Real Estate](https://bschool.nus.edu.sg/real-estate/phd/curriculum/) (we are part of both).
 
@@ -74,9 +75,9 @@ You may also want to read the graduate studies website of either the [Department
 Applications are handed by the administration and graduate admission committee.
 Do note that we are not involved in this process nor in admission decisions.
 Therefore, we are afraid that we do not have an insight in your application status and are not able to keep you updated.
-Rest assured that your application is carefully evaluated and that you will hear back from the university in time.
+Please rest assured that your application is carefully evaluated and that you will hear back from the university in time.
 
-However, you are welcome to get in touch with us about other matters.
+In the meantime, you are welcome to get in touch with us about other matters.
 
 ### Funding
 

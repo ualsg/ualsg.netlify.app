@@ -1,18 +1,13 @@
 +++
-date = 2021-06-28
-title = "Vacancy: Postdoctoral research fellow in digital twins"
+date = 2021-09-22
+title = "Vacancy: Developer / Research associate"
 +++
 
 {{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
 
 ### Job and project description
 
-The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a postdoctoral research fellow to join the research group and spearhead research on 3D city models / BIM, data integration (focusing on crowdsourced and dynamic geospatial data) and use cases, under the umbrella of digital twins.
-This position is part of an upcoming large project, spanning multiple scales: human, building, transportation, and urban extents.
-The project will be carried out primarily with our sister labs at NUS: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab](https://www.sde.nus.edu.sg/arch/ucdl/).
-
-This vacancy is advertised concurrently with a related
-[developer / research associate opening.]({{< relref "/opportunities/ads/2021-04-ra-developer/index.md" >}})
+The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a research associate to join the research group and assist with research in the geospatial & data science domain -- 3D city models / BIM, data integration (focusing on crowdsourced and dynamic geospatial data) and use cases, under the umbrella of digital twins.
 
 The successful applicant will be engaged on novel research lines in the context of digital twins, namely: integration of nascent data sources, initiating new means of benchmarking and quality assessment of data and workflows, and developing new use cases pertaining to building/urban/geospatial data infrastructure in the frame of smart cities.
 Positioned at the intersection of academia, industry, international organisations and government, the nature of the work is computational and practical.
@@ -22,56 +17,52 @@ A portion of the project will involve data collection, e.g. imagery and point cl
 
 The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
-Candidates should have a strong computational affinity and a PhD degree in computer science, geographical information science, geomatics, or another relevant field of study, with a demonstrated track record (in terms of publications/impact and/or other forms of output such as development of tools).
-The PhD requirement can be waived for exceptional candidates without a doctoral degree, such as software developers with a publication track record or those with ample working experience.
+Candidates should have a computational affinity and a degree in computer science, geographical information science, geomatics, mechanical engineering, or another relevant field of study, with a demonstrated track record (in terms of working experience and/or publications/impact and/or other forms of output such as development of tools).
 
-The Lab will provide a motivating, conducive, and flexible environment to explore the research fellow's interests and build skills required for future career steps.
-
-*Our research group aims to increase the share of women in research.
-Female candidates are therefore encouraged to apply.*
+The Lab will provide a motivating, conducive, and flexible environment to explore the research associate's interests and build skills required for future career steps.
 
 ### Scope and responsibilities
 
 Your key responsibilities will be:
 
-- Conducting and leading research activities.
-- Development of software tools.
+- Conducting research activities.
+- Development of software tools and related solutions.
 - Collaboration with other researchers and coordination.
 - Exploring new research directions and experimenting with new datasets and technologies.
-- Assisting the PI in various activities in the research group and project such as supervision/mentorship of other researchers and students, management, and assisting with funding applications.
+- Assisting the PI in various activities in the research group and project such as supervision/mentorship of students, management, and assisting with funding applications.
 - Preparation of publications and managing other forms of research output such as software and data.
 
 ### Required qualifications
 
 You should demonstrate that you possess:
 
-- A PhD degree :mortar_board: in a related discipline from a reputable university. Current PhD candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their PhD degree will be completed before the start of the appointment. The PhD requirement can be waived for exceptional candidates without a PhD degree, such as software developers with a publication track record or those with ample working experience.
-- An ability to conduct research independently.
-- A publication record with demonstrated impact, writing skills, and a strong affinity to publish.
-- Proficiency in one or more of the following areas: GIS, game engines, Geomatics, 3D city modelling, computer science, urban planning, and/or urban simulations.
+- A degree :mortar_board: in a related discipline from a reputable university. Current students are eligible to apply as well, provided that they are in the final stage of their studies and that their degree will be completed before the start of the appointment.
+- An ability to conduct research semi-independently.
+- A publication record is not required, but candidates with demonstrated impact, writing skills, and a strong affinity to publish are welcome to emphasise these in their application.
+- Proficiency in one or more of the following areas: GIS, computer science, game engines, Geomatics, 3D city modelling, computer vision / AI / ML, urban planning, and/or urban simulations.
 - Good communication skills in English, and an ability to present research in both academic and non-academic venues.
-- Experience with programming. Having built software used by others and/or scientific software experience is a plus. We will prioritise applicants who can demonstrate these qualities through a Github profile or similar evidence.
-- An ability to supervise others (e.g. students and junior researchers).
+- Experience with programming. We will prioritise applicants who can demonstrate these qualities through a Github profile or similar evidence.
 - Curiosity and passion to explore new concepts, methods and technologies, and capability of identifying and quickly learning the most suitable tools for the research on the go.
 - A positive and proactive stance on open science, preferably with demonstrated activities such as using and developing open-source software, releasing data as open data, and promoting reproducible research. 
 
 ### Our offer
 
 - You will be working on compelling research activities at the forefront of geographical information science and urban data science in a new research group that is gaining a strong momentum in Singapore and overseas.
-- You will advance your research and transferable skills required for the next stage of your career.
+- You will advance your research and transferable skills required for the next stage of your career. You will be welcome to explore and learn new tools and technologies, and expand your current skillset.
 - You will work in a research and educational environment where you may not only contribute to your own development, but also to others, e.g. by supervising master theses that may arise as part of the research.
 - Opportunity to make impactful contributions in the field, on a globally relevant and growing topic.
 - Visibility and exposure of your work.
 - Potential contact with industrial and governmental partners, both locally and internationally.
-- A diverse, inclusive, and flexible working environment.
+- A diverse, inclusive, friendly, and flexible working environment.
 - Exploring new ideas and an opportunity to experiment with the state of the art.
 - The remuneration will be determined according to the university's salary range depending on the degree and experience.
 
-### Duration and start
+__Please note that this is not a PhD position. This is a full-time research job.__
+
+### Duration
 
 The appointment is for one year, with a probation period of 3 months.
 The contract can be extended for another year subject to performance.
-The exact start date will be determined later.
 
 ### Employer
 
@@ -99,15 +90,15 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 
 ### Application
 
-Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the postdoc position on digital twins" in the subject), including the following materials:
+Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the research associate position on digital twins" in the subject), including the following materials:
 
 * CV
 * Short cover letter (about one page) briefly indicating:
-    * (i) your computational skills and relevant experience so far and how would they translate to benefit this project;
+    * (i) your computational skills and relevant experience so far and how would they translate to benefit this project, and your learning goals and aspirations;
     * (ii) outlook on the topic, project, some of our work/publications; and
     * (iii) how do you intend to contribute to our growing research group and enhance its activities beyond this project.
     * The letter should also include the expected availability / preferred starting date. Keep it short and simple, please. One paragraph for each of these points is sufficient.
-* Optional: A copy of at least one first-authored paper published in a [reputable journal](/post/2020/07/06/geospatial-and-urban-data-science-journals/) that mirrors your background and research so far, and one that you are particularly proud of. A link to the article is sufficient, no need to include a PDF in your email.
+* Optional: publications are not required to apply for this position, but if you have published a paper that mirrors your background and research so far, and one that you are particularly proud of, you are welcome to include it. A link to the article is sufficient, no need to include a PDF in your email. Alternatively, you are welcome to include your thesis.
 * Names and contact information for three referees.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, talks, and portfolio. Candidates who can demonstrate software development and computational skills will be preferred.
 

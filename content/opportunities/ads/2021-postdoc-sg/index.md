@@ -1,13 +1,13 @@
 +++
-date = 2021-07-15
-title = "Postdoctoral research fellow (urban analytics/smart cities)"
+date = 2021-09-22
+title = "Vacancy: Postdoctoral research fellow"
 +++
 
 {{< figure src="header.png" >}}
 
 ### Job and project description
 
-The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a postdoc to join the group and spearhead research in one of the domains of the Lab:
+The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a postdoc to join the group and spearhead research at the interface of the domains of the Lab:
 
 * GIS/Geospatial technologies
 * AI/Machine learning/Computer vision
@@ -19,21 +19,18 @@ The successful applicant will be engaged on novel research lines and may be invo
 
 The research fellow will be supervised by the principal investigator [Dr Filip Biljecki](/authors/filip/), [NUS School of Design and Environment](http://www.sde.nus.edu.sg).
 
-Candidates should have a computational affinity and a PhD degree (e.g. in computer science, geographical information science, geomatics, architecture, or another relevant field of study), preferably with a demonstrated track record (in terms of publications/impact and/or other forms of output such as development of tools).
+Candidates should have a computational affinity and a PhD degree (e.g. in computer science, geographical information science, geomatics, architecture, mechanical engineering, or another relevant field of study), preferably with a demonstrated track record (in terms of publications/impact and/or other forms of output such as development of tools).
 
 The Lab will provide a motivating, conducive, and flexible environment to explore the research fellow's interests and build skills required for future career steps.
 
 **Please note that this position is open only to Singaporeans and permanent residents.**
-
-*Our research group aims to increase the share of women in research.
-Female candidates are therefore encouraged to apply.*
 
 ### Scope and responsibilities
 
 Your key responsibilities will be:
 
 - Conducting and leading research activities.
-- Development of software tools.
+- Development of code and software prototypes to implement research methodology.
 - Collaboration with other researchers and coordination.
 - Exploring new research directions and experimenting with new datasets and technologies.
 - Assisting the PI in various activities in the research group and project such as supervision/mentorship of other researchers and students, management, and assisting with funding applications.
@@ -43,11 +40,11 @@ Your key responsibilities will be:
 
 You should demonstrate that you possess:
 
-- Singapore citizenship or PR.
+- Singapore citizenship or Singapore PR.
 - A PhD degree :mortar_board: in a related discipline from a reputable university. Current PhD candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their PhD degree will be completed before the start of the appointment.
 - An ability to conduct research independently.
 - Experience with publications, writing skills, and a strong affinity to publish.
-- Proficiency in one or more of the following areas: AI, GIS, game engines, Geomatics, 3D city modelling, computer science, urban planning, and/or urban simulations.
+- Proficiency in one or more of the following areas: AI/ML, GIS, game engines, Geomatics, 3D city modelling, computer science, computer vision, urban planning, and/or urban simulations.
 - Good communication skills in English, and an ability to present research in both academic and non-academic venues.
 - Experience with programming.
 - An ability to supervise others (e.g. students and junior researchers).
@@ -70,7 +67,7 @@ You should demonstrate that you possess:
 ### Duration and start
 
 The appointment is for two years, with a probation period of 3 months.
-This position is available immediately, but the start date may be discussed.
+This position is available immediately, however, the exact start date may be discussed.
 
 ### Employer
 
