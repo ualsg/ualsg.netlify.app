@@ -86,6 +86,7 @@ While the current reality of academia is that obtaining longterm and full schola
 Some of our [graduate students](/people/) and others at our departments have been successful in obtaining it.
 
 There are [scholarship opportunities](https://nusgs.nus.edu.sg/scholarships/) to partially or fully fund your PhD journey, and there are external funding options as well.
+For example, you may want to check the [Singapore International Graduate Award -- SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa).
 Do also check the [comprehensive list](../fellowships) that we prepared for candidates seeking external funding.
 For example, if applicable to you, check out the [The Schlumberger Foundation Faculty for the Future](https://www.facultyforthefuture.net) for a potential scholarship opportunity.
 There are further opportunities that are not listed on the links above and may be available depending on your particulars.
