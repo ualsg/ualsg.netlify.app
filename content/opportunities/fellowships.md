@@ -15,6 +15,8 @@ We are eligible to host awardees of such fellowships.
 
 ### General (open to many or all nationalities)
 
++ [The Singapore International Graduate Award -- SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa) by A*STAR may be used to fund a PhD study at our Lab. You may also want to check the [A*STAR Graduate Scholarship](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/a-star-graduate-scholarship-singapore).
+
 + [The Branco Weiss Fellowship](https://brancoweissfellowship.org) awards young researchers around the world with a generous personal research grant, giving them the freedom to work on whatever topic they choose anywhere in the world, for up to five years.
 
 + Citizens of [Commonwealth countries](https://thecommonwealth.org/member-countries) (there are 53 countries in the Commonwealth of Nations; incl. India, Australia, Canada, New Zealand, Malaysia, several in Africa and the Caribbean, and a few European ones -- Cyprus, Malta, and UK) can consider applying for the [NUS Commonwealth Scholarship](http://www.nus.edu.sg/registrar/prospective-students/graduate/scholarship/commonwealth-scholarship). The scholarship includes a monthly stipend and tuition fees.
