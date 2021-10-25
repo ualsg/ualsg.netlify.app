@@ -68,5 +68,5 @@ user_groups:
 
 ---
 
-Jonas Teuwen is a assistant professor / tenure-track researcher in the Department of Radiology and Nuclear Medicine of the Radboud University Medical Center in the Netherlands.
+Jonas Teuwen is an assistant professor / tenure-track researcher in the Department of Radiology and Nuclear Medicine of the Radboud University Medical Center in the Netherlands.
 He is visiting researcher at the Urban Analytics Lab, National University of Singapore, working on applications of AI in real estate and urban planning.
