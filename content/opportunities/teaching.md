@@ -34,5 +34,3 @@ To get an peek in the topics and content, an example of a group project by previ
 - A new module for Architecture students, which is designed for those who wish to start with data science and programming from scratch.
 The course is of generic nature, covering a bit of several topics, but it puts urban data and data visualisation in the spotlight.
 
-
-

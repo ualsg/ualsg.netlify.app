@@ -219,5 +219,5 @@ If you find an error or have a suggestion, Github issues are a preferred mode of
 ### NUS students
 
 Are you an NUS student who is interested working on topics such as this one?
-There are related [master thesis topics](/teaching/) that may be of your interest.
+There are related [master thesis topics](/opportunities/student-projects) that may be of your interest.
 

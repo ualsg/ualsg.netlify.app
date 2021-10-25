@@ -22,10 +22,6 @@ Feel free to check out past student projects below, and please [get in touch](/#
 
 {{< theses_finished >}}
 
-### Ongoing projects
-
-{{< theses_current >}}
-
 ### Potential topics
 
 You may [approach us](/#contact) to discuss potential topics for research.
