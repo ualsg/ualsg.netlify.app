@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Research Data Repositories"
+title: "Exploration of research data repositories"
 subtitle: ""
-summary: "A non-exhaustive list of research data repositories, and a comparison of them."
+summary: "A non-exhaustive list of research data repositories and a comparison of them."
 authors: [yoong-shin]
 tags: [research data, data repositories, open data, data management planning, research data 
 management]
 categories: []
-date: 2021-07-12T09:34:24+08:00
-lastmod: 2021-07-12T09:34:24+08:00
+date: 2021-10-25T09:34:24+08:00
+lastmod: 2021-10-25T09:34:24+08:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 projects: []
 ---
 
-It is inevitable these days that researchers depend heavily on various kinds and sources of data.  Researches usually start from one or more sources of input data, and some generate datasets that are contributed as open data, available to the public upon the publication of papers. In some cases, these open data may be in multiple versions as data being updated, or new data is added. Customisable access control may be a requirement if the research data is part of the peer-review process as the research paper.  Thus, it is critical when choosing a data repository, we evaluate it against our use case and data management workflow and requirements.   
+It is inevitable these days that researchers depend heavily on various kinds and sources of data.  They usually start from one or more sources of input data, and some generate datasets that are contributed as open data, available to the public upon the publication of papers. In some cases, these open data may be in multiple versions as data being updated, or new data is added. Customisable access control may be a requirement if the research data is part of the peer-review process as the research paper. Thus, it is critical when choosing a data repository, we evaluate it against our use case and data management workflow and requirements.   
 
-While searching for a data repository solution for our projects, we find the information regarding research data repositories and open data repositories are scattered over the internet. We decided to compile a list of repositories that we found relevant to our field, perform a comparison among them.  
+While searching for a data repository solution for our projects, we find the information regarding research data repositories and open data repositories are scattered over the internet. We decided to compile a list of repositories that we found relevant to our field, perform a comparison among them. We hope that other research groups will find this exploration useful when deciding how to share open data arising from their projects.
 
 In general, there are four categories of research data repository options: 
 
@@ -41,7 +41,7 @@ In general, there are four categories of research data repository options:
 1) open data registry backed by private companies, and 
 1) self-hosted 
    
-There is an endless list of options for each of these categories, we have selected a few major ones in each to compare and contrast. The comparison is performed based on the following aspects that are important to us:
+There is an endless list of options for each of these categories, so we have selected a few major ones in each to compare and contrast. The comparison is performed based on the following aspects that are important to us:
 
 - supported file format
 - file size limitation
@@ -58,29 +58,28 @@ These repositories are usually set up within an academic institute to host the r
 
 Here we compare ScholarBank@NUS, Dataverse@Harvard and ICPSR@UMich. 
 
-{{< figure src="academic-repos.jpg" title="Comparison between Academic Repositories" numbered="false" lightbox="true" >}}
+{{< figure src="academic-repos.jpg" title="Comparison of academic repositories. Click [here](academic-repos.jpg) for the image in full-size." numbered="false" lightbox="true" >}}
 
 ### General Research Data Repositories
 
 Other than the academic research repositories, there other types of general research data repositories. These are generally partnered with publishers, associated with government sectors, or backed by non-profits organisations. 
 
-In comparison to the academic institute backed research repositories, most of these repositories could offer free data deposition/maintenance services, while some take donations, or offer membership/subscription for higher allowance of storage. Below is the comparison between FigShare, Dryad, Zenodo, Open Science Framework (OSF), Pangeae and Mendeley Data.  
+In comparison with the academic institute backed research repositories, most of these repositories could offer free data deposition/maintenance services, while some take donations, or offer membership/subscription for higher allowance of storage. Below is the comparison between FigShare, Dryad, Zenodo, Open Science Framework (OSF), Pangeae and Mendeley Data.  
 
-{{< figure src="generic-repos.jpg" title="Comparison between Academic Repositories" numbered="false" lightbox="true" >}}
+{{< figure src="generic-repos.jpg" title="Comparison of general repositories. Click [here](generic-repos.jpg) for the image in full-size." numbered="false" lightbox="true" >}}
 
 
-### Open Data Repositories backed by private companies
+### Open Data Repositories Backed by Private Companies
 
-Many private companies have also showed support in the Open Data Initiative and offer hosting 
-and registry of various open data. The terms and conditions for these data repositories are not 
+Many private companies have also shown support in the Open Data movement and offer hosting 
+and registry of various datasets. The terms and conditions for these data repositories are not 
 usually publicly accessible, and need to be negotiated with the company who backed them 
 respectively. 
 
 Here are the options we looked into open data solution offered by Amazon Web Services, Google 
 Cloud, and Microsoft. 
 
-{{< figure src="private-repos.jpg" title="Comparison of Repositories Provided by Private Companies" numbered="false" lightbox="true" >}}
-
+{{< figure src="private-repos.jpg" title="Comparison of repositories provided by private companies. Click [here](private-repos.jpg) for the image in full-size." numbered="false" lightbox="true" >}}
 
 
 ### Self-Hosting
@@ -92,6 +91,5 @@ Lastly, there is always the option to self-host the research data. This option m
 
 Although this list is not complete with all the research data repositories available, we hope this provides enough viable options for our future research and those who are looking for open data repository solutions. We also welcome other suggestions that we may have overlooked. 
 
-For those who are interested, the comparison matrix can be found in a google sheet [here](https://docs.google.com/spreadsheets/d/1XTWrlJrfxWs1I5_fEZjnw0H_H5qDtiAmafvTh4QRBhg/edit?usp=sharing). 
-
+For those who are interested in more detail, the comparison can be found in a spreadsheet [here](https://docs.google.com/spreadsheets/d/1XTWrlJrfxWs1I5_fEZjnw0H_H5qDtiAmafvTh4QRBhg/edit?usp=sharing). 
 
