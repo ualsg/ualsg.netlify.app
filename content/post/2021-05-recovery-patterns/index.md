@@ -4,7 +4,7 @@
 title: "Impact of the pandemic on bus ridership in Singapore"
 subtitle: "Research conducted by our Master of Urban Planning students offers public transport optimisations"
 summary: "Research conducted by our Master of Urban Planning students offers public transport optimisations"
-authors: ["Chen Bingling", "Liang Xiucheng", "Liu Lina", "Wen Ruiwen"]
+authors: ["Chen Bingling", "xiucheng", "Liu Lina", "Wen Ruiwen"]
 tags: [teaching, analysis]
 categories: []
 date: 2021-05-31T08:43:28+08:00

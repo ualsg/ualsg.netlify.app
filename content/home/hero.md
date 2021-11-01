@@ -47,7 +47,12 @@ Geospatial and 3D urban modelling research group at the National University of S
           <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener">
             <i class="fab fa-twitter big-icon"></i>
           </a>
-        </li>     
+        </li>
+        <li>
+          <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener">
+            <i class="fab fa-linkedin big-icon"></i>
+          </a>
+        </li>  
         <li>
           <a itemprop="sameAs" href="https://scholar.google.com/citations?user=jGqm4kEAAAAJ&hl=en" target="_blank" rel="noopener">
             <i class="ai ai-google-scholar big-icon"></i>

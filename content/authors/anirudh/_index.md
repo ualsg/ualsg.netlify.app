@@ -44,7 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+- Alumni
 ---
 
 Anirudh is pursuing a diploma at NUS High School of Mathematics and Science. His research experience includes a project on natural language processing in partnership with NTU and a navigation app developed with Engineering Good and Google. At our research group, Anirudh has been involved in 2 main projects focusing on analyses of thermal imaging and the other on data analytics and machine learning. Currently, Anirudh is involved in a research internship with NUS Urban Analytics Lab that encompasses the study of cities and their urban features, such as solar panels and green roofs, to better analyse the energy sustainability of geographies with various urban landscapes.
