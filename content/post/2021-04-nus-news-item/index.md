@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Novel 3D geospatial model helps identify better urban farming sites"
+title: "Novel use of 3D geoinformation to identify urban farming sites"
 subtitle: "The tool allows for the maximisation of crop yields within buildings"
 summary: "The tool allows for the maximisation of crop yields within buildings"
 authors: [admin]
