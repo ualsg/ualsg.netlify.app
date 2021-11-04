@@ -8,7 +8,7 @@ authors: [admin, filip]
 tags: [open data, singapore, guide, index, long reads]
 categories: []
 date: 2020-06-24T08:04:48+08:00
-lastmod: 2021-04-20T08:32:48+08:00
+lastmod: 2021-11-04T08:32:48+08:00
 featured: true
 draft: false
 
@@ -148,6 +148,10 @@ For example, it contains the number of passengers that have travelled between tw
 Data is available for the past three months.
 Do note that the entire trip is not available; it's limited to the transportation mode.
 For example, if a traveller takes a bus to an MRT station and continues the journey with a train, these are considered as separate trips and cannot be connected in the data.
+
+Regarding MRT/LRT stations, there are two dynamic APIs, both available via the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html).
+One returns real-time platform crowdedness level for the MRT/LRT stations of a particular train network line, while the other 
+provides a forecast for the same at 30 minutes interval.
 
 {{< figure src="euan-cameron-3Es_ZsAxj_Q-unsplash.jpg" title="Photo by [Euan Cameron](https://unsplash.com/@euanacameron) on [Unsplash](https://unsplash.com/photos/3Es_ZsAxj_Q)." lightbox="true" >}}
 

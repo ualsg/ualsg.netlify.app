@@ -30,7 +30,7 @@ image:
 
 We are glad to share our new paper:
 
-> Ito K, Biljecki F (2021): Assessing bikeability with street view imagery and computer vision. _Transportation Research Part C: Emerging Technologies_ 132: 103371. [<i class="ai ai-doi-square ai"></i> 10.1016/j.trc.2021.103371](https://doi.org/10.1016/j.trc.2021.103371) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-trc-bikeability/2021-trc-bikeability.pdf) <i class="ai ai-open-access-square ai"></i>
+> Ito K, Biljecki F (2021): Assessing bikeability with street view imagery and computer vision. _Transportation Research Part C: Emerging Technologies_ 132: 103371. [<i class="ai ai-doi-square ai"></i> 10.1016/j.trc.2021.103371](https://doi.org/10.1016/j.trc.2021.103371) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-trc-bikeability/2021-trc-bikeability.pdf)</i>
 
 In this research, a new approach to assess bikeability has been developed: automatically, at a high resolution, at a large spatial scale, and from street view imagery.
 

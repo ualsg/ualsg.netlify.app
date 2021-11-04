@@ -15,7 +15,7 @@ title = "About the Urban Analytics Lab"
 We are a multidisciplinary research group focusing on urban data analysis, geographic data science, and 3D city modelling at the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centred in Asia.
 
 Our mission is to leverage spatially enabled data for urban applications, catalyse the development of spatial data infrastructures and digital twins in the realm of smart cities, and make sense of big geospatial data in the built environment.
-We are particularly interested in the interface of emerging datasets such as street view imagery, 3D urban models, and crowdsourced data with the state of the art of artificial intelligence to solve contemporary urban challenges.
+We are particularly interested in the interface of emerging datasets such as street view imagery, 3D urban models, and crowdsourced data with the state of the art of artificial intelligence to solve contemporary urban challenges and provide a strong foundation to advance urban informatics.
 
 The research group was established in 2019 by its director Dr {{% mention "filip" %}}, Assistant Professor at the [NUS School of Design and Environment](https://www.sde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg).
 
