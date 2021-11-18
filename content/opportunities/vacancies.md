@@ -15,12 +15,12 @@ header:
 ## Open applications and general info about positions
 
 We appreciate open enquiries from motivated prospective PhD candidates, research assistants, postdoctoral research fellows, and visiting scholars but we expect dedicated applications.
-Before applying, please read the sections below and [more about us](../why-us).
+Before getting in touch, please read the sections below and [more about us](../why-us).
 
 We want to hear about your specific interest and expect you to have at least a basic understanding of what we do and what our research lines are about.
 We suggest that you have a look at one of our [publications](/publication), provide your perspective and motivation (e.g. write a few words on how you would take these results further), and let us know how do you envision contributing to our research group.
 In your application, please highlight your computational, programming, and geospatial skills.
-Your experience should be evident from the courses followed, publications (optional if you are applying to a junior role), and your GitHub account as evidence of coding and open science affinity.
+Your experience should be evident from the courses followed, publications (optional if you are applying to a junior role), and preferably also from your GitHub account as evidence of coding and open science affinity.
 
 While we appreciate interest, we cannot entertain generic applications without a clear motivation and understanding of the scope of our work.
 We are more likely to reply and support prospective candidates who did a bit of research on what we do and those that are able to motivate their wish to join us in particular.
@@ -40,7 +40,7 @@ Other than that, we welcome prospective postdoctoral fellows on fellowships (see
 Working as RA and/or doing a PhD at NUS is a great opportunity to grow as a scientist and follow your passion in research, and our Lab offers a vibrant and stimulating environment for academic growth.
 RA positions depend on funded projects.
 We announce available RA positions in the openings section above, but you are also welcome to send an open application.
-In most cases, computational/programming skills are a must, and evidence of them (e.g. developed GitHub repositories) will be appreciated.
+In most cases, computational & programming skills are a must, and an evidence of them (e.g. developed GitHub repositories) will be appreciated.
 
 We accept well-motivated and talented prospective PhD candidates, but we do not admit them directly as the applications are processed by the school.
 Before applying, read more [here](../phd).

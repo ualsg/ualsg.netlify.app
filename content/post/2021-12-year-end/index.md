@@ -16,7 +16,7 @@ draft: true
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "School of Design and Environment, NUS"
+  caption: "Our NUS School of Design and Environment"
   focal_point: ""
   preview_only: false
 
@@ -28,10 +28,14 @@ image:
 
 ---
 
-As we are nearing the end of the year, it is time to reflect and be grateful for all the progress we made.
+As we are nearing the end of the year, it is time to reflect and be grateful for all the progress we made in 2021.
 
 The list of our papers published so far is [here](/publication/), while our news items are available at our [blog](/post/).
 We also released a couple of [software packages and datasets](/data-code/), that may be of interest to the wider community.
+
+Projects
+
+Lots of fun stuff
 
 A study led by Stanford University has identified top 2% scientists worldwide in a variety of fields.
 The [Director](/authors/filip/) of the Lab is on the list.
@@ -47,4 +51,12 @@ Four papers first-authored or co-authored by master students have been published
 > Ito K, Biljecki F (2021): Assessing bikeability with street view imagery and computer vision. _Transportation Research Part C: Emerging Technologies_ 132: 103371. [<i class="ai ai-doi-square ai"></i> 10.1016/j.trc.2021.103371](https://doi.org/10.1016/j.trc.2021.103371) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-trc-bikeability/2021-trc-bikeability.pdf)</i>
 
 > Biljecki F, Ito K (2021): Street view imagery in urban analytics and GIS: A review. _Landscape and Urban Planning_ 215: 104217. [<i class="ai ai-doi-square ai"></i> 10.1016/j.landurbplan.2021.104217](https://doi.org/10.1016/j.landurbplan.2021.104217) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-land-svi-review/2021-land-svi-review.pdf) <i class="ai ai-open-access-square ai"></i>
+
+
+
+Ranking of NUS
+
+CDE
+
+You can follow our work also on Twitter, Linkedin.
 

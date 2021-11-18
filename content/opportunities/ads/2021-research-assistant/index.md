@@ -5,6 +5,12 @@ title = "Vacancy: Research assistant -- geospatial engineer / data scientist"
 
 {{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
 
+{{% callout note %}}
+It is not possible to apply anymore to this position, as we have received a sufficient number of applications.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
+
 ### Job and project description
 
 The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a research assistant to join the research group and assist with research in the geospatial & data science domain -- 3D city models / BIM, data integration (focusing on crowdsourced and dynamic geospatial data) and use cases, under the umbrella of digital twins.
@@ -90,6 +96,12 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 
 ### Application
 
+{{% callout note %}}
+It is not possible to apply anymore to this position, as we have received a sufficient number of applications.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
+
 Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for the research assistant position on digital twins" in the subject), including the following materials:
 
 * CV
@@ -105,7 +117,7 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
 
 {{% callout note %}}
-Applications will be considered as they are received and the position will remain open until filled.
+~~Applications will be considered as they are received and the position will remain open until filled.~~
 {{% /callout %}}
 
 For general information about academic jobs at NUS, please visit [NUS  Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).
