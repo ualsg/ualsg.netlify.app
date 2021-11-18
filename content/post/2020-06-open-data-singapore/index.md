@@ -151,7 +151,7 @@ For example, if a traveller takes a bus to an MRT station and continues the jour
 
 Regarding MRT/LRT stations, there are two dynamic APIs, both available via the [LTA DataMall](https://www.mytransport.sg/content/mytransport/home/dataMall/dynamic-data.html).
 One returns real-time platform crowdedness level for the MRT/LRT stations of a particular train network line, while the other 
-provides a forecast for the same at 30 minutes interval.
+provides a forecast for the same at 30 minutes intervals.
 
 {{< figure src="euan-cameron-3Es_ZsAxj_Q-unsplash.jpg" title="Photo by [Euan Cameron](https://unsplash.com/@euanacameron) on [Unsplash](https://unsplash.com/photos/3Es_ZsAxj_Q)." lightbox="true" >}}
 

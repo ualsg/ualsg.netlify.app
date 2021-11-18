@@ -5,6 +5,12 @@ title = "Vacancy: Postdoctoral research fellow (SG Academies ASEAN Fellowship Pr
 
 {{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
 
+{{% callout note %}}
+It is not possible to apply anymore to this opportunity.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
+
 ### Description
 
 The [SG Academies ASEAN Fellowship Programme](https://snas.org.sg/aseanfellowship) aims to attract bright postgraduate researchers from ASEAN countries to Singapore research institutions for a 2-year long fellowship.
@@ -47,6 +53,12 @@ The principal investigator of the Lab was [awarded](/post/2020/07/16/filip-bilje
 {{< youtube iMgWJD8a2Xc >}}
 
 ### Application and contact
+
+{{% callout note %}}
+It is not possible to apply anymore to this opportunity.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
 
 The applications will be handled externally as per the [terms](https://snas.org.sg/aseanfellowship) of the funding scheme.
 However, first you need to get in touch with us to discuss your application, primarily your research scope and agenda.
