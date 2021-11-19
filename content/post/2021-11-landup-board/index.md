@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The PI of the Lab was appointed to the Editorial Board of Landscape and Urban Planning"
-subtitle: "The journal is within top 1% outlets in Urban Studies"
-summary: "The journal is within top 1% outlets in Urban Studies"
+subtitle: "The journal is within top 1% outlets in Urban Studies."
+summary: "The journal is within top 1% outlets in Urban Studies."
 authors: [admin]
 tags: [journals, publication]
 categories: []
