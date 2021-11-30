@@ -5,7 +5,7 @@ title: "New paper: The Internet-of-Buildings (IoB) --- Digital twin convergence 
 subtitle: "Collaboration with our two sister labs, presented at CISBAT 2021."
 summary: "Collaboration with our two sister labs, presented at CISBAT 2021."
 authors: [admin]
-tags: [paper, deep learning, computer vision, street view, cycling, thesis, dissertation]
+tags: [paper, digital twin, iob, gis, bim]
 categories: []
 date: 2021-11-19T18:55:16+08:00
 lastmod: 2021-11-19T18:55:16+08:00
