@@ -37,11 +37,12 @@ Projects
 
 Lots of fun stuff
 
+
 A study led by Stanford University has identified top 2% scientists worldwide in a variety of fields.
 The [Director](/authors/filip/) of the Lab is on the list.
 For more information about the study, see the dataset ["Updated science-wide author databases of standardized citation indicators"](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/3) and their papers published in PLOS Biology indicating the motivation and methodology ([here](https://doi.org/10.1371/journal.pbio.3000384) and [here](https://doi.org/10.1371/journal.pbio.3000918)).
 
-We are especially proud of our master students.
+We are especially happy to celebrate the achievements of our master students.
 Four papers first-authored or co-authored by master students have been published in leading journals this year, such as [Computers, Environment and Urban Systems](https://www.journals.elsevier.com/computers-environment-and-urban-systems).
 
 > Palliwal A, Song S, Tan HTW, Biljecki F (2021): 3D city models for urban farming site identification in buildings. _Computers, Environment and Urban Systems_ 86: 101584. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2020.101584](https://doi.org/10.1016/j.compenvurbsys.2020.101584) [<i class="far fa-file-pdf"></i> PDF](/publication/2021-ceus-3-d-farming/2021-ceus-3-d-farming.pdf)
