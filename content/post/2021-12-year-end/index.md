@@ -7,8 +7,8 @@ summary: "Our students published in leading journals and our papers are among th
 authors: [admin]
 tags: [academia]
 categories: []
-date: 2021-12-04T08:55:16+08:00
-lastmod: 2021-12-04T08:55:16+08:00
+date: 2021-12-24T08:55:16+08:00
+lastmod: 2021-12-24T08:55:16+08:00
 featured: false
 draft: true
 
@@ -29,13 +29,14 @@ image:
 ---
 
 As we are nearing the end of the year, it is time to reflect and be grateful for all the progress we made in 2021.
+As a new research group, we are blssed to consolidated our research directions and set a strong foundations for the years to come.
 
 The list of our papers published so far is [here](/publication/), while our news items are available at our [blog](/post/).
 We also released a couple of [software packages and datasets](/data-code/), that may be of interest to the wider community.
 
 Projects
 
-Lots of fun stuff
+Above all, we had lots of fun doing research together. 
 
 
 A study led by Stanford University has identified top 2% scientists worldwide in a variety of fields.
@@ -58,6 +59,8 @@ Four papers first-authored or co-authored by master students have been published
 Ranking of NUS
 
 CDE
+
+Teaching award
 
 You can follow our work also on Twitter, Linkedin.
 
