@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Staff and Doctoral Candidates
+- Staff and Doctoral Researchers
 ---
 
 April is studying Architecture at our school, and she is a designer at our group.

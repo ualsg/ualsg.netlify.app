@@ -89,7 +89,7 @@ user_groups:
 - Principal Investigator
 ---
 
-Dr Filip Biljecki is jointly appointed as faculty at the Department of Architecture (School of Design and Environment) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
+Dr Filip Biljecki is jointly appointed as faculty at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
 

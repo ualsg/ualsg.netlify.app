@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Staff and Doctoral Candidates
+- Staff and Doctoral Researchers
 ---
 
 Tianhong Zhao is a visiting PhD student in the NUS Urban Analytics Lab. His research interest lies in transportation big data mining and optimization. His working experience includes a internship in spatiotemporal trajectory data analysis at Tencent, China. At the UAL, he will examine how to optimize public transportation system from the built environment views.

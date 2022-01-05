@@ -57,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Staff and Doctoral Candidates
+- Staff and Doctoral Researchers
 ---
 
 Yan Zhang is a PhD student whose research interests include GIS, complex networks, and GeoAI. He has a wide range of research interests, including streetscape analysis, resident environmental analysis, spatial statistics for COVID-19, natural language processing, and other interesting applications of GeoAI. He has published articles in Building and Environment, Journal of Hydrology, Computers, Environment and Urban Systems. He is currently working on geospatial knowledge mining using deep learning techniques.
