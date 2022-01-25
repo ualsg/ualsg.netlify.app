@@ -26,6 +26,7 @@ We are involved in several international collaborations such as the [Internation
 Within NUS, we collaborate primarily with three sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab (UCDL)](https://www.sde.nus.edu.sg/arch/ucdl/), forming a constellation of research groups with complementary activities operating at converging scales.
 
 You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>, <a href="post/">blog</a>, and <a href="../publication/">papers</a>.
+You may also be interested in our home-grown data and code that we [released openly](/data-code).
 
 ![](s-osc2-x.png)
 
