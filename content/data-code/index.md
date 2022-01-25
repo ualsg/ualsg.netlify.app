@@ -18,7 +18,7 @@ summary = "Open stuff"
 We believe in open science and reproducible research.
 Besides open access [publications](/publication), we are committed to publishing our code and data on [our Github account](https://github.com/ualsg).
 
-Please see below for a list of resources and projects. 
+Please see below for a list of resources and projects, especially lab-grown datasets that we released openly. 
 
 If you use the code and/or the data for presentations and publications, we kindly ask you to cite the related paper(s) and credit our work. 
 We have provided guidelines to do so in each resource.
@@ -71,7 +71,7 @@ In you are interested in collaborating with us, please check the opportunities t
 | Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Road-Network-Classification) |
 
 
-## GANmapper: geographical content filling
+## GANmapper: geographical content translation
 
 ![](ganmapper.jpg)
 
