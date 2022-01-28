@@ -1,37 +1,55 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+## [Environment Setup](#environment-setup) 
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+1. Refer to `go.mod` for the current wowchemy version in this repository.
+1. Refer to the wowchemy release notes for hugo-wowchemy version compatibility. 
+1. Make sure installed hugo is the extended version and is compatible with wowchemy theme current release. 
+1. Check previously installed hugo version by `hugo version`. 
+1. If needed, download and install/upgrade the compatible hugo from the  [Hugo releases](https://github.com/gohugoio/hugo/releases)
+1. Clone the [ual.sg repository](#)
+1. Cd into the root of the repository folder, run `git checkout master && git pull origin master` to sync the latest content from master branch.
+1. Run `hugo -D -F server --disableFastRender` to build and serve the website from the local source. 
+1. Check website at [localhost:1313](http://localhost:1313/). Fix error from previous step, if any, before proceeding any further. 
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+## [Development Dos and Don'ts](#development-dos-and-donts)
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
+### Dos
 
-## Crowd-funded open-source software
+1. Refer to [Hugo documentation](https://gohugo.io/documentation/) to get a basic understanding of archetypes, taxonomies, and content management
+1. Refer to [Wowchemy documentation](https://wowchemy.com/docs/) on modifications and customization to the theme
+1. Refer to [Hugo commands](https://gohugo.io/commands/) to learn how to add new content and configure the website 
+1. Follow the [development workflow](#development-workflow) below
+1. When creating new blog posts, follow the title, structure and other things from previous blog posts (check `content/post`).
+1. Set `draft: true` in the header of content you don't want to have published at this point.
+1. Remember to include any images, external files that is relevant to the content being added, for some may have a global `.gitignore` that prevents detection of those files
+1. Make sure to always check for updates from the master branch for merged changes, `git checkout master && git pull origin master`
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+### Don'ts
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
+1. Do not check-in `public` and `resources` to the git repository
 
-## Ecosystem
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+### Additional notes:
 
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
+1. Importing our publications is a bit tricky, the process will be simplified
+ in the future. In short, update the `data/publications.bib` file and then run `academic import --bibtex publications.bib`. Install academic by with Pip or other python package manager, ie. `pip3 install -U academic`. Futher details refer to [Publications section](https://wowchemy.com/docs/content/publications/). 
 
-## Demo image credits
 
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
+## [Development Workflow](#development-workflow)
 
-<!--
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
--->
+1. Clone the [ual.sg repository](#)
+1. Cd into the root of the repository folder, run `git checkout master && git pull origin master` to sync the latest content from master branch.
+1. Run `hugo -D -F server --disableFastRender` to build and serve the website from local source
+1. Check website at [localhost:1313](http://localhost:1313/)
+1. When ready to start making changes, make sure to create a new git branch by `git checkout -b {new-branch-name}`
+1. Constantly save and preserve work in progress by committing to the branch and push to github `git push origin {new-branch-name}`.
+1. Create a pull request and wait for conflict checks to complete. Netlify will provide a link to preview the website in progress.  
+1. Make any other necessary changes, review the preview site until it's satisfactory. 
+1. When content is ready to be published publicly, merge the pull request to `master` branch. 
+1. Wait for Netlify to publish to the production site, and check for new content. 
+
+Other Useful Resources:
+- [Git and GitHub Tutorial](https://www.freecodecamp.org/news/git-and-github-for-beginners/)
+- [Netlify with GitHub](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
+- [Netlify Documentations](https://docs.netlify.com/)
