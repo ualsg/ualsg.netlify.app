@@ -47,7 +47,7 @@ social:
   link: 'mailto:filip@nus.edu.sg'
 - icon: twitter
   icon_pack: fab
-  link: http://twitter.com/fbiljecki
+  link: https://twitter.com/fbiljecki
 - icon: linkedin
   icon_pack: fab
   link: http://sg.linkedin.com/in/filipbiljecki

@@ -65,7 +65,7 @@ You may click on cities to visit them on map.
 [^2]: Due to the lack of high quality satellite imagery for rooftop greenery, Green Score for Singapore is not calculated.
 
 More cities are getting added to Roofpedia as their aerial or satellite imagery become available.
-If you'd like to contribute images to expand Roofpedia, please [email](mailto:abraham@nus.edu.sg) {{% mention "abraham" %}}, the lead developer.
+If you'd like to contribute images to expand Roofpedia, please [email](mailto:abrahamwu@u.nus.edu) {{% mention "abraham" %}}, the lead developer.
 
 ## Data and code
 
