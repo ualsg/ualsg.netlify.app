@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
