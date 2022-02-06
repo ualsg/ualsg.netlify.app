@@ -54,8 +54,4 @@ user_groups:
 - Graduate Researchers and Students
 ---
 
-Patrick graduated from the Technical University of Munich with a BSc in Information Systems.
-His working experience includes software development.
-At our Lab, Patrick is working on high performance computing.
-
-
+Patrick is a researcher intern at the Urban Analytics Lab with a background in Computer Science. He holds a Bachelor’s degree in Information Systems from the Technical University of Munich and his research interests are Serverless Computing, artificial intelligence and middleware. At the UAL, Patrick is working on various topics, most prominently being high performance computing.
