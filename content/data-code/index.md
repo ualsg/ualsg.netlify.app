@@ -64,7 +64,6 @@ In you are interested in collaborating with us, please check the opportunities t
 | ------------------| ------------------------------ |
 | Short description: | A semantically annotated UAV oblique image dataset covering an urban river landscape |
 | Lead developer: | {{% mention "junjie" %}} |
-| Formats | [CityJSON](https://cityjson.org), [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file) |
 | Further reading: | Paper in progress... Stay tuned |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/semantic-riverscapes-dataset) |
 | Main data source(s): | Own data collection (UAV) and manual labelling |
