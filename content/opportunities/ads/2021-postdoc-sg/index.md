@@ -5,6 +5,12 @@ title = "Vacancy: Postdoctoral research fellow"
 
 {{< figure src="header.png" >}}
 
+{{% callout note %}}
+It is not possible to apply anymore to this position, as we have received a sufficient number of applications.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
+
 ### Job and project description
 
 The [Urban Analytics Lab](/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) is seeking a postdoc to join the group and spearhead research at the interface of the domains of the Lab:
@@ -98,7 +104,7 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application for 
 In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form.
 
 {{% callout note %}}
-Applications will be considered as they are received and the position will remain open until filled.
+~~Applications will be considered as they are received and the position will remain open until filled.~~
 {{% /callout %}}
 
 For general information about academic jobs at NUS, please visit [NUS  Academic Appointments](http://www.nus.edu.sg/careers/acadappt.htm).
