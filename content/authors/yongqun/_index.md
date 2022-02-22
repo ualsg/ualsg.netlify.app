@@ -1,37 +1,35 @@
 ---
 # Display name
-name: Tianhong Zhao
-title: Tianhong Zhao
+name: Su Yongqun
+title: Su Yongqun
 
 # Username (this should match the folder name)
 authors:
-- tianhong
+- yongqun
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Visiting Scholar
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: "Shenzhen University"
+- name: "National University of Singapore"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
 
+
 education:
   courses:
-  - course: PhD Candidate in Urban Informatics
-    institution: Shenzhen University, China
-  - course: MEng in Logistics Engineering
-    institution: Shenzhen University, China
-    year: 2019
-  - course: BEng in Logistics Engineering
-    institution: University of South China
-    year: 2016
-
+  - course: Master of Applied GIS
+    institution: National University of Singapore
+    year: 2022
+  - course: BSc in Human Geography and Urban-Rural Planning
+    institution: Fuzhou University
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -43,10 +41,6 @@ education:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-social:
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/tianhong-04559a1a9
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -54,7 +48,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Staff and Doctoral Researchers
+- Graduate Researchers and Students
 ---
 
-Tianhong Zhao is a visiting PhD student in the NUS Urban Analytics Lab. His research interest lies in transportation big data mining and optimization. His working experience includes a internship in spatiotemporal trajectory data analysis at Tencent, China. At the UAL, he will examine how to optimize public transportation system from the built environment views.
+Yongqun is pursuing a Master’s degree in Applied GIS at the NUS Faculty of Arts and Social Sciences. He worked as a project assistant in Xiamen City Planning and Design Institute and has experience in First-Class Land Development and urban renewal. Yongqun’s research interest is in the analysis of urban shrinkage and its planning response mechanisms through spatio-temporal big data.
+

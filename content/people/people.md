@@ -17,7 +17,7 @@ title = "People"
 user_groups = [
               "Principal Investigator",
               "Postdoctoral Research Fellows",
-              "Staff and Doctoral Researchers",
+              "Research Staff and Doctoral Researchers",
               "Graduate Researchers and Students",
               "Alumni"
               ]

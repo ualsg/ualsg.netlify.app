@@ -51,7 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Staff and Doctoral Researchers
+- Research Staff and Doctoral Researchers
 ---
 
 Leon is a researcher with experience in GIS, Remote Sensing, and environmental modelling. He holds a master’s in geospatial technologies and his research interest can be summarised as LEMURS: **L**and Cover Change; **E**nvironmental Conservation; **M**angroves; **U**nmanned Aerial Systems; and **R**emote **S**ensing. He has worked on projects that investigated mangrove deforestation in Southeast Asia and modelling ecosystem services in Singapore. At the UAL, Leon will examine novel remote sensing techniques and energy usage in the urban areas.
