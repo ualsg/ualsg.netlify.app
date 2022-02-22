@@ -99,7 +99,9 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 
 ### Additional appointments
 * [Open Geospatial Consortium](https://www.ogc.org), [3DIM DWG](https://www.ogc.org/projects/groups/3dimdwg) -- Co-Chair
+* [NUS Institute of Data Science](https://ids.nus.edu.sg) -- Faculty Affiliate
 * [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Editorial Board Member
+* [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671) -- Editorial Board Member
 * [PLOS ONE](https://journals.plos.org/plosone/) -- Academic Editor for Geoinformatics
 * [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org), [WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions](https://www2.isprs.org/commissions/comm4/wg10/) -- Board Member
 * [International Journal of Digital Innovation in the Built Environment](https://www.igi-global.com/journal/international-journal-digital-innovation-built/224363) -- Editorial Board Member
