@@ -101,16 +101,15 @@ In you are interested in collaborating with us, please check the opportunities t
 | ------------------| ------------------------------ |
 | Short description: | A building footprint generator using Generative Adversarial Networks from sparse data such as street networks |
 | Lead developer: | {{% mention "abraham" %}} |
-| Further reading: | Please read more in the [paper](https://arxiv.org/abs/2108.04232) |
+| Further reading: | Please read more in the [IJGIS paper](https://doi.org/10.1080/13658816.2022.2041643) |
 | Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/GANmapper) |
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
-@misc{wu2021ganmapper,
-      title={GANmapper: geographical content filling}, 
-      author={Abraham Noah Wu and Filip Biljecki},
-      year={2021},
-      eprint={2108.04232},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{2022_ijgis_ganmapper, 
+  year = {2022}, 
+  author = {Wu, Abraham Noah and Biljecki, Filip}, 
+  title = {{GANmapper: geographical data translation}}, 
+  journal = {International Journal of Geographical Information Science}, 
+  doi = {10.1080/13658816.2022.2041643}
 }
 {{< /spoiler >}}|
 
