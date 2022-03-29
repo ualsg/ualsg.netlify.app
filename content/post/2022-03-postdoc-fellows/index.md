@@ -28,7 +28,7 @@ image:
 
 ---
 
-Our research group is delighted to welcome three postdoctoral research fellows to the team: Dr {{% mention "marcel" %}}, Dr {{% mention "pengyuan" %}}, and {{% mention "mario" %}}.
+Our research group is delighted to welcome three postdoctoral research fellows to the team: Dr {{% mention "marcel" %}}, Dr {{% mention "pengyuan" %}}, and Dr {{% mention "mario" %}}.
 They will be working on a new project on digital twins at our Lab.
 
 ![screen reader text](featured.png "")
