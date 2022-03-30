@@ -22,36 +22,15 @@ In our seminar series, we give priority to early career researchers.
 
 By [Sergio Wicki](https://irl.ethz.ch/people/person-detail.MTY4ODA4.TGlzdC8xNzM4LC0xMzk1OTgzMDM3.html), [Planning of Landscape and Urban Systems](https://plus.ethz.ch), ETH Zurich
 
-In many cities around the world. Nature's
-Contribution to People (NCP) are under pressure.
-With a growing urban population, the pressure on
-NCPs in the remaining open spaces increases. The
-planning of new residential areas to accommodate
-urban dwellers increasingly requires the consideration of NCPs, especially when taking into
-account the irreversibility of urban development. In
-a compact and land-scarce city like Singapore, the
-allocation of new residential areas poses a maior
-challenge of high complexity.
-Designed
-to
-operationalize and solve such complex problems,
-optimization procedures can identify trade-offs
-between multiple objectives by displaying the
-optimal solutions in a so-called trade-off curve. A
-solution is considered optimal if an objective cannot
-be improved, without reducing another objectve.
-Furthermore, multi-objective optimizations allow the
-integration of various perspectives of stakeholders
-into
-the
-modeling process,
-making them
-well-suited
-to be
-integrated in participatory
-approaches.
+In many cities around the world. Nature's Contribution to People (NCP) are under pressure.
+With a growing urban population, the pressure on NCPs in the remaining open spaces increases.
+The planning of new residential areas to accommodate urban dwellers increasingly requires the consideration of NCPs, especially when taking into account the irreversibility of urban development.
+In a compact and land-scarce city like Singapore, the allocation of new residential areas poses a major challenge of high complexity.
+Designed to operationalize and solve such complex problems, optimization procedures can identify trade-offs between multiple objectives by displaying the optimal solutions in a so-called trade-off curve.
+A solution is considered optimal if an objective cannot be improved, without reducing another objectve.
+Furthermore, multi-objective optimizations allow the integration of various perspectives of stakeholders into the modeling process, making them well-suited to be integrated in participatory approaches.
 
-Register here.
+Register [here](https://forms.gle/HttoRensJuLbAGDz7).
 
 ![](2022-04-08.png)
 
@@ -74,5 +53,5 @@ morphology metrics, the process of moving from 2D to 3D, difficulties in
 working with 3D data, and applications that can benefit from this
 analvsis.
 
-![](2022-03-11.jpg)
+![](2022-03-11.png)
 
