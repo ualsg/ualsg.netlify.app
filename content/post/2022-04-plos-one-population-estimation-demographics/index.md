@@ -39,7 +39,7 @@ This multi-pronged comparative work involving multiple ML techniques has advance
 Congratulations to {{% mention "noee" %}}, our visiting scholar from the University of Edinburgh, on the great job and the publication of her first first-author paper! :raised_hands: :clap:
 
 Also, congrats to her on graduating in the MSc in GIS programme.
-Noée has continued her career at the municipal government of the City of Lucern in Switzerland.
+Noée has continued her career at the municipal government of the City of Lucern Council in Switzerland.
 
 ### Abstract
 
