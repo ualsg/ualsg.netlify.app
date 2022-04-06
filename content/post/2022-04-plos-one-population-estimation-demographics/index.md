@@ -5,7 +5,7 @@ title: "New paper: Population estimation beyond counts—Inferring demographic c
 subtitle: "Our work on advancing the state of the art of predicting population has been published in PLOS ONE."
 summary: "Our work on advancing the state of the art of predicting population has been published in PLOS ONE."
 authors: [admin]
-tags: [paper, deep learning, computer vision, street view, cycling, thesis, dissertation]
+tags: [paper, machine learning, population, urban studies, thesis, dissertation]
 categories: []
 date: 2022-04-06T19:55:16+08:00
 lastmod: 2022-04-06T19:55:16+08:00
