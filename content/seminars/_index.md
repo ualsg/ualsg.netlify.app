@@ -19,6 +19,17 @@ The series is managed by Dr {{% mention "marcel" %}}.
 
 ## Upcoming seminars
 
+### 2022-04-29 --- Deep learning from Volunteered Geographical Information: a case study of humanitarian mapping with OpenStreetMap
+
+By [Hao Li](https://bobleegogogo.github.io), [GIScience Research Group](https://www.geog.uni-heidelberg.de/gis/index_en.html), Heidelberg University
+
+As an emerging topic, OpenStreetMap (OSM) has been greatly improved via recent humanitarian mapping campaigns, and intensively used to support humanitarian aid activities, especially in sub-Saharan Africa. Considering its time-crucial nature, how to create timely and accurate maps of OSM missing features (e.g., buildings and roads) become a vital challenge. In our project DeepVGI, we study predictive analytics methods with remote sensing images, VGI, and social media data (e.g., Twitter) via advanced deep learning algorithms. The experiments results, especially in sub-Saharan Africa countries, demonstrate the capability of GeoAI in improving the OSM data completeness, and more importantly show great potential in supporting better and faster humanitarian mapping from a machine-assisted mapping perspective.
+
+Register [here](https://forms.gle/yhx5GF5GZ1p49fbb7).
+
+![](2022-04-29.png)
+
+
 ### 2022-04-08 --- Using nature's contribution to people (NCP) to inform decision-making
 
 By [Sergio Wicki](https://irl.ethz.ch/people/person-detail.MTY4ODA4.TGlzdC8xNzM4LC0xMzk1OTgzMDM3.html), [Planning of Landscape and Urban Systems](https://plus.ethz.ch), ETH Zurich
