@@ -59,22 +59,28 @@
   weight = 52
 
 [[main]]
+  name = "global building morphology indicators"
+  parent = "geospatial resources"
+  url = "/project/gbmi/"
+  weight = 53
+
+[[main]]
   name = "roofpedia"
   parent = "geospatial resources"
   url = "/project/roofpedia/"
-  weight = 53
+  weight = 54
 
 [[main]]
   name = "open building data"
   parent = "geospatial resources"
   url = "/project/ogbd/"
-  weight = 54
+  weight = 55
 
 [[main]]
   name = "open data SG"
   parent = "geospatial resources"
   url = "/post/2020/06/24/guide-for-open-urban-data-in-singapore/"
-  weight = 55
+  weight = 56
 
 [[main]]
   name = "opportunities"

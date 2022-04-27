@@ -29,6 +29,34 @@ Feel free to contact us for more information, report bugs and errors, or simply 
 We would be pleased to hear how others are using our research.
 In you are interested in collaborating with us, please check the opportunities tab for more information or get in touch with the lead developer of each resource.
 
+## GBMI -- Global Building Morphology Indicators
+
+![GBMI London](gbmi-london.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | Billions of built form metrics of selected urban areas around the world, together with a database solution to compute them |
+| Lead developer: | {{% mention "yoong-shin" %}} |
+| Formats | CSV, Shapefile, Geopackage, GeoTIFF |
+| Further reading: | Please read more at our [website]({{< ref "/project/gbmi/index.md" >}}) or in the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809) |
+| Download: | [Project website](/project/gbmi/) |
+| Code: | The code used to generate the dataset is available in the [<i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/global-building-morphology-indicators) |
+| Main data source(s): | OpenStreetMap, GADM |
+| Coverage: | Dozens of urban areas around the world | 
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2022_ceus_gbmi,
+ author = {Biljecki, Filip and Chow, Yoong Shin},
+ doi = {10.1016/j.compenvurbsys.2022.101809},
+ journal = {Computers, Environment and Urban Systems},
+ number = {X},
+ pages = {X},
+ title = {Global Building Morphology Indicators},
+ volume = {X},
+ year = {2022}
+}
+{{< /spoiler >}}|
+
+
 ## Roofpedia -- solar and green roofs around the world
 
 ![Density of solar panels in Singapore](roofpedia-singapore.png)
@@ -38,7 +66,7 @@ In you are interested in collaborating with us, please check the opportunities t
 | Short description: | Locations of buildings that have installed photovoltaics or greenery on their rooftops |
 | Lead developer: | {{% mention "abraham" %}} |
 | Formats | GeoJSON |
-| Further reading: | Please read more here at our [website]({{< ref "/project/roofpedia/index.md" >}}) or in the [paper](https://doi.org/10.1016/j.landurbplan.2021.104167) |
+| Further reading: | Please read more at our [website]({{< ref "/project/roofpedia/index.md" >}}) or in the [paper](https://doi.org/10.1016/j.landurbplan.2021.104167) |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Roofpedia) |
 | Code: | The code used to generate the dataset is available in the [same <i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/Roofpedia) |
 | Main data source(s): | Various satellite imagery, OpenStreetMap. All open data |
