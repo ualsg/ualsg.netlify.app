@@ -73,29 +73,9 @@ Here are some insights.
 
 ![](switzerland.png "Hierarchical and structured integration of data. These plots and maps were derived from footprint areas of all buildings in Switzerland, and aggregated at multiple levels.")
 
-These datasets are hosted on Harvard Dataverse, and their download links are listed below at different hierarchical levels (e.g. building and grid level).
-For more details about the structure, please refer to the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809).
+These datasets are hosted on Harvard Dataverse, and their download links are listed below at 
+different hierarchical levels (e.g. building and grid level). Please go to the [GBMI Dataverse](https://dataverse.harvard.edu/dataverse.xhtml?alias=gbmi) to explore more. For more details about the structure, please refer to the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809).
 
-|                 |          |      |         |             |             |             |             |             |
-|-----------------|----------|------|---------|-------------|-------------|-------------|-------------|-------------|
-| Amsterdam       | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Ankara          | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Barcelona       | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Chennai         | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Delft           | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Greater London | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Kampala         | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Kinta           | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Kyoto           | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Lugano          | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Melbourne       | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Nairobi         | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Quito           | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| San Francisco  | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Singapore       | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Toronto         | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Ulaanbaatar     | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
-| Zagreb          | [building]() | [cell]() | [country]() | [admin\_div1]() | [admin\_div2]() | [admin\_div3]() | [admin\_div4]() | [admin\_div5]() |
 
 
 ## Demo/Analysis
