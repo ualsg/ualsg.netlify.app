@@ -45,7 +45,7 @@ If you use GBMI in a scientific context, please cite the paper:
 ```
 
 
-### Metrics
+## Part 1: Metrics
 
 Despite the omnipresence of urban morphology analyses, especially in domains such as urban microclimate, there is no consensus on the metrics. 
 Based on a systematic review, we put together a structured list of hundreds of indicators that are commonly used to describe the built form quantitatively. 
@@ -53,29 +53,28 @@ Please see the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809) for 
 
 ![](buffer-horizontal.png "Illustration of contextual aspects computed at the building level based on its surroundings.")
 
-### Software
+## Part 2: Software
 
 A pillar of our work is a tool for computing these building metrics.
 The [tool](https://github.com/ualsg/global-building-morphology-indicators), released open-source, is implemented in a database, facilitating large-scale and big data analyses.
 
 ![](flow.png "Flow of the system. The datasets in the square brackets are those that we have used for generating the dataset, while the software is agnostic supporting other formats and datasets as well. All the computations are performed and kept in the database, which allows easy query and extraction of data. Our export scripts support multiple geospatial formats.")
 
-### Dataset
+## Part 3: Dataset
 
 We ran the tool on selected cities and countries around the world and produced a series of open datasets.
-Here are some insights.
+These datasets are hosted on Harvard Dataverse, and their download links are listed at the website at 
+different hierarchical levels (e.g. building and grid level).
+Please go to the [GBMI Dataverse](https://dataverse.harvard.edu/dataverse.xhtml?alias=gbmi) to explore more.
+For more details about the structure, please refer to the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809).
+
+Here are some insights in the produced datasets.
 
 ![](london.png "Example of computed indicators at different levels for a part of London. Sources of building and administrative data: (c) OpenStreetMap contributors, GADM.")
 
-
 ![](Singapore.png "A map visualising the spatial pattern of the minimum distance among buildings in high-resolution tiles across Singapore. The photographs are courtesy of Unsplash contributors.")
 
-
 ![](switzerland.png "Hierarchical and structured integration of data. These plots and maps were derived from footprint areas of all buildings in Switzerland, and aggregated at multiple levels.")
-
-These datasets are hosted on Harvard Dataverse, and their download links are listed below at 
-different hierarchical levels (e.g. building and grid level). Please go to the [GBMI Dataverse](https://dataverse.harvard.edu/dataverse.xhtml?alias=gbmi) to explore more. For more details about the structure, please refer to the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809).
-
 
 
 ## Demo/Analysis
