@@ -29,7 +29,7 @@ projects: []
 ---
 
 We are pleased to share that our latest project [_Global Building Morphology Indicators_](/project/gbmi/) has been 
-published as a namesake article in the Computers, Environment and Urban Systems:
+published as a namesake article in Computers, Environment and Urban Systems:
 
 > Biljecki F, Chow YS (2022): Global Building Morphology Indicators. _Computers, Environment and Urban Systems_ XX(XX): 101809.
 > [<i class="ai ai-doi-square ai"></i>10.1016/j.compenvurbsys.2022.101809](https://doi.org/10.1016/j.compenvurbsys.2022.101809) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ceus-gbmi/2022-ceus-gbmi.pdf)</i><i class="ai ai-open-access-square ai"></i>
@@ -49,6 +49,9 @@ The paper also includes a variety of analyses to give a peek in the work and hin
 
 The project has a dedicated [website](/project/gbmi).
 Please visit it to learn more about the metrics, software, and dataset.
+
+This project [has been featured also by Amazon at their AWS Public Sector Blog]({{< relref "/post/2021-05-aws-news-item" >}}).
+We are grateful for their support.
 
 ### Abstract
 
