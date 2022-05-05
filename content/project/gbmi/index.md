@@ -69,7 +69,7 @@ The [tool](https://github.com/ualsg/global-building-morphology-indicators), rele
 
 We ran the tool on selected cities and countries around the world and produced a series of open datasets.
 Their download links are listed at the website at different hierarchical levels (e.g. building and grid level).
-Please go to the [GBMI Data Repository](https://dataverse.harvard.edu/dataverse.xhtml?alias=gbmi) to explore more.
+Please go to the [GBMI Data Repository](https://dataverse.harvard.edu/dataverse/gbmi) to explore more.
 For more details about the structure, please refer to the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809).
 
 Here are some insights in the produced datasets.
