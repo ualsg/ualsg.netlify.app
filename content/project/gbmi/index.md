@@ -3,8 +3,8 @@ title: Global Building Morphology Indicators
 summary: Understanding the building form around the world
 authors: [yoong-shin, filip]
 profile: true  # Show author profile?
-date: 2022-05-04T19:30:16+08:00
-lastmod: 2022-05-04T19:30:16+08:00
+date: 2022-05-05T12:30:16+08:00
+lastmod: 2022-05-05T12:30:16+08:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -68,9 +68,8 @@ The [tool](https://github.com/ualsg/global-building-morphology-indicators), rele
 ## Part 3: Dataset
 
 We ran the tool on selected cities and countries around the world and produced a series of open datasets.
-These datasets are hosted on Harvard Dataverse, and their download links are listed at the website at 
-different hierarchical levels (e.g. building and grid level).
-Please go to the [GBMI Dataverse](https://dataverse.harvard.edu/dataverse.xhtml?alias=gbmi) to explore more.
+Their download links are listed at the website at different hierarchical levels (e.g. building and grid level).
+Please go to the [GBMI Data Repository](https://dataverse.harvard.edu/dataverse.xhtml?alias=gbmi) to explore more.
 For more details about the structure, please refer to the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809).
 
 Here are some insights in the produced datasets.

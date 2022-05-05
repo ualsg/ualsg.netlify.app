@@ -7,8 +7,8 @@ summary: "A paper on our latest project has been published in Computers, Environ
 authors: [admin]
 tags: [urban planning, GIScience, morphometrics, OpenStreetMap, GeoAI, spatial analysis]
 categories: []
-date: 2022-05-04T11:41:37+08:00
-lastmod: 2022-05-04T11:41:37+08:00
+date: 2022-05-05T12:41:37+08:00
+lastmod: 2022-05-05T12:41:37+08:00
 featured: false
 draft: false
 

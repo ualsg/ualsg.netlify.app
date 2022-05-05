@@ -48,10 +48,9 @@ In you are interested in collaborating with us, please check the opportunities t
  author = {Biljecki, Filip and Chow, Yoong Shin},
  doi = {10.1016/j.compenvurbsys.2022.101809},
  journal = {Computers, Environment and Urban Systems},
- number = {X},
- pages = {X},
+ pages = {101809},
  title = {Global Building Morphology Indicators},
- volume = {X},
+ volume = {95},
  year = {2022}
 }
 {{< /spoiler >}}|
