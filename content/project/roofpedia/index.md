@@ -29,6 +29,7 @@ While most studies so far have been focused on estimating the potential of rooft
 Such information advances the state of the art, complements existing studies (including those estimating the potential), and it is useful for several purposes, e.g. gauging the efficiency of government policies, tracking and monitoring pledges by businesses, verifying the use of subsidies, estimating the current carbon offsetting capacity of cities and benchmarking them (see below), and determining how much of the potential has already been realised.
 
 The nature of our project is open --- data and code are released openly, and the project is modular, enabling the addition of new geographies and roof typologies.
+Further, the paper has been published as an open access publication.
 
 {{< figure src="featured.jpg" title="Roofpedia in a nutshell." >}}
 
@@ -164,4 +165,4 @@ This research is part of the project Large-scale 3D Geospatial Data for Urban An
 We gratefully acknowledge the sources of the used input data.
 For more information, please see the aforementioned [paper](https://doi.org/10.1016/j.landurbplan.2021.104167).
 
-Some of the aspects of the project and its name —- Roofpedia -— are inspired by [Treepedia](http://senseable.mit.edu/treepedia), an excellent project by the [MIT Senseable City Lab](https://senseable.mit.edu) to measure and map the amount of street greenery in cities from the pedestrian perspective, and compare cities around the world.
+Some of the aspects of the project and its name — Roofpedia — are inspired by [Treepedia](http://senseable.mit.edu/treepedia), an excellent project by the [MIT Senseable City Lab](https://senseable.mit.edu) to measure and map the amount of street greenery in cities from the pedestrian perspective, and compare cities around the world.
