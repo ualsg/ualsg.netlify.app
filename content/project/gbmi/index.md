@@ -28,7 +28,7 @@ Characterising and analysing urban morphology is a continuous task in urban data
 GBMI introduces a formalised, structured, modular, and extensible method to compute, manage, and disseminate urban indicators at a large scale and high resolution, while the precomputed dataset facilitates comparative studies. The theory and implementation traverse multiple scales: at the building level, both individual and contextual ones based on encircling buildings by multiple buffers, and aggregations at several hierarchical administrative levels and at multiple grids. Our open dataset, comprising billions of records on a growing scope of urban areas worldwide, is the most comprehensive instance of morphological data parametrising the individual building stock, supporting studies in urban analytics and a range of disciplines.
 
 The nature of our project is open --- data and code are released openly, and the project is modular, enabling the addition of new geographies and indicators.
-Further, the paper has been published as an open access publication.
+Further, the paper has been published as [an open access publication](https://doi.org/10.1016/j.compenvurbsys.2022.101809) .
 
 ## Paper and attribution
 
@@ -36,6 +36,9 @@ A [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809) describing the pr
 Please refer to the paper for detailed information, while this website summarises the project and provides the links to the datasets and code.
 
 If you use GBMI in a scientific context, please cite the paper:
+
+> Biljecki F, Chow YS (2022): Global Building Morphology Indicators. Computers, Environment and Urban Systems 95: 101809.
+
 
 ```bibtex
 @article{2022_ceus_gbmi,
@@ -67,7 +70,7 @@ The [tool](https://github.com/ualsg/global-building-morphology-indicators), rele
 
 ## Part 3: Dataset
 
-We ran the tool on selected cities and countries around the world and produced a series of open datasets.
+We ran the tool on selected cities and countries around the world (based on OpenStreetMap) and produced a series of open datasets.
 Their download links are listed at the website at different hierarchical levels (e.g. building and grid level).
 Please go to the [GBMI Data Repository](https://dataverse.harvard.edu/dataverse/gbmi) to explore more.
 For more details about the structure, please refer to the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809).
@@ -100,9 +103,7 @@ The [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809) has been releas
 Like any other academic software, GBMI is an experimental research prototype, which leaves some opportunity for improvement and future work.
 For example, computing the contextual indicators for large dense urban areas may take time and we are looking into enhancing this process. 
 Further, input datasets will directly influence the accuracy of the results.
-While we admire and are grateful for the work of the OpenStreetMap community, some areas are heterogeneous in quality and may impact the generated dataset.
-
-For future work, we hope to add more cities to our collection.
+While OpenStreetMap provides excellent data for many urban areas, on the other hand, some are heterogeneous in quality with errors that may propagate to the generated dataset.
 
 ## People
 
@@ -113,7 +114,7 @@ For future work, we hope to add more cities to our collection.
 {{% mention "filip" %}}
 
 ### Research group
-Urban Analytics Lab, National University of Singapore (NUS)
+[Urban Analytics Lab](/), National University of Singapore (NUS)
 
 ## Acknowledgements
 

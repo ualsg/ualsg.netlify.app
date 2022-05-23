@@ -15,19 +15,42 @@ summary = "Open stuff"
   columns = "1"
 +++ 
 
-We believe in open science and reproducible research.
 Besides open access [publications](/publication), we are committed to publishing our code and data on [our Github account](https://github.com/ualsg).
 
 Please see below for a list of resources and projects, especially lab-grown datasets that we released openly. 
 
+In general, all code and data are released under a liberal licence, enabling you unrestricted use as long as you attribute them.
 If you use the code and/or the data for presentations and publications, we kindly ask you to cite the related paper(s) and credit our work. 
 We have provided guidelines to do so in each resource.
 
-While a great deal of effort has been put into each project, they are not free of errors, and we cannot be held responsible for the use of data and any issues that may arise.
+While a great deal of effort has been put into each project, they are not free of errors, and we cannot be held responsible for the use of code and/or data and any issues that may arise.
 
 Feel free to contact us for more information, report bugs and errors, or simply to inform us what are you using the data for.
 We would be pleased to hear how others are using our research.
-In you are interested in collaborating with us, please check the opportunities tab for more information or get in touch with the lead developer of each resource.
+In you are interested in collaborating with us, please get in touch with the lead developer of each resource.
+
+## SVIQC -- Street View Imagery Quality Checker
+
+![](kowloon-grid.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A toolkit to examine the quality of street view imagery |
+| Lead developer: | {{% mention "yujun" %}} |
+| Further reading: | Readme on the Github repo. Paper in progress, stay tuned |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/SVI-Quality-Checker) |
+| Main data source(s): | Mapillary |
+
+## Visual soundscapes
+
+![](visual-soundcapes.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | Predicting the urban soundscape from street view imagery |
+| Lead developer: | {{% mention "tianhong" %}} |
+| Further reading: | Readme on the Github repo. Paper in progress, stay tuned |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/Visual-soundscapes) |
 
 ## GBMI -- Global Building Morphology Indicators
 
