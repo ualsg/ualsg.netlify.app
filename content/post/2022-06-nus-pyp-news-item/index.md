@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Creating a map for the future"
-subtitle: "Proof of Passion: NUS News profiles the PI of the Lab, one the University’s Presidential Young Professors"
-summary: "Proof of Passion: NUS News profiles the PI of the Lab, one the University’s Presidential Young Professors"
+subtitle: "Proof of Passion: NUS News profiles the PI of the Lab, one the University’s Presidential Young Professors."
+summary: "Proof of Passion: NUS News profiles the PI of the Lab, one the University’s Presidential Young Professors."
 authors: [admin]
 tags: [press release, research, paper, news, pyp]
 categories: []
