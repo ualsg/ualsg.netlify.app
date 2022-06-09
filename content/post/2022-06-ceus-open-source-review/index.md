@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "New paper: Free and Open Source Urbanism: Software for Urban Planning Practice"
+title: "New paper: Free and open source urbanism: Software for urban planning practice"
 subtitle: "Computers, Environment and Urban Systems publishes our new review paper."
 summary: "Computers, Environment and Urban Systems publishes our new review paper."
 authors: [admin]
 tags: [paper, review, urban planning, urbanism, gis]
 categories: []
-date: 2022-06-13T09:51:16+08:00
-lastmod: 2022-06-13T09:51:16+08:00
+date: 2022-06-10T07:31:16+08:00
+lastmod: 2022-06-10T07:31:16+08:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,10 +30,12 @@ image:
 
 We are glad to share our new paper:
 
-> Yap W, Janssen P, Biljecki F (2022): Free and Open Source Urbanism: Software for Urban Planning Practice. _Computers, Environment and Urban Planning_ 165: 112540. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2022.101825](https://doi.org/10.1016/j.compenvurbsys.2022.101825) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-rser-thermography-review/2022-rser-thermography-review.pdf)</i>
+> Yap W, Janssen P, Biljecki F (2022): Free and open source urbanism: Software for urban planning practice. _Computers, Environment and Urban Planning_ 96: 101825. [<i class="ai ai-doi-square ai"></i> 10.1016/j.compenvurbsys.2022.101825](https://doi.org/10.1016/j.compenvurbsys.2022.101825) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ceus-open-source-urbanism/2022-ceus-open-source-urbanism.pdf)</i> <i class="ai ai-open-access-square ai"></i>
 
 This review paper was led by {{% mention "winston" %}}.
 Congratulations on his first journal paper out of his PhD, in a top journal no less. :raised_hands: :clap:
+
+![](urban-planning-process.png)
 
 ### Highlights
 
@@ -52,9 +54,9 @@ Tools focusing on street networks and geographic spatial analysis are the mainst
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2022-rser-thermography-review/), published as open access. <i class="ai ai-open-access-square ai"></i>
+For more information, please see the [paper](/publication/2022-ceus-open-source-urbanism/), published as open access. <i class="ai ai-open-access-square ai"></i>
 
-[![](page-one.png)](/publication/2022-rser-thermography-review/)
+[![](page-one.png)](/publication/2022-ceus-open-source-urbanism/)
 
 BibTeX citation:
 ```bibtex
@@ -62,9 +64,9 @@ BibTeX citation:
   author = {Yap, Winston and Janssen, Patrick and Biljecki, Filip},
   doi = {10.1016/j.compenvurbsys.2022.101825},
   journal = {Computers, Environment and Urban Planning},
-  pages = {},
-  title = {{Free and Open Source Urbanism: Software for Urban Planning Practice}},
-  volume = {},
+  pages = {101825},
+  title = {{Free and open source urbanism: Software for urban planning practice}},
+  volume = {96},
   year = {2022}
 }
 ```
