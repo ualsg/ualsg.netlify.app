@@ -30,7 +30,7 @@ image:
 
 We are glad to share a new collaborative paper in which we were involved:
 
-> Martin M, Chong A, Biljecki F, Miller C (2022): Infrared thermography in the built environment: A multi-scale review. _Renewable and Sustainable Energy Reviews_ 165: 112540. [<i class="ai ai-doi-square ai"></i> 10.1016/j.rser.2022.112540](https://doi.org/10.1016/j.rser.2022.112540) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-rser-thermography-review/2022-rser-thermography-review.pdf)</i>
+> Martin M, Chong A, Biljecki F, Miller C (2022): Infrared thermography in the built environment: A multi-scale review. _Renewable and Sustainable Energy Reviews_ 165: 112540. [<i class="ai ai-doi-square ai"></i> 10.1016/j.rser.2022.112540](https://doi.org/10.1016/j.rser.2022.112540) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-rser-thermography-review/2022-rser-thermography-review.pdf)</i> <i class="ai ai-open-access-square ai"></i>
 
 This review paper was led by [Dr Miguel Martin](https://scholar.google.com/citations?user=KngdHq4AAAAJ&hl=en) from the [Berkeley Education Alliance for Research in Singapore](https://bears.berkeley.edu).
 Our sister labs --- the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org) and the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io) --- have also been involved.
@@ -43,7 +43,7 @@ The abstract follows.
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2022-rser-thermography-review/), published as open access.
+For more information, please see the [paper](/publication/2022-rser-thermography-review/), published as open access. <i class="ai ai-open-access-square ai"></i>
 
 [![](page-one.png)](/publication/2022-rser-thermography-review/)
 
@@ -54,7 +54,7 @@ BibTeX citation:
   doi = {10.1016/j.rser.2022.112540},
   journal = {Renewable and Sustainable Energy Reviews},
   pages = {112540},
-  title = {Infrared thermography in the built environment: A multi-scale review},
+  title = {{Infrared thermography in the built environment: A multi-scale review}},
   volume = {165},
   year = {2022}
 }

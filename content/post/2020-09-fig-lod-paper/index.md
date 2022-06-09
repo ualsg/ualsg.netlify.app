@@ -50,7 +50,7 @@ BibTeX citation:
   author = {Stoter, Jantien and Biljecki, Filip and Ho, Serene},
   booktitle = {FIG Working Week 2020},
   pages = {1--13},
-  title = {How might an LoD Logic Framework Help to Bridge the 3D Cadastre Research-to-Practice Gap? A Proposal for a Level of Implementation Framework},
+  title = {{How might an LoD Logic Framework Help to Bridge the 3D Cadastre Research-to-Practice Gap? A Proposal for a Level of Implementation Framework}},
   year = {2020}
 }
 ```

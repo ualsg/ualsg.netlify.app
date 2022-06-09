@@ -69,7 +69,7 @@ BibTeX citation:
   doi = {10.1016/j.landurbplan.2021.104217},
   journal = {Landscape and Urban Planning},
   pages = {104217},
-  title = {Street view imagery in urban analytics and GIS: A review},
+  title = {{Street view imagery in urban analytics and GIS: A review}},
   url = {https://doi.org/10.1016/j.landurbplan.2021.104217},
   volume = {215},
   year = 2021

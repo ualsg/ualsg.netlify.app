@@ -66,7 +66,7 @@ BibTeX citation:
 ```bibtex
 @article{2021_trc_bikeability,
   author = {Koichi Ito and Filip Biljecki},
-  title = {Assessing bikeability with street view imagery and computer vision},
+  title = {{Assessing bikeability with street view imagery and computer vision}},
   journal = {Transportation Research Part C: Emerging Technologies},
   volume = {132},
   pages = {103371},

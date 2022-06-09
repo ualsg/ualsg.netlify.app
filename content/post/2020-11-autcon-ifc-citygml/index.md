@@ -58,7 +58,7 @@ BibTeX citation:
  doi = {10.1016/j.autcon.2020.103440},
  journal = {Automation in Construction},
  pages = {103440},
- title = {Extending CityGML for IFC-sourced 3D city models},
+ title = {{Extending CityGML for IFC-sourced 3D city models}},
  volume = {121},
  year = {2021}
 }

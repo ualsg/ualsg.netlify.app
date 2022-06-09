@@ -11,6 +11,10 @@ design:
   columns: '1'
 ---
 
+## 2022
+
+* NUS: [Creating a map for the future](https://news.nus.edu.sg/creating-a-map-for-the-future)
+
 ## 2021
 
 * NVIDIA: [New AI Research Ranks Cities Fighting Climate Change with Sustainable Rooftops](https://developer.nvidia.com/blog/new-ai-research-ranks-cities-fighting-climate-change-with-sustainable-rooftops/)

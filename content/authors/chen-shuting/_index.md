@@ -52,7 +52,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+- Alumni
 ---
 
 Shuting is pursuing a Master’s degree in Urban Planning at the NUS School of Design and Environment. Her working experience includes a role as assistant engineer in Municipal Bureau of Natural Resources in China. At our Lab,

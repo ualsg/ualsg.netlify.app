@@ -143,7 +143,7 @@ If you are using it for a nice publication, please cite the following [paper](ht
   doi = {10.5194/isprs-annals-vi-4-w1-2020-37-2020},
   journal = {ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences},
   pages = {37--44},
-  title = {Exploration of open data in Southeast Asia to generate 3D building models},
+  title = {{Exploration of open data in Southeast Asia to generate 3D building models}},
   volume = {VI-4/W1-2020},
   year = {2020}
 }

@@ -71,7 +71,7 @@ BibTeX citation:
   doi = {10.1016/j.compenvurbsys.2021.101706},
   journal = {Computers, Environment and Urban Systems},
   pages = {101706},
-  title = {Classification of Urban Morphology with Deep Learning: Application on Urban Vitality},
+  title = {{Classification of Urban Morphology with Deep Learning: Application on Urban Vitality}},
   url = {https://doi.org/10.1016/j.compenvurbsys.2021.101706},
   volume = {90},
   year = 2021
