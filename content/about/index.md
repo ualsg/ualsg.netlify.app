@@ -18,14 +18,15 @@ Our mission is to leverage and make sense of big geospatial data at different sc
 We are particularly interested in the interface of emerging urban datasets such as street-level imagery, dynamic/sensor data, and 3D city models with the state of the art of artificial intelligence to solve contemporary urban challenges and provide a strong foundation to advance urban informatics.
 Crowdsourcing plays an important role in our research, as we follow and aspire to contribute to vibrant developments in Volunteered Geographic Information (VGI).
 
-The research group was established in 2019 by its director Dr {{% mention "filip" %}}, Assistant Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg).
+The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Assistant Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg).
+You can read more about our research agenda also in [an interview with the PI](https://news.nus.edu.sg/creating-a-map-for-the-future).
 
 ![](banner-gbmi.png)
 
 We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
 Within NUS, we collaborate primarily with three sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab (UCDL)](https://www.sde.nus.edu.sg/arch/ucdl/), forming a constellation of research groups with complementary activities operating at converging scales.
 
-You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>, <a href="post/">blog</a>, and <a href="../publication/">papers</a>.
+You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>, <a itemprop="sameAs" href="https://weibo.com/urbanalyticslab/" target="_blank" rel="noopener"><i class="fab fa-weibo"></i> Weibo</a>, <a href="post/">blog</a>, and <a href="../publication/">papers</a>.
 You may also be interested in our home-grown data and code that we [released openly](/data-code).
 
 ![](s-osc2-x.png)

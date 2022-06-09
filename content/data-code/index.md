@@ -15,9 +15,12 @@ summary = "Open stuff"
   columns = "1"
 +++ 
 
-Besides open access [publications](/publication), we are committed to publishing our code and data on [our Github account](https://github.com/ualsg).
+We publish most of our code and data on [our Github account](https://github.com/ualsg).
 
 Please see below for a list of resources and projects, especially lab-grown datasets that we released openly. 
+On this page, we also include [outputs led by collaborators](#with-our-friendly-collaborators), in which we were involved.
+
+On a related note, you may be interested in [our comprehensive survey on open-source software](https://doi.org/10.1016/j.compenvurbsys.2022.101825), published as a review paper in CEUS.
 
 In general, all code and data are released under a liberal licence, enabling you unrestricted use as long as you attribute them.
 If you use the code and/or the data for presentations and publications, we kindly ask you to cite the related paper(s) and credit our work. 
@@ -28,6 +31,18 @@ While a great deal of effort has been put into each project, they are not free o
 Feel free to contact us for more information, report bugs and errors, or simply to inform us what are you using the data for.
 We would be pleased to hear how others are using our research.
 In you are interested in collaborating with us, please get in touch with the lead developer of each resource.
+
+## Global Urban Road Network Patterns
+
+![](gurnp.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | Deep learning-based analysis of the urban morphology around the world |
+| Lead developer: | {{% mention "wangyang" %}} |
+| Further reading: | Readme on the Github repo. Paper in progress, stay tuned |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/Global-road-network-patterns) |
+| Main data source(s): | OpenStreetMap |
 
 ## SVIQC -- Street View Imagery Quality Checker
 
@@ -188,3 +203,93 @@ In you are interested in collaborating with us, please get in touch with the lea
  year = {2020}
 }
 {{< /spoiler >}}|
+
+
+# With our friendly collaborators
+
+## EUropean BUilding stock Characteristics in a Common and Open database
+
+![](eubucco.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | EUBUCCO is a scientific database of individual building footprints for 206 million buildings across the 27 European Union countries and Switzerland, together with three main attributes -- building type, height and construction year -- included for respectively 45%, 74%, 24% of the buildings. |
+| Lead developer: | [Nikola Milojevic-Dupont](https://milojevicdupontnikola.github.io) and [Felix Wagner](https://www.susturbecon.tu-berlin.de/team/felix_wagner/), [3D Geoinformation](https://3d.bk.tudelft.nl), [Mercator Research Institute for Global Commons and Climate Change](https://www.mcc-berlin.net/) and TU Berlin |
+| Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/ai4up/eubucco) |
+| Data: | [Zenodo](https://zenodo.org/record/6524781#.YnzjZ1xBygo) |
+
+## 3D building metrics for urban morphology
+
+![](3dbm.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | 3D Building Metrics. Elevating geometric analysis for urban morphology, solar potential, CFD etc to the next level |
+| Lead developer: | [Anna Labetski](http://3d.bk.tudelft.nl/alabetski) and [Stelios Vitalis](http://3d.bk.tudelft.nl/svitalis), [3D Geoinformation](https://3d.bk.tudelft.nl), TU Delft |
+| Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/tudelft3d/3d-building-metrics) |
+
+## 3dfier: automatic reconstruction of 3D city models
+
+![](3dfier.jpg)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | Takes 2D GIS datasets (e.g. topographical datasets) and "3dfies" them (as in "making them three-dimensional") by lifting every polygon to 3D |
+| Lead developer: | [3D Geoinformation](https://3d.bk.tudelft.nl), TU Delft |
+| Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/tudelft3d/3dfier) |
+| Further reading: | Please read more in the [paper](https://doi.org/10.21105/joss.02866) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2021_joss_3dfier,
+ author = {Ledoux, Hugo and Biljecki, Filip and Dukai, Balázs and Kumar, Kavisha and Peters, Ravi and Stoter, Jantien and Commandeur, Tom},
+ doi = {10.21105/joss.02866},
+ journal = {Journal of Open Source Software},
+ number = {57},
+ pages = {2866},
+ title = {3dfier: automatic reconstruction of 3D city models},
+ volume = {6},
+ year = {2021}
+}
+{{< /spoiler >}}|
+
+## ifc2indoorgml
+
+![](ifc2indoorgml.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A tool allowing to generate IndoorGML files from IFC input models |
+| Lead developer: | [Abdoulaye Diakite](https://www.unsw.edu.au/staff/abdoulaye-diakite), [GRID](http://grid.unsw.edu.au/), University of New South Wales |
+| Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/grid-unsw/ifc2indoorgml) |
+| Further reading: | [Paper](/publication/2022-isprs-ifc-2-indoorgml/) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2022_isprs_ifc2indoorgml,
+ author = {Diakite, AA and Díaz-Vilariño, L and Biljecki, F and Isikdag, Ü and Simmons, S and Li, K and Zlatanova, S},
+ doi = {10.5194/isprs-archives-xliii-b4-2022-295-2022},
+ journal = {Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.},
+ pages = {295--301},
+ title = {ifc2indoorgml: An open-source tool for generating IndoorGML from IFC},
+ volume = {XLIII-B4-2022},
+ year = {2022}
+}
+{{< /spoiler >}}|
+
+## AIDA - Annotated Image Database of Architecture
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A repository of architectural photographs worldwide, labelled with a vast list of hierarchical categories and a series of auxiliary annotations |
+| Lead developer: | Chen Jielin |
+| Further reading: | [Paper](/publication/2021-caadria-aida/) |
+| Download: | [Harvard Dataverse](https://doi.org/10.7910/DVN/IGNELZ) |
+| Main data source(s): | ArchDaily |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@inproceedings{2021_caadria_aida,
+ author = {Chen, Jielin and Stouffs, Rudi and Biljecki, Filip},
+ booktitle = {Proceedings of the 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) 2021},
+ pages = {161--170},
+ title = {Hierarchical (Multi-Label) Architectural Image Recognition and Classification},
+ volume = {1},
+ year = {2021}
+}
+{{< /spoiler >}}|
+

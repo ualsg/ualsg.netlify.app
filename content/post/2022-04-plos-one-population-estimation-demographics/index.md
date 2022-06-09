@@ -61,7 +61,7 @@ BibTeX citation:
  journal = {PLOS ONE},
  number = {4},
  pages = {e0266484},
- title = {Population estimation beyond counts---Inferring demographic characteristics},
+ title = {{Population estimation beyond counts---Inferring demographic characteristics}},
  volume = {17},
  year = {2022}
 }

@@ -51,7 +51,7 @@ BibTeX citation:
  doi = {10.5194/isprs-archives-xliv-4-w1-2020-83-2020},
  journal = {Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.},
  pages = {83--90},
- title = {Visualising detailed CityGML and ADE at the building scale},
+ title = {{Visualising detailed CityGML and ADE at the building scale}},
  volume = {XLIV-4/W1-2020},
  year = {2020}
 }

@@ -55,7 +55,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+- Alumni
 ---
 
 Jing is pursuing a Master’s degree in Urban Planning at the NUS School of Design and Environment. Her working experience includes a design & research internship at the Urban Planning & Design institute of Shenzhen. Some of her past works can be found [here](http://wangjing.city).

@@ -74,7 +74,7 @@ BibTeX citation:
  doi = {10.1016/j.compenvurbsys.2022.101809},
  journal = {Computers, Environment and Urban Systems},
  pages = {101809},
- title = {Global Building Morphology Indicators},
+ title = {{Global Building Morphology Indicators}},
  volume = {95},
  year = {2022}
 }

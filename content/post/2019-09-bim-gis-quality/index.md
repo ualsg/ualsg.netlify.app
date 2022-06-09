@@ -53,7 +53,7 @@ BibTeX citation:
  doi = {10.5194/isprs-annals-IV-4-W8-35-2019},
  journal = {ISPRS Ann. Photogramm. Remote Sens. Spatial Inf. Sci.},
  pages = {35--42},
- title = {Quality of BIM--GIS conversion},
+ title = {{Quality of BIM--GIS conversion}},
  volume = {IV-4/W8},
  year = {2019}
 }

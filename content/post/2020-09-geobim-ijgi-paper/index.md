@@ -57,7 +57,7 @@ BibTeX citation:
  journal = {ISPRS International Journal of Geo-Information},
  number = {9},
  pages = {502},
- title = {Tools for BIM-GIS Integration (IFC Georeferencing and Conversions): Results from the GeoBIM Benchmark 2019},
+ title = {{Tools for BIM-GIS Integration (IFC Georeferencing and Conversions): Results from the GeoBIM Benchmark 2019}},
  volume = {9},
  year = {2020}
 }

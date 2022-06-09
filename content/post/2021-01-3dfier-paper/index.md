@@ -61,7 +61,7 @@ BibTeX citation:
   journal = {Journal of Open Source Software},
   number = {57},
   pages = {2866},
-  title = {3dfier: automatic reconstruction of 3D city models},
+  title = {{3dfier: automatic reconstruction of 3D city models}},
   volume = {6},
   year = {2021}
 }

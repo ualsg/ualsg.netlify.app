@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Research Staff and Doctoral Researchers
 ---
 
 Koichi is pursuing a master's degree in urban planning at the NUS School of Design and Environment.

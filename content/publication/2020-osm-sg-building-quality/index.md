@@ -11,4 +11,4 @@ featured: false
 publication: ""
 ---
 
-This research has been conducted as part of the GE6226 GIS Research Project module of MSc in Applied GIS programme in NUS.
+Note: This research has been conducted as part of the GE6226 GIS Research Project module of MSc in Applied GIS programme in NUS.
