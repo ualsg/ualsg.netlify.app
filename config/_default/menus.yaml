@@ -1,0 +1,92 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: about
+    url: '/about'
+    weight: 10
+  - name: 'about us'
+    parent: 'about'
+    url: '/about'
+    weight: 11
+  - name: people
+    parent: 'about'
+    url: '/people'
+    weight: 12
+  - name: 'our seminars'
+    parent: 'about'
+    url: '/seminars'
+    weight: 13
+  - name: media
+    parent: 'about'
+    url: '/media'
+    weight: 14
+  - name: news
+    url: '/post'
+    weight: 20
+  - name: publications
+    url: '/publication'
+    weight: 30
+  - name: 'geospatial resources'
+    weight: 50
+  - name: 'our data+code'
+    parent: 'geospatial resources'
+    url: '/data-code'
+    weight: 51
+  - name: 'list of journals'
+    parent: 'geospatial resources'
+    url: '/post/2020/07/06/geospatial-and-urban-data-science-journals/'
+    weight: 52
+  - name: 'global building morphology indicators'
+    parent: 'geospatial resources'
+    url: '/project/gbmi/'
+    weight: 53
+  - name: 'roofpedia'
+    parent: 'geospatial resources'
+    url: '/project/roofpedia/'
+    weight: 54
+  - name: 'open building data'
+    parent: 'geospatial resources'
+    url: '/project/ogbd/'
+    weight: 55
+  - name: 'open data SG'
+    parent: 'geospatial resources'
+    url: '/post/2020/06/24/guide-for-open-urban-data-in-singapore/'
+    weight: 56
+  - name: opportunities
+    weight: 80
+  - name: 'why us'
+    parent: opportunities
+    url: '/opportunities/why-us'
+    weight: 81
+  - name: openings
+    parent: opportunities
+    url: '/opportunities/vacancies'
+    weight: 82
+  - name: phd
+    parent: opportunities
+    url: '/opportunities/phd'
+    weight: 83
+  - name: 'NUS courses'
+    parent: opportunities
+    url: '/opportunities/teaching'
+    weight: 84
+  - name: 'student initiated projects'
+    parent: opportunities
+    url: '/opportunities/student-projects'
+    weight: 85
+  - name: fellowships
+    parent: opportunities
+    url: '/opportunities/fellowships'
+    weight: 86
+  - name: contact
+    url: '#contact'
+    weight: 90
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
