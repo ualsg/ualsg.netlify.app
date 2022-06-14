@@ -1,3 +1,4 @@
+// Override this file to add your own SCSS styling.
 .section-subheading.article-title.mb-0.mt-0 {
     line-height: 1.25;
     text-rendering: optimizeLegibility;
@@ -57,4 +58,72 @@ li > del > a:hover {
 
 td > a:hover {
     text-decoration: underline;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+table > thead > tr > th,
+table > tbody > tr > th,
+table > tfoot > tr > th,
+table > thead > tr > td,
+table > tbody > tr > td,
+table > tfoot > tr > td {
+  padding: 8px;
+  line-height: 1.43;
+  vertical-align: top;
+  border-top: 1px solid #ddd;
+}
+
+table > thead > tr > th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #ddd;
+}
+
+table > caption + thead > tr:first-child > th,
+table > colgroup + thead > tr:first-child > th,
+table > thead:first-child > tr:first-child > th,
+table > caption + thead > tr:first-child > td,
+table > colgroup + thead > tr:first-child > td,
+table > thead:first-child > tr:first-child > td {
+  border-top: 0;
+}
+
+table > tbody + tbody {
+  border-top: 2px solid #ddd;
+}
+
+table table {
+  background-color: #fff;
+}
+
+/* Table Striped */
+table > tbody > tr:nth-child(odd) > td,
+table > tbody > tr:nth-child(odd) > th {
+  background-color: #f9f9f9;
+}
+
+/* Table Hover */
+table > tbody > tr:hover > td,
+table > tbody > tr:hover > th {
+  background-color: #e5e5e5;
+}
+
+// Container widths from assets/scss/custom.scss
+$container-max-widths: (
+  // change wider default 1200 instead of 1290
+  xl: 1200px,
+);
+
+.media.stream-item {
+    margin-bottom: 2rem;
+}
+
+p.powered-by {
+  margin-bottom: 1rem;
 }

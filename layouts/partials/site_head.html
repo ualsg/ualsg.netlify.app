@@ -1,3 +1,4 @@
+{{ $scr := .Scratch }}
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -8,21 +9,43 @@
     <meta name="generator" content="Wowchemy {{ site.Data.wowchemy.version }} for Hugo" />
   {{ end }}
 
-  {{ if site.Params.marketing.google_optimize | and hugo.IsProduction }}
-    <script src="https://www.googleoptimize.com/optimize.js?id={{ site.Params.marketing.google_optimize }}"></script>
+  {{ if .Params.private }}
+    <meta name="robots" content="noindex" />
   {{- end -}}
 
-  {{ with site.Params.marketing.google_site_verification }}
+  {{/* Parse theme and font */}}
+  {{ partial "functions/parse_theme" . }}
+
+  {{/* Pre-connect to Google Fonts if the site's Font Theme uses them. */}}
+  {{ with ($scr.Get "google_fonts") }}
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  {{ end }}
+
+  {{/* Load Google Fonts if the site's Font Theme uses them. */}}
+  {{/* Note: we cannot use SRI with Google Fonts because the CSS is dynamically generated according to the user agent. */}}
+  {{ with ($scr.Get "google_fonts") }}
+    {{ if hasPrefix . "family=" }}
+      {{/* If `google_fonts` starts with "family=", use API v2 (https://developers.google.com/fonts/docs/css2) */}}
+      <link rel="preload" as="style" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }}>
+      <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }} media="print" onload="this.media='all'">
+    {{ else }}
+      {{ errorf "There is a new version of Google Fonts. Learn how to upgrade your font pack at https://wowchemy.com/docs/customization/#custom-font" }}
+    {{ end }}
+  {{ end }}
+
+  {{ if site.Params.marketing.analytics.google_optimize | and hugo.IsProduction }}
+    <script src="https://www.googleoptimize.com/optimize.js?id={{ site.Params.marketing.analytics.google_optimize }}"></script>
+  {{- end -}}
+
+  {{ with site.Params.marketing.verification.google }}
     <meta name="google-site-verification" content="{{ . }}" />
   {{- end -}}
-  {{ with site.Params.marketing.baidu_site_verification }}
+  {{ with site.Params.marketing.verification.baidu }}
     <meta name="baidu-site-verification" content="{{ . }}" />
   {{- end -}}
-
-  {{ $scr := .Scratch }}
-
-  {{ $media_dir := site.Params.media_dir | default "media" }}
-  {{ $scr.Set "media_dir" $media_dir }}
+  {{ with site.Params.marketing.verification.bing }}
+    <meta name="msvalidate.01" content="{{ . }}" />
+  {{- end -}}
 
   {{/* Attempt to load superuser. */}}
   {{ $superuser_name := "" }}
@@ -30,7 +53,7 @@
   {{ $superuser_role := "" }}
   {{ range first 1 (where (where site.Pages "Section" "authors") "Params.superuser" true) }}
     {{ $superuser_name = .Title }}
-    {{ $superuser_username = path.Base (path.Split .Path).Dir }}
+    {{ $superuser_username = path.Base .File.Dir }}
     {{ $superuser_role = .Params.role }}
   {{ end }}
   {{ $scr.Set "superuser_username" $superuser_username }}{{/* Set superuser globally for page_author.html. */}}
@@ -45,8 +68,8 @@
     {{ $desc = .Params.abstract }}
   {{ else if .IsPage }}
     {{ $desc = .Summary }}
-  {{ else if site.Params.description }}
-    {{ $desc = site.Params.description }}
+  {{ else if site.Params.marketing.seo.description }}
+    {{ $desc = site.Params.marketing.seo.description }}
   {{ else }}
     {{ $desc = $superuser_role }}
   {{ end }}
@@ -57,13 +80,6 @@
   {{ end }}
   <link rel="alternate" hreflang="{{ site.LanguageCode | default "en-us" }}" href="{{ .Permalink }}" />
 
-  {{ partial "functions/parse_theme" . }}
-
-  {{/* Pre-connect to Google Fonts if the site's Font Theme uses them. */}}
-  {{ with ($scr.Get "google_fonts") }}
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  {{ end }}
-
   {{ $css := site.Data.assets.css }}
   {{ $js := site.Data.assets.js }}
   {{ if ne ($scr.Get "primary") "#fff" }}
@@ -71,12 +87,32 @@
   {{ end }}
 
   {{/* Config LaTeX math rendering. */}}
-  {{ if or .Params.math site.Params.math }}
+  {{ if or .Params.math site.Params.features.math.enable }}
     {{ $mathjax_config := resources.Get "js/mathjax-config.js" }}
     <script src="{{ $mathjax_config.RelPermalink }}"></script>
   {{ end }}
 
   {{/* Attempt to load local vendor CSS, otherwise load from CDN. */}}
+
+  {{/* Only load non-essential CSS in this media-swapping way */}}
+  {{- $stylesheets := slice -}}
+  {{- $lib_names := slice "fontawesome/all.min" -}}
+  {{- range $lib_names -}}
+    {{- $stylesheets = $stylesheets | append (resources.Get (printf "css/libs/%s.css" . ) ) -}}
+  {{- end -}}
+  {{ $stylesheets = $stylesheets | resources.Concat "css/vendor-bundle.css" | minify }}
+  {{- if eq (getenv "WC_POST_CSS") "true" -}}
+    {{- $stylesheets = $stylesheets | postCSS -}}
+  {{- end -}}
+  {{- if hugo.IsProduction -}}
+    {{- $stylesheets = $stylesheets | fingerprint "md5" -}}
+  {{- end -}}
+  {{- if eq (getenv "WC_POST_CSS") "true" -}}
+    {{/* PostProcess must be last action in the pipeline */}}
+    {{- $stylesheets = $stylesheets | resources.PostProcess -}}
+  {{- end -}}
+  <link rel="stylesheet" href="{{$stylesheets.RelPermalink}}" media="print" onload="this.media='all'">
+
   {{ $scr.Set "vendor_css_filename" "main.min.css" }}
   {{ $scr.Set "vendor_js_filename" "main.min.js" }}
   {{ if and (fileExists (printf "static/css/vendor/%s" ($scr.Get "vendor_css_filename"))) (fileExists (printf "static/js/vendor/%s" ($scr.Get "vendor_js_filename"))) }}
@@ -84,13 +120,30 @@
     <link rel="stylesheet" href="{{ printf "/css/vendor/%s" ($scr.Get "vendor_css_filename") | relURL }}" />
   {{ else }}
     {{ $scr.Set "use_cdn" 1 }}
-    {{ if site.Params.icon.pack.ai }}
-      {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.academicons.url $css.academicons.version) $css.academicons.sri | safeHTML }}
+    {{ if site.Params.extensions.academicons.enable }}
+      {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" media=\"print\" onload=\"this.media='all'\">" (printf $css.academicons.url $css.academicons.version) $css.academicons.sri | safeHTML }}
     {{ end }}
-    {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.fontAwesome.url $css.fontAwesome.version) $css.fontAwesome.sri | safeHTML }}
 
-    {{/* Workaround `.HasShortcode "gallery"` detection issue on `home/` WidgetPage v1 */}}
-    {{ if .HasShortcode "gallery" | or (and .IsHome (site.Params.require_fancybox | default true)) }}
+    {{/* Workaround `.HasShortcode "gallery"` not parsing page resources (widget page sections) */}}
+    {{ $has_gallery := false }}
+    {{/* Note: unless there is a root `/index.md` with `type: widget_page`, Hugo treats homepage as `page` type. */}}
+    {{ if (eq .Type "widget_page") | or (and .IsHome (eq .Type "page")) }}
+      {{/* Check if widget page sections use a gallery */}}
+      {{ $page := "/home/index.md" }}
+      {{ $context := cond .IsHome (site.GetPage $page) . }}
+      {{ range $context.Resources.ByType "page" }}
+        {{ if .HasShortcode "gallery" }}
+          {{ $has_gallery = true }}
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      {{/* Single page */}}
+      {{ if .HasShortcode "gallery" }}
+        {{ $has_gallery = true }}
+      {{ end }}
+    {{ end }}
+    {{ $scr.Set "HasNestedGalleryShortcode" $has_gallery }}
+    {{ if $has_gallery | or site.Params.require_fancybox }}
       {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" media=\"print\" onload=\"this.media='all'\">" (printf $css.fancybox.url $css.fancybox.version) $css.fancybox.sri | safeHTML }}
     {{ end }}
 
@@ -99,12 +152,12 @@
     {{ $scr.Set "highlight_enabled" false }}
     {{ if isset .Params "highlight" }}
       {{ $scr.Set "highlight_enabled" .Params.highlight }}
-    {{ else if isset site.Params "highlight" }}
-      {{ $scr.Set "highlight_enabled" site.Params.highlight }}
+    {{ else if isset site.Params.features.syntax_highlighter "enable" }}
+      {{ $scr.Set "highlight_enabled" site.Params.features.syntax_highlighter.enable }}
     {{ end }}
     {{ if ($scr.Get "highlight_enabled") }}
       {{ $v := $css.highlight.version }}
-      {{ with site.Params.highlight_style }}
+      {{ with site.Params.features.syntax_highlighter.theme }}
         {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-light\" media=\"print\" onload=\"this.media='all'\">" (printf $css.highlight.url $css.highlight.version .) | safeHTML }}
         {{ printf "<link rel=\"stylesheet\" href=\"%s\" crossorigin=\"anonymous\" title=\"hl-dark\" media=\"print\" onload=\"this.media='all'\" disabled>" (printf $css.highlight.url $css.highlight.version .) | safeHTML }}
       {{ else }}
@@ -119,14 +172,13 @@
     {{ end }}
 
     {{/* Maps CSS. */}}
-    {{ $map_provider := lower site.Params.map.provider }}
+    {{ $map_provider := lower site.Params.features.map.provider }}
     {{ if in (slice "mapnik" "mapbox") $map_provider }}
       {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\" media=\"print\" onload=\"this.media='all'\">" (printf $css.leaflet.url $css.leaflet.version) $css.leaflet.sri | safeHTML }}
     {{ end }}
 
-    {{ if eq (lower site.Params.search.provider) "algolia" }}
+    {{ if eq (lower site.Params.features.search.provider) "algolia" }}
       {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.instantsearch.url $css.instantsearch.version) $css.instantsearch.sri | safeHTML }}
-      {{ printf "<link rel=\"stylesheet\" href=\"%s\" integrity=\"%s\" crossorigin=\"anonymous\">" (printf $css.instantsearchTheme.url $css.instantsearchTheme.version) $css.instantsearchTheme.sri | safeHTML }}
     {{ end }}
 
     {{/* Load async scripts. */}}
@@ -135,7 +187,7 @@
       {{ $load := $v.async }}
 
       {{/* Only load MathJax if required. */}}
-      {{ if (eq $k "mathJax") | and (not (or $.Params.math site.Params.math)) }}
+      {{ if (eq $k "mathJax") | and (not (or $.Params.math site.Params.features.math.enable)) }}
         {{ $load = false }}
       {{ end }}
 
@@ -145,24 +197,9 @@
     {{ end }}
   {{ end }}
 
-  {{/* Load Google Fonts if the site's Font Theme uses them. */}}
-  {{/* Note: we cannot use SRI with Google Fonts because the CSS is dynamically generated according to the user agent. */}}
-  {{ with ($scr.Get "google_fonts") }}
-    {{ if hasPrefix . "family=" }}
-      {{/* If `google_fonts` starts with "family=", use API v2 (https://developers.google.com/fonts/docs/css2) */}}
-      <link rel="preload" as="style" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }}>
-      <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css2?%s&display=swap\"" . | safeHTMLAttr }} media="print" onload="this.media='all'">
-    {{ else }}
-      {{/* Otherwise, use API v1 */}}
-      {{/* Hugo's htmlEscape cannot escape "|" in Google Font URIs so we implement our own escape functionality. */}}
-      <link rel="stylesheet" {{ printf "href=\"https://fonts.googleapis.com/css?family=%s&display=swap\"" . | replaceRE "\\|" "%7C" | safeHTMLAttr }}>
-      {{ warnf "There is a new version of Google Fonts. Learn how to upgrade your font pack at https://wowchemy.com/docs/customization/#custom-font" }}
-    {{ end }}
-  {{ end }}
-
   {{ $license := printf "/*! Wowchemy v%s | https://wowchemy.com/ */\n" site.Data.wowchemy.version }}
   {{ $license := $license | printf "%s/*! Copyright 2016-present George Cushen (https://georgecushen.com/) */\n" }}
-  {{ $license := $license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md */\n" }}
+  {{ $license := $license | printf "%s/*! License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md */\n" }}
   {{ $css_bundle_head := $license | resources.FromString "css/bundle-head.css" }}
   {{ $css_options := dict "targetPath" "css/wowchemy.css" }}
   {{- if hugo.IsProduction -}}
@@ -180,6 +217,10 @@
   {{- if hugo.IsProduction -}}
     {{- $style = $style | fingerprint "md5" -}}
   {{- end -}}
+  {{- if eq (getenv "WC_POST_CSS") "true" -}}
+    {{/* PostProcess must be last action in the pipeline */}}
+    {{- $style = $style | resources.PostProcess -}}
+  {{- end -}}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
 
   {{ partial "marketing/google_analytics" . }}
@@ -188,7 +229,7 @@
   {{ partial "marketing/baidu_tongji" . }}
 
   {{/* Netlify Identity integration. */}}
-  {{ $use_cms := templates.Exists "wowchemycms/single.wowchemycms_config.yml" | default (site.Params.cms.netlify_cms | default false) }}
+  {{ $use_cms := templates.Exists "wowchemycms/single.wowchemycms_config.yml" | default (site.Params.extensions.cms.netlify_cms | default false) }}
   {{ if .IsHome | and $use_cms }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
@@ -197,8 +238,8 @@
     <link rel="alternate" href="{{ .RelPermalink }}" type="application/rss+xml" title="{{ site.Title }}" />
   {{ end }}
 
-  {{ if site.Home.OutputFormats.Get "WebAppManifest" }}
-    <link rel="manifest" href="{{ "index.webmanifest" | relLangURL }}" />
+  {{ with site.Home.OutputFormats.Get "WebAppManifest" }}
+    <link rel="manifest" href="{{ .RelPermalink }}" />
   {{ end }}
 
   <link rel="icon" type="image/png" href="{{ (partial "functions/get_icon" 32).RelPermalink }}" />
@@ -219,8 +260,6 @@
     {{ $twitter_card = "summary" }}
   {{ else if $featured_image }}
     {{ $og_image = $featured_image.Permalink }}
-  {{ else if .Params.header.image }}
-    {{ $og_image = printf "%s/%s" $media_dir .Params.header.image | absURL }}
   {{ else if $sharing_image }}
     {{ $og_image = $sharing_image.Permalink }}
   {{ else if $has_logo }}
@@ -231,14 +270,22 @@
     {{ $twitter_card = "summary" }}
   {{ end }}
   {{ $scr.Set "og_image" $og_image }}{{/* Set `og_image` globally for `rss.xml`. */}}
+
+  {{ $title := "" }}
+  {{ with .Params.seo.title }}
+    {{ $title = replace . "{brand}" site.Title }}
+  {{ else }}
+    {{ $title = .Title | default site.Title }}
+    {{ if ne $title site.Title }}{{ $title = printf "%s | %s" $title site.Title }}{{ end }}
+  {{ end }}
   <meta property="twitter:card" content="{{ $twitter_card }}" />
-  {{ with site.Params.twitter }}
+  {{ with site.Params.marketing.seo.twitter }}
     <meta property="twitter:site" content="@{{ . }}" />
     <meta property="twitter:creator" content="@{{ . }}" />
   {{ end }}
   <meta property="og:site_name" content="{{ site.Title }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
-  <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}" />
+  <meta property="og:title" content="{{ $title }}" />
   <meta property="og:description" content="{{ $desc }}" />
   {{- with $og_image -}}
     <meta property="og:image" content="{{ . }}" />
@@ -265,5 +312,5 @@
   {{ partial "cookie_consent" . }}
   {{ partial "custom_head" . }}
 
-  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+  <title>{{$title}}</title>
 </head>

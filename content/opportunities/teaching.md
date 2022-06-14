@@ -1,7 +1,7 @@
 ---
 title: Teaching
 
-header:
+banner:
   image: "2019-Commencement-15.jpeg"
   caption: ""
 ---

@@ -20,6 +20,7 @@
 'ko': '한국어'
 'lt': 'Lietuvių'
 'lv': 'Latviešu'
+'mg': 'Malagasy'
 'nb': 'Norsk bokmål'
 'nl': 'Nederlands'
 'pl': 'Polski'
@@ -32,4 +33,4 @@
 'uk': 'Українська'
 'vi': 'Tiếng Việt'
 'zh': '中文 (简体)'
-'zh-Hant': '中文 (繁體)'
+'zh-hant': '中文 (繁體)'
