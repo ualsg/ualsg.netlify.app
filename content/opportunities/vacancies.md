@@ -3,7 +3,7 @@ title: Openings
 widget: blank
 headless: true
 
-header:
+banner:
   image: "NUS_signage_4_r.jpg"
   caption: ""
 ---

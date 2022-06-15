@@ -1,8 +1,7 @@
 {{ $current_page := . }}
 
 {{/* Check whether to show breadcrumb navigation. */}}
-{{ $breadcrumb_page_types := site.Params.breadcrumb.page_types | default dict }}
-{{ $show_breadcrumb := index $breadcrumb_page_types .Type | default false }}
+{{ $show_breadcrumb := .Params.show_breadcrumb }}
 
 <div class="container-fluid docs">
   <div class="row flex-xl-nowrap">
@@ -13,13 +12,15 @@
     {{/* Show ToC by default. */}}
     {{ if ne .Params.toc false }}
     <div class="d-none d-xl-block col-xl-2 docs-toc">
+      {{ partial "hooks/page_toc_start" . }}
+
       <ul class="nav toc-top">
         <li><a href="#" id="back_to_top" class="docs-toc-title">{{ i18n "on_this_page" }}</a></li>
       </ul>
 
       {{ .TableOfContents }}
 
-      {{ partial "docs_toc_foot" . }}
+      {{ partial "hooks/page_toc_end" . }}
     </div>
     {{ end }}
 
@@ -29,7 +30,7 @@
 
         <div class="docs-article-container">
           {{ if $show_breadcrumb }}
-            {{ partial "breadcrumb" $current_page }}
+            {{ partial "components/breadcrumb" $current_page }}
           {{ end }}
 
           <h1>{{ .Title }}</h1>
@@ -49,7 +50,7 @@
         </div>
 
         <div class="body-footer">
-          <p>{{ i18n "last_updated" }} {{ $.Lastmod.Format site.Params.date_format }}</p>
+          <p>{{ i18n "last_updated" }} {{ $.Lastmod | time.Format site.Params.locale.date_format }}</p>
 
           {{ partial "page_edit" . }}
 

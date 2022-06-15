@@ -11,15 +11,19 @@
 }
 
 // Responsive fullscreen option for widgets
-.home-section.fullscreen {
+// Allow section or elements (such as Slider slides) within it to be fullscreen
+.home-section.fullscreen,
+.fullscreen {
   min-height: calc(100vh - 70px);
 }
 @include media-breakpoint-down(md) {
-  .home-section.fullscreen {
+  .home-section.fullscreen,
+  .fullscreen {
     min-height: calc(100vh - 50px);
   }
 }
-.no-navbar .home-section.fullscreen {
+.no-navbar .home-section.fullscreen,
+.no-navbar .fullscreen {
   min-height: 100vh;
 }
 
@@ -92,6 +96,16 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.bg-video {
+  position: absolute;
+  top: 0;
+  max-height: initial; // Override general `video` selector's max-height.
+}
+
+.bg-video.flip {
+  transform: rotateY(180deg);
 }
 
 /* Create a parallax-like scrolling effect on desktop browsers. */

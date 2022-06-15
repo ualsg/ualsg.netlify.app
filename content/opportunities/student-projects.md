@@ -1,7 +1,7 @@
 ---
-title: Theses, dissertations, and capstone projects
+title: "Theses, dissertations, and capstone projects"
 
-header:
+banner:
   image: "2019-Commencement-15.jpeg"
   caption: ""
 ---

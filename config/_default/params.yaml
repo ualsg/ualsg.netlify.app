@@ -5,75 +5,112 @@
 
 # Appearance
 
-theme: old_minimal
-day_night: false
-font: classic
-font_size: L
+appearance:
+  theme_day: old_minimal
+  theme_night: old_minimal
+  font: classic
+  font_size: L
 
 # SEO
 
-site_type: EducationalOrganization
-local_business_type: ''
-org_name: ''
-description: 'Urban Analytics Lab, Singapore'
-twitter: 'urbanalyticslab'
-
-# Contact (edit or remove options as required)
-
-email: filip@nus.edu.sg
-phone:
-address:
-  street: SDE4, College of Design and Engineering, 8 Architecture Dr
-  city: Singapore
-  region: Singapore
-  postcode: '117356'
-  country: Singapore
-  country_code: SG
-coordinates:
-  latitude: '1.29695'
-  longitude: '103.77026'
-directions:
-office_hours:
-appointment_url: ''
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/urbanalyticslab'
+marketing:
+  seo:
+    site_type: EducationalOrganization
+    local_business_type: ''
+    org_name: ''
+    description: 'Urban Analytics Lab, Singapore'
+    twitter: 'urbanalyticslab'
+  analytics:
+    google_analytics: 'UA-143417043-1'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: r
-  show_logo: true
-  show_language: false
-  show_day_night: false
-  show_search: true
-  highlight_active_link: false
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: true
+    highlight_active_link: false
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} Urban Analytics Lab, National University of Singapore'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
-date_format: '2006-01-02'
-time_format: '15:04'
-address_format: en-us
+locale:
+  date_format: '2006-01-02'
+  time_format: '15:04'
+  address_format: en-us
 
 # Site features
 
-highlight: true
-highlight_languages:
-  - r
-math: false
-diagram: true
-privacy_pack: false
-edit_page:
-  repo_url: 'https://github.com/ualsg/ualsg.netlify.app'
-  content_dir: 'content'
-  repo_branch: master
-  editable:
-    page: false
-    post: false
-    book: false
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/ualsg/ualsg.netlify.app'
+    content_dir: content
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
+
+# from previous
 show_related:
   book: true
   page: false
@@ -85,17 +122,8 @@ reading_time: true
 section_pager: false
 docs_section_pager: true
 sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
 publications:
   date_format: January 2006
   citation_style: mla
@@ -106,39 +134,3 @@ projects:
 breadcrumb:
   page_types:
     book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: 'mapnik'
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: 'UA-143417043-1'
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: master
-  local_backend: false
-icon:
-  pack:
-    ai: true

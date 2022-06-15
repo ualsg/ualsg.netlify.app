@@ -4,8 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Urban Analytics Lab | Singapore # Website name
-baseurl: 'https://ual.sg/' # Website URL
-copyright: '&copy; {year} Urban Analytics Lab, National University of Singapore' # Footer text, e.g. '© {year} Me'
+baseURL: 'https://ual.sg/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -71,3 +70,7 @@ related:
       weight: 60
     - name: summary
       weight: 50
+security:
+  _merge: deep
+sitemap:
+  _merge: deep
