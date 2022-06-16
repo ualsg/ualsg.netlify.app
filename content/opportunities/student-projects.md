@@ -1,5 +1,6 @@
 ---
 title: "Theses, dissertations, and capstone projects"
+show_date: false
 
 banner:
   image: "2019-Commencement-15.jpeg"

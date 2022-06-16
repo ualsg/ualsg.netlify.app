@@ -2,6 +2,7 @@
 title: Aims and why us
 widget: blank
 headless: true
+show_date: false
 
 banner:
   image: "NUS_signage_4_r.jpg"

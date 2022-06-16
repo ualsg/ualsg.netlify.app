@@ -2,6 +2,8 @@
 title: Guide for prospective PhD students
 widget: blank
 headless: true
+show_date: false
+
 banner:
   image: "NUS_signage_4_r.jpg"
   caption: ""
