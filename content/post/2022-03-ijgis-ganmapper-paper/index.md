@@ -30,7 +30,7 @@ image:
 
 We are glad to share our new paper:
 
-> Wu AN, Biljecki F (2022): GANmapper: geographical data translation. _International Journal of Geographical Information Science_. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2022.2041643](https://doi.org/10.1080/13658816.2022.2041643) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ijgis-ganmapper/2022-ijgis-ganmapper.pdf)</i>
+> Wu AN, Biljecki F (2022): GANmapper: geographical data translation. _International Journal of Geographical Information Science_ 36(7): 1394-1422. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2022.2041643](https://doi.org/10.1080/13658816.2022.2041643) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ijgis-ganmapper/2022-ijgis-ganmapper.pdf)</i>
 
 
 Congratulations to {{% mention "abraham" %}} on this very nice job and his new first-author paper! :raised_hands:
@@ -78,6 +78,9 @@ BibTeX citation:
   author = {Wu, Abraham Noah and Biljecki, Filip}, 
   title = {{GANmapper: geographical data translation}}, 
   journal = {International Journal of Geographical Information Science}, 
+  volume = {36},
+  issue = {7},
+  pages = {1394-1422},
   doi = {10.1080/13658816.2022.2041643}
 }
 ```
