@@ -6,6 +6,7 @@ study = "MSc in Applied GIS"
 year = "2021"
 uni = "NUS"
 image = "hui-en-research.jpg"
+paper = "2022-jag-3-d-svi"
 
 [[thesis]]
 title = "Exploiting real estate data for the enrichment of spatial data infrastructure"
