@@ -17,15 +17,26 @@ The Urban Analytics Lab seminar series is part of our community engagement and t
 In our seminar series, we give priority to early career researchers.
 The series is managed by Dr {{% mention "marcel" %}}.
 
-## Upcoming seminars
+# Upcoming seminars
+
+### 2022-07-22 --- Factor Analysis and Spatial Prediction: New Methods and Tools
+
+By [Yongze Song](https://yongzesong.com), [School of Design and the Built Environment](https://about.curtin.edu.au/learning-teaching/humanities/design-built-environment/), Curtin University
+
+The spatial analysis demonstrates the value of location information in the Earth and urban data-driven studies. The spatial analysis provides solutions for identifying geospatial objects and events, investigating inequality, exploring spatial factors, and predicting spatial scenarios. I will introduce new methods and tools for factor analysis and spatial prediction in this seminar. First, we developed a series of advanced spatial models for characterising stratified heterogeneity and exploring the contributions of factors and spatially interactions of factors. For instance, I developed a GD R software package for Optimal Parameters-based Geographical Detector (OPGD) models attracting more than 30,000 downloads and over 60 citations. In addition, I proposed the concept of Second-Dimension Spatial Association (SDA) and developed models and computation tools. SDA examines spatial association by extracting more information about the geographical environment outside sampling locations. SDA models provide accurate, smooth, effective, and low-uncertainty spatial predictions. The new methods and tools generate more opportunities for spatial analysis and the implementation of Earth and urban data.
+
+Register [here](https://forms.gle/crhvUVZps8ZEoPb49). 
+
+![](2022-07-22.png)
+
+
+# Past seminars
 
 ### 2022-04-29 --- Deep learning from Volunteered Geographical Information: a case study of humanitarian mapping with OpenStreetMap
 
 By [Hao Li](https://bobleegogogo.github.io), [GIScience Research Group](https://www.geog.uni-heidelberg.de/gis/index_en.html), Heidelberg University
 
 As an emerging topic, OpenStreetMap (OSM) has been greatly improved via recent humanitarian mapping campaigns, and intensively used to support humanitarian aid activities, especially in sub-Saharan Africa. Considering its time-crucial nature, how to create timely and accurate maps of OSM missing features (e.g., buildings and roads) become a vital challenge. In our project DeepVGI, we study predictive analytics methods with remote sensing images, VGI, and social media data (e.g., Twitter) via advanced deep learning algorithms. The experiments results, especially in sub-Saharan Africa countries, demonstrate the capability of GeoAI in improving the OSM data completeness, and more importantly show great potential in supporting better and faster humanitarian mapping from a machine-assisted mapping perspective.
-
-Register [here](https://forms.gle/yhx5GF5GZ1p49fbb7).
 
 ![](2022-04-29.png)
 
@@ -41,8 +52,6 @@ In a compact and land-scarce city like Singapore, the allocation of new resident
 Designed to operationalize and solve such complex problems, optimization procedures can identify trade-offs between multiple objectives by displaying the optimal solutions in a so-called trade-off curve.
 A solution is considered optimal if an objective cannot be improved, without reducing another objectve.
 Furthermore, multi-objective optimizations allow the integration of various perspectives of stakeholders into the modeling process, making them well-suited to be integrated in participatory approaches.
-
-Register [here](https://forms.gle/HttoRensJuLbAGDz7).
 
 ![](2022-04-08.png)
 
