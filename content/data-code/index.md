@@ -32,6 +32,19 @@ Feel free to contact us for more information, report bugs and errors, or simply 
 We would be pleased to hear how others are using our research.
 In you are interested in collaborating with us, please get in touch with the lead developer of each resource.
 
+## Water View Imagery
+
+![](water-view-imagery.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | On-water perspective imagery dataset for semantic segmentation of waterscapes. |
+| Lead developer: | {{% mention "junjie" %}} |
+| Further reading: | Paper in progress... Stay tuned |
+| Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Water-View-Imagery-dataset) |
+| Main data source(s): | Mapillary and manual labelling |
+| Coverage: | Eight cities: Amsterdam, Bangkok, Chicago, Istanbul, Japan, London, Paris, and Venice | 
+
 ## Global Urban Road Network Patterns
 
 ![](gurnp.png)

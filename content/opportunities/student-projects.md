@@ -19,6 +19,10 @@ A thesis can be a great way to gauge your interest in an academic career and boo
 While the exact topic is shaped based on the interests, learning goals, and skills of the candidate, it would be beneficial if you could come up with a general topic on your own or at least some overall directions.
 Feel free to check out past student projects below, and please [get in touch](/#contact) if you are interested in working with us.
 
+Please note that such engagements are not paid.
+Students use them to obtain credits and clear requirements by study programmes. 
+We advertise part-time RA and similar opportunities in internal channels of the university and/or on our website, please refer to those if you are looking for such position.
+
 ### Completed theses / graduation projects
 
 {{< theses_finished >}}

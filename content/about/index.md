@@ -26,6 +26,8 @@ You can read more about our research agenda also in [an interview with the PI](h
 We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
 Within NUS, we collaborate primarily with three sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab (UCDL)](https://www.sde.nus.edu.sg/arch/ucdl/), forming a constellation of research groups with complementary activities operating at converging scales.
 
+![](ual-dinner-2022-06.jpg)
+
 You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>, <a itemprop="sameAs" href="https://weibo.com/urbanalyticslab/" target="_blank" rel="noopener"><i class="fab fa-weibo"></i> Weibo</a>, <a href="post/">blog</a>, and <a href="../publication/">papers</a>.
 You may also be interested in our home-grown data and code that we [released openly](/data-code).
 

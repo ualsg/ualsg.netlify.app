@@ -13,6 +13,8 @@ We are a [research group](/about) at the [National University of Singapore (NUS)
 Working at our Lab presents a rare opportunity to be involved in the entire geo-ecosystem --- from the standardisation and generation of geoinformation (in particular, 3D city models) to their utilisation and visualisation.
 You would also have the opportunity to continuously explore new frontiers in the geospatial field, such as urban digital twins and street view imagery, leaning towards its confluence with computer science and AI. 
 
+![](../ir-2022-06.jpg)
+
 [Our papers](/publication/) are continuously published in top journals and are impactful across academia, government, and industry.
 
 Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).

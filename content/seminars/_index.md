@@ -15,6 +15,7 @@ header:
 
 The Urban Analytics Lab seminar series is part of our community engagement and to provide a platform leading to interesting discussions, new ideas, and spurring collaborations. 
 In our seminar series, we give priority to early career researchers.
+The seminars are by invitation.
 The series is managed by Dr {{% mention "marcel" %}}.
 
 # Upcoming seminars
