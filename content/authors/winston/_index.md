@@ -35,6 +35,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: https://winstonyym.github.io
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/winston-yap-000

@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Annette Gloria Fernandez
-title: Annette Gloria Fernandez
+name: Felix Hammer
+title: Felix Hammer
 
 # Username (this should match the folder name)
 authors:
-- annette
+- felixh
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Research Intern
 
 # Organizations/Affiliations
 organizations:
-- name: "National University of Singapore"
+- name: "Universität Osnabrück"
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,15 +23,14 @@ bio: []
 
 education:
   courses:
-  - course: Bachelor of Social Sciences with Honours in Psychology
-    institution: National University of Singapore
-    year: 2020
+  - course: Bachelor in Cognitive and Computer Science
+    institution: Universität Osnabrück
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -45,7 +44,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Graduate Researchers and Students
 ---
 
-Annette is a psychology graduate and has done a thesis on attachment theory and academic procrastination. She was also involved in data mining and statistical analysis of the effectiveness of the Youthtech Traineeship Programme, created by the National Youth Council of Singapore, in digital upskilling and employability in the long run.
+Felix is a 4th Semester Bachelor Cognitive Science student at the University Osnabrück.
+His interests are in machine learning, AI & data analysis.

@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: PhD Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -35,6 +35,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: https://koichiito.com
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=WE_g9_WsIAAC&hl=en&oi=sra
@@ -56,7 +59,7 @@ user_groups:
 - Research Staff and Doctoral Researchers
 ---
 
-Koichi is pursuing a master's degree in urban planning at the NUS School of Design and Environment.
-His working experience includes a research internship in data analytics at the World Bank.
+Koichi is a PhD researcher at our group. 
+He holds a master's degree in urban planning from the NUS School of Design and Environment.
+His working experience includes a consulting job in data analytics at the World Bank.
 At our research group, Koichi is involved in investigating the applications of emerging data sources for urban planning.
-
