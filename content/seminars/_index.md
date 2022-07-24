@@ -20,18 +20,24 @@ The series is managed by Dr {{% mention "marcel" %}}.
 
 # Upcoming seminars
 
+### 2022-07-28 --- Open Computational Design for Sustainable Developments (in person at NUS + online)
+
+By [Kian Wee Chen](https://acee.princeton.edu/people-directory/kian-wee-chen/), [CHAOS Lab](https://chaos.princeton.edu), [Andlinger Center for Energy and the Environment](https://acee.princeton.edu), Princeton University
+
+Computational design uses computational technologies to support and enhance the design process. It requires designers to systematically assess the design process to apply the appropriate technologies in a timely and effective manner. Computational design offers new opportunities to design better built environments. It promises a seamless built-virtual-built cycle where designers are able to design virtually, translate the design to built artefact using digital fabrications, then again capture and represent the artefact virtually with sensors and reality capture technologies for refinement. This cycle allows designers to refine their designs relatively cheaply and rapidly. It is a powerful tool for the design of sustainable developments, where designers are able to meaningfully evaluate their designs throughout the design process.
+Open computational design will significantly reduce the cost of technology adoption in practice and especially in places that cannot afford technologies. They are coincidentally located in the regions where rapid urbanization is taking place. I hope to encourage designers to share their design process openly for others to build upon. As new improvements are made, the industry and society stands to gain as we improve the way we design our built environment. This is only possible with the use of open-source technologies where everyone can contribute and modify the computational design process to suit their own needs. In this talk, I will present my current research interest on supporting open computational design through drawing lessons from my previous research and teaching works that have used open-source computational technologies.
+
+![](2022-07-28.png)
+
+# Past seminars
+
 ### 2022-07-22 --- Factor Analysis and Spatial Prediction: New Methods and Tools
 
 By [Yongze Song](https://yongzesong.com), [School of Design and the Built Environment](https://about.curtin.edu.au/learning-teaching/humanities/design-built-environment/), Curtin University
 
 The spatial analysis demonstrates the value of location information in the Earth and urban data-driven studies. The spatial analysis provides solutions for identifying geospatial objects and events, investigating inequality, exploring spatial factors, and predicting spatial scenarios. I will introduce new methods and tools for factor analysis and spatial prediction in this seminar. First, we developed a series of advanced spatial models for characterising stratified heterogeneity and exploring the contributions of factors and spatially interactions of factors. For instance, I developed a GD R software package for Optimal Parameters-based Geographical Detector (OPGD) models attracting more than 30,000 downloads and over 60 citations. In addition, I proposed the concept of Second-Dimension Spatial Association (SDA) and developed models and computation tools. SDA examines spatial association by extracting more information about the geographical environment outside sampling locations. SDA models provide accurate, smooth, effective, and low-uncertainty spatial predictions. The new methods and tools generate more opportunities for spatial analysis and the implementation of Earth and urban data.
 
-Register [here](https://forms.gle/crhvUVZps8ZEoPb49). 
-
 ![](2022-07-22.png)
-
-
-# Past seminars
 
 ### 2022-04-29 --- Deep learning from Volunteered Geographical Information: a case study of humanitarian mapping with OpenStreetMap
 
