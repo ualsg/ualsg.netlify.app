@@ -238,8 +238,23 @@ In you are interested in collaborating with us, please get in touch with the lea
 | | |
 | ------------------| ------------------------------ |
 | Short description: | 3D Building Metrics. Elevating geometric analysis for urban morphology, solar potential, CFD etc to the next level |
-| Lead developer: | [Anna Labetski](http://3d.bk.tudelft.nl/alabetski) and [Stelios Vitalis](http://3d.bk.tudelft.nl/svitalis), [3D Geoinformation](https://3d.bk.tudelft.nl), TU Delft |
+| Lead developers: | [Anna Labetski](http://3d.bk.tudelft.nl/alabetski) and [Stelios Vitalis](http://3d.bk.tudelft.nl/svitalis), [3D Geoinformation](https://3d.bk.tudelft.nl), TU Delft |
 | Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/tudelft3d/3d-building-metrics) |
+| Data: | [Repository](https://doi.org/10.7910/DVN/6QCRRF) |
+| Further reading: | Please read the [paper](https://doi.org/10.1080/13658816.2022.2103818) |
+| Coverage: | Major cities in the Netherlands, extensible thanks to the code released open-source | 
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2022_ijgis_3dbm,
+  author = {Labetski, Anna and Vitalis, Stelios and Biljecki, Filip and Arroyo Ohori, Ken and Stoter, Jantien},
+  journal = {International Journal of Geographical Information Science},
+  title = {3D building metrics for urban morphology},
+  year = {2022},
+  doi = {10.1080/13658816.2022.2103818}
+}
+{{< /spoiler >}}|
+
+
+
 
 ## 3dfier: automatic reconstruction of 3D city models
 
