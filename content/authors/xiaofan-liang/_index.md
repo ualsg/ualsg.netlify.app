@@ -61,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Staff and Doctoral Researchers
+- Alumni
 ---
 
 Xiaofan Liang is a City and Regional Planning PhD at Georgia Institute of Technology.

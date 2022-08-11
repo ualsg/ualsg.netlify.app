@@ -43,7 +43,7 @@ The abstract follows.
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2022-rser-thermography-review/), published as open access. <i class="ai ai-open-access-square ai"></i>
+For more information, please see the [paper](/publication/2022-rser-thermography-review/), published open access. <i class="ai ai-open-access-square ai"></i>
 
 [![](page-one.png)](/publication/2022-rser-thermography-review/)
 
