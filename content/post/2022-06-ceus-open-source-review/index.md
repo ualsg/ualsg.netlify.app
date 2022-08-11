@@ -54,7 +54,7 @@ Tools focusing on street networks and geographic spatial analysis are the mainst
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2022-ceus-open-source-urbanism/), published as open access. <i class="ai ai-open-access-square ai"></i>
+For more information, please see the [paper](/publication/2022-ceus-open-source-urbanism/), published open access. <i class="ai ai-open-access-square ai"></i>
 
 [![](page-one.png)](/publication/2022-ceus-open-source-urbanism/)
 

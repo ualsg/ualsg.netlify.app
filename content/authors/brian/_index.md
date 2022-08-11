@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+- Alumni
 ---
 
 Brian is a research intern at the Urban Analytics Lab with a background in spatial planning and urban engineering. He holds a bachelor degree in Landscape Architecture and Spatial Planning at the Wageningen University and a master degree in Metropolitan, Analysis, Design and Engineering at the Wageningen University and the TU Delft. Brian is interested in a wide variety of research topics including: Urban Planning, Real Estate Economics, Geographic Information Systems, Machine Learning, and Sustainable Urban Development. His working experience include positions as a sustainability consultant in the built environment, and as a Living Lab researcher.

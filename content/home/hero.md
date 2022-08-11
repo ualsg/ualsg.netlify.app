@@ -35,7 +35,7 @@ hero_media = 'roofpedia.jpg'
 #   Remove a link/note by deleting a cta/note block.
 
 +++
-Geospatial and 3D urban modelling research group at the National University of Singapore
+Geospatial and Urban Data Science Research Group at the National University of Singapore
 <div id="profile">
       <ul class="network-icon" aria-hidden="true">
         <li>
