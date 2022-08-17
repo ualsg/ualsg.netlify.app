@@ -7,7 +7,7 @@ main:
   - name: about
     url: '/about'
     weight: 10
-  - name: 'about us'
+  - name: 'our lab'
     parent: 'about'
     url: '/about'
     weight: 11
@@ -57,15 +57,15 @@ main:
     weight: 56
   - name: opportunities
     weight: 80
-  - name: 'why us'
-    parent: opportunities
-    url: '/opportunities/why-us'
-    weight: 81
   - name: openings
     parent: opportunities
     url: '/opportunities/vacancies'
+    weight: 81
+  - name: 'why us'
+    parent: opportunities
+    url: '/opportunities/why-us'
     weight: 82
-  - name: phd
+  - name: prospective students
     parent: opportunities
     url: '/opportunities/phd'
     weight: 83
