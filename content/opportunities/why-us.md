@@ -9,9 +9,11 @@ banner:
   caption: ""
 ---
 
-We are a [research group](/about) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) focused on the nexus of novel urban data streams, urban analytics, and geospatial data science, a unique research agenda in Singapore and Southeast Asia and beyond.
-Working at our Lab presents a rare opportunity to be involved in the entire geo-ecosystem --- from the standardisation and generation of geoinformation (in particular, 3D city models) to their utilisation and visualisation.
-You would also have the opportunity to continuously explore new frontiers in the geospatial field, such as urban digital twins and street view imagery, leaning towards its confluence with computer science and AI. 
+We are a [research group](/about) at the [National University of Singapore (NUS)](http://www.nus.edu.sg) focused on the nexus of novel urban data streams, urban analytics, and geospatial data science, a holistic and unique research agenda in Singapore and Southeast Asia and beyond.
+Read more about us [here](/about).
+
+Working at our Lab presents a opportunity to be involved in the entire geo-ecosystem --- from the standardisation and generation of geoinformation (in particular, street-level imagery and 3D city models) to their utilisation and visualisation.
+We continuously explore new frontiers in the geospatial field, such as urban digital twins and street view imagery, leaning towards their confluence with computer science and AI. 
 
 ![](../ir-2022-06.jpg)
 
