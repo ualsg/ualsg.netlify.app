@@ -18,7 +18,13 @@ In our seminar series, we give priority to early career researchers.
 The seminars are by invitation.
 The series is managed by Dr {{% mention "marcel" %}}.
 
-# Upcoming seminars
+### 2022-08-29 --- Sinagpala: Assessing Rooftop Solar Energy Potential on a Building-level Scale in an Urban Environment
+
+By [Unisse Chua](https://unissechua.github.io), [Center for Complexity and Emerging Technologies](https://comet.dlsu.edu.ph), [College of Computer Studies](https://www.dlsu.edu.ph/colleges/ccs/), [De La Salle University](https://www.dlsu.edu.ph/), Philippines
+
+The Philippines has committed to transitioning into a low-carbon future by reducing coal-fired generation and increasing the share of renewable energy sources such as solar power. However, there is a lack of solar energy potential estimators in the Philippine context which makes it difficult to assess the feasibility of using solar photovoltaics in a given area. Urban environments pose a strong potential in significantly reducing overall reliance on fossil fuel energy as their density takes up a big portion of the energy consumption. Various studies have assessed the solar energy potential and were able to acquire substantial results. However, few studies have considered the context where an area has limited to no access to expensive, but reliable, data such as light detecting and ranging (LiDAR). In this talk, we propose using readily available satellite images to be fed into a convolutional neural network (CNN) for rooftop segmentation which will then be used along with meteorological data, through theoretical computations, to estimate the solar energy potential of buildings in an urban environment.
+
+![](2022-08-29.png)
 
 ### 2022-07-28 --- Open Computational Design for Sustainable Developments (in person at NUS + online)
 
@@ -28,8 +34,6 @@ Computational design uses computational technologies to support and enhance the 
 Open computational design will significantly reduce the cost of technology adoption in practice and especially in places that cannot afford technologies. They are coincidentally located in the regions where rapid urbanization is taking place. I hope to encourage designers to share their design process openly for others to build upon. As new improvements are made, the industry and society stands to gain as we improve the way we design our built environment. This is only possible with the use of open-source technologies where everyone can contribute and modify the computational design process to suit their own needs. In this talk, I will present my current research interest on supporting open computational design through drawing lessons from my previous research and teaching works that have used open-source computational technologies.
 
 ![](2022-07-28.png)
-
-# Past seminars
 
 ### 2022-07-22 --- Factor Analysis and Spatial Prediction: New Methods and Tools
 
