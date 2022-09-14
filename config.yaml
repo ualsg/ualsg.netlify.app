@@ -1,5 +1,4 @@
 markup:
-  _merge: deep
   defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
@@ -9,29 +8,27 @@ markup:
         block: true
         title: true
   highlight:
-    codeFences: false
+    codeFences: true
+    noHl: false
+    lineNumbersInTable: false
+    noClasses: false
+    guessSyntax: true
   tableOfContents:
     startLevel: 2
     endLevel: 3
-mediaTypes:
-  text/netlify:
-    delimiter: ''
-    suffixes: ['']
-outputFormats:
-  headers:
-    baseName: _headers
-    isPlainText: true
-    mediatype: text/netlify
-    notAlternative: true
-  redirects:
-    baseName: _redirects
-    isPlainText: true
-    mediatype: text/netlify
-    notAlternative: true
+minify:
+  tdewolff:
+    html:
+      keepComments: true
+sitemap:
+  changefreq: weekly
 module:
   hugoVersion:
-    min: '0.87.0'
+    min: '0.101.0'
     extended: true
+  imports:
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo
   mounts:
     - source: content
       target: content
@@ -47,9 +44,13 @@ module:
       target: i18n
     - source: archetypes
       target: archetypes
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
 params:
-  theme: old_minimal
-  font: classic
-  date_format: '2006-01-02'
-  time_format: '15:04'
-  address_format: en-us
+  locale:
+    date_format: '2006-01-02'
+    time_format: '15:04'
+    address_format: en-us

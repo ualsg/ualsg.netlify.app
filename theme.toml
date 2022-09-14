@@ -1,50 +1,24 @@
-name = "Academic"
+name = "Wowchemy Widget Pages"
 license = "MIT"
-licenselink = "https://github.com/wowchemy/starter-hugo-academic/blob/master/LICENSE.md"
-description = "Use the website builder to easily build your site with 50+ widgets and deploy with one click! Fully customize your site with themes, plugins, and language packs."
-homepage = "https://github.com/wowchemy/starter-hugo-academic/"
-demosite = "https://wowchemy.com/hugo-themes/"
-min_version = "0.84"
+licenselink = "https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md"
+description = "Create any kind of website with fully customizable widgets - 50+ light/dark color themes, language packs, and widgets included."
+homepage = "https://github.com/wowchemy/wowchemy-hugo-themes"
+demosite = "https://hugo-academic-pages.netlify.app/"
 tags = ["widgets",
-        "resume",
         "portfolio",
         "responsive",
-        "clean",
-        "personal",
         "company",
         "blog",
         "minimal",
-        "light",
         "dark",
         "multilingual",
-        "documentation",
         "landing page",
-        "projects",
-        "single page",
-        "contact form",
-        "mobile",
-        "gallery",
-        "search",
-        "presentation",
-        "simple",
-        "minimalist",
-        "starter",
-        "modern",
         "one page",
-        "customizable",
-        "technical",
-        "product",
-        "slide"
+        "customizable"
         ]
-features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
-            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+features = ["page builder", "widgets", "color themes", "dark mode", "customizable", "filterable portfolio",
+            "blog", "create landing pages", "gallery", "contact form"]
 
 [author]
   name = "George Cushen"
   homepage = "https://georgecushen.com"
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""

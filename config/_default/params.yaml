@@ -65,6 +65,8 @@ features:
     extra_languages:
       - r
       - latex
+    theme_light: ''
+    theme_dark: ''
   math:
     enable: false
   privacy_pack:
