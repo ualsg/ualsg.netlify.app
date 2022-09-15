@@ -1,0 +1,398 @@
+{
+	"journals": [
+		{
+			"title": "ISPRS Journal of Photogrammetry and Remote Sensing",
+			"publisher": "Elsevier",
+			"IF": 7.319,
+			"change": 5,
+			"sjr": 3.12,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Landscape and Urban Planning",
+			"publisher": "Elsevier",
+			"IF": 5.441,
+			"change": 6,
+			"sjr": 1.74,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Computers, Environment and Urban Systems",
+			"publisher": "Elsevier",
+			"IF": 4.655,
+			"change": 37,
+			"sjr": 1.36,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "International Journal of Geographical Information Science",
+			"publisher": "Taylor and Francis",
+			"IF": 3.733,
+			"change": 5,
+			"sjr": 1.22,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "International Journal of Digital Earth",
+			"publisher": "Taylor and Francis",
+			"IF": 3.097,
+			"change": -22,
+			"sjr": 1.08,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "IEEE Transactions on Geoscience and Remote Sensing",
+			"publisher": "IEEE",
+			"IF": 5.441,
+			"change": 4,
+			"sjr": 2.62,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "International Journal of Applied Earth Observation and Geoinformation",
+			"publisher": "Elsevier",
+			"IF": 4.650,
+			"change": -4,
+			"sjr": 1.62,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Environment and Planning B: Urban Analytics and City Science",
+			"publisher": "SAGE",
+			"IF": 2.822,
+			"change": 0,
+			"sjr": 1.11,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Applied Geography",
+			"warning": "https://twitter.com/carstenkessler/status/1284047125328863234",
+			"publisher": "Elsevier",
+			"IF": 3.508,
+			"change": 14,
+			"sjr": 1.22,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Annals of the American Association of Geographers",
+			"publisher": "Taylor and Francis",
+			"IF": 3.302,
+			"change": 9,
+			"sjr": 1.69,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Urban Geography",
+			"publisher": "Taylor and Francis",
+			"IF": 3.014,
+			"change": -16,
+			"sjr": 1.8,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Urban Studies",
+			"publisher": "SAGE",
+			"IF": 2.828,
+			"change": -13,
+			"sjr": 1.62,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Cities",
+			"publisher": "Elsevier",
+			"IF": 4.802,
+			"change": 25,
+			"sjr": 1.61,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "EPJ Data Science",
+			"publisher": "Springer",
+			"IF": 2.873,
+			"change": -12,
+			"sjr": 0.9,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Proceedings of the National Academy of Sciences",
+			"publisher": "National Academy of Sciences",
+			"IF": 9.412,
+			"change": -4,
+			"sjr": 5.17,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Scientific Data",
+			"publisher": "Nature",
+			"IF": 5.541,
+			"change": -7,
+			"sjr": 3.1,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Scientific Reports",
+			"publisher": "Nature",
+			"IF": 3.998,
+			"change": 0,
+			"sjr": 1.34,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Environmental Modelling and Software",
+			"publisher": "Elsevier",
+			"IF": 4.807,
+			"change": 6,
+			"sjr": 1.9,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Building and Environment",
+			"publisher": "Elsevier",
+			"IF": 4.971,
+			"change": 3,
+			"sjr": 1.87,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Energy and Buildings",
+			"publisher": "Elsevier",
+			"IF": 4.867,
+			"change": 8,
+			"sjr": 2.06,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Automation in Construction",
+			"publisher": "Elsevier",
+			"IF": 5.669,
+			"change": 31,
+			"sjr": 1.69,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Applied Energy",
+			"publisher": "Elsevier",
+			"IF": 8.848,
+			"change": 5,
+			"sjr": 3.61,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Science of The Total Environment",
+			"publisher": "Elsevier",
+			"IF": 6.551,
+			"change": 17,
+			"sjr": 1.66,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Sustainable Cities and Society",
+			"publisher": "Elsevier",
+			"IF": 5.268,
+			"change": 14,
+			"sjr": 1.36,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Cartography and Geographic Information Science",
+			"publisher": "Taylor and Francis",
+			"IF": 2.429,
+			"change": 7,
+			"sjr": 0.81,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Transactions in GIS",
+			"publisher": "Wiley",
+			"IF": 2.119,
+			"change": -3,
+			"sjr": 0.65,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Journal of Urban Technology",
+			"publisher": "Routledge",
+			"IF": 3.733,
+			"change": 66,
+			"sjr": 1.1,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "GIScience and Remote Sensing",
+			"publisher": "Taylor and Francis",
+			"IF": 5.965,
+			"change": 66,
+			"sjr": 1.55,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+			"publisher": "IEEE",
+			"IF": 3.827
+,
+			"change": 13,
+			"sjr": 1.48,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Geographical Analysis",
+			"publisher": "Wiley",
+			"IF": 1.690,
+			"change": -13,
+			"sjr": 0.92,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "PLOS ONE",
+			"publisher": "Public Library of Science",
+			"IF": 2.740,
+			"change": -1,
+			"sjr": 1.02,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Computers and Geosciences",
+			"publisher": "Elsevier",
+			"IF": 2.991,
+			"change": 10,
+			"sjr": 0.96,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Journal of Maps",
+			"publisher": "Taylor and Francis",
+			"IF": 2.365,
+			"change": 29,
+			"sjr": 0.75,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Journal of Spatial Science",
+			"publisher": "Taylor and Francis",
+			"IF": 1.405,
+			"change": -18,
+			"sjr": 0.44,
+			"sjrq": "Q2"
+		},
+		{
+			"title": "PFG - Journal of Photogrammetry, Remote Sensing and Geoinformation Science",
+			"publisher": "Springer",
+			"IF": 1.395,
+			"change": -25,
+			"sjr": 0.65,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Photogrammetric Engineering and Remote Sensing",
+			"publisher": "ASPRS",
+			"IF": 1.265,
+			"change": -7,
+			"sjr": 0.52,
+			"sjrq": "Q3"
+		},
+		{
+			"title": "Photogrammetric Record",
+			"publisher": "Wiley",
+			"IF": 1.867,
+			"change": 17,
+			"sjr": 0.64,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "International Journal of Digital Innovation in the Built Environment ",
+			"publisher": "IGI",
+			"IF": "",
+			"change": "",
+			"sjr": "",
+			"sjrq": ""
+		},
+		{
+			"title": "Open Geospatial Data, Software and Standards",
+			"publisher": "Springer",
+			"IF": "",
+			"change": "",
+			"sjr": "",
+			"sjrq": ""
+		},
+		{
+			"title": "Journal of Spatial Information Science",
+			"publisher": "NCGIA",
+			"IF": "",
+			"change": "",
+			"sjr": 0.42,
+			"sjrq": "Q2"
+		},
+		{
+			"title": "Journal of Location Based Services",
+			"publisher": "Taylor and Francis",
+			"IF": "",
+			"change": "",
+			"sjr": 0.3,
+			"sjrq": "Q2"
+		},
+		{
+			"title": "Geo-spatial Information Science",
+			"publisher": "Taylor and Francis",
+			"IF": "",
+			"change": "",
+			"sjr": 0.94,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "International Journal of Cartography",
+			"publisher": "Taylor and Francis",
+			"IF": "",
+			"change": "",
+			"sjr": "",
+			"sjrq": ""
+		},
+		{
+			"title": "PeerJ Computer Science",
+			"publisher": "PeerJ",
+			"IF": 3.091,
+			"change": "",
+			"sjr": 1.6,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "International Journal of Urban Sciences",
+			"publisher": "Taylor and Francis",
+			"IF": 1.831,
+			"change": "",
+			"sjr": 0.48,
+			"sjrq": "Q2"
+		},
+		{
+			"title": "International Journal of Data Science and Analytics",
+			"publisher": "Springer",
+			"IF": "",
+			"change": "",
+			"sjr": "",
+			"sjrq": ""
+		},
+		{
+			"title": "Journal of Geographical Systems",
+			"publisher": "Springer",
+			"IF": 1.028,
+			"change": -27,
+			"sjr": 0.49,
+			"sjrq": "Q2"
+		},
+		{
+			"title": "Professional Geographer",
+			"publisher": "Taylor and Francis",
+			"IF": 1.623,
+			"change": 4,
+			"sjr": 0.82,
+			"sjrq": "Q1"
+		},
+		{
+			"title": "Journal of Open Source Software",
+			"publisher": "Open Journals",
+			"IF": "",
+			"change": "",
+			"sjr": "",
+			"sjrq": ""
+		}
+	]
+}

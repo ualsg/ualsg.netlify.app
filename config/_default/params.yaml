@@ -1,0 +1,138 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: old_minimal
+  theme_night: old_minimal
+  font: classic
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: EducationalOrganization
+    local_business_type: ''
+    org_name: ''
+    description: 'Urban Analytics Lab, Singapore'
+    twitter: 'urbanalyticslab'
+  analytics:
+    google_analytics: 'UA-143417043-1'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: true
+    highlight_active_link: false
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} Urban Analytics Lab, National University of Singapore'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: '2006-01-02'
+  time_format: '15:04'
+  address_format: en-us
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+    theme_light: ''
+    theme_dark: ''
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://github.com/ualsg/ualsg.netlify.app'
+    content_dir: content
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
+
+# from previous
+show_related:
+  book: true
+  page: false
+  post: true
+  project: true
+  publication: true
+  event: true
+reading_time: true
+section_pager: false
+docs_section_pager: true
+sharing: true
+abstract_length: 135
+plugins_js: []
+publications:
+  date_format: January 2006
+  citation_style: mla
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+breadcrumb:
+  page_types:
+    book: true
