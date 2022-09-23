@@ -142,10 +142,21 @@ In you are interested in collaborating with us, please get in touch with the lea
 | ------------------| ------------------------------ |
 | Short description: | A semantically annotated UAV oblique image dataset covering an urban river landscape |
 | Lead developer: | {{% mention "junjie" %}} |
-| Further reading: | Paper in progress... Stay tuned |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.landurbplan.2022.104569) |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/semantic-riverscapes-dataset) |
 | Main data source(s): | Own data collection (UAV) and manual labelling |
 | Coverage: | Tianjin (China) | 
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2022_land_semantic_riverscapes, 
+year = {2022}, 
+title = {{Semantic Riverscapes: Perception and evaluation of linear landscapes from oblique imagery using computer vision}}, 
+author = {Luo, Junjie and Zhao, Tianhong, and Cao, Lei and Biljecki, Filip}, 
+journal = {Landscape and Urban Planning}, 
+doi = {10.1016/j.landurbplan.2022.104569}, 
+pages = {104569}, 
+volume = {228}
+}
+{{< /spoiler >}}|
 
 
 ## Classification of Urban Morphology with Deep Learning
