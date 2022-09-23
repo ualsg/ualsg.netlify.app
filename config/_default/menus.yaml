@@ -7,7 +7,7 @@ main:
   - name: about
     url: '/about'
     weight: 10
-  - name: 'our lab'
+  - name: 'our Lab'
     parent: 'about'
     url: '/about'
     weight: 11
