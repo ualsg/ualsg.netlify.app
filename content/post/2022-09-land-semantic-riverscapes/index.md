@@ -35,6 +35,8 @@ We are glad to share our new paper:
 This research was led by {{% mention "junjie" %}}.
 Congratulations on his first journal paper in our Lab, great job! :raised_hands: :clap:
 
+The work resulted in an open dataset: [Semantic Riverscapes](https://github.com/ualsg/semantic-riverscapes-dataset).
+
 ![](1.png)
 
 ### Highlights
