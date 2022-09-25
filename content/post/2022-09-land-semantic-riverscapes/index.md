@@ -37,6 +37,8 @@ Congratulations on his first journal paper in our Lab, great job! :raised_hands:
 
 The work resulted in an open dataset: [Semantic Riverscapes](https://github.com/ualsg/semantic-riverscapes-dataset).
 
+Until 2022-11-12, the article is available for free via [this link](https://authors.elsevier.com/a/1foYAcUG5OuW7).
+
 ![](1.png)
 
 ### Highlights
