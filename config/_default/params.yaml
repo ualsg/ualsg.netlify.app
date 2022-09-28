@@ -49,6 +49,7 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+#    widget: mega # custom footer wiget, loads layouts/partials/components/footers/mega.html
 
 # Localization
 
@@ -86,16 +87,36 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
-    algolia:
+    provider: docsearch
+    docsearch:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+#  features:
+#    feedback:
+#      responses:
+#        positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new)'
+#        negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
+#  announcement:
+#    text: 'Hello World!️'
+#  filter_button:
+#    - name: All
+#      tag: '*'
+#    - name: Machine Learning
+#      tag: ML
+#    - name: Computer Vision
+#      tag: CV
+#    - name: NLP
+#      tag: NLP
+#    - name: CV or NLP
+#      filter: '.js-id-cv, .js-id-nlp'
+#    - name: ML and NLP
+#      filter: '.js-id-ml.js-id-nlp'
+
 
 # Extensions
 
@@ -136,3 +157,5 @@ projects:
 breadcrumb:
   page_types:
     book: true
+
+
