@@ -44,7 +44,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+- Alumni
 ---
 
 Naveen is pursuing a diploma at NUS High School of Mathematics and Science. His research experience includes various multidisciplinary computing and data science projects. At our research group, Naveen has been involved in 2 main projects focusing on analyses of thermal imaging and the other on data analytics and machine learning. Naveen is currently a research intern with NUS Urban Analytics Lab and is involved in the study of cities and their urban features, such as solar panels and green roofs, to better analyse the energy sustainability of geographies with various urban landscapes.
