@@ -11,6 +11,13 @@ banner:
 
 
 {{< opening >}}
+
+<h3>Current openings in our projects hosted at the Singapore-ETH Centre</h3>
+<li><a href="https://www.jobs.ethz.ch/job/view/JOPG_ethz_uDYbdmvtVPK1y9VJjz">
+Postdoctoral Researcher & Module Coordinator – Semantic Urban Elements</a></li>
+<li><a href="https://www.jobs.ethz.ch/job/view/JOPG_ethz_cL9oIRsHPVw8G39w3P">
+Postdoctoral Researcher – Semantic Urban Elements</a></li>
+
 {{< past_openings >}}
 
 ## Open applications and general info about positions
