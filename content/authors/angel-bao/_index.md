@@ -1,21 +1,21 @@
 ---
 # Display name
-name: Daniel Tan
-title: Daniel Tan
+name: Angel Bao
+title: Angel Bao
 
 # Username (this should match the folder name)
 authors:
-- daniel
+- angel-bao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Intern
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: "National University of Singapore"
+- name: "University of British Columbia"
   #url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,8 +23,8 @@ bio: ""
 
 education:
   courses:
-  - course: Bachelor of Computing in Computer Science
-    institution: National University of Singapore
+  - course: BSc in Cognitive Systems and minor of Urban Studies
+    institution: University of British Columbia
     year: 2023
 
 # Social/Academic Networking
@@ -32,6 +32,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: www.linkedin.com/in/angel-bao
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -46,9 +49,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni
+- Graduate Researchers and Students
 ---
 
-Daniel is a second year undergraduate pursuing a degree in Computer Science + USP at NUS. At our Lab, he is working on assessing the quality of open data and building pipelines for processing OpenStreetMap data.
-
-
+Angel is currently completing her BSc in Cognitive Systems and minor of Urban Studies at the University of British Columbia.
+She is an exchange student at NUS this semester and she is interested in interdisciplinary work regarding the intersection of urban applications, psychology and technology.
+Angel has experience in HCI and urban planning research and she is looking forward to discovering new avenues within these emerging spaces."
