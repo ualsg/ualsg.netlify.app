@@ -34,7 +34,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/angel-bao
+  link: https://www.linkedin.com/in/angel-bao
 
 
 # Link to a PDF of your resume/CV from the About widget.
@@ -54,4 +54,4 @@ user_groups:
 
 Angel is currently completing her BSc in Cognitive Systems and minor of Urban Studies at the University of British Columbia.
 She is an exchange student at NUS this semester and she is interested in interdisciplinary work regarding the intersection of urban applications, psychology and technology.
-Angel has experience in HCI and urban planning research and she is looking forward to discovering new avenues within these emerging spaces."
+Angel has experience in HCI and urban planning research and she is looking forward to discovering new avenues within these emerging spaces.
