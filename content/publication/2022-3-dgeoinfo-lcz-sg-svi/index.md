@@ -7,12 +7,12 @@ subtitle: ''
 summary: ''
 authors:
 - marcel
-- R Xu
+- Ruohan Xu
 - yujun
 - xiucheng
 - tianhong
-- S Chen
-- NH Wong
+- Shisheng Chen
+- Nyuk Hien Wong
 - filip
 tags: []
 categories: []
