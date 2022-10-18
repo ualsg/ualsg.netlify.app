@@ -5,9 +5,9 @@ title: Use cases for district-scale urban digital twins
 subtitle: ''
 summary: ''
 authors:
-- P Alva
+- Pradeep Alva
 - filip
-- R Stouffs
+- Rudi Stouffs
 tags: []
 categories: []
 date: '2022-10-18'

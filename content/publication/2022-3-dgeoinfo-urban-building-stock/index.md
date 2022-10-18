@@ -6,9 +6,9 @@ title: 'Dataset for urban scale building stock modelling: Identification and rev
 subtitle: ''
 summary: ''
 authors:
-- WY Pei
+- Wanyu Pei
 - filip
-- R Stouffs
+- Rudi Stouffs
 tags: []
 categories: []
 date: '2022-10-18'
