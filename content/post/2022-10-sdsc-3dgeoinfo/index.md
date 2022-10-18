@@ -40,7 +40,7 @@ Several members of our research group -- {{% mention "leon" %}}, {{% mention "ma
 
 > Alva P, Biljecki F, Stouffs R (2022): Use cases for district-scale urban digital twins. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, XLVIII-4/W4-2022: 5-12.  [<i class="ai ai-doi-square ai"></i> 10.5194/isprs-archives-XLVIII-4-W4-2022-5-2022](https://doi.org/10.5194/isprs-archives-XLVIII-4-W4-2022-5-2022) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-3-dgeoinfo-dt-use-cases/2022-3-dgeoinfo-dt-use-cases.pdf)</i>
 
-> Pei WY, Biljecki F, Stouffs R (2022): Local Climate Zones: Lessons from Singapore and potential improvement with street view imagery. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences, X-4/W2-2022: 225–232. [<i class="ai ai-doi-square ai"></i> 10.5194/isprs-annals-X-4-W2-2022-225-2022](https://doi.org/10.5194/isprs-annals-X-4-W2-2022-225-2022) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-3-dgeoinfo-urban-building-stock/2022-3-dgeoinfo-urban-building-stock.pdf)</i>
+> Pei WY, Biljecki F, Stouffs R (2022): Dataset for urban scale building stock modelling: Identification and review of potential data collection approaches. ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences, X-4/W2-2022: 225–232. [<i class="ai ai-doi-square ai"></i> 10.5194/isprs-annals-X-4-W2-2022-225-2022](https://doi.org/10.5194/isprs-annals-X-4-W2-2022-225-2022) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-3-dgeoinfo-urban-building-stock/2022-3-dgeoinfo-urban-building-stock.pdf)</i>
 
 
 For some of them, this is their first paper, congrats! :raised_hands: :clap:
