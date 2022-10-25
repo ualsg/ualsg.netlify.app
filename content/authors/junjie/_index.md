@@ -44,9 +44,15 @@ education:
 #   icon_pack: ai
 #   link: files/cv.pdf
 social:
+- icon: home
+  icon_pack: fas
+  link: http://www.junjieluo.cn
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E4%BF%8A%E6%9D%B0-%E7%BD%97-481824222/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=9DZiTEUAAAAJ&hl=en&oi=sra
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JunjieLuo21
