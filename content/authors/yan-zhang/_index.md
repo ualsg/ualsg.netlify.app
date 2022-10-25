@@ -44,10 +44,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:sggzhang@whu.edu.cn'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yan-zhang-ab4a67234/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.hk/citations?user=H8T2HtsAAAAJ&hl=en
-
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/ZhangYa96799276
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
