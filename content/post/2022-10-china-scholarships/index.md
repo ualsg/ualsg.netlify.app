@@ -34,6 +34,6 @@ Big congratulations to {{< mention "junjie" >}} (Tianjin University), {{< mentio
 
 During their stay, they also published [papers](/publication/) in leading journals.
 
-We are honoured to have you hosted in our research group and wish you continued success in your next steps.
+We are honoured to have hosted you in our research group and wish you continued success in your future endeavours.
 
 ![](certificate.png)
