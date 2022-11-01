@@ -47,6 +47,14 @@ content:
       icon_pack: fab
       name: Twitter
       link: 'https://twitter.com/urbanalyticslab'
+    - icon: linkedin
+      icon_pack: fab
+      name: LinkedIn
+      link: 'https://www.linkedin.com/company/urban-analytics-lab/'
+    - icon: weibo
+      icon_pack: fab
+      name: Weibo
+      link: 'https://weibo.com/urbanalyticslab'
 
 design:
   columns: '2'

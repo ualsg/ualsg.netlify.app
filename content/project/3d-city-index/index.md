@@ -1,10 +1,10 @@
 ---
 title: 3D City Index
-summary: Assessing and benchmarking 3D City Models
+summary: Assessing and benchmarking 3D city models
 authors: [binyu, Rudi Stouffs, filip]
 profile: true  # Show author profile?
-date: 2022-09-06T09:40:16+08:00
-lastmod: 2022-09-06T09:40:16+08:00
+date: 2022-10-28T09:40:16+08:00
+lastmod: 2022-10-28T09:40:16+08:00
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -182,6 +182,25 @@ You may click on cities to visit their 3D models.
 
 ![](visual-representation-level.jpeg)
 
+## Documentation, paper, and attribution
+
+A [paper](https://doi.org/10.1080/13658816.2022.2140808) describing the project was published in _International Journal of Geographical Information Science_.
+
+If you use this work in a scientific context, please cite the paper:
+
+> Lei B, Stouffs R, Biljecki F (2022): Assessing and benchmarking 3D city models. International Journal of Geographical Information Science.
+
+```bibtex
+@article{2022_ijgis_3d_city_index, 
+  year = {2022}, 
+  title = {{Assessing and benchmarking 3D city models}}, 
+  author = {Lei, Binyu and Stouffs, Rudi and Biljecki, Filip}, 
+  journal = {International Journal of Geographical Information Science}, 
+  doi = {10.1080/13658816.2022.2140808}, 
+  pages = {}, 
+  volume = {}
+}
+```
 
 ## Lead research and development
 {{% mention "binyu" %}}

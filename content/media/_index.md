@@ -13,6 +13,7 @@ design:
 
 ## 2022
 
+* CDE: [Building smarter, more sustainable, liveable cities: The Urban Analytics Lab (video)](https://vimeo.com/764033095)
 * NUS: [Creating a map for the future](https://news.nus.edu.sg/creating-a-map-for-the-future)
 
 ## 2021
