@@ -57,7 +57,7 @@ PhD applications are examined carefully.
 You can be sure that your application will be given adequate attention, however, generic applications and those without a clear motivation and understanding of the scope of our work, and those that do not demonstrate research affinity, are routinely rejected.
 
 Prospective candidates who did a bit of research on what we do and those that are able to exhibit their aptitude for research and motivate their wish to join us in particular have a much better chance getting admitted into the doctoral programme.
-This is most evident from a tailored and research-focused application pertaining to our Lab, university and Singapore (more about that in the next paragraph).
+This is most evident from a tailored and research-focused application pertaining to our Lab, university and Singapore (more about that in the continuation).
 
 When applying for a PhD, please prepare your CV (in particular, highlight your computational and research skills, and any publications you may have), accompanied by:
 * a brief research proposal (2-4 pp.) containing a summary of the topics that you find interesting and a short literature review that covers recent developments in your area of interest. You should be able to briefly formulate existing gaps and think about how do you plan to fill them in the next few years. This does not have to be comprehensive and advanced, as during the first months of your PhD you'll have a plenty of time to work on all that and sharpen your plans, but you should be able to demonstrate your motivation and research skills. Do remember to include other key components in your statement (a common mistake is to overlook including a literature review, contributions, output plan, and schedule) and avoid making your proposal generic (e.g. mention the fit for our group, university, and Singapore, as admission/scholarship committees usually turn down such applications). The last point is of particular importance -- if your proposal feels like it can be submitted also to several other universities, your application is likely doomed;
@@ -66,7 +66,7 @@ When applying for a PhD, please prepare your CV (in particular, highlight your c
 * a brief statement how do you envision contributing to our research agenda and group. A PhD is a substantial commitment from both sides for a few years, thus, your fit is no less important than your research finesse.
 
 All the points above should be brief, e.g. a few paragraphs for each aforementioned aspect, so it shouldn't take much time and effort to stand out.
-Preparing such documentation is quite beneficial as it will also help you to explore and refine your thoughts and interests.
+You will find that preparing such documentation is quite beneficial as it will also help you to explore and refine your thoughts and interests.
 
 Further, we advise to make sure that you write your application in clear and concise English, and that you send your materials in PDF (sending Word documents is not only bad practice, but it also implies a lack of computer literacy, which is not viewed favourably when assessing computationally focused applicants).
 
@@ -75,7 +75,7 @@ We thank you for your interest.
 ### Application to NUS and more information
 
 The [NUS website on graduate admissions](https://nusgs.nus.edu.sg) is a good starting point to get more information about doing a PhD at our university.
-The application deadlines are usually 15 November for the intake in August next year, and 15 May for the start in January.
+The [application deadlines](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/application-period-2/) are usually at the end of the year for the intake in August next year, and in July for the start in January next year.
 Please start preparing early, and indicate in your application that you would like to be supervised by Dr {{< mention "filip" >}}.
 The supervisor is assigned to the candidate after the successful admission to the PhD programme.
 

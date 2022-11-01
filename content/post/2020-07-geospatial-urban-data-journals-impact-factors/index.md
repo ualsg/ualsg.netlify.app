@@ -10,7 +10,7 @@ categories: []
 date: 2020-07-06T08:56:41+08:00
 lastmod: 2021-01-01T08:56:41+08:00
 featured: false
-draft: false
+draft: true
 exclude_jquery: true
 
 # Featured image

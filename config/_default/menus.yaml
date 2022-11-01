@@ -35,22 +35,22 @@ main:
     parent: 'geospatial resources'
     url: '/data-code'
     weight: 51
-  - name: 'list of journals'
-    parent: 'geospatial resources'
-    url: '/post/2020/07/06/geospatial-and-urban-data-science-journals/'
-    weight: 52
   - name: 'global building morphology indicators'
     parent: 'geospatial resources'
     url: '/project/gbmi/'
-    weight: 53
+    weight: 52
   - name: 'roofpedia'
     parent: 'geospatial resources'
     url: '/project/roofpedia/'
-    weight: 54
+    weight: 53
   - name: 'open building data'
     parent: 'geospatial resources'
     url: '/project/ogbd/'
-    weight: 55
+    weight: 54
+  - name: '3d city index'
+    parent: 'geospatial resources'
+    url: '/project/3d-city-index/'
+    weight: 54
   - name: 'open data SG'
     parent: 'geospatial resources'
     url: '/post/2020/06/24/guide-for-open-urban-data-in-singapore/'

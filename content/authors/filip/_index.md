@@ -100,12 +100,12 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 ### Additional appointments
 * [Future Cities Lab Global at the Singapore-ETH Centre](https://sec.ethz.ch/research/fcl.html) -- Principal Investigator
 * [Open Geospatial Consortium](https://www.ogc.org), [3DIM DWG](https://www.ogc.org/projects/groups/3dimdwg) -- Co-Chair
+* [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org), [WG IV/1: Spatial Data Representation and Interoperability](https://www2.isprs.org/commissions/comm4/wg1/) -- Chair
 * [NUS Institute of Data Science](https://ids.nus.edu.sg) -- Faculty Affiliate
 * [NUS Sustainable and Green Finance Institute](https://sgfin.nus.edu.sg) -- Research Affiliate
 * [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Editorial Board Member
 * [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671) -- Editorial Board Member
 * [PLOS ONE](https://journals.plos.org/plosone/) -- Academic Editor for Geoinformatics
-* [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org), [WG IV/10: Advanced Geospatial Applications for Smart Cities and Regions](https://www2.isprs.org/commissions/comm4/wg10/) -- Board Member
 * [International Journal of Digital Innovation in the Built Environment](https://www.igi-global.com/journal/international-journal-digital-innovation-built/224363) -- Editorial Board Member
 * [Open Geospatial Data, Standards and Software](https://opengeospatialdata.springeropen.com/) -- Editorial Board Member (2018-2021)
 * [World Economic Forum](https://www.weforum.org/), Global Future Council on Cities and Urbanization -- Fellow (2018-2020)

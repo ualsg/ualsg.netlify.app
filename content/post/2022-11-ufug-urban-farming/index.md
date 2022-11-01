@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "New paper on the food production potential of a high-rise public housing apartment building"
-subtitle: "A feasibility study on the utilization of the vertical space of retrofitted high-rise public housing apartment buildings to increase urban vegetable self-sufficiency."
-summary: "Home gardening in Singapore: A feasibility study on the utilization of the vertical space of retrofitted high-rise public housing apartment buildings to increase urban vegetable self-sufficiency."
+title: "New paper: food production potential of high-rise public housing apartment buildings"
+subtitle: "A feasibility study, supported by 3D & digital twins, on the utilisation of the vertical space of retrofitted residential buildings to increase urban vegetable self-sufficiency."
+summary: "Home gardening in Singapore: A feasibility study, supported by 3D & digital twins, on the utilisation of the vertical space of retrofitted residential buildings to increase urban vegetable self-sufficiency."
 authors: [admin]
-tags: [paper, digital twin, urban form, 3d city models]
+tags: [paper, digital twin, urban agriculture, urban farming, urban form, 3d city models]
 categories: []
-date: 2022-10-26T10:51:16+08:00
-lastmod: 2022-10-26T10:51:16+08:00
+date: 2022-11-01T10:51:16+08:00
+lastmod: 2022-11-01T10:51:16+08:00
 featured: false
 draft: true
 
@@ -36,6 +36,12 @@ Congratulations to [Dr Song Shuang](https://www.researchgate.net/profile/Shuang-
 
 This experimental work, conducted in a high-rise residential building in Singapore, demonstrates that with proper optimisations, about half of the vegetable needs of the residents living in a building of such a typology can be met by food production in the building alone.
 In this multidisciplinary work, 3D building models have been used to facilitate the process (based on the work by {{% mention "ankit" %}} [published in CEUS in 2021]({{< relref "/publication/2021-ceus-3-d-farming" >}}), introducing a new use case of 3D city models in urban farming). 
+
+The work supports [Singapore's '30 by 30' initiative -- aspiring to develop the agri-food industry's capability and capacity to produce 30% of the city-state's nutritional needs locally and sustainably by 2030](https://www.ourfoodfuture.gov.sg/30by30).
+
+This line of work also sets the scene for investigating the use of digital twins in supporting urban farming, which may be especially relevant in land scarce urban areas such as Singapore (and many others), and against the backdrop of supply chain disruptions that may impede food security. 
+
+Until 2022-12-09, the article is available for free via [this link](https://authors.elsevier.com/c/1fy7f5m5d7vrWj).
 
 ![](1.png)
 
