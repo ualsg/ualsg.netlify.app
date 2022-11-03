@@ -36,7 +36,7 @@ We are excited to share a video about our research group produced by our [NUS Co
 
 Besides the [PI](/authors/filip/) of the Lab, the video features PhD researchers {{% mention "binyu" %}}, {{% mention "koichi" %}}, {{% mention "winston" %}}, and {{% mention "abraham" %}}.
 
-The video _Building smarter, more sustainable, liveable cities: The Urban Analytics Lab_ is also available on [this link](https://vimeo.com/manage/videos/764033095).
+The video _Building smarter, more sustainable, liveable cities: The Urban Analytics Lab_ is also available on [this link](https://vimeo.com/764033095).
 
 Many thanks to our College for supporting and amplifying the stuff we do.
 
