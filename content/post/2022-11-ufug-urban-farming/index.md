@@ -35,11 +35,11 @@ We are glad to share a new collaborative paper in which we were involved:
 Congratulations to [Dr Song Shuang](https://www.researchgate.net/profile/Shuang-Song-33) from [NUS Biological Sciences](https://www.dbs.nus.edu.sg) for the publication of this forward-looking work, and thanks for this productive and exciting collaboration!
 
 This experimental work, conducted in a high-rise residential building in Singapore, demonstrates that with proper optimisations, about half of the vegetable needs of the residents living in a building of such a typology can be met by food production in the building alone.
-In this multidisciplinary work, 3D building models have been used to facilitate the process (based on the work by {{% mention "ankit" %}} [published in CEUS in 2021]({{< relref "/publication/2021-ceus-3-d-farming" >}}), introducing a new use case of 3D city models in urban farming). 
+In this multidisciplinary collaboration, 3D building models have been used to facilitate the process (based on the work by {{% mention "ankit" %}} [published in CEUS in 2021]({{< relref "/publication/2021-ceus-3-d-farming" >}}), introducing a new use case of 3D city models in urban farming). 
 
 The work supports [Singapore's '30 by 30' initiative -- aspiring to develop the agri-food industry's capability and capacity to produce 30% of the city-state's nutritional needs locally and sustainably by 2030](https://www.ourfoodfuture.gov.sg/30by30).
 
-This line of work also sets the scene for investigating the use of digital twins in supporting urban farming, which may be especially relevant in land scarce urban areas such as Singapore (and many others), and against the backdrop of supply chain disruptions that may impede food security. 
+This line of research also sets the scene for investigating the use of digital twins in supporting urban farming, which may be especially relevant in land scarce urban areas such as Singapore (and many others), and against the backdrop of supply chain disruptions that may impede food security. 
 
 Until 2022-12-09, the article is available for free via [this link](https://authors.elsevier.com/c/1fy7f5m5d7vrWj).
 
