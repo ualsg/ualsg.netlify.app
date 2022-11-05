@@ -5,7 +5,7 @@ title: "New paper: Semantic Riverscapes"
 subtitle: "Landscape and Urban Planning publishes our novel workflow for visual analysis of urban river landscapes by combining UAV oblique photography with CV and VR."
 summary: "Landscape and Urban Planning publishes our novel workflow for visual analysis of urban river landscapes by combining UAV oblique photography with CV and VR."
 authors: [admin]
-tags: [paper, review, GeoAI, machine learning, computer vision, riverscapes, VR]
+tags: [paper, GeoAI, machine learning, computer vision, riverscapes, VR]
 categories: []
 date: 2022-09-23T22:11:16+08:00
 lastmod: 2022-09-23T22:11:16+08:00
