@@ -20,7 +20,7 @@ We publish most of our code and data on [our Github account](https://github.com/
 Please see below for a list of resources and projects, especially lab-grown datasets that we released openly. 
 On this page, we also include [outputs led by collaborators](#with-our-friendly-collaborators), in which we were involved.
 
-On a related note, you may be interested in [our comprehensive survey on open-source software](https://doi.org/10.1016/j.compenvurbsys.2022.101825), published as a review paper in CEUS.
+On a related note, you may be interested in [our comprehensive survey on open-source software](https://doi.org/10.1016/j.compenvurbsys.2022.101825), published as a review paper in Computers, Environment and Urban Systems.
 
 In general, all code and data are released under a liberal licence, enabling you unrestricted use as long as you attribute them.
 If you use the code and/or the data for presentations and publications, we kindly ask you to cite the related paper(s) and credit our work. 
@@ -40,10 +40,21 @@ In you are interested in collaborating with us, please get in touch with the lea
 | ------------------| ------------------------------ |
 | Short description: | On-water perspective imagery dataset for semantic segmentation of waterscapes. |
 | Lead developer: | {{% mention "junjie" %}} |
-| Further reading: | Paper in progress... Stay tuned |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.ecolind.2022.109615) published in Ecological Indicators |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Water-View-Imagery-dataset) |
 | Main data source(s): | Mapillary and manual labelling |
 | Coverage: | Eight cities: Amsterdam, Bangkok, Chicago, Istanbul, Japan, London, Paris, and Venice | 
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2022_ei_water_view_imagery,
+  author = {Luo, Junjie and Zhao, Tianhong and Cao, Lei and Biljecki, Filip},
+  doi = {10.1016/j.ecolind.2022.109615},
+  journal = {Ecological Indicators},
+  pages = {109615},
+  title = {Water View Imagery: Perception and evaluation of urban waterscapes worldwide},
+  volume = {145},
+  year = {2022}
+}
+{{< /spoiler >}}|
 
 ## Global Urban Road Network Patterns
 
@@ -89,7 +100,7 @@ In you are interested in collaborating with us, please get in touch with the lea
 | Short description: | Billions of built form metrics of selected urban areas around the world, together with a database solution to compute them |
 | Lead developer: | {{% mention "yoong-shin" %}} |
 | Formats | CSV, Shapefile, Geopackage, GeoTIFF |
-| Further reading: | Please read more at our [website]({{< ref "/project/gbmi/index.md" >}}) or in the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809) |
+| Further reading: | Please read more at our [website]({{< ref "/project/gbmi/index.md" >}}) or in the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101809) published in Computers, Environment and Urban Systems |
 | Download: | [Project website](/project/gbmi/) |
 | Code: | The code used to generate the dataset is available in the [<i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/global-building-morphology-indicators) |
 | Main data source(s): | OpenStreetMap, GADM |
@@ -116,7 +127,7 @@ In you are interested in collaborating with us, please get in touch with the lea
 | Short description: | Locations of buildings that have installed photovoltaics or greenery on their rooftops |
 | Lead developer: | {{% mention "abraham" %}} |
 | Formats | GeoJSON |
-| Further reading: | Please read more at our [website]({{< ref "/project/roofpedia/index.md" >}}) or in the [paper](https://doi.org/10.1016/j.landurbplan.2021.104167) |
+| Further reading: | Please read more at our [website]({{< ref "/project/roofpedia/index.md" >}}) or in the [paper](https://doi.org/10.1016/j.landurbplan.2021.104167) published in Landscape and Urban Planning |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Roofpedia) |
 | Code: | The code used to generate the dataset is available in the [same <i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/Roofpedia) |
 | Main data source(s): | Various satellite imagery, OpenStreetMap. All open data |
@@ -142,7 +153,7 @@ In you are interested in collaborating with us, please get in touch with the lea
 | ------------------| ------------------------------ |
 | Short description: | A semantically annotated UAV oblique image dataset covering an urban river landscape |
 | Lead developer: | {{% mention "junjie" %}} |
-| Further reading: | Please read the [paper](https://doi.org/10.1016/j.landurbplan.2022.104569) |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.landurbplan.2022.104569) published in Landscape and Urban Planning |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/semantic-riverscapes-dataset) |
 | Main data source(s): | Own data collection (UAV) and manual labelling |
 | Coverage: | Tianjin (China) | 
@@ -167,7 +178,7 @@ volume = {228}
 | ------------------| ------------------------------ |
 | Short description: | Software to generate diagrams of the urban form at the city-scale and classify them using deep learning |
 | Lead developer: | {{% mention "wangyang" %}} |
-| Further reading: | Please read more in the [paper](https://doi.org/10.1016/j.compenvurbsys.2021.101706) |
+| Further reading: | Please read more in the [paper](https://doi.org/10.1016/j.compenvurbsys.2021.101706) published in Computers, Environment and Urban Systems |
 | Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/Road-Network-Classification) |
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
 @article{2021_ceus_dl_morphology,
@@ -190,7 +201,7 @@ volume = {228}
 | ------------------| ------------------------------ |
 | Short description: | A building footprint generator using Generative Adversarial Networks from sparse data such as street networks |
 | Lead developer: | {{% mention "abraham" %}} |
-| Further reading: | Please read more in the [IJGIS paper](https://doi.org/10.1080/13658816.2022.2041643) |
+| Further reading: | Please read more in the [paper](https://doi.org/10.1080/13658816.2022.2041643) published in the International Journal of Geographical Information Science |
 | Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/GANmapper) |
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
 @article{2022_ijgis_ganmapper, 
@@ -211,7 +222,7 @@ volume = {228}
 | Short description: | About 12k semantically rich 3D buildings in Singapore in CityJSON and OBJ |
 | Lead developer: | {{% mention "filip" %}} |
 | Formats | [CityJSON](https://cityjson.org), [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file) |
-| Further reading: | Please read more here in our [blog post]({{< ref "/post/2019-08-hdb-3d/index.md" >}}) or in the [paper](/publication/2020-3-dgeoinfo-3-d-asean/) |
+| Further reading: | Please read more here in our [blog post]({{< ref "/post/2019-08-hdb-3d/index.md" >}}) or in the [paper](/publication/2020-3-dgeoinfo-3-d-asean/) published at 3D GeoInfo |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/hdb3d-data) |
 | Code: | The code used to generate the dataset is available in a [separate <i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/hdb3d-code) |
 | Main data source(s): | HDB, OpenStreetMap, OneMap. All open data |
@@ -252,7 +263,7 @@ volume = {228}
 | Lead developers: | [Anna Labetski](http://3d.bk.tudelft.nl/alabetski) and [Stelios Vitalis](http://3d.bk.tudelft.nl/svitalis), [3D Geoinformation](https://3d.bk.tudelft.nl), TU Delft |
 | Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/tudelft3d/3d-building-metrics) |
 | Data: | [Repository](https://doi.org/10.7910/DVN/6QCRRF) |
-| Further reading: | Please read the [paper](https://doi.org/10.1080/13658816.2022.2103818) |
+| Further reading: | Please read the [paper](https://doi.org/10.1080/13658816.2022.2103818) published in the International Journal of Geographical Information Science |
 | Coverage: | Major cities in the Netherlands, extensible thanks to the code released open-source | 
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
 @article{2022_ijgis_3dbm,
@@ -276,7 +287,7 @@ volume = {228}
 | Short description: | Takes 2D GIS datasets (e.g. topographical datasets) and "3dfies" them (as in "making them three-dimensional") by lifting every polygon to 3D |
 | Lead developer: | [3D Geoinformation](https://3d.bk.tudelft.nl), TU Delft |
 | Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/tudelft3d/3dfier) |
-| Further reading: | Please read more in the [paper](https://doi.org/10.21105/joss.02866) |
+| Further reading: | Please read more in the [paper](https://doi.org/10.21105/joss.02866) published in the Journal of Open Source Software |
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
 @article{2021_joss_3dfier,
  author = {Ledoux, Hugo and Biljecki, Filip and Dukai, Balázs and Kumar, Kavisha and Peters, Ravi and Stoter, Jantien and Commandeur, Tom},
