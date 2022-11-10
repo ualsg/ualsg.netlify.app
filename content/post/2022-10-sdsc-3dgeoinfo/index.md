@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "UAL at the SDSC & 3D GeoInfo Joint Conference"
-subtitle: "We contributed four papers to the jointly organised 7th Smart Data Smart Cities & 17th 3D GeoInfo events at UNSW Sydney"
-summary: "We contributed four papers to the jointly organised 7th Smart Data Smart Cities & 17th 3D GeoInfo events at UNSW Sydney"
+subtitle: "We contributed four papers to the jointly organised 7th Smart Data Smart Cities & 17th 3D GeoInfo events at UNSW Sydney."
+summary: "We contributed four papers to the jointly organised 7th Smart Data Smart Cities & 17th 3D GeoInfo events at UNSW Sydney."
 authors: [admin]
 tags: [paper, event, conference, street view imagery, digital twins]
 categories: []

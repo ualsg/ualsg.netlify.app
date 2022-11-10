@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "New paper: Assessing and benchmarking 3D city models"
-subtitle: "The International Journal of Geographical Information Science publishes our study on characterising the properties of urban digital twins"
-summary: "The International Journal of Geographical Information Science publishes our study on characterising the properties of urban digital twins"
+subtitle: "The International Journal of Geographical Information Science publishes our study on characterising the properties of urban digital twins."
+summary: "The International Journal of Geographical Information Science publishes our study on characterising the properties of urban digital twins."
 authors: [admin]
 tags: [paper, 3D GIS, digital twin, index, quality, metadata]
 categories: []
