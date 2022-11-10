@@ -5,10 +5,10 @@ title: "New paper: Assessing and benchmarking 3D city models"
 subtitle: "The International Journal of Geographical Information Science publishes our study on characterising the properties of urban digital twins"
 summary: "The International Journal of Geographical Information Science publishes our study on characterising the properties of urban digital twins"
 authors: [admin]
-tags: [paper, GeoAI, machine learning, computer vision, riverscapes, VR]
+tags: [paper, 3D GIS, digital twin, index, quality, metadata]
 categories: []
-date: 2022-11-10T16:11:16+08:00
-lastmod: 2022-11-10T16:11:16+08:00
+date: 2022-11-10T16:24:16+08:00
+lastmod: 2022-11-10T16:24:16+08:00
 featured: false
 draft: false
 
