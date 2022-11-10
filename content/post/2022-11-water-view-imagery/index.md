@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "New paper: Water View Imagery"
-subtitle: "Ecological Indicators publishes our latest work on introducing a new kind of urban visual perspective for perception and evaluation studies of waterscapes worldwide"
-summary: "Ecological Indicators publishes our latest work on introducing a new kind of urban visual perspective for perception and evaluation studies of waterscapes worldwide"
+subtitle: "Ecological Indicators publishes our latest work on introducing a new kind of urban visual perspective for perception and evaluation studies of waterscapes worldwide."
+summary: "Ecological Indicators publishes our latest work on introducing a new kind of urban visual perspective for perception and evaluation studies of waterscapes worldwide."
 authors: [admin]
 tags: [paper, GeoAI, machine learning, computer vision, riverscapes, VR]
 categories: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "New paper: food production potential of high-rise public housing apartment buildings"
+title: "New paper: Food production potential of high-rise public housing apartment buildings"
 subtitle: "A feasibility study, supported by 3D & digital twins, on the utilisation of the vertical space of retrofitted residential buildings to increase urban vegetable self-sufficiency."
 summary: "Home gardening in Singapore: A feasibility study, supported by 3D & digital twins, on the utilisation of the vertical space of retrofitted residential buildings to increase urban vegetable self-sufficiency."
 authors: [admin]
