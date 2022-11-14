@@ -76,9 +76,20 @@ In you are interested in collaborating with us, please get in touch with the lea
 | ------------------| ------------------------------ |
 | Short description: | A toolkit to examine the quality of street view imagery |
 | Lead developer: | {{% mention "yujun" %}} |
-| Further reading: | Readme on the Github repo. Paper in progress, stay tuned |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.jag.2022.103094) published in JAG |
 | Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/SVI-Quality-Checker) |
 | Main data source(s): | Mapillary |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2022_jag_svi_quality, 
+  year = {2022}, 
+  title = {{A comprehensive framework for evaluating the quality of street view imagery}}, 
+  author = {Hou, Yujun and Biljecki, Filip}, 
+  journal = {International Journal of Applied Earth Observation and Geoinformation}, 
+  doi = {10.1016/j.jag.2022.103094}, 
+  pages = {103094}, 
+  volume = {115}
+}
+{{< /spoiler >}}|
 
 ## Visual soundscapes
 
