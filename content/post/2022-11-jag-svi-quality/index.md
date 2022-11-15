@@ -37,6 +37,8 @@ Congratulations on the first first-author paper! :raised_hands: :clap:
 
 The implementation was released openly: [Street View Imagery Quality Checker](https://github.com/ualsg/SVI-Quality-Checker).
 
+The paper is also the first one to provide a definition of the concept of SVI:
+> Street view imagery (SVI) is typically a sequence of geotagged, ground-level photographs taken along a trajectory, providing spatially continuous observation of its vicinity.
 
 ![](1.jpg)
 
