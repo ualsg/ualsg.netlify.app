@@ -5,10 +5,10 @@ title: "New paper: Incorporating Networks in Semantic Understanding of Streetsca
 subtitle: "Environment and Planning B publishes our novel research on contextualising active mobility decisions."
 summary: "Environment and Planning B publishes our novel research on contextualising active mobility decisions."
 authors: [admin]
-tags: [paper, GeoAI, computer vision, street-view imagery]
+tags: [paper, GeoAI, computer vision, street-view imagery, mobility, walkability]
 categories: []
-date: 2022-11-20T22:11:16+08:00
-lastmod: 2022-11-20T22:11:16+08:00
+date: 2022-11-19T16:22:16+08:00
+lastmod: 2022-11-19T16:22:16+08:00
 featured: false
 draft: true
 
