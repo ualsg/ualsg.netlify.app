@@ -18,6 +18,22 @@ In our seminar series, we give priority to early career researchers.
 The seminars are by invitation.
 The series is managed by Dr {{% mention "marcel" %}}.
 
+
+### 2022-12-09 --- Computer Vision Applications in Planning Research
+
+By [Meiqing Li](http://meiqingli.com),
+[College of Environmental Design](https://ced.berkeley.edu),
+[University of California, Berkeley](https://www.berkeley.edu),
+USA
+
+As planning research develops in response to a more complex policy context, better representation of the built environment (or physical urban system) at multiple scales becomes as important as a comprehensive and inclusive representation of decision-makers and processes. The emergence of novel data sources (e.g., OpenStreetMap, Google Street View, and satellite imagery) allows researchers to extract higher quality measures of the built environment, addressing some of the limitations in previous research regarding spatial-temporal data quality and consistency. Computer science technologies, especially computer vision, present opportunities to advance traditional data collection techniques by extracting built environment features beyond regional scales and network resolution. This seminar will discuss a few recent and ongoing projects integrating computer vision technologies into the pipeline of planning research. 
+
+Registration coming soon. 
+
+![](2022-12-09.png)
+
+---
+
 ### 2022-11-25 --- The role of digital tools and data for citizen engagement and participatory planning
 
 By [Gamze Dane](https://gamzedane.com),
