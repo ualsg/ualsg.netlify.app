@@ -99,8 +99,19 @@ In you are interested in collaborating with us, please get in touch with the lea
 | ------------------| ------------------------------ |
 | Short description: | Predicting the urban soundscape from street view imagery |
 | Lead developer: | {{% mention "tianhong" %}} |
-| Further reading: | Readme on the Github repo. Paper in progress, stay tuned |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.compenvurbsys.2022.101915) published in CEUS |
 | Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/Visual-soundscapes) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2023_ceus_soundscapes,
+  author = {Zhao, Tianhong and Liang, Xiucheng and Tu, Wei and Huang, Zhengdong and Biljecki, Filip},
+  doi = {10.1016/j.compenvurbsys.2022.101915},
+  journal = {Computers, Environment and Urban Systems},
+  pages = {101915},
+  title = {Sensing urban soundscapes from street view imagery},
+  volume = {99},
+  year = {2023}
+}
+{{< /spoiler >}}|
 
 ## GBMI -- Global Building Morphology Indicators
 
