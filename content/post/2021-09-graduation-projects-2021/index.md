@@ -35,6 +35,8 @@ We are proud to announce that in the last few months, four students have complet
 In her excellent thesis for the degree of MSc in Applied GIS, {{% mention "xinyu" %}} has researched extracting information on buildings and amenities from latent sources of data -- property transactions and real estate ads.
 The work has resulted in an entirely new approach to collect spatial data, and it posits that real estate data may be considered as an uncovered type of volunteered geoinformation.
 
+Her thesis was also [published as a paper in Urban Informatics]({{< relref "/post/2022-11-ui-real-estate" >}}).
+
 {{< figure library="true" src="fc.png" title="Approximate locations of unmapped fitness centres in Singapore, which have been discovered by Xinyu's approach of analysing real estate information." >}}
 
 ### 3D building reconstruction with sparse street view images using deep learning techniques
@@ -47,13 +49,16 @@ Therefore, new methods have to be developed for 3D building model reconstruction
 In her ambitious graduation project, {{% mention "hui-en" %}} has developed a method to reconstruct 3D building models from single street view images.
 Following the completion of this successful research, at the intersection of computer vision, 3D modelling and geographic information science, Hui En has been awarded an MSc in Applied GIS.
 
+The paper on her research was [published in JAG]({{< relref "/post/2022-07-jag-3d-svi-paper" >}}).
+
 {{< figure library="true" src="3ddl.png" title="Reconstruction of 3D models from single images, based on Hui En's method." >}}
 
 ### Usability of street view imagery in assessing bikeability
 
 {{% mention "koichi" %}} graduated from the Master of Urban Planning with an interesting research on a new application of computer vision and street view imagery: assessing bikeability.
 Koichi's excellent work has demonstrated the value of these technologies and datasets for virtual audits gauging the cycling appeal, widely and at a high resolution.
-His thesis has been condensed into a paper -- it has been published in [TRC](https://doi.org/10.1016/j.trc.2021.103371).
+
+His thesis has been condensed into a paper -- [it has been published in TRC]({{< relref "/post/2021-09-trc-svi-bikeability-paper" >}}).
 
 {{< figure library="true" src="bikeability-maps.png" title="Bikeability maps in Singapore and Tokyo, generated with Koichi's automated assessment." >}}
 
@@ -63,7 +68,7 @@ His thesis has been condensed into a paper -- it has been published in [TRC](htt
 He has done a great job on spearheading a new application of deep learning in urban analytics: characterising urban morphology and linking it to urban vibrancy.
 The code he developed has been [released as open-source software](https://github.com/ualsg/Road-Network-Classification). 
 
-Further, [the paper based on his research was published in CEUS]({{< relref "/post/2021-08-ceus-urban-morphology-dl-paper" >}}).
+Further, the paper based on his research was [published in CEUS]({{< relref "/post/2021-08-ceus-urban-morphology-dl-paper" >}}).
 
 {{< figure library="true" src="um.png" title="Categorical maps of the urban form at a high spatial resolution, determined with Wangyang's deep learning approach." >}}
 
