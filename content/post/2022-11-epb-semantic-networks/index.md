@@ -35,8 +35,6 @@ We are glad to share our new paper:
 This research was led by {{% mention "winston" %}}.
 Congratulations on his continued successes during his PhD! :raised_hands: :clap:
 
-The article is available for free via [this link](https://journals.sagepub.com/eprint/K8IZNYBURXUKDNJUCBDZ/full).
-
 ![](1.png)
 
 ![](2.png)
