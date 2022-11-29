@@ -39,6 +39,8 @@ Congratulations on her first journal paper! :raised_hands: :clap:
 
 ![](2.png)
 
+The journal is founded and managed by the [International Society for Urban Informatics](http://isocui.org/).
+
 ### Abstract
 
 The abstract follows.
