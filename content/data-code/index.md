@@ -32,6 +32,29 @@ Feel free to contact us for more information, report bugs and errors, or simply 
 We would be pleased to hear how others are using our research.
 In you are interested in collaborating with us, please get in touch with the lead developer of each resource.
 
+## InstantCITY - Synthesising morphologically accurate geospatial data for urban form analysis, transfer, and quality control
+
+![](instantcity.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | Generating vectorised building footprint data from street networks using Generative Adversarial Networks |
+| Lead developer: | {{% mention "abraham" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.isprsjprs.2022.11.005) published in IJPRS |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/InstantCity) |
+| Main data source(s): | OpenStreetMap |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2023_ijprs_instantcity,
+ author = {Wu, Abraham Noah and Biljecki, Filip},
+ doi = {10.1016/j.isprsjprs.2022.11.005},
+ journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+ pages = {90-104},
+ title = {InstantCITY: Synthesising morphologically accurate geospatial data for urban form analysis, transfer, and quality control},
+ volume = {195},
+ year = {2023}
+}
+{{< /spoiler >}}|
+
 ## Water View Imagery
 
 ![](water-view-imagery.png)
@@ -215,7 +238,7 @@ volume = {228}
 }
 {{< /spoiler >}}|
 
-## GANmapper: geographical content translation
+## GANmapper: geographical data translation
 
 ![](ganmapper.jpg)
 
