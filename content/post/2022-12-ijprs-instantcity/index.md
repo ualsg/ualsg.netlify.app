@@ -48,7 +48,7 @@ Until 2023-01-18, the article is available for free via [this link](https://auth
 
 ![](1.png)
 
-![](2.png)
+![](2.jpg)
 
 ![](3.png)
 
