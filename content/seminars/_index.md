@@ -28,8 +28,6 @@ USA
 
 As planning research develops in response to a more complex policy context, better representation of the built environment (or physical urban system) at multiple scales becomes as important as a comprehensive and inclusive representation of decision-makers and processes. The emergence of novel data sources (e.g., OpenStreetMap, Google Street View, and satellite imagery) allows researchers to extract higher quality measures of the built environment, addressing some of the limitations in previous research regarding spatial-temporal data quality and consistency. Computer science technologies, especially computer vision, present opportunities to advance traditional data collection techniques by extracting built environment features beyond regional scales and network resolution. This seminar will discuss a few recent and ongoing projects integrating computer vision technologies into the pipeline of planning research. 
 
-Register [here](https://forms.gle/tH7jTSrha2N42zNr6).
-
 ![](2022-12-09.png)
 
 ---
@@ -43,8 +41,6 @@ By [Gamze Dane](https://gamzedane.com),
 the Netherlands
 
 As a response to centralized and rationalistic urban planning approaches that are unresponsive to citizens’ needs, participatory planning methods have emerged to design and plan urban environments with people for people. In recent years, there has been a rapid increase in the design, use, and adoption of digital tools (i.e. digital twins, VR, information dashboards) and the produced data (i.e. digital tracking, social media data, big data from sensory experiences) for supporting participatory decision-making in urban planning. These technologies assist citizen engagement and participatory planning in order to understand the status quo in urban areas, communicate potential changes, co-design future urban areas and reach consensus for inclusive, livable and sustainable urban environments. In this talk, I will present my current research interests in digital participatory planning. The presentation will cover the topics of (i) developing and applying digital tools and citizen science methods for supporting public participation and citizen engagement in urban transformation processes, (ii) performing urban (big) data science within people as sensors concept for understanding and predicting citizens’ behavior, opinions and experiences towards urban interventions.
-
-Register [here](https://forms.gle/6127Cb9uYi4VRrYU7).
 
 ![](2022-11-25.png)
 
