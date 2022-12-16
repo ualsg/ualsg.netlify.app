@@ -5,6 +5,11 @@ title = "Vacancy: Research Fellow, 2 positions in Urban Microclimate and Digital
 
 {{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
 
+{{% callout note %}}
+It is not possible to apply anymore to this position.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
 
 ### Job Description
 
@@ -48,7 +53,18 @@ Candidates should have the following qualities:
 
 ### Application
 
+{{% callout note %}}
+It is not possible to apply anymore to this position.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
+
 For the full text of the ad and applications, visit the [ad on the careers website of our university](https://careers.nus.edu.sg/NUS/job/Kent-Ridge-Research-Fellow-%28Urban-Microclimate-and-Digital-Twin%29-Kent/9747444/).
+
+{{% callout note %}}
+~~Applications will be considered as they are received and the position will remain open until filled.~~
+{{% /callout %}}
+
 
 ### Contact
 

@@ -1,7 +1,11 @@
 <h3>Current openings</h3>
 {{ range .opening }}
+{{ if .link }}
 <li><a href="../ads/{{ .link }}/">{{ .title }}</a></li>
-{{else}}
+{{ else if .externallink }}
+<li><a href="{{ .externallink }}/">{{ .title }}</a></li>
+{{ else }}
 Currently there are no openings for full-time staff.
 You can check past openings below to get a general idea about the positions we've had in the past, and might have in future, or you are welcome to send us an open application (see below for some guidelines).
+{{ end }}
 {{ end }}
