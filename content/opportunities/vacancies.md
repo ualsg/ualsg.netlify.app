@@ -9,7 +9,6 @@ banner:
   caption: ""
 ---
 
-
 {{< opening >}}
 
 <h3>Current openings in our projects hosted at the Singapore-ETH Centre</h3>
