@@ -30,7 +30,7 @@ image:
 
 We are glad to share a new collaborative paper in which we were involved:
 
-> Labetski A, Vitalis S, Biljecki F, Arroyo Ohori K, Stoter J (2022): 3D building metrics for urban morphology. _International Journal of Geographical Information Science_. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2022.2103818](https://doi.org/10.1080/13658816.2022.2103818) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ijgis-3-dbm/2022-ijgis-3-dbm.pdf)</i> <i class="ai ai-open-access-square ai"></i>
+> Labetski A, Vitalis S, Biljecki F, Arroyo Ohori K, Stoter J (2023): 3D building metrics for urban morphology. _International Journal of Geographical Information Science_, 37(1): 36-67. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2022.2103818](https://doi.org/10.1080/13658816.2022.2103818) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-ijgis-3-dbm/2023-ijgis-3-dbm.pdf)</i> <i class="ai ai-open-access-square ai"></i>
 
 Congratulations to [Anna Labetski](http://3d.bk.tudelft.nl/alabetski) and [Stelios Vitalis](http://3d.bk.tudelft.nl/svitalis) from the [3D Geoinformation group](https://3d.bk.tudelft.nl) at TU Delft for the publication of their work, and thanks for this productive and exciting collaboration!
 
@@ -47,18 +47,21 @@ The abstract follows.
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2022-ijgis-3-dbm/), published open access. <i class="ai ai-open-access-square ai"></i>
+For more information, please see the [paper](/publication/2023-ijgis-3-dbm/), published open access. <i class="ai ai-open-access-square ai"></i>
 
-[![](page-one.png)](/publication/2022-ijgis-3-dbm/)
+[![](page-one.png)](/publication/2023-ijgis-3-dbm/)
 
 BibTeX citation:
 ```bibtex
-@article{2022_ijgis_3dbm,
+@article{2023_ijgis_3dbm,
   author = {Labetski, Anna and Vitalis, Stelios and Biljecki, Filip and Arroyo Ohori, Ken and Stoter, Jantien},
+  doi = {10.1080/13658816.2022.2103818},
   journal = {International Journal of Geographical Information Science},
   title = {3D building metrics for urban morphology},
-  year = {2022},
-  doi = {10.1080/13658816.2022.2103818}
+  year = {2023},
+  volume = {37},
+  issue = {1},
+  pages = {36-67}
 }
 ```
 
