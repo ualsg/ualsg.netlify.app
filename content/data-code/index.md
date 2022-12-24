@@ -254,7 +254,10 @@ volume = {228}
   author = {Wu, Abraham Noah and Biljecki, Filip}, 
   title = {{GANmapper: geographical data translation}}, 
   journal = {International Journal of Geographical Information Science}, 
-  doi = {10.1080/13658816.2022.2041643}
+  doi = {10.1080/13658816.2022.2041643},
+  volume = {36},
+  issue = {7},
+  pages = {1394-1422}
 }
 {{< /spoiler >}}|
 
@@ -311,12 +314,15 @@ volume = {228}
 | Further reading: | Please read the [paper](https://doi.org/10.1080/13658816.2022.2103818) published in the International Journal of Geographical Information Science |
 | Coverage: | Major cities in the Netherlands, extensible thanks to the code released open-source | 
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
-@article{2022_ijgis_3dbm,
-  author = {Labetski, Anna and Vitalis, Stelios and Biljecki, Filip and Arroyo Ohori, Ken and Stoter, Jantien},
-  journal = {International Journal of Geographical Information Science},
-  title = {3D building metrics for urban morphology},
-  year = {2022},
-  doi = {10.1080/13658816.2022.2103818}
+@article{2023_ijgis_3dbm,
+ author = {Labetski, Anna and Vitalis, Stelios and Biljecki, Filip and Arroyo Ohori, Ken and Stoter, Jantien},
+ doi = {10.1080/13658816.2022.2103818},
+ journal = {International Journal of Geographical Information Science},
+ title = {3D building metrics for urban morphology},
+ year = {2023},
+ volume = {37},
+ issue = {1},
+ pages = {36-67}
 }
 {{< /spoiler >}}|
 
