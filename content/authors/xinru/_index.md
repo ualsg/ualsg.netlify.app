@@ -48,7 +48,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Staff and Doctoral Researchers
+- Alumni
 ---
 
 Xinru is experienced in transport planning, mobility modelling and project management. Since joining NUS, she has led large-scale Singapore Government projects and proposed solutions using multi-modal simulation and data driven analytics. She is also actively involved in conducting tutorials and course on traffic modelling techniques. Her research interests are mobility simulation and behaviour analysis, car-lite city study, intelligent transport system. At the UAL, Xinru will support digital twin development in the mobility area.
