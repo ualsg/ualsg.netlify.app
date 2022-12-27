@@ -51,7 +51,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+- Alumni
 ---
 
 Zhiye is pursuing a master’s degree in Urban Planning at the NUS College of Design and Engineering.

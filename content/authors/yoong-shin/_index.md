@@ -60,7 +60,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Staff and Doctoral Researchers
+- Alumni
 ---
 
 Yoong Shin is working on [a project]({{< ref "/project/3d-open/index.md" >}}) focused on the development of a method to generate 3D city models using geo-data science & machine learning.
