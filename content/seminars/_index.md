@@ -18,6 +18,20 @@ In our seminar series, we give priority to early career researchers.
 The seminars are by invitation.
 The series is managed by Dr {{% mention "marcel" %}}.
 
+---
+
+### 2023-01-03 --- Addressing the Urban Planning Challenges Using GeoAI
+
+By [Vaibhav Kumar](https://sites.google.com/view/vaibhavkumar1/home),
+[Department of Data Science and Engineering](https://dse.iiserb.ac.in),
+[Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in),
+India
+
+The world is witnessing tremendous planned and unplanned urban growth. More than 50% of the population will reside in urban centres in the next decade. The existing cities are witnessing a lot of challenges in many areas such as housing, health, climate, disaster, and transportation, to name a few. If not addressed now, these challenges will be even more pragmatic in the coming future, especially in the urban centers of developing countries. Geospatial Artificial Intelligence (GeoAI), which combines spatial data with artificial intelligence offers unique solutions to various urban issues. This talk aims to cover studies from GeoAI Research Lab, IISER Bhopal, which aim to solve multiple urban planning problems such as transportation, waste management, safety, disaster management, quality of life, etc.
+
+![](2023-01-03.png)
+
+---
 
 ### 2022-12-09 --- Computer Vision Applications in Planning Research
 
