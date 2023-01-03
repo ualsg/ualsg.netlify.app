@@ -13,6 +13,7 @@ design:
 
 ## 2022
 
+* Channel NewsAsia: [Documentary Series: Innovating For The Future](https://medicine.nus.edu.sg/nursing/2022/05/cna-documentary-series-innovating-for-the-future/)
 * CDE: [Building smarter, more sustainable, liveable cities: The Urban Analytics Lab (video)](https://vimeo.com/764033095)
 * NUS: [Creating a map for the future](https://news.nus.edu.sg/creating-a-map-for-the-future)
 
