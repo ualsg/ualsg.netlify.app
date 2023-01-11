@@ -35,12 +35,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: home
+  icon_pack: fas
+  link: https://binyulei.github.io
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/binyu-lei-a03392168/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BinyuLei
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com.sg/citations?hl=en&user=0i0BL_0AAAAJ
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Binyu_Lei
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/my-orcid?orcid=0000-0002-8501-3104
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -61,4 +73,4 @@ Binyu is a PhD researcher in the Urban Analytics Lab at the National University 
 She holds a Master degree in Urban Planning from the University of Melbourne.
 Her working experience includes position as a strategic planner at the Urban Planning and Design institute of Shenzhen (UPDIS) in China, aligning with her research experience in Australia.
 She has interest in applying advanced technologies to bridge research and practice in the field of urban study.
-She is currently working on building a holistic and generic approach to assess 3D city models/digital twins, as well as identifying challenges to the implementation of 3D city models/digital twins from both technical and social perspectives.
+She is currently working on conceptualisation, semantics and adoption of 3D city models and digital twins.
