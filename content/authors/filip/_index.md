@@ -7,6 +7,8 @@ title:  Filip Biljecki
 authors:
 - filip
 
+weight: 10
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -86,7 +88,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigator
+#- Principal Investigator
+- People
 ---
 
 Dr Filip Biljecki is jointly appointed as faculty at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.

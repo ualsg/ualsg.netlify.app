@@ -7,6 +7,8 @@ title: Mario Frei
 authors:
 - mario
 
+weight: 30
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -70,7 +72,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Postdoctoral Research Fellows
+# - Postdoctoral Research Fellows
+- People
 ---
 
 Dr. Mario Frei is a Research Fellow at NUS in the Urban Analytics Lab and the [BUDS Lab](https://www.budslab.org). He holds a Doctor of Sciences (Dr. sc. ETH Zurich) in Architectural and Building Sciences/Technology and a Bachelor’s (BSc.) and Masters of Science (MSc.) in Mechanical Engineering from the ETH Zürich in Switzerland. Mario ties together all the technologies being developed through his leadership in the IoB Project. He is an expert in hardware prototyping, engineering, design, and navigating admin policies.

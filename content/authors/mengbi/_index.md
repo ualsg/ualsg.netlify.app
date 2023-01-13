@@ -7,6 +7,8 @@ title:  Mengbi Ye
 authors:
 - mengbi
 
+weight: 52
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -57,7 +59,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Staff and Doctoral Researchers
+# - Research Staff and Doctoral Researchers
+- People
 ---
 
 Mengbi is pursuing a doctoral degree at the NUS School of Design and Environment.

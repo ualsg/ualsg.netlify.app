@@ -7,6 +7,8 @@ title: Jintong Han
 authors:
 - jintong
 
+weight: 41
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -48,7 +50,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Staff and Doctoral Researchers
+# - Research Staff and Doctoral Researchers
+- People
 ---
 
 Jintong Han is an PhD student in the [Department of the Built Environment](https://www.sde.nus.edu.sg/bdg/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg), affiliated with both our lab and the NUS [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io).
