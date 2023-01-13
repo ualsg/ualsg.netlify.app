@@ -7,6 +7,8 @@ title:  Edgardo G. Macatulad
 authors:
 - edgardo
 
+weight: 53
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -47,7 +49,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Staff and Doctoral Researchers
+# - Research Staff and Doctoral Researchers
+- People
 ---
 
 Edgardo is a PhD student at NUS Urban Analytics Lab.

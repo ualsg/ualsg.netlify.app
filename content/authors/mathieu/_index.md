@@ -7,6 +7,8 @@ title: Mathieu Bubert
 authors:
 - mathieu
 
+weight: 81
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -54,7 +56,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+# - Graduate Researchers and Students
+- People
 ---
 
 I am pursuing a master’s degree in Urban Planning at the NUS College of Design and Engineering.

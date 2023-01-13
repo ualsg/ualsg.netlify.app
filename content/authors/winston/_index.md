@@ -7,6 +7,8 @@ title:  Winston Yap
 authors:
 - winston
 
+weight: 51
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -57,7 +59,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Research Staff and Doctoral Researchers
+# - Research Staff and Doctoral Researchers
+- People
 ---
 
 Winston is a PhD candidate at the NUS Urban Analytics Lab. He graduated from the Master of Urban Planning programme at NUS. Prior to his candidature, he worked as a research associate at the Lee Kuan Yew Centre for Innovative Cities where he conducted research on age-friendly planning in Singapore, and citizen urban science in the context of Southeast Asian megacities. He is interested in examining the applications of urban analytics and 3D city modelling for the planning process. His research will focus on the application of planning technologies towards planning related goals and examine how these technologies can help to inform evidence-based planning.

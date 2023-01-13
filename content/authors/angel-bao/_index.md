@@ -3,6 +3,8 @@
 name: Angel Bao
 title: Angel Bao
 
+weight: 90
+
 # Username (this should match the folder name)
 authors:
 - angel-bao
@@ -49,7 +51,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Graduate Researchers and Students
+# - Graduate Researchers and Students
+- People
 ---
 
 Angel is currently completing her BSc in Cognitive Systems and minor of Urban Studies at the University of British Columbia.
