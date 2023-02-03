@@ -7,8 +7,6 @@ title: Pengyuan Liu
 authors:
 - pengyuan
 
-weight: 31
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -70,7 +68,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Postdoctoral Research Fellows
-- People
+- Alumni
 ---
 
 Pengyuan Liu is a Postdoctoral Research Fellow at the Urban Analytics Lab, National University of Singapore, with a cross-disciplinary background in computer science (particularly in Information Retrieval and Cloud Computing) and geography (Quantitative Digital Geography and GeoAI). He holds an MSc and a PhD from the University of Leicester (UK) (doctoral thesis: *Learning Digital Geographies through Geographical Artificial Intelligence*), after which he has worked at the University of Helsinki (Finland) and also has industry experience as a senior data scientist. His research interests include GeoAI, Spatial Analytics, Social Sensing, Geodemographic Analysis, and Urban Complexities. He is interested in bridging geospatial analytics, artificial intelligence and social sensing in urban studies by exploring theories, algorithms and models. His complete list of publications can be found [here](https://scholar.google.com/citations?user=XZXvFD0AAAAJ&hl=en).
