@@ -30,10 +30,10 @@ projects: []
 
 Our Lab and department hosted Dr [Jonathan Natanian](https://jonathann.net.technion.ac.il), assistant professor at the [Faculty of Architecture and Town Planning](https://architecture.technion.ac.il) at [Technion -- Israel Institute of Technology](http://www.technion.ac.il/en/).
 
-At Technion, Jonathan established the [EPDL - Environmental Performance and Design Lab](https://epdl.net.technion.ac.il), a research group that works on bridging the gap between architecture and environmental engineering, and operates by combining three main clusters which together form a triangle of knowledge: Data acquisition, Computational analysis, and Environmental design Interface.
+At Technion, Jonathan established the [EPDL - Environmental Performance and Design Lab](https://epdl.net.technion.ac.il), a research group that works on bridging the gap between architecture and environmental engineering, and operates by combining three main clusters which together form a triangle of knowledge: data acquisition, computational analysis, and environmental design interface.
 EPDL focuses on establishing a bridge between those disciplines in a cross-contextual, multi-scale, and cross-disciplinary way.
 
-During his stay, he delivered the lecture _The Eco-Race in Architecture Caught Between Enviromental Intuition and Intelligence_ (poster and abstract below).
+During his stay, he delivered the lecture _The Eco-Race in Architecture Caught Between Environmental Intuition and Intelligence_ (poster and abstract below).
 
 Thanks, and looking forward to future collaborations!
 
