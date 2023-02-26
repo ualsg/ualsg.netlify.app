@@ -21,14 +21,15 @@ We appreciate open enquiries from motivated prospective PhD candidates, research
 Before getting in touch, please read the sections below and more about us ([here](../../about) and [here](../why-us)).
 
 We would appreciate to learn more about your specific interest and expect you to have at least a basic understanding of what we do and what our research lines are about.
-We suggest that you have a look at one of our [publications](/publication), provide your perspective and motivation (e.g. write a few words on how you would take these results further), and let us know how do you envision contributing to our research group.
+We suggest that you have a look at some of our [publications](/publication), provide your perspective and motivation (e.g. write a few words on how you would take these results further), and let us know how do you envision contributing to our research group.
 In your application, please highlight your computational, programming, and geospatial skills.
 Your experience should be evident from the courses followed, publications (optional if you are applying to a junior role), and preferably also from your GitHub account as evidence of coding and open science affinity.
-From researchers with some experience, having first-author papers in leading venues is preferred, while for all roles technical skills are a must.
+From researchers with some experience, having first-author papers in leading venues is expected, while for all roles technical skills are a must.
+As an English speaking university, language fluency is also a requirement.
 
 While we appreciate interest, we cannot entertain generic applications without a clear motivation and understanding of the scope of our work.
 We are more likely to reply and support prospective candidates who did a bit of research on what we do and those that are able to motivate their wish to join us in particular.
-This is most obvious from a tailored and research-focused application pertaining to our Lab (you may also check [this link](../phd) for further details, especially if you are a prospective PhD candidate).
+This is most obvious from a tailored and research-focused application pertaining to our Lab (you may also check [this link](../phd) for further details, especially if you are a prospective PhD candidate or visiting scholar).
 
 ### Postdocs
 
@@ -52,19 +53,20 @@ Before applying, read more [here](../phd).
 ### Visiting scholars and research visits
 
 Feel free to get in touch with us if you are interested in conducting a research visit at the NUS Urban Analytics Lab.
+If you are a prospective visiting PhD student, please have a look at [this link](../phd).
 
 Please prepare a short proposal of the research you plan to conduct in our Lab together with a timeline and other specifics.
 Feel free to have a look at our website and recent papers, and think of a common overlap or complementary research direction, which will ensure a mutually beneficial research visit.
 Potential contributions to our research group are also relevant, as visiting fellowships should be a two-way relationship.
 Every year, we have bandwidth and space to accept only a few visiting researchers.
-Thus, we prefer to prioritise those who work on research that is closely aligned with our activities and ensure a complementary fit and contribution to our projects and team.
+Thus, we prefer to prioritise those who work on research that is closely aligned with our activities, and ensure a complementary fit and contribution to our projects and team, and at the same time making sure that you get the most of such a visit for your academic trajectory.
 
 Depending on your country of residence and position, sometimes there are opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion), [China Scholarship Council](https://www.chinesescholarshipcouncil.com), and the [US Fulbright Program](https://www.cies.org).
 
-Provided there is a fit and space, external (non-NUS) PhD students may carry out a portion of their research at our Lab in the form of a research visit.
+External (non-NUS) PhD students may carry out a portion of their doctoral research at our Lab in the form of a research visit.
 Please refer to the [NUS Non-Graduating Programme](http://www.nus.edu.sg/registrar/prospective-students/non-graduating/research) for the framework of the scheme.
 
-## Opportunities for undergraduate and master students
+## Opportunities for master students
 
 Every year, we work with a number of highly motivated, independent, and talented (primarily master) students to work on graduation projects (theses/dissertations) in our research domain.
 That is the main channel how students work with us.
@@ -81,7 +83,7 @@ It is possible to discuss a topic that will suit your background and interest.
 In principle, we are not able to offer internships to students who are not studying at our university.
 However, there are some exceptions depending on bilateral agreements and similar.
 For example, we are accepting undergraduates from universities in Germany thanks to the [DAAD RISE Worldwide program](https://www.daad.de/rise/de/rise-weltweit/).
-If your university or country has a similar programme, or it is associated with NUS in one way or another, or if you have another funding arrangement to come and spend time in Singapore, feel free to contact us to enquiry whether we are able to welcome you and have you join an ongoing project.
+If your university or country has a similar programme, or it is associated with NUS in one way or another, or if you have another funding arrangement to come and spend time in Singapore, contact us to enquiry whether we are able to welcome you and have you join an ongoing project.
 
 ## Contact
 

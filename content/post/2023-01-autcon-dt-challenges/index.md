@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "New paper: Challenges of Urban Digital Twins"
-subtitle: "Automation in Construction publishes our systematic review and a Delphi expert survey to understand hindrances to adopting DTs"
-summary: "Automation in Construction publishes our systematic review and a Delphi expert survey to understand hindrances to adopting DTs"
+subtitle: "Automation in Construction publishes our systematic review and a Delphi expert survey to understand hindrances to adopting DTs."
+summary: "Automation in Construction publishes our systematic review and a Delphi expert survey to understand hindrances to adopting DTs."
 authors: [admin]
 tags: [paper, digital twins, delphi, review, 3D city models]
 categories: []
