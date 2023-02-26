@@ -102,9 +102,9 @@ Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (top 5%) in 3D GI
 The list of his publications is available [here](https://filipbiljecki.com/#publications).
 
 ### Additional appointments
-* [Future Cities Lab Global at the Singapore-ETH Centre](https://sec.ethz.ch/research/fcl.html) -- Principal Investigator
 * [Open Geospatial Consortium](https://www.ogc.org), [3DIM DWG](https://www.ogc.org/projects/groups/3dimdwg) -- Co-Chair
 * [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org), [WG IV/1: Spatial Data Representation and Interoperability](https://www2.isprs.org/commissions/comm4/wg1/) -- Chair
+* [Future Cities Lab Global at the Singapore-ETH Centre](https://sec.ethz.ch/research/fcl.html) -- Principal Investigator
 * [NUS Institute of Data Science](https://ids.nus.edu.sg) -- Faculty Affiliate
 * [NUS Sustainable and Green Finance Institute](https://sgfin.nus.edu.sg) -- Research Affiliate
 * [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Editorial Board Member
