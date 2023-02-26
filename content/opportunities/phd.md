@@ -1,5 +1,6 @@
 ---
 title: Guide for prospective PhD students
+subtitle: Many of the tips are applicable also to visiting scholars 
 widget: blank
 headless: true
 show_date: false
@@ -14,13 +15,13 @@ Thanks for your interest in conducting a PhD with us at the National University 
 We welcome motivated and talented prospective PhD candidates in our research group --- we accept new PhD students continuously.
 
 However, research groups at NUS usually do not admit them directly and do not provide stipends on their own.
-Applications to the PhD programme should be done directly to our [College of Design and Engineering](http://www.cde.nus.edu.sg), and candidates are expected to devise their funding plan (e.g. applying for a scholarship).
+Applications to the PhD programme should be done directly to our [College of Design and Engineering](http://www.cde.nus.edu.sg), and candidates are expected to devise their funding plan (e.g. applying for a scholarship), but we are happy to provide some help to strong applicants.
 
 Please note that while we are grateful for interest, we do not respond to generic applications. 
 At minimum, we expect prospective students to understand what we do and how we do it, e.g. read more about us ([here](../../about) and [here](../why-us)) and check some of our [papers](/publication).
 
 That said, you are welcome to [get in touch with us](/#contact) beforehand to discuss mutual interest and fit.
-Before contacting us and applying to the PhD programme, you are advised to read this page in detail, which contains information for prospective doctoral candidates.
+Before contacting us and applying to the PhD programme, you are advised to read this page in detail, which contains information for prospective doctoral candidates and visiting scholars.
 Furthermore, there is a large number of articles, blog posts, and guides elsewhere on how to make your PhD application stand out, so make sure you read those as well.
 
 ### Why us
@@ -30,18 +31,21 @@ It aspires to be a vital community of academics, researchers, staff, students an
 
 Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
 It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/economy/singapore-economy-ranked-worlds-most-competitive) and the [safest country in the world](https://www.asiaone.com/singapore/singapore-ranked-safest-country-world-above-japan-survey), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean and efficient environment.
+Residents enjoy also great food and weather.
 
 Successful PhD applicants will work on new research initiatives in the domains of the Lab (e.g. 3D geospatial data, urban analytics, digital twins, street view imagery, crowdsourced data, GeoAI, and GIScience) as part of existing or upcoming projects, and will have a chance to produce high-impact research.
-Working at our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire geospatial ecosystem under the same roof: from standardisation and generation of geoinformation all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field such as interface with AI and other developments.
+Working at our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire geospatial ecosystem under the same roof: from standardisation and generation of geoinformation all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field such as interface with AI and domains such as urban planning.
 
-We provide a motivating, conducive, and flexible environment to explore the candidate's interests, build relevant skills, and develop world-class research required to attain a PhD degree at a top research university such as NUS.
-Our conducive and collaborative setting enables you to integrate your project with existing projects and leverage on our network and other activities to turbocharge your research.
+We believe that we provide a motivating, conducive, and flexible environment to explore the candidate's interests, build relevant skills, and develop world-class research required to attain a PhD degree at a top research university such as NUS.
+Our productive and collaborative setting enables you to integrate your project with existing ones and leverage on our network and other activities to turbocharge your research.
 
 Our Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
 
 [Our papers](/publication/) are continuously published in top journals and are impactful across academia, government, and industry.
 
 Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
+
+But above all, we are a friendly and supportive team of researchers that works on cool stuff together. :relaxed:
 
 ### Contacting us
 
@@ -53,10 +57,10 @@ If you do so, we will be happy to answer your questions.
 
 ### Preparing your application
 
-PhD applications are examined carefully.
+PhD applications are examined carefully by the department and college.
 You can be sure that your application will be given adequate attention, however, generic applications and those without a clear motivation and understanding of the scope of our work, and those that do not demonstrate research affinity, are routinely rejected.
 
-Prospective candidates who did a bit of research on what we do and those that are able to exhibit their aptitude for research and motivate their wish to join us in particular have a much better chance getting admitted into the doctoral programme.
+Prospective candidates who did a bit of research on what we do and those that are able to demonstrate their aptitude for research and motivate their wish to join us in particular have a much better chance getting admitted into the doctoral programme.
 This is most evident from a tailored and research-focused application pertaining to our Lab, university and Singapore (more about that in the continuation).
 
 When applying for a PhD, please prepare your CV (in particular, highlight your computational and research skills, and any publications you may have), accompanied by:
@@ -68,7 +72,7 @@ When applying for a PhD, please prepare your CV (in particular, highlight your c
 All the points above should be brief, e.g. a few paragraphs for each aforementioned aspect, so it shouldn't take much time and effort to stand out.
 You will find that preparing such documentation is quite beneficial as it will also help you to explore and refine your thoughts and interests.
 
-Further, we advise to make sure that you write your application in clear and concise English, and that you send your materials in PDF (sending Word documents is not only bad practice, but it also implies a lack of computer literacy, which is not viewed favourably when assessing computationally focused applicants).
+Finally, we advise to make sure that you write your application in clear and concise English, and that you send your materials in PDF (sending Word documents is not only bad practice, but it also implies a lack of computer literacy, which is not viewed favourably when assessing computationally focused applicants).
 
 We thank you for your interest.
 
@@ -86,7 +90,7 @@ You may also want to read the graduate studies website of either the [Department
 Applications are handed by the administration and graduate admission committee.
 Do note that we are often not involved in this process nor in admission decisions.
 Therefore, we are afraid that we do not have an insight in your application status and are not able to keep you updated.
-Please rest assured that your application is carefully evaluated and that you will hear back from the university in time.
+However, please rest assured that your application is carefully evaluated and that you will hear back from the university in time.
 
 In the meantime, you are welcome to get in touch with us about other matters.
 
@@ -95,6 +99,10 @@ In the meantime, you are welcome to get in touch with us about other matters.
 Funding is a very important aspect of doing a PhD and a common obstacle, and it should be considered as early as possible.
 While the current reality of academia is that obtaining longterm and full scholarships for a PhD is unfortunately often difficult and highly competitive, securing funding is not impossible.
 Some of our [graduate students](/people/) and others at our departments have been successful in obtaining it.
+
+An admission to the PhD programme does not imply a scholarship.
+Most admissions are on a self-funded basis. 
+Some scholarships are awarded at the admission stage, while others may be applied to after the self-funded admission. 
 
 There are [scholarship opportunities](https://nusgs.nus.edu.sg/scholarships/) to partially or fully fund your PhD journey, and there are external funding options as well.
 For example, you may want to check the [Singapore International Graduate Award -- SINGA](https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa).

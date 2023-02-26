@@ -95,6 +95,7 @@ user_groups:
 Dr Filip Biljecki is jointly appointed as faculty at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
+Further, he has been awarded multiple awards for teaching and research.
 
 His background is in Geomatic engineering.
 Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
@@ -114,6 +115,10 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 * [World Economic Forum](https://www.weforum.org/), Global Future Council on Cities and Urbanization -- Fellow (2018-2020)
 
 ### Awards and honours (selected)
+* CDE Young Researcher Award (NUS), 2023
+* College Teaching Excellence Award (NUS), 2023
+* School Teaching Excellence Award (NUS), 2021
+* Top 2% scientists worldwide (Stanford University), 2021 & 2022
 * Presidential Young Professorship (NUS), 2020
 * buildingSMART International Special Distinction Winner for Innovation, 2019
 * EuroSDR (association of European national mapping and cadastral agencies, and universities) award for the best PhD thesis related to GIS in Europe, 2017
