@@ -18,6 +18,57 @@ In our seminar series, we give priority to early career researchers.
 The seminars are by invitation.
 The series is managed by Dr {{% mention "marcel" %}}.
 
+Further, sometimes we organise guest lectures at the [department](https://cde.nus.edu.sg/arch/) level.
+These are included below.
+For the full list of events at our NUS Department of Architecture see the [list of events](https://cde.nus.edu.sg/arch/news_and_events/).
+
+---
+
+### 2023-03-06 --- Map Outside the ~~Box~~ Pixel
+
+By [Yuhao Lu](https://fcl.ethz.ch/people/researchers/Yuhao-Lu.html),
+[Future Cities Laboratory](https://fcl.ethz.ch), 
+[Singapore-ETH Centre](https://sec.ethz.ch),
+Singapore
+
+Pixels (picture elements) are the smallest unit of raster-based maps.
+Remote sensing and some geographic information analysis rely on pixels to store information, simulate changes, and communicate empirical findings.
+Pixels are a fundamental cartographic unit, essential to many if not all mapping exercises.
+However pixels can also pose constraints to our research and creative work, for example, due to their sizes (resolution), or the way they have been arranged and/or analysed. In this presentation, titled "Map Outside the ~~box~~ Pixel", I will share two projects and a few maps that used pixels rather creatively, unlocking new ways to conduct pixel-based geospatial research and creative design projects.
+These projects are technical by nature, but also creative in ways that I hope can speak to individuals who are not trained in geospatial sciences.
+
+![](2023-03-06.png)
+
+---
+
+### 2023-02-27 --- Urban shade planning for thermally sustainable cities: perspectives from multi-sensor analysis
+
+By [Park Yujin](http://planning.cau.ac.kr/01_info/sub02_view.php?gubun=1&seq=600),
+[Department of Urban Planning and Real Estate](http://planning.cau.ac.kr), 
+[Chung-Ang University](https://www.cau.ac.kr/),
+South Korea
+
+Devising a nature- and design-based solution to combat climate challenges is a very important issue in urban planning to step up urban sustainability. Recent technological advances and the proliferation of big geospatial data allow for a more sophisticated digital representation of urban geometry in 3D. One underexplored but critical aspect is the impact of vertical urban features and their shading. Shading objects, including trees and buildings, are generally omnipresent in cities and can be utilized by urban planners to create effective local and regional plans for urban cooling. This talk addresses the interface of 3D land-use design and heat mitigation via diurnal shading, integrating geospatial analytics (3D GIS, spatial simulation and statistics) and remotely-sensed multi-resolution thermal data as a methodological tool. Based on a fine-resolution 3D model derived mainly from LiDAR, the relationship among land surface temperature, land cover composition, and shade characteristics are analyzed using statistical inference. The talk proposes challenges and research agendas that call for collaboration across domains (e.g. GIScience, energy, economics) to create sustainable land-use designs.
+
+![](2023-02-27.png)
+
+---
+
+### 2023-02-02 --- The Eco-Race in Architecture Caught Between Environmental Intuition and Intelligence
+
+By [Jonathan Natanian](https://jonathann.net.technion.ac.il),
+[Faculty of Architecture and Town Planning](https://architecture.technion.ac.il), 
+[Technion -- Israel Institute of Technology](http://www.technion.ac.il/en/),
+Israel
+
+
+The race towards sustainability in the built environment is on!
+Zero carbon by 2050 and limiting global warming to 1.5 C are just some of the ambitious thresholds we need to get to -- but how do we get there by design?
+Many claim that we should get back to the environmental architectural intuition we once had -- but will it be enough? others push toward fully-digitized environmental design workflows -- but what will happen then?
+This lecture will discuss some of these questions which revolve around the gaps between environmental intuition and intelligence in Architecture from personal, local, and global eco-race perspectives.
+
+![](2023-02-02.png)
+
 ---
 
 ### 2023-01-03 --- Addressing the Urban Planning Challenges Using GeoAI

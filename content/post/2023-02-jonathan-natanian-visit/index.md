@@ -46,7 +46,7 @@ Thanks, and looking forward to future collaborations!
 
 ![](poster.png)
 
-> Abstract of the lecture
+### Abstract of the lecture
 
 > The race towards sustainability in the built
 > environment is on!
