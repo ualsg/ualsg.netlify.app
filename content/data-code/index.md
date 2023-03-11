@@ -32,6 +32,29 @@ Feel free to contact us for more information, report bugs and errors, or simply 
 We would be pleased to hear how others are using our research.
 In you are interested in collaborating with us, please get in touch with the lead developer of each resource.
 
+## Computer Vision and Graph Models to Predict Outdoor Comfort
+
+![](sidewalks.jpg)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | This repo is for our paper "Towards Human-centric Digital Twins: Leveraging Computer Vision and Graph Models to Predict Outdoor Comfort" |
+| Lead developer: | {{% mention "pengyuan" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.scs.2023.104480) published in SCS |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/PengyuanLiu1993/GSL-sidewalk-comfort) |
+| Main data source(s): | Own field survey |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2023_scs_human_dt,
+  author = {Liu, Pengyuan and Zhao, Tianhong and Luo, Junjie and Lei, Binyu and Frei, Mario and Miller, Clayton and Biljecki, Filip},
+  doi = {10.1016/j.scs.2023.104480},
+  journal = {Sustainable Cities and Society},
+  pages = {104480},
+  title = {{Towards Human-centric Digital Twins: Leveraging Computer Vision and Graph Models to Predict Outdoor Comfort}},
+  volume = {93},
+  year = {2023}
+}
+{{< /spoiler >}}|
+
 ## InstantCITY - Synthesising morphologically accurate geospatial data for urban form analysis, transfer, and quality control
 
 ![](instantcity.png)
