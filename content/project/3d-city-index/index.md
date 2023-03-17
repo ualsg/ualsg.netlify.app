@@ -188,17 +188,18 @@ A [paper](https://doi.org/10.1080/13658816.2022.2140808) describing the project 
 
 If you use this work in a scientific context, please cite the paper:
 
-> Lei B, Stouffs R, Biljecki F (2022): Assessing and benchmarking 3D city models. International Journal of Geographical Information Science.
+> Lei B, Stouffs R, Biljecki F (2023): Assessing and benchmarking 3D city models. International Journal of Geographical Information Science, 37(4): 788-809. doi:10.1080/13658816.2022.2140808
 
 ```bibtex
-@article{2022_ijgis_3d_city_index, 
-  year = {2022}, 
-  title = {{Assessing and benchmarking 3D city models}}, 
-  author = {Lei, Binyu and Stouffs, Rudi and Biljecki, Filip}, 
-  journal = {International Journal of Geographical Information Science}, 
-  doi = {10.1080/13658816.2022.2140808}, 
-  pages = {}, 
-  volume = {}
+@article{2023_ijgis_3d_city_index,
+  author = {Lei, Binyu and Stouffs, Rudi and Biljecki, Filip},
+  doi = {10.1080/13658816.2022.2140808},
+  journal = {International Journal of Geographical Information Science},
+  title = {{Assessing and benchmarking 3D city models}},
+  year = {2023},
+  pages = {788-809},
+  volume = {37},
+  issue = {4}
 }
 ```
 
