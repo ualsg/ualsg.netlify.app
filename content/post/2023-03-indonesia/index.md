@@ -7,8 +7,8 @@ summary: "Strengthening our network in ASEAN with visits to Bandung and Yogyakar
 authors: [admin]
 tags: [indonesia, visits, urban planning, asean]
 categories: []
-date: 2023-03-16T12:54:49+08:00
-lastmod: 2023-03-16T12:54:49+08:00
+date: 2023-03-16T13:54:49+08:00
+lastmod: 2023-03-16T13:54:49+08:00
 featured: false
 draft: false
 
@@ -51,5 +51,9 @@ The hospitality is very much appreciated, and we look forward to collaboration.
 ![](4.png)
 
 ![](5.jpg)
+
+![](6.jpg)
+
+![](7.jpg)
 
 
