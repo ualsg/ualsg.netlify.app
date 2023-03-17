@@ -72,6 +72,10 @@ When applying for a PhD, please prepare your CV (in particular, highlight your c
 All the points above should be brief, e.g. a few paragraphs for each aforementioned aspect, so it shouldn't take much time and effort to stand out.
 You will find that preparing such documentation is quite beneficial as it will also help you to explore and refine your thoughts and interests.
 
+For PhD applications at NUS, all applicants are required to submit their [Graduate Record Examination (GRE)](https://www.ets.org/gre.html) test scores, as part of the application.
+Candidates are required to obtain the GRE score of 320 (Verbal & Quantitative Total) and 3.5 (Analytical).
+Read more [here](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/).
+
 Finally, we advise to make sure that you write your application in clear and concise English, and that you send your materials in PDF (sending Word documents is not only bad practice, but it also implies a lack of computer literacy, which is not viewed favourably when assessing computationally focused applicants).
 
 We thank you for your interest.

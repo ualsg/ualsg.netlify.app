@@ -39,7 +39,7 @@ In this paper, we developed a spatio-temporal-explicit GeoAI to predict human ou
 We conceptualised the pedestrians and their interactions with surrounding built and unbuilt environments as human-centric dynamic graphs.
 Our model captures such spatio-temporal variations given by the sequential movements of human walking.
 
-The implementation has been released as open-source software at [our Github](https://github.com/PengyuanLiu1993/GSL-sidewalk-comfort).
+The implementation has been open-sourced on [Github](https://github.com/PengyuanLiu1993/GSL-sidewalk-comfort).
 
 Until 2023-04-30, the article is available for free via [this link](https://authors.elsevier.com/a/1gjz57sfVZAEfI).
 

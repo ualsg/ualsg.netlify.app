@@ -30,7 +30,7 @@ image:
 
 We are glad to share our new paper:
 
-> Lei B, Stouffs R, Biljecki F (2022): Assessing and benchmarking 3D city models. _International Journal of Geographical Information Science_. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2022.2140808](https://doi.org/10.1080/13658816.2022.2140808) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ijgis-3-d-city-index/2022-ijgis-3-d-city-index.pdf)</i>
+> Lei B, Stouffs R, Biljecki F (2023): Assessing and benchmarking 3D city models. _International Journal of Geographical Information Science_, 37(4): 788-809. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2022.2140808](https://doi.org/10.1080/13658816.2022.2140808) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-ijgis-3-d-city-index/2023-ijgis-3-d-city-index.pdf)</i>
 
 This research was led by {{% mention "binyu" %}}.
 Congratulations on her first journal paper! :raised_hands: :clap:
@@ -49,19 +49,20 @@ The abstract follows.
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2022-ijgis-3-d-city-index/).
+For more information, please see the [paper](/publication/2023-ijgis-3-d-city-index/).
 
-[![](page-one.png)](/publication/2022-ijgis-3-d-city-index/)
+[![](page-one.png)](/publication/2023-ijgis-3-d-city-index/)
 
 BibTeX citation:
 ```bibtex
-@article{2022_ijgis_3d_city_index, 
-  year = {2022}, 
-  title = {{Assessing and benchmarking 3D city models}}, 
-  author = {Lei, Binyu and Stouffs, Rudi and Biljecki, Filip}, 
-  journal = {International Journal of Geographical Information Science}, 
-  doi = {10.1080/13658816.2022.2140808}, 
-  pages = {}, 
-  volume = {}
+@article{2023_ijgis_3d_city_index,
+    author = {Lei, Binyu and Stouffs, Rudi and Biljecki, Filip},
+    doi = {10.1080/13658816.2022.2140808},
+    journal = {International Journal of Geographical Information Science},
+    title = {{Assessing and benchmarking 3D city models}},
+    year = {2023},
+    pages = {788-809},
+    volume = {37},
+    issue = {4}
 }
 ```
