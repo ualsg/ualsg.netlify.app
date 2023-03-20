@@ -72,7 +72,7 @@ For more information, please see the [paper](/publication/2023-sd-eubucco/) (ope
 BibTeX citation:
 ```bibtex
 @article{2023_sd_eubucco,
-  author = {Milojevic-Dupont, Nikola and Wagner, Felix and Nachtigall, Florian and Hu, Jiawei and Br{\"u}ser, Geza Boi and Zumwald, Marius and Biljecki, Filip and Heeren, Niko and Kaack, Lynn H. and Pichler, Peter-Paul and Creutzig, Felix},
+  author = {{Milojevic-Dupont, Nikola and Wagner, Felix} and Nachtigall, Florian and Hu, Jiawei and Br{\"u}ser, Geza Boi and Zumwald, Marius and Biljecki, Filip and Heeren, Niko and Kaack, Lynn H. and Pichler, Peter-Paul and Creutzig, Felix},
   doi = {10.1038/s41597-023-02040-2},
   journal = {Scientific Data},
   number = {1},
