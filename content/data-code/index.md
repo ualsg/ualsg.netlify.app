@@ -320,9 +320,23 @@ volume = {228}
 | | |
 | ------------------| ------------------------------ |
 | Short description: | EUBUCCO is a scientific database of individual building footprints for 206 million buildings across the 27 European Union countries and Switzerland, together with three main attributes -- building type, height and construction year -- included for respectively 45%, 74%, 24% of the buildings. |
-| Lead developer: | [Nikola Milojevic-Dupont](https://milojevicdupontnikola.github.io) and [Felix Wagner](https://www.susturbecon.tu-berlin.de/team/felix_wagner/), [3D Geoinformation](https://3d.bk.tudelft.nl), [Mercator Research Institute for Global Commons and Climate Change](https://www.mcc-berlin.net/) and TU Berlin |
+| Lead developer: | [Nikola Milojevic-Dupont](https://milojevicdupontnikola.github.io) and [Felix Wagner](https://www.susturbecon.tu-berlin.de/team/felix_wagner/), [Mercator Research Institute for Global Commons and Climate Change](https://www.mcc-berlin.net/) and TU Berlin |
+| Website: | [<i class="fas fa-home"></i> Website](https://eubucco.com) |
 | Code: | [<i class="fab fa-github"></i> Github repo](https://github.com/ai4up/eubucco) |
-| Data: | [Zenodo](https://zenodo.org/record/6524781#.YnzjZ1xBygo) |
+| Data: | [Zenodo](https://zenodo.org/record/6524781) |
+| Further reading: | Please read the [paper](https://doi.org/10.1038/s41597-023-02040-2) published in Scientific Data |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2023_sd_eubucco,
+  author = {Milojevic-Dupont, Nikola and Wagner, Felix and Nachtigall, Florian and Hu, Jiawei and Br{\"u}ser, Geza Boi and Zumwald, Marius and Biljecki, Filip and Heeren, Niko and Kaack, Lynn H. and Pichler, Peter-Paul and Creutzig, Felix},
+  doi = {10.1038/s41597-023-02040-2},
+  journal = {Scientific Data},
+  number = {1},
+  pages = {147},
+  title = {EUBUCCO v0.1: European building stock characteristics in a common and open database for 200+ million individual buildings},
+  volume = {10},
+  year = {2023}
+}
+{{< /spoiler >}}|
 
 ## 3D building metrics for urban morphology
 

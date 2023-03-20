@@ -62,7 +62,7 @@ The research was conducted in collaboration with the [3D Geoinformation group at
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2023-autcon-dt-challenges/), published open access. <i class="ai ai-open-access-square ai"></i>
+For more information, please see the [paper](/publication/2023-autcon-dt-challenges/) (open access <i class="ai ai-open-access-square ai"></i>).
 
 ![](page-one.png)
 
