@@ -18,7 +18,7 @@ role: Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: "Singapore-ETH Centre"
-  url: ""
+  url: "https://fcl.ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
@@ -47,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:maqr@nus.edu.sg'
+  link: 'mailto:matias.quintana@sec.ethz.ch'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_matqr
@@ -74,16 +74,16 @@ social:
   link: https://publons.com/a/AAL-3947-2020/
 
 # Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 # - Postdoctoral Research Fellows
 - People
