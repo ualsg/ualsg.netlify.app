@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "New paper: European building stock characteristics in a common and open database"
-subtitle: "Scientific Data publishes a collaborative paper that, with 200+ million individual buildings, presents the most comprehensive work on building information globally."
-summary: "Scientific Data publishes a collaborative paper that, with 200+ million individual buildings, presents the most comprehensive work on building information globally."
+subtitle: "Scientific Data publishes a collaborative paper that, with 200+ million individual buildings, presents one of the most comprehensive efforts on building information globally."
+summary: "Scientific Data publishes a collaborative paper that, with 200+ million individual buildings, presents one of the most comprehensive efforts on building information globally."
 authors: [admin]
 tags: [paper, inspire, footprints, buildings, gis]
 categories: []
