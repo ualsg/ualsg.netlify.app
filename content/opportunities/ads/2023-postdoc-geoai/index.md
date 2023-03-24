@@ -53,7 +53,7 @@ You should demonstrate that you possess:
 ### Our offer
 
 - You will be working on compelling research activities at the forefront of geographical information science and urban data science in a unique research group that is gaining a strong momentum in Singapore and globally. Further, we collaborate with other research groups at NUS, often leading multidisciplinary efforts.
-- You will advance your research and transferable skills required for the next stage of your career. You will be welcome to explore and learn new tools and technologies, expand your current skillset, and gain potentially new experience such as funding applications and management.
+- You will advance your research and transferable skills required for the next stage of your career. You will be welcome to explore and learn new tools and technologies, expand your current skillset, and gain potentially new experience such as funding applications and management that may be critical for your next career step (e.g. faculty position).
 - You will be involved in steering the direction of our research group, participate in discussions continuously revisiting and enhancing our research agenda, and take a leadership role in one of the managerial tasks.
 - You will work in a research and educational environment where you may not only contribute to your own development, but also to others, e.g. by supervising master theses that may arise as part of the research and by advising PhD researchers.
 - Opportunity to make impactful contributions in the field, on a globally relevant and growing topic.
@@ -64,7 +64,9 @@ You should demonstrate that you possess:
 
 ### Remuneration
 
-The remuneration will be determined according to the university's salary range depending on the degree, experience, and output so far. The estimated salary including allowances and overheads is in the range of SGD 6300 to 7200 (the income tax in Singapore for this range is about 5%, without taking possible deductions into account).
+The remuneration will be determined according to the university's salary range depending on the degree, experience, and output so far.
+The estimated monthly salary including allowances and overheads is in the range of SGD 6300 to 7200.
+The income tax in Singapore for this range is about 5%, without taking possible deductions into account.
 
 ### Duration
 
