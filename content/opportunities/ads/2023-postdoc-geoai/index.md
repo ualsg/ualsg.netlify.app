@@ -66,7 +66,7 @@ You should demonstrate that you possess:
 
 The remuneration will be determined according to the university's salary range depending on the degree, experience, and output so far.
 The estimated monthly salary including allowances and overheads is in the range of SGD 6300 to 7200.
-The income tax in Singapore for this range is about 5%, without taking possible deductions into account.
+The [income tax in Singapore](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates) for this range is about 5%, without taking possible deductions into account.
 
 ### Duration
 
