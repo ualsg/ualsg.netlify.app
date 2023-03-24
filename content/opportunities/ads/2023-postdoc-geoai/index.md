@@ -44,7 +44,7 @@ You should demonstrate that you possess:
 - Ability to identify research gaps and conceptualise research plans and methods to address them.
 - Proficiency in one or more of the following areas: GIScience, urban data science, computer science, game engines, Geomatics, remote sensing, 3D city modelling / BIM, computer vision / deep learning, urban planning, and/or urban simulations. We do not expect applicants to be proficient in all the topics we work on :unicorn:, however, we ask them to demonstrate that they have a momentum in at least one of the related topics, have aptitude to expand their expertise beyond their main focus, have affinity with our research agenda, and have solid ideas how to continue their research aspirations.
 - Very good communication skills in English (oral and written), and an ability to present research in both academic and non-academic venues.
-- Solid experience with programming. We are a computational research group. Having built software used by others and/or scientific software experience is a plus. We will prioritise applicants who can demonstrate these qualities through a Github profile or similar evidence.
+- Solid experience with programming (e.g. in Python, R, C++). We are a computational research group. Having built software used by others and/or scientific software experience is a plus. We will prioritise applicants who can demonstrate these qualities through a Github profile or similar evidence.
 - Proficiency with (i) general academic tools such as LaTeX; (ii) geospatial tools such as ArcGIS/QGIS; and (3) plotting libraries such as ggplot or matplotlib.
 - An ability to (co-)supervise others (e.g. students and junior researchers).
 - Curiosity and passion to explore new concepts, methods and technologies, and capability of identifying and quickly learning the most suitable tools for the research on the go.
@@ -68,12 +68,16 @@ The remuneration will be determined according to the university's salary range d
 The estimated monthly salary including allowances and overheads is in the range of SGD 6300 to 7200.
 The [income tax in Singapore](https://www.iras.gov.sg/taxes/individual-income-tax/basics-of-individual-income-tax/tax-residency-and-tax-rates/individual-income-tax-rates) for this range is about 5%, without taking possible deductions into account.
 
-### Duration
+### Duration and location
 
 The position will be filled when a suitable candidate is found, and will start preferably within the next 2-3 months.
 
 The appointment is for one year, with a probation period of 3 months.
 The contract can be extended for a further period subject to performance.
+
+This full-time job is based in Singapore.
+This is not a remote position.
+We offer flexible working arrangements similar to most academic environments (e.g. no strict office hours and the possibility to spend a portion of time working from home).
 
 ### Employer and location
 
