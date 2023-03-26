@@ -10,14 +10,14 @@ title = "Vacancy: Postdoctoral Research Fellow (GIScience/GeoAI)"
 The [Urban Analytics Lab](/), a geospatial and urban data science research group at the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centered in Asia, is seeking a Postdoctoral Research Fellow to join the team and spearhead a variety of research activities within [our agenda](/about).
 The Research Fellow will also contribute to the management of the group and other tasks such as preparation of proposals, co-supervision of junior researchers, and administration.
 
-The successful applicant in this senior role will be engaged on some of our novel research lines in GeoAI, GIScience, VGI, and digital twins, namely: investigation of the potential and integration of emerging urban data sources (e.g. 3D city models, street view imagery), initiating new means of processing, benchmarking and quality assessment of data and workflows, invention of new methodologies to maximise the value of urban data, and developing new use cases and studies pertaining to building/urban/geospatial data infrastructure in the context of smart cities and sustainability.
+The successful applicant in this senior role will be engaged on some of our novel research lines on GeoAI, GIScience, VGI, and digital twins, namely: investigation of the potential and integration of emerging urban data sources (e.g. 3D city models, street view imagery), initiating new means of processing, benchmarking and quality assessment of data and workflows, invention of new methodologies to maximise the value of urban data, and/or developing new use cases and studies pertaining to building/urban/geospatial data infrastructure in the context of smart cities and sustainability.
 Positioned at the intersection of academia, industry, international organisations and government, the nature of the work is computational and practical.
 
-The Research Fellow will be supervised by the Principal Investigator [Dr Filip Biljecki](/authors/filip/), [NUS College of Design and Engineering](http://www.cde.nus.edu.sg).
+The Research Fellow will be supervised by the Principal Investigator of the Lab -- [Dr Filip Biljecki](/authors/filip/), [NUS College of Design and Engineering](http://www.cde.nus.edu.sg).
 
-Candidates should have a strong computational affinity and a PhD degree in computer science, geographical information science, geomatics, mechanical engineering, or another relevant field of study, with a demonstrated track record in their career so far (in terms of publications/impact and/or other forms of output such as development of code).
+Candidates should have strong computational skills and a PhD degree in computer science, geographical information science, geomatics, mechanical engineering, or another relevant field of study, with a demonstrated track record in their career so far (in terms of publications/impact and/or other forms of output such as development of code, open datasets, and outreach).
 
-The Lab will provide a motivating, conducive, and flexible environment to explore the Research Fellow's interests and build skills required for future career steps.
+The Lab will provide a motivating, conducive, and flexible environment that enables to explore the Research Fellow's interests and build skills required for future career steps.
 Our current and former members have secured meaningful and significant placements in the continuation of their academic career, [including faculty positions]({{< ref "/post/2023-02-pengyuan-nanjing/index.md" >}}), and have [published](/publication) dozens of impactful papers in leading journals.
 
 ### Scope and responsibilities
@@ -25,16 +25,17 @@ Our current and former members have secured meaningful and significant placement
 Your key responsibilities will be:
 
 - Conducting and leading research activities.
-- Development of code, and/or software prototypes and related solutions.
+- Development of code, and/or software prototypes and related solutions to support the research.
 - Collaboration with other researchers, research groups, and coordination of activities/projects.
 - Exploring new research directions and experimenting with new datasets, methodologies, and technologies.
 - Leading and assisting with the preparation of funding proposals.
-- Assisting the PI in various activities in the research group and project such as supervision/mentorship of other researchers and students (e.g. PhD researchers), management, and outreach.
+- Assisting the PI in various activities in the research group and project such as supervision/mentorship of research staff and students (e.g. PhD researchers), management, and outreach.
 - Preparation of publications and managing other forms of research output such as software and data.
+- Presentation of the research.
 
 ### Required qualifications
 
-A strong interest in GIScience and GeoAI, together with a proactive initiative, ownership, and continuous learning aspirations, is key to this position.
+A strong interest in GIScience and GeoAI, together with proactivity, initiative, ownership, and continuous learning aspirations, is key to this position.
 The candidate is expected to continue their journey to grow into a leading scientist in the field. 
 
 You should demonstrate that you possess:
@@ -42,9 +43,9 @@ You should demonstrate that you possess:
 - A PhD degree :mortar_board: in a related discipline from a reputable university. Current PhD candidates are eligible to apply as well, provided that they are in the final stage of their studies and that their PhD degree will be completed before the start of the appointment (preferably within the next few months).
 - A publication record with demonstrated impact, writing skills, and a strong aptitude to publish. We expect at least one recent first-authored paper in a journal of interest (e.g. [the ones we tend to publish in](/publication)) or more depending on the years of experience so far.
 - Ability to identify research gaps and conceptualise research plans and methods to address them.
-- Proficiency in one or more of the following areas: GIScience, urban data science, computer science, game engines, Geomatics, remote sensing, 3D city modelling / BIM, computer vision / deep learning, urban planning, and/or urban simulations. We do not expect applicants to be proficient in all the topics we work on :unicorn:, however, we ask them to demonstrate that they have a momentum in at least one of the related topics, have aptitude to expand their expertise beyond their main focus, have affinity with our research agenda, and have solid ideas how to continue their research aspirations.
+- Proficiency in one or more of the following areas: GIScience, urban data science, computer science, game engines, Geomatics, remote sensing (in the urban/built environment), 3D city modelling / BIM, computer vision / deep learning, urban planning, and/or urban simulations. We do not expect applicants to be proficient in all the topics we work on :unicorn:, however, we ask them to demonstrate that they have a momentum in at least one of the related topics, have aptitude to expand their expertise beyond their main focus, have affinity with our research agenda, and have solid ideas how to continue their research aspirations.
 - Very good communication skills in English (oral and written), and an ability to present research in both academic and non-academic venues.
-- Solid experience with programming (e.g. in Python, R, C++). We are a computational research group. Having built software used by others and/or scientific software experience is a plus. We will prioritise applicants who can demonstrate these qualities through a Github profile or similar evidence.
+- Solid experience with programming (e.g. in Python, R, and/or C++), as much of our research is computational. Having built software used by others and/or scientific software experience is a plus. We will prioritise applicants who can demonstrate these qualities through a Github profile or similar evidence.
 - Proficiency with (i) general academic tools such as LaTeX; (ii) geospatial tools such as ArcGIS/QGIS; and (3) plotting libraries such as ggplot or matplotlib.
 - An ability to (co-)supervise others (e.g. students and junior researchers).
 - Curiosity and passion to explore new concepts, methods and technologies, and capability of identifying and quickly learning the most suitable tools for the research on the go.
@@ -52,11 +53,11 @@ You should demonstrate that you possess:
 
 ### Our offer
 
-- You will be working on compelling research activities at the forefront of geographical information science and urban data science in a unique research group that is gaining a strong momentum in Singapore and globally. Further, we collaborate with other research groups at NUS, often leading multidisciplinary efforts.
+- You will be working on compelling research activities at the forefront of geographical information science and urban data science in a unique research group that is gaining a strong momentum in Singapore and globally. Further, we collaborate with other research groups at NUS, which often leads to multidisciplinary efforts, exposing you to new topics.
 - You will advance your research and transferable skills required for the next stage of your career. You will be welcome to explore and learn new tools and technologies, expand your current skillset, and gain potentially new experience such as funding applications and management that may be critical for your next career step (e.g. faculty position).
 - You will be involved in steering the direction of our research group, participate in discussions continuously revisiting and enhancing our research agenda, and take a leadership role in one of the managerial tasks.
 - You will work in a research and educational environment where you may not only contribute to your own development, but also to others, e.g. by supervising master theses that may arise as part of the research and by advising PhD researchers.
-- Opportunity to make impactful contributions in the field, on a globally relevant and growing topic.
+- Opportunity to make impactful contributions in the field, on globally relevant and growing topics.
 - Visibility and exposure of your work.
 - Expansion of your network through potential contact with academic, industrial, and governmental partners, both locally and internationally.
 - A diverse, inclusive, friendly, and flexible working environment.
@@ -135,7 +136,7 @@ Please apply by [email](mailto:filip@nus.edu.sg) (please write "Application: Pos
     * (ii) outlook on one of the aforementioned topics and some of our work/publications; and
     * (iii) how do you intend to contribute to our growing research group and enhance its activities.
     * The letter should also include the expected availability / preferred starting date. Keep it short and simple, please. One paragraph for each of these points is sufficient.
-* A link to at least one first-authored paper published in a reputable journal that mirrors your background and research so far, and one that you are particularly proud of. A link to the article is sufficient, no need to include a PDF in your email.
+* A link to at least one first-authored paper published in a reputable journal that mirrors your background and research so far, and one that you are particularly proud of. A link to the article is sufficient, no need to include its PDF in your email.
 * Names and contact information for three referees. There is no need to submit recommendation letters at the application stage. By providing this information, we assume that we have your and their permission to contact them to learn more about you.
 * Other materials that indicate possessing the [required qualifications](#required-qualifications), e.g. link to a public Github repository you have developed, recorded talks, and portfolio. Candidates who can demonstrate strong computational skills will be preferred.
 * In accordance with the Personal Data Protection Act (PDPA), please provide consent for the collection, use and disclosure of personal data, using the [NUS Personal Data Consent for Job Applicants](http://www.nus.edu.sg/careers/potentialhires/applicationprocess/NUS-Personal-Data-Consent-for-Job-Applicants.pdf) form. Please attach it to your email.
