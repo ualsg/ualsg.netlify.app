@@ -52,6 +52,8 @@ We look forward to collaborating with these wonderful research groups, and thank
 
 ![](aag-4.jpeg "Session at AAG on Urban Visual Intelligence")
 
+![](UrbanVisualIntelligence.jpg "Session at AAG on Urban Visual Intelligence")
+
 ![](uwm-1.jpeg "University of Wisconsin -- Madison")
 
 ![](uwm-2.jpeg "University of Wisconsin -- Madison")
