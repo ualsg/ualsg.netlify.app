@@ -22,6 +22,30 @@ Further, sometimes we organise guest lectures at the [department](https://cde.nu
 These are included below.
 For the full list of events at our NUS Department of Architecture see the [list of events](https://cde.nus.edu.sg/arch/news_and_events/).
 
+During the pandemic, we organised the talks online-only, but moved them to in-person.
+While the events are at our school at NUS, we remain open to external visitors.
+
+### 2023-04-12 --- Urban Analytics and Social Sensing
+
+By [Wei Huang](https://huangweibuct.github.io/weihuang.github.io/),
+[College of Surveying and Geo-Informatics](https://celiang.tongji.edu.cn/chinese/sy.htm),
+[Tongji University](https://en.tongji.edu.cn/p/), 
+China
+
+Analyzing massive urban human behaviour datasets helps to quantitatively understand the complexity of urban systems and social networks, which can further provide evidence for urban planning and policy making towards urban sustainable development.
+This talk reports data-driven models and applications for understanding the interactions between human activities and urban environments.
+
+---
+
+### 2023-04-10 --- Artificial Intelligence for accelerating low-carbon planning
+
+By [Nikola Milojevic](https://milojevicdupontnikola.github.io),
+[TU Berlin](https://www.susturbecon.tu-berlin.de/sustainability_economics_of_human_settlements/) and the [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/),
+Germany
+
+In this talk, I discuss the potential of geospatial data and AI to analyze cities in novel ways and provide insights that can help governments to take action on climate change.
+I will introduce a framework that combines data sources, models and end goals, which I will exemplify by highlighting recent research of our group.
+
 ---
 
 ### 2023-03-06 --- Map Outside the ~~Box~~ Pixel
