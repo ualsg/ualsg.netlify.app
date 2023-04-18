@@ -7,8 +7,8 @@ summary: "Contribution to The International Society for Photogrammetry and Remot
 authors: [admin]
 tags: [isprs, service, interoperability, working group]
 categories: []
-date: 2023-04-19T14:03:28+08:00
-lastmod: 2023-04-19T14:03:28+08:00
+date: 2023-04-19T07:31:28+08:00
+lastmod: 2023-04-19T07:31:28+08:00
 featured: false
 draft: false
 
