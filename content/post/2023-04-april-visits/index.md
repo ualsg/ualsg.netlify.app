@@ -38,7 +38,7 @@ In particular, the highlight was [EUBUCCO](https://eubucco.com), the European bu
 
 ![](a2.jpg)
 
-Second, [Wei Huang](https://huangweibuct.github.io/weihuang.github.io/), Professor of GIScience at [Tongji University](https://celiang.tongji.edu.cn/info/1300/2388.htm). 
+Second, we welcomed [Wei Huang](https://huangweibuct.github.io/weihuang.github.io/), Professor of GIScience at [Tongji University](https://celiang.tongji.edu.cn/info/1300/2388.htm). 
 He gave a great lecture on Urban Analytics and Social Sensing, and presented several multidisciplinary research projects conducted at his group in Shanghai.
 This visit was facilitated by [Yingwei Yan](https://profile.nus.edu.sg/fass/geoyy/), Lecturer and the Director of the [MSc in Applied GIS programme](https://fass.nus.edu.sg/geog/msc-in-applied-gis/) and our collaborator from the [NUS Department of Geography](https://fass.nus.edu.sg/geog/).
 Both of them are leading the [ISPRS WG IV/6 Human Behaviour and Spatial Interactions](https://www2.isprs.org/commissions/comm4/wg6/), with which we are organising the workshop
