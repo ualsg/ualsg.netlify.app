@@ -34,7 +34,7 @@ We are glad to share our new paper:
 
 This research was led by {{% mention "chen-shuting" %}}.
 Congratulations on the great work and publication! :raised_hands: :clap:
-Shuting is now at Hong Kong University, where she started her PhD after graduating from our NUS Master of Urban Planning programme.
+Shuting is now at the University of Hong Kong, where she started her PhD after graduating from our NUS Master of Urban Planning programme.
 
 Studies using street-level imagery have been confined to driveable roads.
 Shuting is among the first ones to take advantage of 'off-road' imagery -- a small but increasing volume of data taken in parks, trails, walkways, etc. to use them to assess public open spaces.
