@@ -11,6 +11,10 @@ design:
   columns: '1'
 ---
 
+## 2023
+
+* CDE: [Integrating data on vegetation in digital twins -- Takenaka Corporation and the Urban Analytics Lab](https://www.linkedin.com/feed/update/urn:li:activity:7056460703796260864/)
+
 ## 2022
 
 * Channel NewsAsia: [Documentary Series: Innovating For The Future](https://medicine.nus.edu.sg/nursing/2022/05/cna-documentary-series-innovating-for-the-future/)
