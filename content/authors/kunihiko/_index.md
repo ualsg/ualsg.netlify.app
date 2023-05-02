@@ -18,7 +18,7 @@ role: Visiting Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: "Takenaka Corporation"
-  url: "https://www.takenaka.co.jp"
+  url: "https://www.takenaka.co.jp/takenaka_e/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
