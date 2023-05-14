@@ -13,10 +13,6 @@ title = "About us"
 author = "admin"
 +++
 
-{{% callout note %}}
-We are hiring a Postdoctoral Research Fellow to join our research group. Check out the opening [here](/opportunities/ads/2023-postdoc-geoai/).
-{{% /callout %}}
-
 <div style="padding:56.25% 0 0 0;position:relative;">
 	<iframe src="https://player.vimeo.com/video/764033095?h=f100addf1d&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
 	</iframe>
@@ -24,5 +20,8 @@ We are hiring a Postdoctoral Research Fellow to join our research group. Check o
 <script src="https://player.vimeo.com/api/player.js"></script>
 <br />
 
-We are a multidisciplinary research group focusing on urban data management and analysis, geographic data science, and digital twins at [NUS](http://www.nus.edu.sg).
-Watch the [video](https://vimeo.com/764033095) above about our research or read more [here](/about/).
+We are creating innovative methods, datasets, and software to advance data-driven urban planning, digital twins, and geospatial technologies in building and managing the smart cities of tomorrow. 
+Using a multidisciplinary approach, we adopt recent advancements in the domains of urban data science, geomatics, computer science, and crowdsourcing to conceive cutting-edge techniques for urban sensing and analytics.
+Watch the [video](https://vimeo.com/764033095) above or read more [here](/about/).
+
+We are based at the Department of Architecture at the College of Design and Engineering of the National University of Singapore.
