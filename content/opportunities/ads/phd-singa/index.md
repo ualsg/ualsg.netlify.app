@@ -21,6 +21,8 @@ Please be mindful of the deadlines at both NUS and A*STAR.
 If you are interested to learn more about this scholarship, please get in touch with SINGA.
 Feel free to [contact us](mailto:filip@nus.edu.sg) if you have enquiries about our research group and PhD at NUS.
 
+Before contacting us and/or applying, please have a look at [this link](../../phd) first.
+
 ### About us
 
 #### National University of Singapore

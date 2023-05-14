@@ -5,6 +5,12 @@ title = "Vacancy: Postdoctoral Research Fellow (GIScience/GeoAI)"
 
 {{< figure src="header.jpg" title="Singapore skyline by [Mike Enerio](https://unsplash.com/@mikeenerio) on [Unsplash](https://unsplash.com/photos/CQhgno3yhv8)." >}}
 
+{{% callout note %}}
+It is not possible to apply anymore to this position.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
+
 ### Job and project description
 
 The [Urban Analytics Lab](/), a geospatial and urban data science research group at the [National University of Singapore (NUS)](http://www.nus.edu.sg), a leading global university centered in Asia, is seeking a Postdoctoral Research Fellow to join the team and spearhead a variety of research activities within [our agenda](/about).
@@ -120,7 +126,13 @@ Feel free to check the rest of our website for further detailed information or w
 
 ### Application
 
-Applications will be reviewed on a rolling basis.
+{{% callout note %}}
+It is not possible to apply anymore to this position.
+Thanks to all the applicants for their interest.
+For new vacancies please follow our [opportunities page]({{< ref "/opportunities/vacancies.md" >}}).
+{{% /callout %}}
+
+~~Applications will be reviewed on a rolling basis.~~ The applications have been reviewed, and it is not possible to apply anymore.
 
 Before applying, please make sure that you understand:
 * [What](/about) we do.
