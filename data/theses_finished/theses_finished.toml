@@ -61,6 +61,7 @@ study = "Master of Urban Planning"
 year = "2022"
 uni = "NUS"
 image = "liang-xiucheng-research.png"
+paper = "2023-landup-svi-evolution"
 
 [[thesis]]
 title = "Insights of A City Through the Eyes of Airbnb Reviews: Inferring Urban Characteristics from Homestay Guest Experiences"
