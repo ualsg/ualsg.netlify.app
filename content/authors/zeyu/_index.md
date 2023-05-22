@@ -7,8 +7,6 @@ title: Wang Zeyu
 authors:
 - zeyu
 
-weight: 80
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -57,7 +55,8 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Graduate Researchers and Students
-- People
+# - People
+- Alumni
 ---
 
 Zeyu is pursuing a master’s degree in Urban Planning at the NUS College of Design and Engineering.
