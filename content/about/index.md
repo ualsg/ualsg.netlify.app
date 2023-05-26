@@ -31,7 +31,7 @@ Within NUS, we collaborate primarily with three sister labs: the [Building and U
 Some of our activities are also featured in a recent [video](https://www.youtube.com/watch?v=rOgbqANG-6I):
 {{< youtube rOgbqANG-6I >}}
 
-You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>, <a itemprop="sameAs" href="https://weibo.com/urbanalyticslab/" target="_blank" rel="noopener"><i class="fab fa-weibo"></i> Weibo</a>, <a href="../post/">blog</a>, and <a href="../publication/">papers</a>.
+You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>, <a href="../post/">blog</a>, and <a href="../publication/">papers</a>.
 You may also be interested in our home-grown data and code that we [released openly](/data-code).
 
 ![](s-osc2-x.png)
