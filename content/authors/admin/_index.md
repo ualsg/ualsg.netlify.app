@@ -35,9 +35,6 @@ social:
 - icon: twitter
   icon_pack: fab
   link: http://twitter.com/urbanalyticslab
-- icon: weibo
-  icon_pack: fab
-  link: https://weibo.com/urbanalyticslab
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Filip_Biljecki

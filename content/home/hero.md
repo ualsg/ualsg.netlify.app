@@ -49,11 +49,6 @@ Geospatial and Urban Data Science Research Group at the National University of S
           </a>
         </li>
         <li>
-          <a itemprop="sameAs" href="https://weibo.com/urbanalyticslab" target="_blank" rel="noopener">
-            <i class="fab fa-weibo big-icon"></i>
-          </a>
-        </li>
-        <li>
           <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener">
             <i class="fab fa-linkedin big-icon"></i>
           </a>
