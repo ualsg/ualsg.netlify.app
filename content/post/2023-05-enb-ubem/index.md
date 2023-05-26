@@ -36,6 +36,8 @@ It articulates the need for consistent reporting on accuracy in UBEM, and it int
 
 The project was spearheaded by [Aysegul Demir Dilsiz](https://www.uwyo.edu/civil/faculty_staff/faculty/aysegul-demir/) (who is now Asst Prof at the University of Wyoming) and [Zoltan Nagy](https://www.ie-lab.org/author/zoltan-nagy/) from the [Intelligent Environments Laboratory](https://www.ie-lab.org) at the University of Texas at Austin.
 
+Until 2023-07-14, the article is available for free via [this link](https://authors.elsevier.com/c/1h8R9_8dCXk2Vr).
+
 ![](1.png)
 
 ![](2.png)
