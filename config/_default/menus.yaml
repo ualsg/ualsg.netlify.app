@@ -7,7 +7,7 @@ main:
   - name: about
     url: '/about'
     weight: 10
-  - name: 'our Lab'
+  - name: 'our research group'
     parent: 'about'
     url: '/about'
     weight: 11
@@ -55,30 +55,30 @@ main:
     parent: 'geospatial resources'
     url: '/post/2020/06/24/guide-for-open-urban-data-in-singapore/'
     weight: 56
-  - name: opportunities
+  - name: join
     weight: 80
   - name: openings
-    parent: opportunities
+    parent: join
     url: '/opportunities/vacancies'
     weight: 81
   - name: 'why us'
-    parent: opportunities
+    parent: join
     url: '/opportunities/why-us'
     weight: 82
   - name: prospective students
-    parent: opportunities
+    parent: join
     url: '/opportunities/phd'
     weight: 83
   - name: 'NUS courses'
-    parent: opportunities
+    parent: join
     url: '/opportunities/teaching'
     weight: 84
   - name: 'student initiated projects'
-    parent: opportunities
+    parent: join
     url: '/opportunities/student-projects'
     weight: 85
   - name: fellowships
-    parent: opportunities
+    parent: join
     url: '/opportunities/fellowships'
     weight: 86
   - name: contact

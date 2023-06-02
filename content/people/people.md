@@ -57,4 +57,3 @@ user_groups = [
  # CSS class.
  css_class = ""
 +++
-
