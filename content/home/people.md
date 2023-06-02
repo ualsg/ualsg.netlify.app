@@ -17,7 +17,7 @@ user_groups = ["People"]
 
 [design]
   # Show user's social networking links? (true/false)
-  show_social = false
+  show_social = true
 
   # Show user's interests? (true/false)
   show_interests = false
@@ -49,3 +49,11 @@ user_groups = ["People"]
  # CSS class.
  css_class = ""
 +++
+
+We are an ensemble of scholars from diverse disciplines and countries, driving forward our shared research goals.
+Throughout the years, we have been fortunate to collaborate with dozens of talented alumni, whose invaluable contributions have shaped and enriched our research group.
+Their full list is available [here](/people).
+
+
+&nbsp;
+
