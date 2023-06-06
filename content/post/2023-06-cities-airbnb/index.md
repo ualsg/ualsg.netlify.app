@@ -7,8 +7,8 @@ summary: "Cities publishes our work on uncovering a new use case of a nascent fo
 authors: [admin]
 tags: [paper, GeoAI, natural language processing, airbnb, urban sensing, urban planning]
 categories: []
-date: 2023-06-06T18:25:16+01:00
-lastmod: 2023-06-06T18:25:16+01:00
+date: 2023-06-06T18:25:16+02:00
+lastmod: 2023-06-06T18:25:16+02:00
 featured: false
 draft: false
 
