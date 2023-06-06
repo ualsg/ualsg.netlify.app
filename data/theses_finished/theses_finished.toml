@@ -71,6 +71,7 @@ study = "Master of Urban Planning"
 year = "2022"
 uni = "NUS"
 image = "wang-jiaxuan-research.png"
+paper = "2023-cities-airbnb"
 
 [[thesis]]
 title = "3D building reconstruction using deep learning methods"
