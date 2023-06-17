@@ -30,7 +30,7 @@ image:
 
 We are glad to share our new paper:
 
-> Zhao T, Huang Z, Tu W, Biljecki F, Chen L (2023): Developing a multiview spatiotemporal model based on deep graph neural networks to predict the travel demand by bus. _International Journal of Geographical Information Science_: 1-27. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2023.2203218](https://doi.org/10.1080/13658816.2023.2203218) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-ijgis-bus-demand/2023-ijgis-bus-demand.pdf)</i>
+> Zhao T, Huang Z, Tu W, Biljecki F, Chen L (2023): Developing a multiview spatiotemporal model based on deep graph neural networks to predict the travel demand by bus. _International Journal of Geographical Information Science_, 37(7): 1555-1581. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2023.2203218](https://doi.org/10.1080/13658816.2023.2203218) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-ijgis-bus-demand/2023-ijgis-bus-demand.pdf)</i>
 
 This research was led by {{% mention "tianhong" %}}.
 Congratulations on his great work! :raised_hands: :clap:
@@ -53,12 +53,13 @@ For more information, please see the [paper](/publication/2023-ijgis-bus-demand/
 BibTeX citation:
 ```bibtex
 @article{2023_ijgis_bus_demand,
-  author = {Tianhong Zhao and Zhengdong Huang and Wei Tu and Filip Biljecki and Long Chen},
-  doi = {10.1080/13658816.2023.2203218},
-  journal = {International Journal of Geographical Information Science},
-  pages = {1-27},
-  title = {{Developing a multiview spatiotemporal model based on deep graph neural networks to predict the travel demand by bus}},
-  volume = {},
-  year = {2023}
+ author = {Tianhong Zhao and Zhengdong Huang and Wei Tu and Filip Biljecki and Long Chen},
+ doi = {10.1080/13658816.2023.2203218},
+ journal = {International Journal of Geographical Information Science},
+ title = {Developing a multiview spatiotemporal model based on deep graph neural networks to predict the travel demand by bus},
+ year = {2023},
+ volume = {37},
+ issue = {7},
+ pages = {1555-1581}
 }
 ```
