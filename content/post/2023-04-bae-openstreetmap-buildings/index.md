@@ -30,7 +30,7 @@ image:
 
 We are glad to share our new paper:
 
-> Biljecki F, Chow YS, Lee K (2023): Quality of crowdsourced geospatial building information: A global assessment of OpenStreetMap attributes. _Building and Environment_ 237: 110295. [<i class="ai ai-doi-square ai"></i> 10.1016/j.buildenv.2023.110295](https://doi.org/10.1016/j.buildenv.2023.110295) [<i class="far fa-file-pdf"></i> PDF](/publication/2023_bae_osm_qa/2023_bae_osm_qa.pdf)</i>  <i class="ai ai-open-access-square ai"></i>
+> Biljecki F, Chow YS, Lee K (2023): Quality of crowdsourced geospatial building information: A global assessment of OpenStreetMap attributes. _Building and Environment_ 237: 110295. [<i class="ai ai-doi-square ai"></i> 10.1016/j.buildenv.2023.110295](https://doi.org/10.1016/j.buildenv.2023.110295) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-bae-osm-qa/2023-bae-osm-qa.pdf)</i>  <i class="ai ai-open-access-square ai"></i>
 
 This research was led by {{% mention "filip" %}}, and contributed by {{% mention "yoong-shin" %}} and {{% mention "kay" %}}.
 
@@ -55,9 +55,9 @@ The paper presents the first global study on understanding the content and quali
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2023_bae_osm_qa/) (open access <i class="ai ai-open-access-square ai"></i>).
+For more information, please see the [paper](/publication/2023-bae-osm-qa/) (open access <i class="ai ai-open-access-square ai"></i>).
 
-[![](page-one.png)](/publication/2023_bae_osm_qa/)
+[![](page-one.png)](/publication/2023-bae-osm-qa/)
 
 BibTeX citation:
 ```bibtex
