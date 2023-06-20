@@ -16,7 +16,6 @@ header:
 The Urban Analytics Lab seminar series is part of our community engagement and to provide a platform leading to interesting discussions, new ideas, and spurring collaborations. 
 In our seminar series, we give priority to early career researchers.
 The seminars are by invitation.
-The series is managed by Dr {{% mention "marcel" %}}.
 
 Further, sometimes we organise guest lectures at the [department](https://cde.nus.edu.sg/arch/) level.
 These are included below.
@@ -24,6 +23,23 @@ For the full list of events at our NUS Department of Architecture see the [list 
 
 During the pandemic, we organised the talks online-only, but moved them to in-person.
 While the events are at our school at NUS, we remain open to external visitors.
+
+### 2023-07-10 --- Sensing Cities with Street-level Imagery
+
+By [Zhang Fan](https://www.ce.ust.hk/people/fan-zhang-zhangfan),
+[Department of Civil and Environmental Engineering](https://www.ce.ust.hk), 
+[Hong Kong University of Science and Technology](https://hkust.edu.hk),
+Hong Kong SAR
+
+The integration of digital technologies into the physical space has led to significant changes in our understanding, perception, design, and experience of cities. The advent of geospatial big data and advancements in AI have created new possibilities for sensing urban dynamics and evaluating the effects of urbanization.
+
+One type of geospatial data that has attracted attention recently is street-level imagery, which enables urban physical environment to be observed from a human perspective. Recent developments in AI technologies have provided strong support for extracting semantic information from street-level imagery and quantifying urban physical environment, which not only observing urban physical environment from the human perspective, but also reveals human activities and socio-economic environments, providing new perspectives for the research on human-land relationships and spatial data mining and knowledge discovery.
+
+This presentation will introduce case studies of street-level imagery under the framework of urban visual intelligence.
+
+![](2023-07-10.png)
+
+---
 
 ### 2023-04-12 --- Urban Analytics and Social Sensing
 
