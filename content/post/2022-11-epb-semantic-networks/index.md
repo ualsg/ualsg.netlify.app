@@ -30,7 +30,7 @@ image:
 
 We are glad to share our new paper:
 
-> Yap W, Chang JH, Biljecki F (2023): Incorporating Networks in Semantic Understanding of Streetscapes: Contextualising Active Mobility Decisions. _Environment and Planning B: Urban Analytics and City Science_. [<i class="ai ai-doi-square ai"></i> 10.1177/23998083221138832](https://doi.org/10.1177/23998083221138832) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-epb-semantic-networks/2023-epb-semantic-networks.pdf)</i>
+> Yap W, Chang JH, Biljecki F (2023): Incorporating Networks in Semantic Understanding of Streetscapes: Contextualising Active Mobility Decisions. _Environment and Planning B: Urban Analytics and City Science_ 50(6): 1416-1437. [<i class="ai ai-doi-square ai"></i> 10.1177/23998083221138832](https://doi.org/10.1177/23998083221138832) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-epb-semantic-networks/2023-epb-semantic-networks.pdf)</i>
 
 This research was led by {{% mention "winston" %}}.
 Congratulations on his continued successes during his PhD! :raised_hands: :clap:
@@ -54,12 +54,13 @@ For more information, please see the [paper](/publication/2023-epb-semantic-netw
 BibTeX citation:
 ```bibtex
 @article{2023_epb_semantic_networks,
-  author = {Yap, Winston and Chang, Jiat-Hwee and Biljecki, Filip},
-  doi = {10.1177/23998083221138832},
-  journal = {Environment and Planning B: Urban Analytics and City Science},
-  pages = {},
-  title = {Incorporating Networks in Semantic Understanding of Streetscapes: Contextualising Active Mobility Decisions},
-  volume = {},
-  year = {2023}
+ author = {Yap, Winston and Chang, Jiat-Hwee and Biljecki, Filip},
+ doi = {10.1177/23998083221138832},
+ journal = {Environment and Planning B: Urban Analytics and City Science},
+ title = {Incorporating Networks in Semantic Understanding of Streetscapes: Contextualising Active Mobility Decisions},
+ year = {2023},
+ pages = {1416-1437},
+ volume = {50},
+ issue = {6}
 }
 ```
