@@ -2,8 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Visit by Dr Zhang Fan from the Hong Kong University of Science and Technology"
-subtitle: "Continued collaboration with research groups in urban analytics."
-summary: "Continued collaboration with research groups in urban analytics."
+subtitle: "Continued collaboration with overseas research groups in urban analytics."
+summary: "Continued collaboration with overseas research groups in urban analytics."
 authors: [admin]
 tags: [visit, nus architecture, hong kong, china]
 categories: []
@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Our Lab and department hosted Dr [Zhang Fan](https://www.ce.ust.hk/people/fan-zhang-zhangfan) from the [Department of Civil and Environmental Engineering](https://www.ce.ust.hk) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk).
+Our Lab and department hosted Dr [Zhang Fan](https://www.ce.ust.hk/people/fan-zhang-zhangfan) from the [Department of Civil and Environmental Engineering](https://www.ce.ust.hk) at the [Hong Kong University of Science and Technology](https://hkust.edu.hk). 🇭🇰
 
 Fan previously served as a senior research fellow at MIT and the leader of the Urban Visual AI group at the MIT Senseable City Lab.
 His research sits at the intersection of urban Informatics, data-driven approaches for urban studies, and geographic artificial intelligence.
