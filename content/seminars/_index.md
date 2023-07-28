@@ -24,6 +24,22 @@ For the full list of events at our NUS Department of Architecture see the [list 
 During the pandemic, we organised the talks online-only, but moved them to in-person.
 While the events are at our school at NUS, we remain open to external visitors.
 
+### 2023-08-07 --- Experiencing the Future of Cities through Virtual Reality
+
+By [Gamze Dane](https://gamzedane.com),
+[Department of Built Environment](https://www.tue.nl/en/our-university/departments/built-environment), 
+[Eindhoven University of Technology](https://www.tue.nl/en/),
+the Netherlands
+
+To achieve sustainable, inclusive, and livable cities, it is necessary for citizens and urban planning stakeholders to efficiently experience, discuss, and comprehend the consequences of various alternative urban intervention scenarios. This process serves two key purposes: (i) enhancing the planning practice by fostering participation and communication among stakeholders and citizens, and (ii) facilitating informed decision-making in urban planning. To this end, Virtual Reality (VR) technology offers a promising solution by providing immersive and experiential tools that allow users to envision and explore the future of cities through simulated environments.
+This presentation will showcase examples of projects where VR technology was utilized to
++ support participatory design processes. Through the development of an interactive immersive VR application, users were enabled to experience, create, and discuss different design options for healthy public space design.
++ gather data by tracking users’ behavior and choices within virtual environments that represent future urban scenarios. These insights are then used as input for agent-based models, which will predict the acceptance and use of future urban interventions.
+
+![](2023-08-07.png)
+
+---
+
 ### 2023-07-10 --- Sensing Cities with Street-level Imagery
 
 By [Zhang Fan](https://www.ce.ust.hk/people/fan-zhang-zhangfan),
