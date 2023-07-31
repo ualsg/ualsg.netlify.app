@@ -32,6 +32,29 @@ Feel free to contact us for more information, report bugs and errors, or simply 
 We would be pleased to hear how others are using our research.
 In you are interested in collaborating with us, please get in touch with the lead developer of each resource.
 
+## Urbanity
+
+![](urbanity.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A network-based python package to understand and model urban complexity |
+| Lead developer: | {{% mention "winston" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1038/s42949-023-00125-w) published in npj Urban Sustainability |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/winstonyym/urbanity) |
+| Main data source(s): | OpenStreetMap, Mapillary, etc. |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2023_npjus_urbanity,
+  author = {Yap, Winston and Stouffs, Rudi and Biljecki, Filip},
+  doi = {10.1038/s42949-023-00125-w},
+  journal = {npj Urban Sustainability},
+  title = {{Urbanity: automated modelling and analysis of multidimensional networks in cities}},
+  volume = {3},
+  issue = {45},
+  year = {2023}
+}
+{{< /spoiler >}}|
+
 ## Computer Vision and Graph Models to Predict Outdoor Comfort
 
 ![](sidewalks.jpg)
