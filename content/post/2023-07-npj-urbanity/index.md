@@ -7,8 +7,8 @@ summary: "npj Urban Sustainability publishes our work that describes the latest 
 authors: [admin]
 tags: [paper, software, networks, morphology, urban sensing, urban planning]
 categories: []
-date: 2023-07-31T18:25:16+02:00
-lastmod: 2023-07-31T18:25:16+02:00
+date: 2023-07-31T18:25:16+08:00
+lastmod: 2023-07-31T18:25:16+08:00
 featured: false
 draft: false
 
