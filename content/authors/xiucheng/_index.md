@@ -40,6 +40,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/xiucheng-liang/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=ThZtaeoAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Liang-Xiucheng
 - icon: envelope
   icon_pack: fas
   link: 'mailto:xcleung@outlook.com'
@@ -59,6 +65,7 @@ user_groups:
 - People
 ---
 
-Xiucheng is pursuing a master’s degree in Urban Planning at the NUS School of Design and Environment.
+Xiucheng is a PhD candidate in our research group.
+He holds masters' degree in urban planning from the NUS College of Design and Engineering.
 His working experience includes positions as urban planner and consultant in different planning sectors, such as Institution of Urban Planning in Shenzhen University, Municipal Bureau of Natural Resources and Cushman & Wakefield (Shenzhen Branch) in China.
 Currently his research interest is in applying urban data science and machine learning in urban planning studies, especially urban morphology and built environment.
