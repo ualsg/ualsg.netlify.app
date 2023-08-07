@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Welcoming three new PhD researchers in the team"
+title: "Welcoming three new PhD researchers to the team"
 subtitle: "Each of them will delve into the fascinating world of emerging urban datasets."
 summary: "Each of them will delve into the fascinating world of emerging urban datasets."
 authors: [admin]
