@@ -76,7 +76,7 @@ BibTeX citation:
   journal = {npj Urban Sustainability},
   title = {{Urbanity: automated modelling and analysis of multidimensional networks in cities}},
   volume = {3},
-  issue = {45},
+  number = {45},
   year = {2023}
 }
 ```
