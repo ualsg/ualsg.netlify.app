@@ -63,7 +63,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Graduate Researchers and Students
-- People
+- Alumni
 ---
 
 Yunlei is currently pursuing a master's degree in GIS at the NUS Geography Department.
