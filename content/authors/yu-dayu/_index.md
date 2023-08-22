@@ -28,7 +28,7 @@ education:
   - course: PhD candidate in Geographical Information Engineering
     institution: Wuhan University, China
   - course: M.Eng in Surveying and Mapping Engineering
-    institution: Fuzhou, China
+    institution: Fuzhou University, China
     year: 2020
   - course: B.Eng in Land Resource Management
     institution: Henan Polytechnic University, China
