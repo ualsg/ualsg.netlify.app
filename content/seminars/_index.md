@@ -24,6 +24,20 @@ For the full list of events at our NUS Department of Architecture see the [list 
 During the pandemic, we organised the talks online-only, but moved them to in-person.
 While the events are at our school at NUS, we remain open to external visitors.
 
+### 2023-09-18 --- Cities on the Climate Frontlines: Evaluating Urban Climate Change and Policy Responses
+
+By [Angel Hsu](https://publicpolicy.unc.edu/person/hsu-angel/),
+[Data-Driven EnviroLab](https://datadrivenlab.org), 
+[The University of North Carolina at Chapel Hill](https://www.unc.edu/),
+USA
+
+Cities are both contributors and potential problem solvers of the global climate crisis. They are also vulnerable to climate change impacts, including sea-level rise, extreme heat, and natural disasters. Consequently, they have risen to become prominent climate and environmental sustainability agents, with the UN’s Sustainable Development Goal 11 charging cities to be both sustainable and inclusive and the Paris Agreement’s recognition of their contributions. In this talk, I’ll introduce how my research is utilizing data science to evaluate cities’ contributions to global climate mitigation efforts and urban sustainable development more broadly.
+
+
+![](2023-09-18.png)
+
+---
+
 ### 2023-08-07 --- Experiencing the Future of Cities through Virtual Reality
 
 By [Gamze Dane](https://gamzedane.com),
