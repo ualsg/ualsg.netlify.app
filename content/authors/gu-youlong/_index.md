@@ -1,52 +1,54 @@
 ---
 # Display name
-name: April Zhu
-title:  April Zhu
+name: Gu Youlong
+title: Gu Youlong
 
 # Username (this should match the folder name)
 authors:
-- april
+- gu-youlong
 
-weight: 90
+weight: 80
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Designer
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
 - name: "National University of Singapore"
-  #url: ""
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: []
 
 education:
   courses:
-  - course: Master in Architecture
+  - course: Master of Urban Planning
     institution: National University of Singapore
-    year: 2021
-  - course: Bachelor of Architecture
-    institution: National University of Singapore
-    year: 2020
-  - course: Exchange student
-    institution: UC Berkeley
-    year: 2018
+    year: 2025
+  - course: B.E. in Urban and Rural Planning
+    institution: Hefei University of Technology
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: home
+- icon: envelope
   icon_pack: fas
-  link: https://studioaz.space
+  link: 'mailto:youlong@u.nus.edu'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/aprilzhu423/
-
+  link: https://www.linkedin.com/in/youlong-gu-238096285/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=FgsR5QgAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Youlong-Gu
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -60,13 +62,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-# - Research Staff and Doctoral Researchers
+# - Graduate Researchers and Students
 - People
 ---
 
-April is studying Architecture at our school, and she is a designer at our group.
-During her undergrad, she was an exchange student at UC Berkeley.
-
-April has her own design consultancy -- [Studio AZ](https://studioaz.space).
-Make sure you visit her website to see her nice work.
-
+Youlong is currently pursuing a master’s degree in Urban Planning at the NUS College of Design and Engineering. His work experience includes working as an assistant engineer at the Anhui Urban Planning and Design Institute. His research interests are in the application of data science in the field of urban planning. At our Lab, Youlong is exploring crowdsourcing labelling and perception of urban imagery.
