@@ -5,7 +5,7 @@ title: "Visits to Thai universities and organisations"
 subtitle: "Furthering our network in Southeast Asia by visiting premier institutions in Thailand."
 summary: "Furthering our network in Southeast Asia by visiting premier institutions in Thailand."
 authors: [admin]
-tags: [tokyo, kyoto, japan, visits]
+tags: [thailand, bangkok, chiang mai, visits]
 categories: []
 date: 2023-08-06T18:55:49+08:00
 lastmod: 2023-08-06T18:55:49+08:00
