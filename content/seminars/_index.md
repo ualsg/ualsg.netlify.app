@@ -13,16 +13,27 @@ header:
   image: ""
 ---
 
-The Urban Analytics Lab seminar series is part of our community engagement and to provide a platform leading to interesting discussions, new ideas, and spurring collaborations. 
-In our seminar series, we give priority to early career researchers.
-The seminars are by invitation.
+The Urban Analytics Lab seminar series is part of our community engagement and to provide a platform leading to discussions, new ideas, and spurring collaborations. 
+In our series, we give priority to early career researchers, but also host seasoned researchers and professors.
 
 Further, sometimes we organise guest lectures at the [department](https://cde.nus.edu.sg/arch/) level.
 These are included below.
 For the full list of events at our NUS Department of Architecture see the [list of events](https://cde.nus.edu.sg/arch/news_and_events/).
 
 During the pandemic, we organised the talks online-only, but moved them to in-person.
-While the events are at our school at NUS, we remain open to external visitors.
+
+### 2023-10-02 --- Realising Computational Design of Complex Geometry in Architecture
+
+By [Ming Shan (Charmaine) Ng](https://www.hyokadb.jim.kit.ac.jp/profile/en.a8ad724387d2489b91764df21b29a00b.html),
+[Center for the Possible Futures](https://www.cpf.kit.ac.jp),
+[Kyoto Institute of Technology](https://www.kit.ac.jp/en/),
+Japan
+
+The talk showcases research and practice about computational design and digital fabrication of complex architecture. It explains how architects in Europe, America and Asia realised computational design of complex geometry building envelopes and structures with some of her past international projects in practice as examples. Dr. Ng introduces multiple key techniques in design practices, such as Design for Manufacture and Assembly (DfMA) and post-rationalisation through computational approaches, industrialised construction methods such as modularisation, prefabrication and digital fabrication, as well as integrated design management approaches such as lean-based Target Value Design, early contractor involvement, Integrated Project Delivery (IPD) and relational contracting. She also presents her research in correspondence to the above topics and demonstrates how scientific research can guide current practice to foster digital transformation, sustainability and circularity. Besides, she discusses her theoretical research on socio-technical network studies using the Actor-Network Theory (ANT) and transdisciplinary studies on liabilities and governance in technology implementation.
+
+![](2023-10-02.png)
+
+---
 
 ### 2023-09-18 --- Cities on the Climate Frontlines: Evaluating Urban Climate Change and Policy Responses
 
