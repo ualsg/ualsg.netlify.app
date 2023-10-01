@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Urban Analytics Lab"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = 'sg-viridis-b.jpg'
+hero_media = 'urbanity3.png'
 
 [design.background]
   # Apply a background color, gradient, or image.
