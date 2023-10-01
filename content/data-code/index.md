@@ -15,14 +15,15 @@ summary = "Open stuff"
   columns = "1"
 +++ 
 
-We publish most of our code and data on [our Github account](https://github.com/ualsg).
+We publish most of our code and data openly.
+We do that mostly through [our Github account](https://github.com/ualsg).
 
-Please see below for a list of resources and projects, especially lab-grown datasets that we released openly. 
-On this page, we also include [outputs led by collaborators](#with-our-friendly-collaborators), in which we were involved.
+Please see below for a list of resources and projects, especially lab-grown datasets, which we are happy to share. 
+On this page, we also include similar [outputs led by collaborators](#with-our-friendly-collaborators), in which we were involved.
 
-On a related note, you may be interested in [our comprehensive survey on open-source software](https://doi.org/10.1016/j.compenvurbsys.2022.101825), published as a review paper in Computers, Environment and Urban Systems.
+On a related note, you may be interested in [our comprehensive survey on open-source software](https://doi.org/10.1016/j.compenvurbsys.2022.101825), published as a review paper in _Computers, Environment and Urban Systems_.
 
-In general, all code and data are released under a liberal licence, enabling you unrestricted use as long as you attribute them.
+In general, all resources are released under a liberal licence, enabling you unrestricted use as long as you attribute them.
 If you use the code and/or the data for presentations and publications, we kindly ask you to cite the related paper(s) and credit our work. 
 We have provided guidelines to do so in each resource.
 
@@ -42,6 +43,7 @@ In you are interested in collaborating with us, please get in touch with the lea
 | Lead developer: | {{% mention "winston" %}} |
 | Further reading: | Please read the [paper](https://doi.org/10.1038/s42949-023-00125-w) published in npj Urban Sustainability |
 | Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/winstonyym/urbanity) |
+| Data: | [<i class="fa-solid fa-download"></i> Figshare](https://doi.org/10.6084/m9.figshare.22124219) |
 | Main data source(s): | OpenStreetMap, Mapillary, etc. |
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
 @article{2023_npjus_urbanity,
@@ -51,6 +53,29 @@ In you are interested in collaborating with us, please get in touch with the lea
   title = {{Urbanity: automated modelling and analysis of multidimensional networks in cities}},
   volume = {3},
   issue = {45},
+  year = {2023}
+}
+{{< /spoiler >}}|
+
+## Explainable spatially explicit geospatial artificial intelligence in urban analytics
+
+![](geoxai.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | This repo is for our paper "Explainable spatially explicit geospatial artificial intelligence in urban analytics" |
+| Lead developer: | {{% mention "pengyuan" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1177/23998083231204689) published in EPB |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/PengyuanLiu1993/XAI-Urban-Analytics) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2023_epb_xai,
+  author = {Liu, Pengyuan and Yan, Zhang and Biljecki, Filip},
+  doi = {10.1177/23998083231204689},
+  journal = {Environment and Planning B: Urban Analytics and City Science},
+  title = {{Explainable spatially explicit geospatial artificial intelligence in urban analytics}},
+  volume = {},
+  number = {},
+  pages = {},
   year = {2023}
 }
 {{< /spoiler >}}|
@@ -133,9 +158,21 @@ In you are interested in collaborating with us, please get in touch with the lea
 | ------------------| ------------------------------ |
 | Short description: | Deep learning-based analysis of the urban morphology around the world |
 | Lead developer: | {{% mention "wangyang" %}} |
-| Further reading: | Readme on the Github repo. Paper in progress, stay tuned |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.landurbplan.2023.104901) published in Landscape and Urban Planning |
 | Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/ualsg/Global-road-network-patterns) |
 | Main data source(s): | OpenStreetMap |
+| Coverage: | 144 cities | 
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2024_land_urn,
+  author = {Chen, Wangyang and Huang, Huiming and Liao, Shunyi and Gao, Feng and Biljecki, Filip},
+  doi = {10.1016/j.landurbplan.2023.104901},
+  journal = {Landscape and Urban Planning},
+  title = {{Global urban road network patterns: Unveiling multiscale planning paradigms of 144 cities with a novel deep learning approach}},
+  volume = {241},
+  pages = {104901},
+  year = {2024}
+}
+{{< /spoiler >}}|
 
 ## SVIQC -- Street View Imagery Quality Checker
 

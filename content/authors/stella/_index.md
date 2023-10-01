@@ -52,7 +52,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- People
+- Alumni
 ---
 
 Stella is a research intern at the UAL with experience in environmental planning and real estate development.

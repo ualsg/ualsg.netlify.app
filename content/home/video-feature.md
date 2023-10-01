@@ -20,8 +20,9 @@ author = "admin"
 <script src="https://player.vimeo.com/api/player.js"></script>
 <br />
 
-We are creating innovative methods, datasets, and software to advance data-driven urban planning, digital twins, and geospatial technologies in building and managing the smart cities of tomorrow. 
+We are introducing innovative methods, datasets, and software to advance data-driven urban planning, digital twins, and geospatial technologies in building and managing the smart cities of tomorrow. 
 Using a multidisciplinary approach, we adopt recent advancements in the domains of urban data science, geomatics, computer science, and crowdsourcing to conceive cutting-edge techniques for urban sensing and analytics.
 Watch the [video](https://vimeo.com/764033095) above or read more [here](/about/).
 
-We are based at the Department of Architecture at the College of Design and Engineering of the National University of Singapore.
+We are based at the [Department of Architecture](https://cde.nus.edu.sg/arch/) at the [College of Design and Engineering](https://cde.nus.edu.sg) of the [National University of Singapore](https://www.nus.edu.sg), a leading global university centered in the heart of Southeast Asia.
+We are also affiliated with the [Department of Real Estate](https://bschool.nus.edu.sg/real-estate/) at the [NUS Business School](https://bschool.nus.edu.sg).
