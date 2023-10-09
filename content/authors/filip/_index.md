@@ -25,6 +25,7 @@ bio: ""
 
 interests:
 - 3D city modelling, 3D GIS
+- GeoAI
 - Geographic data science
 
 education:
@@ -97,7 +98,7 @@ He is the founder and the principal investigator of the [NUS Urban Analytics Lab
 In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
 Further, he has been awarded multiple awards for teaching and research.
 
-His background is in Geomatic engineering.
+His vocational background is in Geomatic engineering.
 Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (top 5%) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
 The list of his publications is available [here](https://filipbiljecki.com/#publications).
 
@@ -108,6 +109,7 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 * [University of Liverpool](https://www.liverpool.ac.uk), [Department of Geography and Planning](https://www.liverpool.ac.uk/geography-and-planning/), [Geographic Data Science Lab](https://www.liverpool.ac.uk/geographic-data-science/) -- Honorary Research Fellow
 * [NUS Institute of Data Science](https://ids.nus.edu.sg) -- Faculty Affiliate
 * [NUS Sustainable and Green Finance Institute](https://sgfin.nus.edu.sg) -- Research Affiliate
+* [NUS Institute of Real Estate and Urban Studies](https://ireus.nus.edu.sg) -- Research Affiliate
 * [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Editorial Board Member
 * [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671) -- Editorial Board Member
 * [PLOS ONE](https://journals.plos.org/plosone/) -- Academic Editor for Geoinformatics
