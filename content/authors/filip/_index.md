@@ -118,6 +118,8 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 * [World Economic Forum](https://www.weforum.org/), Global Future Council on Cities and Urbanization -- Fellow (2018-2020)
 
 ### Awards and honours (selected)
+* 3D GeoInfo best paper award, 2023
+* Urban Informatics Paper of the Year Award, 2023
 * CDE Young Researcher Award (NUS), 2023
 * College Teaching Excellence Award (NUS), 2023
 * School Teaching Excellence Award (NUS), 2021
