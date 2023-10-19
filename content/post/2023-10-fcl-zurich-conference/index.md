@@ -33,7 +33,9 @@ We are quite active in cultivating this collaboration, e.g. {{< mention "filip" 
 
 As part of the project and collaboration, we just attended the [Conference and Exhibition of the Future Cities Laboratory Global](https://fclg-ep.ethz.ch) hosted at ETH Zurich in Switzerland, to which we contributed in several ways. 
 
-Almost the entire project team, based in Singapore and Zurich, attended it and contributed with presentations and discussions: {{< mention "chenyi" >}}, {{< mention "matias" >}}, Rohit Dubey, Pieter Herthogs, Aurel von Richthofen, Stefan Müller Arisona, Christoph Hoelscher, Dirk Helbing, and {{< mention "filip" >}}.
+Almost the entire project team, based in Singapore and Zurich, attended it and contributed with presentations and discussions: {{< mention "chenyi" >}}, {{< mention "matias" >}}, Rohit Dubey, Javier Argota Sánchez-Vaquerizo, Pieter Herthogs, Aurel von Richthofen, Stefan Müller Arisona, Christoph Hoelscher, Dirk Helbing, and {{< mention "filip" >}}.
+
+![](0.jpg)
 
 
 The two-day conference featured prominent keynote speakers and panel discussions, and an opportunity to interact directly with young researchers.
