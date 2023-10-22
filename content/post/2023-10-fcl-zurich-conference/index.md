@@ -39,7 +39,10 @@ Almost the entire project team, based in Singapore and Zurich, attended it and c
 
 
 The two-day conference featured prominent keynote speakers and panel discussions, and an opportunity to interact directly with young researchers.
-A public exhibition showcases the results of the ongoing research activities.
+
+![](0a.jpg)
+
+A public exhibition showcased the results of the ongoing research activities.
 Bringing together science, design, engineering and governance, FCL Global actively promotes the development of more sustainable, resilient and inclusive cities, setting the stage for a more liveable urban future.
 
 The event was attended by prominent scientists in our domain such as Professor Michael Batty.
