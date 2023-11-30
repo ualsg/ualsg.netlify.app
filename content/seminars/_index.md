@@ -22,6 +22,17 @@ For the full list of events at our NUS Department of Architecture see the [list 
 
 During the pandemic, we organised the talks online-only, but moved them to in-person.
 
+### 2023-12-18 --- Opportunities and Challenges in Geospatial AI
+
+By [Song Gao](https://geography.wisc.edu/staff/gao-song/),
+[Geospatial Data Science Lab](https://geography.wisc.edu/geods/research),
+[University of Wisconsin - Madison](https://www.wisc.edu),
+USA
+
+Geospatial artificial intelligence (GeoAI), an emerging interdisciplinary field, merges geographic knowledge with AI techniques to address significant scientific and engineering challenges in human-environmental systems. It focuses on enhancing machines’ spatial intelligence to improve dynamic perception, intelligent reasoning, knowledge discovery and mapping of geographic phenomena. This talk will introduce the historical roots of GeoAI, delve into the latest advancements in spatially explicit AI models, and examine innovative research and applications of GeoAI, as well as addressing some challenges associated with GeoAI foundation models.
+
+![](2023-12-18.png)
+
 ### 2023-10-02 --- Realising Computational Design of Complex Geometry in Architecture
 
 By [Ming Shan (Charmaine) Ng](https://www.hyokadb.jim.kit.ac.jp/profile/en.a8ad724387d2489b91764df21b29a00b.html),
