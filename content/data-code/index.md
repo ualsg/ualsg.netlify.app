@@ -373,6 +373,28 @@ volume = {228}
 
 # With our friendly collaborators
 
+## Longitudinal thermographic dataset in Singapore
+
+![](iris.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | More than a million thermographic images collected in our campus from ground-based thermal cameras over a long time, allowing users to determine the temperature trend of individual features such as buildings, roads, and vegetation in a tropical environment. |
+| Lead developer: | [Subin Lin](https://sg.linkedin.com/in/subin-lin-81710b211) from NUS and the Berkeley Education Alliance for Research in Singapore (BEARS) |
+| Data: | [Github](https://github.com/buds-lab/project-iris-dataset) |
+| Further reading: | Please read the [paper](https://doi.org/10.1038/s41597-023-02749-0) published in Scientific Data |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2023_sd_iris,
+  author = {Lin, Subin and Ramani, Vasantha and Martin, Miguel and Arjunan, Pandarasamy and Chong, Adrian and Biljecki, Filip and Ignatius, Marcel and Poolla, Kameshwar and Miller, Clayton},
+  doi = {10.1038/s41597-023-02749-0},
+  journal = {Scientific Data},
+  pages = {859},
+  title = {District-scale surface temperatures generated from high-resolution longitudinal thermal infrared images},
+  volume = {10},
+  year = {2023}
+}
+{{< /spoiler >}}|
+
 ## EUropean BUilding stock Characteristics in a Common and Open database
 
 ![](eubucco.png)
