@@ -29,7 +29,7 @@ image:
 
 We are glad to share a new collaborative paper:
 
-> Dilsiz AD, Nweye KE, Wu AJ, Kämpf JH, Biljecki F, Nagy Z (2023): How spatio-temporal resolution impacts urban energy calibration. _Energy and Buildings_ 292: 113175. [<i class="ai ai-doi-square ai"></i> 10.1016/j.enbuild.2023.113175](https://doi.org/10.1016/j.enbuild.2023.113175) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-enb-ubem-resolution/2023-enb-ubem-resolution.pdf)</i>  <i class="ai ai-open-access-square ai"></i>
+> Dilsiz AD, Nweye KE, Wu AJ, Kämpf JH, Biljecki F, Nagy Z (2023): How spatio-temporal resolution impacts urban energy calibration. _Energy and Buildings_ 292: 113175. [<i class="ai ai-doi-square ai"></i> 10.1016/j.enbuild.2023.113175](https://doi.org/10.1016/j.enbuild.2023.113175) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-enb-ubem-resolution/2023-enb-ubem-resolution.pdf)</i>
 
 The paper addresses the crucial role of Urban Energy Models (UBEMs) in evaluating the energy performance of buildings, ranging from individual buildings to entire districts.
 It articulates the need for consistent reporting on accuracy in UBEM, and it introduces a multi-dimensional Level of Detail (LoD) specification for UBEM, including geometry, thermal zoning, and spatio-temporal resolution of the measured data used to calibrate the models.
