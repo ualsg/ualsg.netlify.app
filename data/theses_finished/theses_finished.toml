@@ -15,6 +15,7 @@ study = "Master of Urban Planning"
 year = "2023"
 uni = "NUS"
 image = "wang-zeyu-research.png"
+paper = "2024-cities-evolution"
 
 [[thesis]]
 title = "POI-based shrinking city identification and its spatial-temporal evolution characteristics"
