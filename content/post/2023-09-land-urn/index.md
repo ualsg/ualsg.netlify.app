@@ -45,6 +45,9 @@ This paper considerably expands it by introducing several innovations and novelt
 
 ![](2.png)
 
+The paper is [available freely](https://authors.elsevier.com/a/1hrEwcUG5SifV) until 2023-11-19.
+
+
 ### Highlights
 
 + Comprehensive global study on urban road patterns with a novel approach.
