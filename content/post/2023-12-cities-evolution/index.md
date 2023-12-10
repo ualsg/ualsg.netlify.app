@@ -35,10 +35,11 @@ We are glad to share our new paper:
 This research was led by {{% mention "zeyu" %}}, our Master of Urban Planning graduate.
 Congratulations on the first journal publication! :raised_hands: :clap:
 
-
 ![](1.png)
 
 ![](2.jpg)
+
+The paper is [available freely](https://authors.elsevier.com/a/1iD8Yy5jOr6Ri) until 2024-01-26.
 
 ### Abstract
 
