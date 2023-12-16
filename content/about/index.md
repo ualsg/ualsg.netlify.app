@@ -31,6 +31,8 @@ Within NUS, we collaborate primarily with three sister labs: the [Building and U
 Some of our activities are also featured in a recent [video](https://www.youtube.com/watch?v=rOgbqANG-6I):
 {{< youtube rOgbqANG-6I >}}
 
+If you are looking for a paper that overviews our work, this [2023 book chapter](/publication/2023-geoai-handbook-urban-sensing/), part of the [Handbook of Geospatial Artificial Intelligence](https://www.taylorfrancis.com/books/edit/10.1201/9781003308423/handbook-geospatial-artificial-intelligence-song-gao-yingjie-hu-wenwen-li), describes a portion of our research agenda and recent work.
+
 You are welcome to follow our work through <a itemprop="sameAs" href="http://twitter.com/urbanalyticslab" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> Twitter</a>, <a itemprop="sameAs" href="https://www.linkedin.com/company/urban-analytics-lab/" target="_blank" rel="noopener"><i class="fab fa-linkedin"></i> LinkedIn</a>, <a href="../post/">blog</a>, and <a href="../publication/">papers</a>.
 You may also be interested in our home-grown data and code that we [released openly](/data-code).
 
