@@ -5,7 +5,7 @@ title: "AAG 2023 and visits in the United States"
 subtitle: "Contribution to the main conference of The American Association of Geographers (AAG) and visits to two universities."
 summary: "Contribution to the main conference of The American Association of Geographers (AAG) and visits to two universities."
 authors: [admin]
-tags: [research visit, events]
+tags: [research visit, events, usa]
 categories: []
 date: 2023-04-02T14:03:28+08:00
 lastmod: 2023-04-02T14:03:28+08:00
