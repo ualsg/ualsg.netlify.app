@@ -7,8 +7,8 @@ summary: "A new consolidated effort of the Geospatial AI community and our contr
 authors: [admin]
 tags: [paper, urban sensing, urban planning, geoai, book]
 categories: []
-date: 2023-12-17T06:23:22+08:00
-lastmod: 2023-12-17T06:23:22+08:00
+date: 2023-12-17T06:19:22+08:00
+lastmod: 2023-12-17T06:19:22+08:00
 featured: false
 draft: false
 
