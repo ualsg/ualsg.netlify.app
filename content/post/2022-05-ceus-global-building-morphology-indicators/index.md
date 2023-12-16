@@ -32,7 +32,7 @@ We are pleased to share that our latest project [_Global Building Morphology Ind
 published as a namesake article in Computers, Environment and Urban Systems:
 
 > Biljecki F, Chow YS (2022): Global Building Morphology Indicators. _Computers, Environment and Urban Systems_ 95: 101809.
-> [<i class="ai ai-doi-square ai"></i>10.1016/j.compenvurbsys.2022.101809](https://doi.org/10.1016/j.compenvurbsys.2022.101809) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ceus-gbmi/2022-ceus-gbmi.pdf)</i><i class="ai ai-open-access-square ai"></i>
+> [<i class="ai ai-doi-square ai"></i>10.1016/j.compenvurbsys.2022.101809](https://doi.org/10.1016/j.compenvurbsys.2022.101809) [<i class="far fa-file-pdf"></i> PDF](/publication/2022-ceus-gbmi/2022-ceus-gbmi.pdf)</i> <i class="ai ai-open-access-square ai"></i>
 
 Urban morphology has been instrumental in a variety of disciplines. 
 Addressing multiple research gaps related to the building aspect, GBMI is a cohesive set of three contributions in this domain:
