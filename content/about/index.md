@@ -43,3 +43,6 @@ The full list of our interests and key words: Geographical Information Science (
 ![](banner2.png)
 
 ![](../opportunities/ir-2022-06.jpg)
+
+![](song-gao-visit-2023-12.jpg)
+
