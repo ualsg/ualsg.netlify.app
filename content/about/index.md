@@ -28,6 +28,8 @@ Within NUS, we collaborate primarily with three sister labs: the [Building and U
 
 ![](ual-dinner-2022-06.jpg)
 
+![](song-gao-visit-2023-12.jpg)
+
 Some of our activities are also featured in a recent [video](https://www.youtube.com/watch?v=rOgbqANG-6I):
 {{< youtube rOgbqANG-6I >}}
 
@@ -44,5 +46,4 @@ The full list of our interests and key words: Geographical Information Science (
 
 ![](../opportunities/ir-2022-06.jpg)
 
-![](song-gao-visit-2023-12.jpg)
-
+![](ual-christmas-2023-12.jpg)
