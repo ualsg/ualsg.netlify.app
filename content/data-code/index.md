@@ -27,11 +27,11 @@ In general, all resources are released under a liberal licence, enabling you unr
 If you use the code and/or the data for presentations and publications, we kindly ask you to cite the related paper(s) and credit our work. 
 We have provided guidelines to do so in each resource.
 
-While a great deal of effort has been put into each project, they are not free of errors, and we cannot be held responsible for the use of code and/or data and any issues that may arise.
+The usual caveat: while a great deal of effort has been put into each project, they are not free of errors, and we cannot be held responsible for the use of code and/or data and any issues that may arise.
 
 Feel free to contact us for more information, report bugs and errors, or simply to inform us what are you using the data for.
-We would be pleased to hear how others are using our research.
-In you are interested in collaborating with us, please get in touch with the lead developer of each resource.
+We would be pleased to learn how others are using our work.
+If you are interested in collaborating with us, please get in touch with the lead developer of each resource listed below.
 
 ## Urbanity
 
