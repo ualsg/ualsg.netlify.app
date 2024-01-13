@@ -60,7 +60,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Mengbi is pursuing a doctoral degree at the NUS School of Design and Environment.

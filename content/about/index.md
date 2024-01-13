@@ -16,15 +16,15 @@ We are a multidisciplinary research group focusing on urban data management and 
 
 Our mission is to leverage and make sense of big geospatial data at different scales for urban applications and catalyse the development of spatial data infrastructures and digital twins in the realm of smart cities and the built environment.
 We are particularly interested in the interface of emerging urban datasets such as street-level imagery, dynamic/sensor data, and 3D city models with the state of the art of artificial intelligence to solve contemporary urban challenges and provide a strong foundation to advance urban informatics.
-Crowdsourcing plays an important role in our research, as we follow and contribute to vibrant developments in Volunteered Geographic Information (VGI) and engage such data in our research.
+Crowdsourcing plays an important role in our research, as we follow and contribute to the vibrant and impressive developments in Volunteered Geographic Information (VGI) and engage such data in our advancements.
 
-The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Assistant Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg).
+The research group was established in 2019 by its Director/PI Dr {{% mention "filip" %}}, Assistant Professor at the [NUS College of Design and Engineering](https://www.cde.nus.edu.sg) and the [NUS Business School](https://bschool.nus.edu.sg), and has been a home for [dozens of enthusiastic researchers](/people) who share ambitions about making our cities smarter.
 You can read more about our research agenda also in [an interview with the PI](https://news.nus.edu.sg/creating-a-map-for-the-future).
 
 ![](banner-gbmi.png)
 
 We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
-Within NUS, we collaborate primarily with three sister labs: the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), and the [Urban Climate Design Lab (UCDL)](https://www.sde.nus.edu.sg/arch/ucdl/), forming a constellation of research groups with complementary activities operating at converging scales.
+Within NUS, we collaborate primarily with several sister labs such as the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), the [Behavioural Cognitive Science (BeCoS) Lab](https://behaviourscience.org), and the [Urban Climate Design Lab (UCDL)](https://www.sde.nus.edu.sg/arch/ucdl/), forging a constellation of research groups with complementary agendas operating at converging scales and with shared objectives.
 
 ![](ual-dinner-2022-06.jpg)
 

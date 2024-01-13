@@ -30,7 +30,7 @@ content:
   email: filip@nus.edu.sg
   phone: 
   address:
-    street: SDE4, College of Design and Engineering, 8 Architecture Dr
+    street: SDE4, NUS College of Design and Engineering, 8 Architecture Dr
     city: Singapore
     region:  Singapore
     postcode: '117356'

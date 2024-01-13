@@ -69,7 +69,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Maxim is a PhD candidate at the Technical University of Denmark, specializing in deep generative models with a focus on remote sensing applications. He has earned master's degrees in both neurotechnology and machine learning, having previously undertaken undergraduate studies in computer science engineering. Maxim's research delves into 3D reconstruction in urban settings, building delineation, and the broader realm of deep generative models. At the UAL, he will be exploring novel techniques for Street-View Imagery and advancing research in 3D reconstruction using Aerial Imagery.
