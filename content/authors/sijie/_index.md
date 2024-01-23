@@ -43,7 +43,7 @@ education:
 social:
 - icon: home
   icon_pack: fas
-  link: https://sijieyang.myportfolio.com
+  link: https://sijie-yang.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sijie-yang-peter/
