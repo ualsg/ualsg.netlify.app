@@ -5,7 +5,7 @@ title: "Visit to Korea"
 subtitle: "The PI of the Lab gave a keynote at the Seoul Big Data Forum and visited five organisations."
 summary: "The PI of the Lab gave a keynote at the Seoul Big Data Forum and visited five organisations."
 authors: [admin]
-tags: [keynote, visits]
+tags: [keynote, visits, korea, seoul]
 categories: []
 date: 2022-12-13T14:34:49+08:00
 lastmod: 2022-12-13T14:34:49+08:00

@@ -50,7 +50,7 @@ social:
   link: https://www.linkedin.com/in/mahmoudouf/
 - icon: home
   icon_pack: fas
-  link: https://mahmoudouf.wordpress.com
+  link: https://mahmoud.work
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.sg/citations?user=WXutEXEAAAAJ&hl=en&oi=ao

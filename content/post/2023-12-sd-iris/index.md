@@ -50,7 +50,7 @@ The dataset can be accessed [here](https://github.com/buds-lab/project-iris-data
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2023-sd-iris/).
+For more information, please see the [paper](/publication/2023-sd-iris/) (open access <i class="ai ai-open-access-square ai"></i>).
 
 [![](page-one.png)](/publication/2023-sd-iris/)
 
