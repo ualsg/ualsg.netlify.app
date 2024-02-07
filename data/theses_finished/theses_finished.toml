@@ -43,6 +43,7 @@ study = "Master of Urban Planning"
 year = "2022"
 uni = "NUS"
 image = "wang-jing-research.png"
+paper = "2024-ceus-urban-form-discovery"
 
 [[thesis]]
 title = "Automatic assessment of public open spaces using street view imagery"
