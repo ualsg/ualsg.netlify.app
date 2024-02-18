@@ -30,7 +30,7 @@ education:
   - course: Master of Forestry
     institution: Huazhong Agricultural University, China
     year: 2020
-  - course: • B.Ag in Landscape Architecture
+  - course: B.Ag in Landscape Architecture
     institution: Huazhong Agricultural University, China
     year: 2017
 
