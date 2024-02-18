@@ -77,7 +77,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Postdoctoral Research Fellows
-- People
+- Alumni
 ---
 
 Marcel IGNATIUS is a Senior Research Fellow at Urban Analytics Lab, with architecture and building science background.

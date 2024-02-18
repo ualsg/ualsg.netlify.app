@@ -51,7 +51,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Jintong Han is an PhD student in the [Department of the Built Environment](https://www.sde.nus.edu.sg/bdg/) at the [National University of Singapore (NUS)](http://www.nus.edu.sg), affiliated with both our lab and the NUS [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io).
