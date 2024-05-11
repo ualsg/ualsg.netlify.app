@@ -32,8 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-10-18T04:59:51.782521Z'
-publication_types:
-- '2'
+publication_types: ['paper-conference']
 abstract: 'Street view imagery (SVI) has gained prominence in the past decade, offering a new perspective to map and understand cities. It supports numerous studies in the built environment, by replacing or supplementing aerial and satellite imagery, where some studies have not yet been possible with traditional platforms and have now been enabled for the first time thanks to the increasing volume of SVI data. However, the two perspectives are often disconnected and there has not been an overarching paper to discuss the pros and cons of each. We provide an overview outlining and discussing the role of SVI in GIS and urban studies spanning six use cases. Our discourse is supported by a systematic literature review of more than 100 papers and our own experiments that reveal the added value and challenges of SVI in extracting information on buildings and other urban features, an increasingly important use case. We find that the key advantages of SVI over aerial imagery are that it represents more closely how streetscapes are perceived by people and that it enables extracting certain information that otherwise cannot be gathered from top-down perspectives. However, the spatial coverage of SVI tends to be limited to the vicinity of driveable roads, and its temporal coverage is comparatively sparse.'
 publication: '*ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information
   Sciences*'

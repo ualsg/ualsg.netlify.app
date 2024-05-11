@@ -29,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-04-23T01:44:51.795093Z'
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'Public open space (POS) is essential to urban areas. Assessing them usually requires tedious approaches such as fieldwork and manual processes. Street View Imagery (SVI) and Computer Vision (CV) have been adopted in some urban environment research, bringing fine granularity and human perspective. However, limited aspects have been subject in these studies, and SVI and CV have not been used for holistic POS assessment. This research introduces a novel approach of employing them in conjunction with traditionally used geospatial and remote sensing data for automating POS assessment and doing so extensively. Indicators from both subjective and objective perspectives are developed, and CV algorithms are adopted for retrieving visual features. In a case study spanning 800 POS in Hong Kong and Singapore, a method is designed to predict both subjective and objective scores. The results demonstrate the perceptual models achieved acceptable to high accuracy scores, and suggest that SVI reflects different aspects of POS compared to previous approaches. The paper concludes that SVI can be adopted in POS assessment as a new instrument, extending their research scope to rarely considered off-road areas, and contributing with a new approach for the design and allocation of POS in urban planning.'
 publication: '*Cities*'
 doi: 10.1016/j.cities.2023.104329

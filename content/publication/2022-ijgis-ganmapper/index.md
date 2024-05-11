@@ -29,8 +29,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-03-05T06:43:51.469335Z'
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'We present a new method to create spatial data using a generative adversarial network (GAN).
 Our contribution uses coarse and widely available geospatial data to create maps of less available features at the finer scale in the built environment, bypassing their traditional acquisition techniques (e.g. satellite imagery or land surveying).
 In the work, we employ land use data and road networks as input to generate building footprints and conduct experiments in 9 cities around the world.

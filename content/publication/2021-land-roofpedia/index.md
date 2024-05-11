@@ -3,7 +3,7 @@ title: "Roofpedia: Automatic mapping of green and solar roofs for an open roofsc
 date: 2021-06-24
 publishDate: 2021-06-24T10:39:59.451535Z
 authors: ["abraham", "filip"]
-publication_types: ["2"]
+publication_types: ['article-journal']
 abstract: ""
 featured: false
 publication: "*Landscape and Urban Planning*"

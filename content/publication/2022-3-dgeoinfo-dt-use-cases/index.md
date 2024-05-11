@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-10-18T04:59:51.540228Z'
-publication_types:
-- '2'
+publication_types: ['paper-conference']
 abstract: 'Efficient usage and management of abundant data are crucial for organisations, especially in the light of a lack of in-depth IT knowledge. Digital twins (DTs) are particularly expected to assist organisational processes, as behaviours of physical components are realistically represented by them using data for individual use cases. Nevertheless, DTs are extremely reliant on their use cases, leading to an extensive DT catalogue. However, a conclusive list of use cases for this accumulation of feasible DT application areas does not exist. To address this issue, this paper documents the use cases of Urban Digital Twin (UDT) platforms and applications with a state-of-the-art review. The study focuses on district-scale UDT applications that model, manage and analyse—buildings, transportation, energy, water, utility, and infrastructures that form smart cities. In order to catalogue diverse use cases found in several sectors, theoretical reasoning is developed. Our study provides a classified inventory that can be helpful for stakeholders in companies, government agencies and academia—such as researchers, architects, facilities managers, developers, and city planners.'
 publication: '*The International Archives of the Photogrammetry, Remote Sensing and
   Spatial Information Sciences*'

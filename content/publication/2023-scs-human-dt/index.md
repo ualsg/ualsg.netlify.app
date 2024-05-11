@@ -35,8 +35,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-03-11T10:40:43.169017Z'
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'Conventional sidewalk studies focused on quantitative analysis of sidewalk walkability at a large scale which cannot capture the dynamic interactions between the environment and individual factors. Embracing the idea of Tech for Social Good, Urban Digital Twins seek AI-empowered approaches to bridge humans with digitally-mediated technologies to enhance their prediction ability. We employ GraphSAGE-LSTM, a geo-spatial artificial intelligence (GeoAI) framework on crowdsourced data and computer vision to predict human comfort on the sidewalks. Conceptualising the pedestrians and their interactions with surrounding built and unbuilt environments as human-centric dynamic graphs, our model captures such spatio-temporal variations given by the sequential movements of human walking, enabling the GraphSAGE-LSTM to be spatio-temporal-explicit. Our experiments suggest that the proposed model provides higher accuracy by more than 20% than a traditional machine learning model and two state-of-art deep learning frameworks, thus, enhancing the prediction power of Urban Digital Twin. The source code for the model is shared openly on GitHub.'
 publication: '*Sustainable Cities and Society*'
 doi: 10.1016/j.scs.2023.104480

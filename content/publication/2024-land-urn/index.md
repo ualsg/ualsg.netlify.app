@@ -33,8 +33,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-09-30T04:50:53.411593Z'
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'Urban road networks (URNs) are ubiquitous and essential components of cities. Visually, they present diverse patterns that embody latent planning principles. However, we still lack a global insight into such patterns. In this paper, we propose a scalable deep learning-based framework to automate accurate and multiscale classification of road network patterns in cities and present a comprehensive global implementation on 144 major cities around the world, yielding their multiscale pattern profiles and urban fabrics, highlighting both similarities and contrasts. We observe significant disparities across continents and regions, particularly at larger scales. We give particular attention to exploring inter-city pattern similarities with new metrics we introduce, and uncover subgroups in each continent, unveiling the potential intercontinental dissemination of planning paradigms. We establish four modes of intra-city spatial distribution of patterns considering diversity and clustering. Notably, radial road networks are found to be positively correlated with GDP per capita and negatively correlated with PM2.5 pollution. Our global study provides a new perspective to understand the URN texture of cities, which helps to understand the externalities of different road patterns and accordingly promote scientific and sustainable solutions for urban development.'
 publication: '*Landscape and Urban Planning*'
 doi: 10.1016/j.landurbplan.2023.104901

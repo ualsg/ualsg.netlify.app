@@ -37,8 +37,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-11-19T12:07:03.260621Z'
-publication_types:
-- '2'
+publication_types: ['paper-conference']
 abstract: 'The productivity and satisfaction of humans in the built environment is impacted significantly by their exposure to high temperature and various noise sources. This paper outlines the city-scale collection of 12,009 smartwatch-driven micro-survey responses that were collected alongside 2,825,243 physiological and environmental measurements from 106 people using the open-source Cozie-Apple platform combined with geolocation-driven urban digital twin metrics from the Urbanity Python package. This paper introduces a machine learning competition that will be launched for participants to compete in training models on the various contextual data to predict noise distraction and source as well as thermal preference across a diversity of spaces. The winning solutions of this competition will provide evidence of the types of pre-processing, modeling, and ensembling methods that provide the most accurate solutions for this context.'
 publication: '*Proceedings of the 10th ACM International Conference on Systems for
   Energy-Efficient Buildings, Cities, and Transportation*'

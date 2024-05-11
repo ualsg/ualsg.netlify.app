@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-09-30T08:45:45.807726Z'
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'Urban network analytics has become an essential tool for understanding and modeling the intricate complexity of cities. We introduce the Urbanity data repository to nurture this growing research field, offering a comprehensive, open spatial network resource spanning 50 major cities in 29 countries worldwide. Our workflow enhances OpenStreetMap networks with 40 + high-resolution indicators from open global sources such as street view imagery, building morphology, urban population, and points of interest, catering to a diverse range of applications across multiple fields. We extract streetscape semantic features from more than four million street view images using computer vision. The dataset’s strength lies in its thorough processing and validation at every stage, ensuring data quality and consistency through automated and manual checks. Accompanying the dataset is an interactive, web-based dashboard we developed which facilitates data access to even non-technical stakeholders. Urbanity aids various GeoAI and city comparative analyses, underscoring the growing importance of urban network analytics research.'
 publication: '*Scientific Data*'
 doi: 10.1038/s41597-023-02578-1

@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-10-18T04:59:20.459438Z'
-publication_types:
-- '2'
+publication_types: ['paper-conference']
 abstract: 'Construction materials play an important role in environmental impacts and make cities big resource consumers. To assess the sustainability of cities, the combined use of Life Cycle Assessment (LCA) and Material Flow Analysis (MFA) is considered effective to analyze construction material stock and flows. However, exhaustive data is required for such analyses, making LCA and MFA difficult to apply at the urban scale. Building information, the essential ingredient, is rarely available openly. Common approaches to gather the required data include both obtaining it directly from available datasets, e.g. open data from official sources, and indirectly generating data based on available data, e.g. using machine learning to fill the missing gaps. This research develops a data collection guideline for buildings’ geometrical features, components and materials at the urban scale in the context of LCA and MFA. First, it identifies the basic steps of urban-scale building stock modelling and the list of data requirements. Second, the factors influencing the data collection are pointed out. In line with these guidelines, this research picks Singapore as a study area, reviewing the relevant authoritative open data sources and methodologies to estimate missing data. Finally, the suggestion on implementation of data collection are provided. When the data collection for urban scale stock modelling is limited by uncertain reality conditions, identifying and combining open datasets and data generation methods for data preparation is a necessity.'
 publication: '*ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information
   Sciences*'
