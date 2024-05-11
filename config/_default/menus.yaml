@@ -19,10 +19,6 @@ main:
     parent: 'about'
     url: '/seminars'
     weight: 13
-  - name: media
-    parent: 'about'
-    url: '/media'
-    weight: 14
   - name: news
     url: '/post'
     weight: 20
@@ -68,10 +64,6 @@ main:
   - name: prospective students
     parent: join
     url: '/opportunities/phd'
-    weight: 83
-  - name: 'NUS courses'
-    parent: join
-    url: '/opportunities/teaching'
     weight: 84
   - name: 'student initiated projects'
     parent: join
@@ -84,9 +76,4 @@ main:
   - name: contact
     url: '#contact'
     weight: 90
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+    

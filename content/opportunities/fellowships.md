@@ -1,7 +1,5 @@
 ---
 title: Fellowship opportunities
-widget: blank
-headless: true
 show_date: false
 
 banner:

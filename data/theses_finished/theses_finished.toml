@@ -1,13 +1,4 @@
 [[thesis]]
-title = "A Bayesian approach to crime prediction with high-spatial resolution: insights from London"
-name = "Mathieu Bubert"
-profile = "mathieu"
-study = "Master of Urban Planning"
-year = "2023"
-uni = "NUS"
-image = "mathieu-bubert-research.png"
-
-[[thesis]]
 title = "Assessing visual environmental quality evolution and equity in public housing neighborhoods with time series street-level imagery"
 name = "Wang Zeyu"
 profile = "zeyu"
@@ -16,24 +7,6 @@ year = "2023"
 uni = "NUS"
 image = "wang-zeyu-research.png"
 paper = "2024-cities-evolution"
-
-[[thesis]]
-title = "POI-based shrinking city identification and its spatial-temporal evolution characteristics"
-name = "Su Yongqun"
-profile = "yongqun"
-study = "MSc in Applied GIS"
-year = "2022"
-uni = "NUS"
-image = "su-yongqun-research.png"
-
-[[thesis]]
-title = "Impact of data quality on spatial green view using street view imagery"
-name = "Li Yangyang"
-profile = "yangyang"
-study = "MSc in Applied GIS"
-year = "2022"
-uni = "NUS"
-image = "li-yangyang-research.png"
 	
 [[thesis]]
 title = "Unsupervised visual discovery of urban morphology"

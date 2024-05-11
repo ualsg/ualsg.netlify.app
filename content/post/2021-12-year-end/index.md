@@ -11,6 +11,8 @@ date: 2021-12-24T15:35:16+08:00
 lastmod: 2021-12-24T15:35:16+08:00
 featured: false
 draft: false
+show_related: true
+pager: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +37,7 @@ The list of our papers published so far is [here](/publication/), while our news
 We also released a couple of [software packages and datasets](/data-code/), that may be of interest to the wider community.
 Our team has also been enriched [by new researchers who have joined us this year]({{< relref "/post/2021-08-new-researchers" >}}).
 
-Our work has resulted also in [invited talks]({{< relref "/post/2021-03-geo-connect-asia" >}}), [awards]({{< relref "/post/2021-12-stea" >}}), [press releases]({{< relref "/media" >}}), [an editorial board appointment]({{< relref "/post/2021-11-landup-board" >}}), and [a special issue]({{< relref "/post/2021-02-tgis-special-issue" >}}).
+Our work has resulted also in [invited talks]({{< relref "/post/2021-03-geo-connect-asia" >}}), [awards]({{< relref "/post/2021-12-stea" >}}), press releases, [an editorial board appointment]({{< relref "/post/2021-11-landup-board" >}}), and [a special issue]({{< relref "/post/2021-02-tgis-special-issue" >}}).
 Above all, we had lots of fun doing research together. 
 
 

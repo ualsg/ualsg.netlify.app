@@ -11,6 +11,8 @@ date: 2020-06-24T08:04:48+08:00
 lastmod: 2021-11-04T08:32:48+08:00
 featured: true
 draft: false
+show_related: true
+pager: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -35,7 +37,7 @@ Feel free to visit in future to check for updates as the list grows.
 
 ## Introduction
 
-In our [research]({{< ref "/project" >}}) and [teaching]({{< ref "/opportunities/teaching.md" >}}) activities that are focused on Singapore, we rely almost entirely on open data, enabling reproducibility and fostering open science.
+In our research and teaching activities that are focused on Singapore, we rely almost entirely on open data, enabling reproducibility and fostering open science.
 We created a guide for open urban datasets to help navigate through all the resources.
 
 While [Data.gov.sg](https://data.gov.sg) (the open data portal of the Singapore Government) is thorough and it is the starting and ending point to obtain many useful datasets, it might take time to get an overview and the availability of open data goes beyond that.
@@ -76,7 +78,6 @@ It still might be useful though.
 ### 3D city models
 
 Unfortunately, 3D city models are not released as open data, except the one [we generated covering only HDBs]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
-We are [working]({{< ref "/project/3d-open/index.md" >}}) on including other buildings.
 The recently [released OneMap3D](https://www.sla.gov.sg/articles/press-releases/2020/launch-of-onemap3d-beta-at-singapore-geospatial-week-2020) provides a [web viewer of the nation-wide 3D city model](https://www.onemap3d.gov.sg/), but the data cannot be downloaded, thus, it does not qualify as [open data](https://opendatahandbook.org/guide/en/what-is-open-data/).
 
 Worth mentioning is that OpenStreetMap has [a relatively high level of completeness of building heights and floors]({{< ref "/post/2020-09-3dgeoinfo-3d-asean-paper/index.md" >}}), in comparison to other countries, so in some locations it can be used to generate 3D data.
@@ -169,7 +170,7 @@ A related API, _Traffic Speed Bands_, also on the [LTA DataMall](https://www.myt
 
 Routing (fetching the distance, estimated travel time, and the geometry of the route) between two points is available through the [OneMap API](https://docs.onemap.sg).
 OpenStreetMap is also useful here, e.g. check out the [Open Source Routing Machine](http://project-osrm.org) and [Openrouteservice](https://openrouteservice.org).
-There are interfaces for Python and R, e.g. we used [osrm](https://cran.r-project.org/web/packages/osrm/index.html) in [teaching]({{< ref "/opportunities/teaching.md" >}}).
+There are interfaces for Python and R, e.g. we used [osrm](https://cran.r-project.org/web/packages/osrm/index.html) in teaching.
 
 Although not strictly open, rather commercial (but they offer a free tier), here it is inescapable to mention the trio of APIs under the [Google Maps Platform](https://developers.google.com/maps/documentation): Directions API, Distance Matrix API, and Roads API, which are of high quality and a lot can be done within the free monthly quota they offer.
 

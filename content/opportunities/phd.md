@@ -1,8 +1,6 @@
 ---
 title: Guide for prospective PhD students
 subtitle: Many of the tips are applicable also to visiting scholars 
-widget: blank
-headless: true
 show_date: false
 
 banner:

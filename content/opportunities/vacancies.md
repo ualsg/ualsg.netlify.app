@@ -1,7 +1,5 @@
 ---
-title: Openings
-widget: blank
-headless: true
+title: Vacancies
 show_date: false
 
 banner:

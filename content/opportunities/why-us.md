@@ -1,7 +1,5 @@
 ---
 title: Aims and why us
-widget: blank
-headless: true
 show_date: false
 
 banner:

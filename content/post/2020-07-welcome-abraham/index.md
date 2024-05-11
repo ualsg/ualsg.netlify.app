@@ -11,6 +11,8 @@ date: 2020-07-02T09:39:03+08:00
 lastmod: 2020-07-02T09:39:03+08:00
 featured: false
 draft: false
+show_related: true
+pager: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,7 +31,7 @@ projects: []
 ---
 
 
-We are pleased to welcome {{% mention "abraham" %}} as a new full-time researcher in the group, working on our [flagship project]({{< ref "/project/3d-open/index.md" >}}) on generating large-scale 3D city models.
+We are pleased to welcome {{% mention "abraham" %}} as a new full-time researcher in the group, working on our flagship project on generating large-scale 3D city models.
 
 Abraham has just graduated from NUS with a Master in Architecture.
 During his studies, he spent a semester at ETH Zurich, and worked on several projects.

@@ -70,6 +70,3 @@ subtitle = "Our 15 latest papers. Enjoy~"
 All our papers are available [here]({{< ref "/publication/_index.md" >}}).
 {{% /callout %}}
 
-{{< header_altmetric >}}
-
-

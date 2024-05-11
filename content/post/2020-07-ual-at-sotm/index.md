@@ -11,6 +11,8 @@ date: 2020-07-05T23:18:49+08:00
 lastmod: 2020-07-05T23:18:49+08:00
 featured: false
 draft: false
+show_related: true
+pager: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -31,7 +33,7 @@ projects: [3d-open]
 [State of the Map (SOTM)](https://stateofthemap.org) is the yearly summit of the [OpenStreetMap (OSM)](https://www.openstreetmap.org) community.
 [This year's event](https://2020.stateofthemap.org) moved online, together with an academic track.
 
-It has been a great pleasure that our Lab participated in it, with a talk by {{< mention "filip" >}}, co-authored by {{< mention "li-min" >}}, presenting ongoing work  which is part of our main project [Large-scale 3D Geospatial Data for Urban Analytics]({{< ref "/project/3d-open/index.md" >}}).
+It has been a great pleasure that our Lab participated in it, with a talk by {{< mention "filip" >}}, co-authored by {{< mention "li-min" >}}, presenting ongoing work  which is part of our main project Large-scale 3D Geospatial Data for Urban Analytics.
 
 The papers of the academic track are published open access at [Zenodo](https://zenodo.org/communities/sotm-2020/), including our [contribution]({{< ref "/publication/2020-sotm-3-d/index.md" >}}).
 

@@ -11,6 +11,8 @@ date: 2020-06-08T09:39:03+08:00
 lastmod: 2020-06-08T09:39:03+08:00
 featured: false
 draft: false
+show_related: true
+pager: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -32,7 +34,7 @@ The [International Academic Conference on Architecture and Design (IACAD) 2020](
 The event featured presentations by the leading members of the academia, researchers, and practitioners addressing critical issues and future trends in the field of Architecture and Design. 
 
 We participated as well: {{% mention "filip" %}} has been invited as keynote speaker on the topic _Status of volunteered geospatial 3D data_. 
-The talk was focused on the potential of OpenStreetMap for generating 3D city models, and showcasing preliminary results of our [project]({{< ref "/project/3d-open/index.md" >}}) on developing a method to generate 3D city models using geographic data science and machine learning.
+The talk was focused on the potential of OpenStreetMap for generating 3D city models, and showcasing preliminary results of our project on developing a method to generate 3D city models using geographic data science and machine learning.
 
 Thanks [CASUGOL](https://casugol.com) for organising the event and for the invitation.
 
