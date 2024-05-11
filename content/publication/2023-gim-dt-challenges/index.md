@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-07-03T12:53:08.545766Z'
-publication_types:
-- '2'
+publication_types: ['article-magazine']
 abstract: 'Urban digital twins, as representations of physical assets in the cities, enable two- way interaction with real-world counterparts, facilitating analytical operations and simulations in the virtual urban environment. Despite their growing popularity, many challenges to operating digital twins remain, hindering their design and implementation, but they are rarely discussed. Here, the authors identify the challenges of operating digital twins in the urban context through a bifurcated and multi-dimensional approach: a systematic literature review and an expert survey, organizing them across technical and non-technical dimensions.'
 publication: '*GIM International*'
 ---

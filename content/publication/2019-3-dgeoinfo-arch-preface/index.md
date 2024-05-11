@@ -3,7 +3,7 @@ title: "Preface"
 date: 2019-09-23
 publishDate: 2019-09-23T07:04:00.872305Z
 authors: ["R Stouffs", "filip", "KH Soon", "VHS Khoo"]
-publication_types: ["1"]
+publication_types: ['paper-conference']
 abstract: ""
 featured: false
 publication: "*Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*"

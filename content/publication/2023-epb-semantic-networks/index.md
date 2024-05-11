@@ -30,8 +30,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-11-14T02:51:15.846040Z'
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'Planning for active mobility satisfies many fundamental tenets of good urban design and planning. However, planning for active mobility is a complex endeavour due to numerous local, place-based factors that influence active mobility decisions. Recent advancements in urban data research have demonstrated the effectiveness of deep learning methods in evaluating active mobility potential for urban environments. At present, the incorporation of semantic information from deep learning models and street view imagery into spatio-temporal contexts remains a challenge. In particular, knowledge extraction from deep learning models remains an open question for urban planning and decision-making. Towards this issue, we propose a functional deep learning and network science workflow that employs open data from OpenStreetMap and Mapillary to assess factors affecting active mobility decisions and route planning. We demonstrate the generalisability of our analytical workflow through two case studies focusing on urban greenery in Nerima city (Japan) and urban visual complexity in Pasir Ris town (Singapore). Our results reveal clear patterns of heterogeneity in urban streetscapes and identify unevenness in street infrastructure provision based on destination types. Using this information, we propose specific areas for design intervention to improve active mobility planning. Our workflow is applicable for a diverse range of use cases making it relevant to a wide range of stakeholders, not limited to, urban researchers, policy makers and urban planners.'
 publication: '*Environment and Planning B: Urban Analytics and City Science*'
 doi: 10.1177/23998083221138832

@@ -3,7 +3,7 @@ title: "Assessing global OpenStreetMap building completeness to generate large-s
 date: 2020-07-04
 publishDate: 2020-07-05T11:51:07.273531Z
 authors: ["filip", "li-min"]
-publication_types: ["1"]
+publication_types: ['paper-conference']
 abstract: ""
 featured: false
 publication: "*Proceedings of the Academic Track at the State of the Map 2020*"

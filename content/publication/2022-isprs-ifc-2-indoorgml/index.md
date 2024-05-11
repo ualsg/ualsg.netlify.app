@@ -34,8 +34,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2022-06-05T10:01:06.690450Z'
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'The interest in 3D indoor models has been continuously growing. Most such models are made available as point clouds or BIM (e.g., IFC), the former being generally provided as unstructured information while the latter comes highly structured and rich in semantic information. IFC models are consequently more suitable for direct use, but they can be very complex and contain too many details, which often raises privacy concerns. IndoorGML is one of the standards for describing 3D indoor space with the purpose of supporting Location Based Services (LBS). It relies on solid scientific concepts and offers a high flexibility with extension mechanisms. It provides a geometric, topological, and semantic description of the indoor which facilitates specifically applications like indoor navigation or facility management. Additionally, it can represent complex indoor environments without compromising privacy, thanks to its high level of abstraction. However, despite its solid conceptual basis, IndoorGML is suffering from a lack of practical tools and remains hard to produce, making it largely unavailable. In this project, we developed an open-source tool named ifc2indoorgml allowing to automatically generate IndoorGML models from IFC data. We discuss the workflow and the different development approaches. By making such tool available to the wider public, we expect more 3D IndoorGML models to be created and made freely available for research and development within the spatial community and beyond.'
 publication: '*Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*'
 doi: 10.5194/isprs-archives-xliii-b4-2022-295-2022

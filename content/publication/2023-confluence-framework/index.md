@@ -32,8 +32,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-02-25T08:34:12.999548Z'
-publication_types:
-- '1'
+publication_types: ['paper-conference']
 abstract: 'Understanding human mobility is linked to the dynamics of humans’ complex decision-making but is a critical component in modern applications, ranging from business strategies in supermarkets to the common good amid pandemic crises. Meanwhile, massive data brought by the increasing availability of trajectory recordings and emerging machine learning techniques have led to better trajectory modelling in recent studies. Many approaches have been then proposed to explain the modelling of complex human mobility. Nevertheless, the interaction between a suite of machine learning algorithms and feature impacts has not been completely explored in terms of the memory of past contexts by state-of-the-art works. Moreover, many existing studies have only discussed theories although their feasibility should be tested out in modern application environments and is also important from the view of open access to the proposed framework. This study attempts to fill this gap by proposing an analytical framework which fits modern (cloud-native) settings and elucidating the interplay between metrics and various parameters to help understand mobility in more detail. As a result, the proposed framework has illuminated marked differences among various machine learning algorithms, feature impacts, and metrics given the memory of past contextual information. This study catered for insights that customer mobility has been best predicted by backpropagating some recent nodes information in a supermarket case study and that feature impacts do not necessarily come along with the coherence to all machine learning algorithms.'
 publication: '*2023 13th International Conference on Cloud Computing, Data Science
   & Engineering (Confluence)*'

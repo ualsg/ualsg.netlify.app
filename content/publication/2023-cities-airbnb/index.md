@@ -31,8 +31,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-06-06T16:04:28.982550Z'
-publication_types:
-- '2'
+publication_types: ['article-journal']
 abstract: 'There is a growing interest in deriving insights about cities from crowdsourced data. We advance the discourse by employing homestay guest experience to sense urban characteristics. We evaluate the relationship between subjective perceptions and objective indicators thanks to rich information in textual reviews that we posit reflect urban qualities. Next, we investigate dominant topics about urban characteristics in Airbnb reviews (transportation, greenery, amenities, safety, and noise) with natural language processing techniques, i.e. a rule-based dependency parsing method designed to extract relevant information. Then, we establish the associations between sentiments and proxies representing the physical patterns of urban areas. The multi-scale results of the experiments in three cities (London, Singapore, and NYC) suggest that reviews on homestay platforms reflect transportation convenience, amenities, sense of safety, and noise pollution. The correlation is stronger at a higher administrative division level, while the perception of people on safety is more sensitive at a more granular scale. Densities of transportation and amenities in nearby districts are more likely to be perceived similarly. Furthermore, the spatial distribution of perceptions is possibly affected by the morphology and development of a city, and the diversity of guests. This study reveals new possibilities for sensing urban characteristics through user-generated information and introduces a new application of accommodation reviews, which may help alleviate gaps in availability of data required for planning.'
 publication: '*Cities*'
 doi: 10.1016/j.cities.2023.104399

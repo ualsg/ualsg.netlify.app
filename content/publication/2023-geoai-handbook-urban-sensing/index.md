@@ -28,8 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publishDate: '2023-12-16T06:28:53.438936Z'
-publication_types:
-- '6'
+publication_types: ['chapter']
 abstract: 'Urban sensing has been an important topic in the past decades, and research has been amplified in the last several years with the emergence of new urban data sources and advancements in GeoAI. This chapter gives a high-level overview of the applications of GeoAI for urban sensing, which have multiplied across various domains. It reviews four examples of GeoAI applied for urban sensing, which span a variety of data sources, techniques developed, and application domains such as urban sustainability. Concluding this topic, several challenges and opportunities for future research are discussed, such as ethics and data quality.'
 publication: '*Handbook of Geospatial Artificial Intelligence*'
 doi: 10.1201/9781003308423-17
