@@ -32,6 +32,16 @@ image:
   focal_point: ''
   preview_only: false
 
+# Links
+url_pdf: ''
+url_code: 'https://github.com/ai4up/eubucco'
+url_dataset: 'https://zenodo.org/record/7225259'
+url_poster: ''
+url_project: 'https://eubucco.com/'
+url_slides: ''
+url_source: ''
+url_video: ''
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
