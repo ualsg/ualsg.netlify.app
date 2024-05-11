@@ -14,13 +14,26 @@ header:
 ---
 
 The Urban Analytics Lab seminar series is part of our community engagement and to provide a platform leading to discussions, new ideas, and spurring collaborations. 
-In our series, we give priority to early career researchers, but also host seasoned researchers and professors.
+In our series, we give priority to early career researchers to increase their visibility and learn about the latest cool ideas, but host seasoned researchers and professors as well.
 
 Further, sometimes we organise guest lectures at the [department](https://cde.nus.edu.sg/arch/) level.
 These are included below.
-For the full list of events at our NUS Department of Architecture see the [list of events](https://cde.nus.edu.sg/arch/news_and_events/).
+For the full list of events at our [NUS Department of Architecture](https://cde.nus.edu.sg/arch/) see the [list of events](https://cde.nus.edu.sg/arch/news_and_events/).
 
-During the pandemic, we organised the talks online-only, but moved them to in-person.
+---
+
+### 2024-05-13 --- Advancing Sense of Place with Human-centered Geospatial Data Science
+
+By [Yuhao Kang](http://www.kkyyhh96.site/),
+[Department of Geography](https://sc.edu/study/colleges_schools/artsandsciences/geography/index.php),
+[University of South Carolina](https://sc.edu/),
+USA
+
+Human sense of place refers to how we perceive, experience, and interact with a particular location and environment. The emergence of Geospatial Data Science – the use of geographic knowledge and AI approaches to extract meaningful insights from large-scale geographic data – has achieved remarkable success not only in modeling physical geographic phenomena but also in advancing human subjective experiences at place. In this talk, Dr. Kang will present a series of works that utilize geospatial data science to understand human experience and sense of place. First, utilizing eye-tracking systems, his work delved into human subjective safety perceptions (e.g., whether a neighborhood is perceived as a safe place) to identify physical objects that attract human attention from street view images. Second, utilizing large language models (LLMs), his work proposed a Soundscape-to-Image Diffusion model to visualize and translate human auditory perceptions into visual representations of place. His work demonstrated how human multi-sensory experiences can be linked to comprehensively understand human sense of place using Generative AI. Finally, he will share his multifaceted experiences in GISphere that aim to promote global GIScience education.
+
+![](2024-05-13.jpg)
+
+---
 
 ### 2023-12-18 --- Opportunities and Challenges in Geospatial AI
 
@@ -32,6 +45,8 @@ USA
 Geospatial artificial intelligence (GeoAI), an emerging interdisciplinary field, merges geographic knowledge with AI techniques to address significant scientific and engineering challenges in human-environmental systems. It focuses on enhancing machines’ spatial intelligence to improve dynamic perception, intelligent reasoning, knowledge discovery and mapping of geographic phenomena. This talk will introduce the historical roots of GeoAI, delve into the latest advancements in spatially explicit AI models, and examine innovative research and applications of GeoAI, as well as addressing some challenges associated with GeoAI foundation models.
 
 ![](2023-12-18.png)
+
+---
 
 ### 2023-10-02 --- Realising Computational Design of Complex Geometry in Architecture
 
