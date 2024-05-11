@@ -11,6 +11,8 @@ date: 2020-08-23T11:15:02+08:00
 lastmod: 2020-08-23T11:15:02+08:00
 featured: false
 draft: false
+show_related: true
+pager: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,7 +67,7 @@ Her research revealed that it is possible to enhance population predictions beyo
 ### Height inference for all US building footprints in the absence of height data
 
 [Imke Lánský](https://nl.linkedin.com/in/imkelansky) graduated with an MSc in Geomatics at the Delft University of Technology.
-We had a role in her graduation research, as it is closely related to our main project [Large-scale 3D geospatial data for urban analytics]({{< ref "/project/3d-open/index.md" >}}).
+We had a role in her graduation research, as it is closely related to our main project Large-scale 3D geospatial data for urban analytics.
 
 She has done a great job in developing a method to predict the heights of all buildings in the United States from various indicators such as the urban morphology.
 The full-text of her thesis is available at the [TU Delft repository](https://repository.tudelft.nl/islandora/object/uuid:ddcae7d1-6cc8-42a7-8c1d-a922ec7551f0?collection=education), together with the well-documented [code](https://github.com/ImkeLansky/USA-BuildingHeightInference) (Imke, kudos for making your research reproducible :thumbsup:).
@@ -82,7 +84,7 @@ We wish you all the best in your future career steps.
 Are you an NUS student and would like to carry out a cool research as your graduation project?
 As it was the case last year, in the new academic year we will be accepting a few motivated students to carry out a research project with us.
 Feel free to check the [topics we offer]({{< ref "/opportunities/student-projects.md#theses-dissertations-and-capstone-projects" >}}), or you can propose your own idea.
-We are also running a large [project]({{< ref "/project/3d-open/index.md" >}}) in which we have prospects for graduation research / capstone projects.
+We are also running a large project in which we have prospects for graduation research / capstone projects.
 
 ### Looking rather for a student researcher job?
 

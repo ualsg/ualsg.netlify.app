@@ -63,7 +63,7 @@ user_groups:
 - Alumni
 ---
 
-Yoong Shin is working on [a project]({{< ref "/project/3d-open/index.md" >}}) focused on the development of a method to generate 3D city models using geo-data science & machine learning.
+Yoong Shin is working on a project focused on the development of a method to generate 3D city models using geo-data science & machine learning.
 The work aspires to create 3D city models of cities that do not have 3D data yet, which would open the door for environmental analyses and other urban analytics purposes.
 She has studied in the US and has a rich experience (15+ years) in the IT industry in different roles.
 Her experience includes positions such as product manager and data engineer.

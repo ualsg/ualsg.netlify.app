@@ -12,6 +12,8 @@ lastmod: 2021-01-01T08:56:41+08:00
 featured: false
 draft: true
 exclude_jquery: true
+show_related: true
+pager: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

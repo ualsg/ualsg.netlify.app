@@ -12,6 +12,8 @@ date: 2021-10-25T09:34:24+08:00
 lastmod: 2021-10-25T09:34:24+08:00
 featured: false
 draft: false
+show_related: true
+pager: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

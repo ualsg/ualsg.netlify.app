@@ -1,13 +1,13 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
 
 appearance:
-  theme_day: old_minimal
-  theme_night: old_minimal
+  theme_day: minimal
+  theme_night:
   font: classic
   font_size: L
 
@@ -15,14 +15,16 @@ appearance:
 
 marketing:
   seo:
-    site_type: EducationalOrganization
+    site_type: Organization
     local_business_type: ''
-    org_name: ''
+    org_name: 'Urban Analytics Lab, National University of Singapore'
     description: 'NUS Urban Analytics Lab'
     twitter: 'urbanalyticslab'
   analytics:
     google_analytics: 'UA-143417043-1'
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
   verification:
     google: ''
     baidu: ''
@@ -43,13 +45,12 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Urban Analytics Lab, National University of Singapore'
+    notice: '© {year} Urban Analytics Lab, National University of Singapore.'
     license:
       enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-#    widget: mega # custom footer wiget, loads layouts/partials/components/footers/mega.html
 
 # Localization
 
@@ -66,8 +67,6 @@ features:
     extra_languages:
       - r
       - latex
-    theme_light: ''
-    theme_dark: ''
   math:
     enable: false
   privacy_pack:
@@ -75,7 +74,7 @@ features:
   repository:
     url: 'https://github.com/ualsg/ualsg.netlify.app'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -86,76 +85,34 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
-    provider: docsearch
-    docsearch:
+    provider: wowchemy
+    algolia:
       app_id: ''
       api_key: ''
       index_name: ''
+      show_logo: false
   map:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
-#  features:
-#    feedback:
-#      responses:
-#        positive: 'Glad to hear it! [Any ideas for improvements?](https://github.com/<USERNAME>/<REPO>/issues/new)'
-#        negative: 'Sorry to hear that. [Please tell us how we can improve](https://github.com/<USERNAME>/<REPO>/issues/new).'
-#  announcement:
-#    text: 'Hello World!️'
-#  filter_button:
-#    - name: All
-#      tag: '*'
-#    - name: Machine Learning
-#      tag: ML
-#    - name: Computer Vision
-#      tag: CV
-#    - name: NLP
-#      tag: NLP
-#    - name: CV or NLP
-#      filter: '.js-id-cv, .js-id-nlp'
-#    - name: ML and NLP
-#      filter: '.js-id-ml.js-id-nlp'
-
 
 # Extensions
 
 extensions:
-  cms:
-    branch: master
+  decap_cms:
+    branch: main
     local_backend: false
   academicons:
     enable: true
 
-# Security
+# Citation style
 
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
-
-# from previous
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-abstract_length: 135
-plugins_js: []
 publications:
   date_format: January 2006
   citation_style: mla
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-
-
