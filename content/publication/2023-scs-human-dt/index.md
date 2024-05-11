@@ -28,6 +28,16 @@ image:
   focal_point: ''
   preview_only: false
 
+# Links
+url_pdf: ''
+url_code: 'https://github.com/PengyuanLiu1993/GSL-sidewalk-comfort'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

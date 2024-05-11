@@ -21,6 +21,16 @@ image:
   focal_point: ""
   preview_only: false
 
+# Links
+url_pdf: ''
+url_code: 'https://github.com/ualsg/global-building-morphology-indicators'
+url_dataset: 'https://ual.sg/project/gbmi/'
+url_poster: ''
+url_project: 'https://ual.sg/project/gbmi/'
+url_slides: ''
+url_source: ''
+url_video: ''
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
