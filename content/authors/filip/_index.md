@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in 3D GIS (highest honours)
+  - course: PhD in 3D GIS (cum laude)
     institution: Delft University of Technology, Netherlands
     year: 
   - course: MSc in Geomatics
@@ -113,6 +113,7 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 * [NUS Sustainable and Green Finance Institute](https://sgfin.nus.edu.sg) -- Research Affiliate
 * [NUS Institute of Real Estate and Urban Studies](https://ireus.nus.edu.sg) -- Research Affiliate
 * [Landscape and Urban Planning](https://www.journals.elsevier.com/landscape-and-urban-planning) -- Editorial Board Member
+* [Scientific Data](https://www.nature.com/sdata/) -- Editorial Board Member
 * [Transactions in GIS](https://onlinelibrary.wiley.com/journal/14679671) -- Editorial Board Member
 * [PLOS ONE](https://journals.plos.org/plosone/) -- Academic Editor for Geoinformatics
 * [International Journal of Digital Innovation in the Built Environment](https://www.igi-global.com/journal/international-journal-digital-innovation-built/224363) -- Editorial Board Member
