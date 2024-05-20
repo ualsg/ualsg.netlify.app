@@ -32,7 +32,7 @@ image:
 
 We are glad to share our new paper:
 
-> Liu P, Zhang Y, Biljecki F (2023): Explainable spatially explicit geospatial artificial intelligence in urban analytics. Environment and Planning B: Urban Analytics and City Science. [<i class="ai ai-doi-square ai"></i> 10.1177/23998083231204689](https://doi.org/10.1177/23998083231204689) [<i class="far fa-file-pdf"></i> PDF](/publication/2023-epb-xai/2023-epb-xai.pdf)</i>
+> Liu P, Zhang Y, Biljecki F (2024): Explainable spatially explicit geospatial artificial intelligence in urban analytics. Environment and Planning B: Urban Analytics and City Science, 51(5): 1104--1123. [<i class="ai ai-doi-square ai"></i> 10.1177/23998083231204689](https://doi.org/10.1177/23998083231204689) [<i class="far fa-file-pdf"></i> PDF](/publication/2024-epb-xai/2024-epb-xai.pdf)</i>
 
 This research was led by {{% mention "pengyuan" %}}.
 Congratulations on the great work! :raised_hands: :clap:
@@ -53,20 +53,20 @@ The abstract follows.
 
 ### Paper 
 
-For more information, please see the [paper](/publication/2023-epb-xai/).
+For more information, please see the [paper](/publication/2024-epb-xai/).
 
-[![](page-one.png)](/publication/2023-epb-xai/)
+[![](page-one.png)](/publication/2024-epb-xai/)
 
 BibTeX citation:
 ```bibtex
-@article{2023_epb_xai,
+@article{2024_epb_xai,
   author = {Liu, Pengyuan and Yan, Zhang and Biljecki, Filip},
   doi = {10.1177/23998083231204689},
   journal = {Environment and Planning B: Urban Analytics and City Science},
+  pages = {1104--1123},
   title = {{Explainable spatially explicit geospatial artificial intelligence in urban analytics}},
-  volume = {},
-  number = {},
-  pages = {},
-  year = {2023}
+  volume = {51},
+  issue = {5},
+  year = {2024}
 }
 ```
