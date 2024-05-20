@@ -68,15 +68,15 @@ If you are interested in collaborating with us, please get in touch with the lea
 | Further reading: | Please read the [paper](https://doi.org/10.1177/23998083231204689) published in EPB |
 | Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/PengyuanLiu1993/XAI-Urban-Analytics) |
 | Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
-@article{2023_epb_xai,
+@article{2024_epb_xai,
   author = {Liu, Pengyuan and Yan, Zhang and Biljecki, Filip},
   doi = {10.1177/23998083231204689},
   journal = {Environment and Planning B: Urban Analytics and City Science},
+  pages = {1104--1123},
   title = {{Explainable spatially explicit geospatial artificial intelligence in urban analytics}},
-  volume = {},
-  number = {},
-  pages = {},
-  year = {2023}
+  volume = {51},
+  issue = {5},
+  year = {2024}
 }
 {{< /spoiler >}}|
 
