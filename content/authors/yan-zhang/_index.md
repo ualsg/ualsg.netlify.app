@@ -41,9 +41,6 @@ social:
 - icon: home
   icon_pack: fas
   link: https://yemanzhongting.github.io
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:sggzhang@whu.edu.cn'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yan-zhang-ab4a67234/

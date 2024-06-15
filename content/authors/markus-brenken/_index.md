@@ -1,34 +1,36 @@
 ---
 # Display name
-name: Mathieu Bubert
-title: Mathieu Bubert
+name: Markus Brenken
+title: Markus Brenken
 
 # Username (this should match the folder name)
 authors:
-- mathieu
+- markus-brenken
+
+weight: 82
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Visiting Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: "National University of Singapore"
-  url: ""
+- name: "Leuphana University Lüneburg"
+  #url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: []
+bio: ""
 
 education:
   courses:
-  - course: Master of Urban Planning
-    institution: National University of Singapore
-    year: 2023
-  - course: B.A. in Political Science
-    institution: Universität Mannheim (University of Mannheim)
-    year: 2021
+  - course: M.Sc. Data Science
+    institution: IT University Copenhagen, Denmark
+    year: 2026
+  - course: B.Sc. Information System
+    institution: Leuphana University Lüneburg, Germany
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -37,7 +39,7 @@ education:
 social:
 - icon: linkedin
   icon_pack: fab
-  link: http://www.linkedin.com/in/mathieu-bubert
+  link: https://www.linkedin.com/in/markus-brenken-14b30017a/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -51,14 +53,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-# - Graduate Researchers and Students
-# - People
-- Alumni
+- People
 ---
 
-I am pursuing a master’s degree in Urban Planning at the NUS College of Design and Engineering.
-I hold Bachelor (B.A.) in Political Science from the University of Mannheim in Germany.
-I have research experience in the understanding of social movements in urban contexts and their translation in and from social media platforms.
-My research interest is on the relationship between the built environment and uprising and protests.
-At the UAL, I am working on temporal evolution of built environment data.
+Markus Brenken is about to finish his bachelor's degree in Information Systems at Leuphana University Lüneburg, Germany. After his research project at the Urban Analytics Lab, he will continue his studies with a Master's degree in Data Science at ITU Copenhagen. His research interests are in the area of methodology and theory of data science. In our Lab, Markus works with user-generated textual content to gain better insights into the urban living environment.
 

@@ -69,8 +69,8 @@ email: ""
 user_groups:
 # - Postdoctoral Research Fellows
 - People
----
 
+---
 Mahmoud is a Postdoc research fellow at the NUS Urban Analytics Lab.
 He holds a background in Architectural Engineering from [Mansoura University](https://www.mans.edu.eg/en) in Egypt and earned his PhD in the Built Environment from NUS.
 His primary research focus lies in spatial-temporal data analytics within the built environment, with a focus on human-building interaction and wellbeing. Mahmoud's research interests encompass Graph Neural Networks, Spatial-temporal data analytics, Digital twins, and BIM.

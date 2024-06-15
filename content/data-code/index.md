@@ -57,6 +57,28 @@ If you are interested in collaborating with us, please get in touch with the lea
 }
 {{< /spoiler >}}|
 
+## Predicting building characteristics using graph neural networks and street-level contexts
+
+![](building-gnn.jpg)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | This repo is for our paper "Predicting building characteristics using graph neural networks and street-level contexts" |
+| Lead developer: | {{% mention "binyu" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.compenvurbsys.2024.102129) published in CEUS |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/binyulei/gnn-building-characteristics-prediction) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2024_ceus_gnn_building,
+  author = {Lei, Binyu and Liu, Pengyuan and Milojevic-Dupont, Nikola and Biljecki, Filip},
+  doi = {10.1016/j.compenvurbsys.2024.102129},
+  journal = {Computers, Environment and Urban Systems},
+  pages = {102129},
+  title = {Predicting building characteristics at urban scale using graph neural networks and street-level context},
+  volume = {111},
+  year = {2024}
+}
+{{< /spoiler >}}|
+
 ## Explainable spatially explicit geospatial artificial intelligence in urban analytics
 
 ![](geoxai.png)
