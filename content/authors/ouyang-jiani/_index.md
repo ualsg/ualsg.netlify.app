@@ -46,9 +46,6 @@ education:
 #   icon_pack: ai
 #   link: files/cv.pdf
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:ouyangjn@whu.edu.cn'
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/%E5%98%89%E5%A6%AE-%E6%AC%A7%E9%98%B3-81504717a

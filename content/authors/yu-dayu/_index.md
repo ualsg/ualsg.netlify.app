@@ -39,12 +39,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:dayuyu@whu.edu.cn'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.hk/citations?hl=zh-CN&user=C3Pkj1sAAAAJ
+- icon: home
+  icon_pack: fas
+  link: https://dayuyu-3d.github.io
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -59,7 +59,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Dayu Yu is a researcher with experience in GIS, Survey and Mapping, and Remote Sensing. He is a visiting PhD student at our Lab and his research interest include 3D GIS, 3D City Modelling, and High-performance Geocomputing. He has worked on projects such as photo-realistic 3D mesh objectization, Open Geospatial Engine development, and the construction of a virtual geographic environment for 3D simulation of dam failure. At the UAL, Dayu will be working on deep learning-based methods for large-scale 3D building reconstruction.

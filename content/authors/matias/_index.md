@@ -45,9 +45,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:matias.quintana@sec.ethz.ch'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/_matqr
@@ -87,8 +84,8 @@ email: ""
 user_groups:
 # - Postdoctoral Research Fellows
 - People
----
 
+---
 Dr. Matias Quintana is a Research Fellow and Project Manager at the Singapore-ETH Centre (SEC) and NUS Urban Analytics Lab.
 He holds a PhD from the Department of the Built Environment, National University of Singapore, and a MSc in Information Systems from Carnegie Mellon University.
 His recent work focuses on deep unsupervised learning, recommender systems, time-series outlier detection, agent-based modeling, and reinforcement learning with human-in-the-loop control and now is expanding to urban semantics.
