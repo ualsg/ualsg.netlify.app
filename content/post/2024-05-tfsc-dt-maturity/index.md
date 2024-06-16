@@ -67,5 +67,4 @@ BibTeX citation:
   volume = {204},
   year = {2024}
 }
-
 ```
