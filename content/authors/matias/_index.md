@@ -18,7 +18,7 @@ role: Research Fellow
 # Organizations/Affiliations
 organizations:
 - name: "Singapore-ETH Centre"
-  url: "https://fcl.ethz.ch/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
