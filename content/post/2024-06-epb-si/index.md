@@ -50,7 +50,7 @@ Why submit to this special issue?
 EPB is a very well regarded journal in the urban analytics community, and it has published impactful papers in the community. 
 It has been one of our journals of choice, and we published a couple of papers there recently, e.g. [here](/publication/2024-epb-xai/) and [here](/publication/2023-epb-semantic-networks/).
 Further, this special issue is on a unique scope that may be suitable for a variety of submissions.
-Finally, EPB publishes papers that are a bit shorter than those in most of other journals.
+Finally, EPB publishes papers that are a bit shorter than those in most of other journals, and it also allows Urban Data/Code papers instead of only traditional types of articles that are a great opportunity to showcase your open-source software or open data products.
 
 We look forward to receiving your great work and learn what you have been up to!
 For further information about the submissions and guide for authors, please check the [journal's website](https://journals.sagepub.com/home/EPB).
