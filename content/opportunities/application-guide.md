@@ -81,7 +81,7 @@ Some of the expectations from PhD researchers during and at the end of their stu
 + Achieve independence and excellence in research. 
 + Become an expert in a specialised domain and attain a unique expertise not many others have.
 + Be able to conduct independent research from start to end (from identifying gaps, conceptualisation and planning to execution and communication). In short, become a great scholar.
-+ Create new knowledge and give a significant scientific contribution accepted by the community and be known for it (e.g. through impactful publications in leading outlets and other forms of output such as open data, open-source software, community engagements..).
++ Create new knowledge and give a significant scientific contribution accepted by the community and be known for it (e.g. through impactful publications in leading outlets and other forms of output such as open data, open-source software, community engagements...).
 + Collaborate and contribute to the scientific community.
 + Attain a valuable set of skills, both hard (e.g. coding, statistics) and soft (e.g. written communication, presenting, project management) that can be applied to a variety of scientific challenges and in various environments.
 
@@ -304,7 +304,8 @@ They are typically (but not always) only for NUS master graduates with a high GP
 {{< spoiler text="Do I need a master degree to apply for a PhD?" >}}
 Yes, a masters degree is pretty much a hard requirement.
 If you have a bachelor degree, and you are interested in a PhD with us, we recommend you getting a masters degree first and build your research skills and experience, and then apply for a PhD.
-PhD admission with a bachelor degree only is possible, but only under exceptional circumstances and we don't see such cases often.
+Our two departments ([NUS Architecture](https://cde.nus.edu.sg/arch/) and [NUS Real Estate](https://bschool.nus.edu.sg/real-estate/)) offer nice master programmes that you might want to consider in furthering your studies.
+PhD admission with only a bachelor degree is possible, but only under exceptional circumstances and we don't see such cases often.
 {{< /spoiler >}}
 
 
