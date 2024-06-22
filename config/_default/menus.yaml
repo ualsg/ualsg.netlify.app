@@ -65,9 +65,9 @@ main:
     parent: join
     url: '/opportunities/why-us'
     weight: 82
-  - name: prospective students
+  - name: how to apply
     parent: join
-    url: '/opportunities/phd'
+    url: '/opportunities/application-guide'
     weight: 84
   - name: 'student initiated projects'
     parent: join

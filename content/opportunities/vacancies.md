@@ -17,6 +17,7 @@ If you like what we do and think you can contribute to our research agenda, cons
 
 We appreciate open enquiries from motivated prospective PhD candidates, research assistants, postdoctoral research fellows, and visiting scholars but we expect dedicated applications.
 Before getting in touch, please read the sections below and more about us ([here](../../about) and [here](../why-us)).
+Most importantly, please read [our guide for prospective applicants](/opportunities/application-guide/).
 
 We would appreciate to learn more about your specific interest and expect you to have at least a basic understanding of what we do and what our research lines are about.
 We suggest that you have a look at some of our [publications](/publication), provide your perspective and motivation (e.g. write a few words on how you would take these results further), and let us know how do you envision contributing to our research group.
@@ -27,7 +28,7 @@ As an English speaking university, language fluency is also a requirement.
 
 While we appreciate interest, we cannot entertain generic applications without a clear motivation and understanding of the scope of our work.
 We are more likely to reply and support prospective candidates who did a bit of research on what we do and those that are able to motivate their wish to join us in particular.
-This is most obvious from a tailored and research-focused application pertaining to our Lab (you may also check [this link](../phd) for further details, especially if you are a prospective PhD candidate or visiting scholar).
+This is most obvious from a tailored and research-focused application pertaining to our Lab (you may also check [this link](../application-guide) for further details, especially if you are a prospective PhD candidate or visiting scholar).
 
 ### Postdocs
 
@@ -46,18 +47,12 @@ We announce available RA positions in the openings section above, but you are al
 In most cases, computational & programming skills are a must, and an evidence of them (e.g. developed GitHub repositories) will be appreciated.
 
 We accept well-motivated and talented prospective PhD candidates, but we do not admit them directly as the applications are processed by the school.
-Before applying, read more [here](../phd).
+Before applying, please read [our guide for prospective applicants](/opportunities/application-guide/).
 
 ### Visiting scholars and research visits
 
 Feel free to get in touch with us if you are interested in conducting a research visit at the NUS Urban Analytics Lab.
-If you are a prospective visiting PhD student, please have a look at [this link](../phd).
-
-Please prepare a short proposal of the research you plan to conduct in our Lab together with a timeline and other specifics.
-Feel free to have a look at our website and recent papers, and think of a common overlap or complementary research direction, which will ensure a mutually beneficial research visit.
-Potential contributions to our research group are also relevant, as visiting fellowships should be a two-way relationship.
-Every year, we have bandwidth and space to accept only a few visiting researchers.
-Thus, we prefer to prioritise those who work on research that is closely aligned with our activities, and ensure a complementary fit and contribution to our projects and team, and at the same time making sure that you get the most of such a visit for your academic trajectory.
+If you are a prospective visiting PhD scholar or researcher, please have a look at [our guide for prospective applicants](/opportunities/application-guide/).
 
 Depending on your country of residence and position, sometimes there are opportunities for a funded stay, such as the [French-Singaporean research collaboration programme Merlion](https://www.campusfrance.org/fr/merlion), [China Scholarship Council](https://www.chinesescholarshipcouncil.com), and the [US Fulbright Program](https://www.cies.org).
 
