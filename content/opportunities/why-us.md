@@ -17,10 +17,10 @@ We continuously explore new frontiers in the geospatial field, such as urban dig
 
 [Our papers](/publication/) are continuously published in top journals and are impactful across academia, government, and industry.
 
-Our [department](https://www.sde.nus.edu.sg/arch/) is consistently [ranked among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
+Our [department](https://cde.nus.edu.sg/arch/) is consistently [ranked among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
 
-Working at NUS means being part of a leading global university centred in Asia (the #1 university in Asia and world's top 15 according to QS) with connections to an extensive network of experts across interdisciplinary domains.
-NUS is at the forefront of academic research, facilitating collaboration and promoting innovation, solving real-world problems to advance society.
+Working at NUS means being part of a leading global university centred in Asia ([world's top 10 according to QS]({{< ref "/post/2024-06-qs-ranking/index.md" >}})) with connections to an extensive network of experts across interdisciplinary domains.
+NUS, a comprehensive university fostering multidisciplinary research, is at the forefront of academic research, facilitating collaboration and promoting innovation, solving real-world problems to advance society.
 
 Beyond the university, our network and collaborations span scores of researchers around the world working on a variety of topics.
 Our Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
