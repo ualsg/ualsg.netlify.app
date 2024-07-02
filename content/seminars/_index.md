@@ -22,6 +22,20 @@ For the full list of events at our [NUS Department of Architecture](https://cde.
 
 ---
 
+### 2024-07-17 --- What happens with big data approaches to urban science when data don't exist?
+
+By [Fábio Duarte](https://dusp.mit.edu/people/fabio-duarte),
+[MIT Senseable City Lab](https://senseable.mit.edu),
+[Massachusetts Institute of Technology](https://www.mit.edu),
+USA
+
+As layers of networks and digital information blanket urban space, new approaches to the study of the built environment are emerging. We produce data permanently, in each personal and social interaction, and all devices produce and run on data. We could say we’re inundated in data, and within this scenario novel techniques have emerged in recent years to make sense of this data. But what happens when data don't exist? We might be not be addressing critical contemporary issues because we don't have machine-readable data available. In this talk I will show how the Senseable City address this challenge.
+
+![](2024-07-17.jpg)
+
+
+---
+
 ### 2024-07-08 --- User-Generated Data: Alternative Data Source for Urban Planning in Indonesia
 
 By [Adiwan Fahlan Aritenang](https://www.itb.ac.id/staf/profil/adiwan-fahlan-aritenang),
