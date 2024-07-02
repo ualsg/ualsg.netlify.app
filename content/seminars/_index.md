@@ -14,11 +14,24 @@ header:
 ---
 
 The Urban Analytics Lab seminar series is part of our community engagement and to provide a platform leading to discussions, new ideas, and spurring collaborations. 
-In our series, we give priority to early career researchers to increase their visibility and learn about the latest cool ideas, but host seasoned researchers and professors as well.
+In our series, we give priority to early career researchers (e.g. junior faculty) to increase their visibility and learn about the latest exciting ideas, but host seasoned researchers and professors as well.
 
 Further, sometimes we organise guest lectures at the [department](https://cde.nus.edu.sg/arch/) level.
 These are included below.
 For the full list of events at our [NUS Department of Architecture](https://cde.nus.edu.sg/arch/) see the [list of events](https://cde.nus.edu.sg/arch/news_and_events/).
+
+---
+
+### 2024-07-08 --- User-Generated Data: Alternative Data Source for Urban Planning in Indonesia
+
+By [Adiwan Fahlan Aritenang](https://www.itb.ac.id/staf/profil/adiwan-fahlan-aritenang),
+[Urban and Regional Planning Program](https://www.itb.ac.id/masters-program-in-urban-and-regional-planning),
+[Institut Teknologi Bandung](https://www.itb.ac.id),
+Indonesia
+
+In Indonesia, limited data availability has led to the lack of accuracy and ineffectiveness urban planning. Geographic and statistics data are not reliable due to variation between institutions and unclear collection methodologies. Following technology advancement, user-generated data (UGD) presents a valuable alternative to address this issue. UGD information are created and shared by individuals through various platforms such as search engines, social media, and maps. As the data are abundant, diverse, and continuously updated which offering real-time insights, USD allows urban researchers and policymakers to gain more comprehensive understanding of public interest and opinions, behaviors, and geographical trends. Furthermore, UGD is cost-effective compared to conventional data collection methods like surveys and censuses. In Indonesia where formal data collection mechanisms may be underdeveloped or constrained by geographic and logistical challenges, UGD is a solution. The UGD provides rich, timely, and diverse data source that helps urban planners to understand current situation and support decision-makers for a more responsive governance and development strategies.
+
+![](2024-07-08.jpg)
 
 ---
 
