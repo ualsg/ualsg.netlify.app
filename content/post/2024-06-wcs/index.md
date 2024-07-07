@@ -64,3 +64,4 @@ Many thanks to everyone at CLC and URA for making this event a success and for h
 
 ![](8.jpg)
 
+![](9.jpg)

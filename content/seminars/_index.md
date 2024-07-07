@@ -20,6 +20,8 @@ Further, sometimes we organise guest lectures at the [department](https://cde.nu
 These are included below.
 For the full list of events at our [NUS Department of Architecture](https://cde.nus.edu.sg/arch/) see the [list of events](https://cde.nus.edu.sg/arch/news_and_events/).
 
+Please note that, to facilitate an enhanced atmosphere, engagement and interaction, the talks are only in-person at our [NUS College of Design and Engineering](https://cde.nus.edu.sg) (they are not streamed online) and they are not recorded.
+
 ---
 
 ### 2024-07-17 --- What happens with big data approaches to urban science when data don't exist?
@@ -33,6 +35,31 @@ As layers of networks and digital information blanket urban space, new approache
 
 ![](2024-07-17.jpg)
 
+---
+
+### 2024-07-16 --- Twenty years of using crowd-sourced geodata to analyze urban phenomena – where do we go next?
+
+By [Ate Poorthuis](https://www.atepoorthuis.com),
+[Department of Earth and Environmental Sciences](https://ees.kuleuven.be),
+[KU Leuven](https://www.kuleuven.be/),
+Belgium
+
+In the last twenty years we have seen the proliferation of all kinds of new digital data sources. From early Web 2.0 internet social media such as Foursquare and Facebook, crowd-sourced platforms like Wikipedia and OpenStreetMap, to contemporary mainstays such as Instagram and Tiktok. These platforms have touched and changed the way we live our lives, but they have also altered how we study urban phenomena. In this presentation, I first take a reflective look at how data from digital platforms has been used to study our cities, and how people live within them, for the past two decades. As we have moved beyond the initial hype and with the increased attention for the privacy and ethics implications of using digital data, I then look ahead to the next phase of urban research with this kind of data and identify a set of propositions that can help shape this next phase in a productive manner. In doing so, I will weave together a reflective and critical look on the work I have done together with collaborators over the last decade with a perspective on where our research agenda (hopefully) brings us in the next years.
+
+![](2024-07-16.jpg)
+
+---
+
+### 2024-07-15 --- Ethics and Responsible Innovation in Data-Intensive Smart Cities and Urban Mobility Management
+
+By [Vonu Thakuriah](https://sites.rutgers.edu/thakuriah/),
+[Rutgers Urban and Civic Informatics Lab](https://rucilab.rutgers.edu),
+[Rutgers University-New Brunswick](https://www.rutgers.edu),
+USA
+
+Data and information technology have transformed our daily lives and have reshaped the ways in which cities and transportation systems are governed and operated. But too often, urban and mobility analytics is couched narrowly in terms of resource optimization and management on the one hand, and privacy and surveillance on the other. While efficiency and data protection are essential criteria in delivering urban services, there is a need to ensure that data-driven tools and technologies contribute to social justice and are not used to harm vulnerable populations. Currently, there is an increasing focus on bias and algorithmic justice with the aim of steering data-driven systems towards fairness-by-design, data democracy, and data justice, across a wide spectrum of data-driven technology (big data, AI, machine learning). These are consequential future directions since inadequate data and misspecified and myopic algorithms can cause harm and reinforce existing inequities. Using heterogeneous sources of structured and unstructured data in the context of contested streets and uneven transportation access, the talk will highlight the technological, methodological, and epistemological pillars of data-intensive smart city and urban mobility systems, with an emphasis on the power dynamics and political economy of urban data production, and the unintended consequences and governance challenges associated with such systems.
+
+![](2024-07-15.jpg)
 
 ---
 
@@ -96,7 +123,6 @@ By [Angel Hsu](https://publicpolicy.unc.edu/person/hsu-angel/),
 USA
 
 Cities are both contributors and potential problem solvers of the global climate crisis. They are also vulnerable to climate change impacts, including sea-level rise, extreme heat, and natural disasters. Consequently, they have risen to become prominent climate and environmental sustainability agents, with the UN’s Sustainable Development Goal 11 charging cities to be both sustainable and inclusive and the Paris Agreement’s recognition of their contributions. In this talk, I’ll introduce how my research is utilizing data science to evaluate cities’ contributions to global climate mitigation efforts and urban sustainable development more broadly.
-
 
 ![](2023-09-18.png)
 
@@ -261,7 +287,6 @@ The Philippines has committed to transitioning into a low-carbon future by reduc
 
 ---
 
-
 ### 2022-07-28 --- Open Computational Design for Sustainable Developments (in person at NUS + online)
 
 By
@@ -278,7 +303,6 @@ Open computational design will significantly reduce the cost of technology adopt
 
 ---
 
-
 ### 2022-07-22 --- Factor Analysis and Spatial Prediction: New Methods and Tools
 
 By
@@ -293,7 +317,6 @@ The spatial analysis demonstrates the value of location information in the Earth
 
 ---
 
-
 ### 2022-04-29 --- Deep learning from Volunteered Geographical Information: a case study of humanitarian mapping with OpenStreetMap
 
 By
@@ -307,7 +330,6 @@ As an emerging topic, OpenStreetMap (OSM) has been greatly improved via recent h
 ![](2022-04-29.png)
 
 ---
-
 
 ### 2022-04-08 --- Using nature's contribution to people (NCP) to inform decision-making
 
@@ -329,7 +351,6 @@ Furthermore, multi-objective optimizations allow the integration of various pers
 
 ---
 
-
 ### 2022-03-11 --- 3D building metrics for urban morphology
 
 By [Anna Labetski](http://3d.bk.tudelft.nl/alabetski) and [Stelios Vitalis](http://3d.bk.tudelft.nl/svitalis),
@@ -350,4 +371,3 @@ working with 3D data, and applications that can benefit from this
 analvsis.
 
 ![](2022-03-11.png)
-
