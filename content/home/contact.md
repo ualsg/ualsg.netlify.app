@@ -45,7 +45,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: Twitter
+      name: X
       link: 'https://twitter.com/urbanalyticslab'
     - icon: linkedin
       icon_pack: fab

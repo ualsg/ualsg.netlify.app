@@ -61,9 +61,9 @@ sections:
         <script src="https://player.vimeo.com/api/player.js"></script>
         <br />
 
-        We are introducing innovative methods, datasets, and software to advance data-driven urban planning, digital twins, and geospatial technologies in establishing and managing the smart cities of tomorrow. 
+        We are introducing innovative methods, datasets, and software to derive new insights in cities and advance data-driven urban planning, digital twins, and geospatial technologies in establishing and managing the smart cities of tomorrow. 
 
-        Converging multidisciplinary approaches inspired by recent advancements in computer science, geomatics and urban data science, seasoned with a touch of crowdsourcing and open science, we conceive cutting-edge techniques for urban sensing and analytics at the city-scale.
+        Converging multidisciplinary approaches inspired by recent advancements in computer science, geomatics and urban data science, and influenced by crowdsourcing and open science, we conceive cutting-edge techniques for urban sensing and analytics at the city-scale.
         Watch the <a href="https://vimeo.com/764033095">video</a> above or read more <a href="/about/">here</a>.<br /><br />
 
         We are proudly based at the <a href="https://cde.nus.edu.sg/arch/">Department of Architecture</a> at the <a href="https://cde.nus.edu.sg">College of Design and Engineering</a> of the <a href="https://www.nus.edu.sg">National University of Singapore</a>, a leading global university centered in the heart of Southeast Asia.
@@ -75,7 +75,7 @@ sections:
     content:
       title: News
       subtitle: Updates from our group
-      text: Feel free to follow us on <a href="https://www.linkedin.com/company/urban-analytics-lab/">LinkedIn</a>, <a href="https://twitter.com/urbanalyticslab">Twitter</a>, and through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).
+      text: Feel free to follow us on <a href="https://www.linkedin.com/company/urban-analytics-lab/">LinkedIn</a>, <a href="https://twitter.com/urbanalyticslab">X</a>, and through our [RSS feed]({{< ref path="/post" outputFormat="rss" >}}).
       count: 7
       filters:
         author: ''
@@ -149,7 +149,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: Twitter
+          name: X
           link: 'https://twitter.com/urbanalyticslab'
         - icon: linkedin
           icon_pack: fab

@@ -80,7 +80,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Rui Ma's primary research focuses on the joint simulation and modeling of building energy consumption, urban microclimate dynamics, and energy management at the city scale. Rui's interests also involve urban morphology, building reconstruction, semantic city 3D models, and digital twins. At UAL, Rui hopes to explore advanced methods for urban building reconstruction, contributing to a wide range of simulations and applications within the urban built environment.
