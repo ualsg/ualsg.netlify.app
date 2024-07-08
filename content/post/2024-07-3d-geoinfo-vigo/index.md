@@ -88,7 +88,7 @@ It was a great conference.
 We highly appreciate the organisation by Lucía and others at UVigo. 
 
 The next instance of the conference, in 2025, will be in Japan.
-It will be collocated with the Smart Data and Smart Cities (SDSC) conference in the first week of September 2025, at the University of Tokyo -- Kashiwa campus, in co-organisation with the [PLATEAU team](https://www.mlit.go.jp/plateau/) at the Ministry of Land, Infrastructure, Transport and Tourism (MLIT).
+It will be collocated with the Smart Data and Smart Cities (SDSC) conference in the first week of September 2025, at the University of Tokyo -- Kashiwa campus, organised by the [lab of Professor Yoshihide Sekimoto](http://sekilab.iis.u-tokyo.ac.jp) at the [Center for Spatial Information Science](https://www.csis.u-tokyo.ac.jp/en/), and the [PLATEAU team](https://www.mlit.go.jp/plateau/) at the Ministry of Land, Infrastructure, Transport and Tourism (MLIT).
 
 ![](7.jpg)
 
