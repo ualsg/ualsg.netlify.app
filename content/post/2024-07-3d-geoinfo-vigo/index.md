@@ -45,7 +45,7 @@ This year, the conference was collocated with the [31st EG-ICE International Wor
 3D GeoInfo is the leading conference in this domain, and it started in 2006 in Kuala Lumpur, Malaysia under the auspices of Professor Alias Abdul Rahman and his research group.
 We organised its [2019 instance in Singapore]({{< relref "2019-09-3d-geoinfo-success" >}}), together with the Singapore Land Authority.
 
-The conference had many interesting talks on the most recent developments in 3D GIS and urban digital twins.
+The conference featured many interesting talks on the most recent developments in 3D GIS and urban digital twins.
 
 Our research group was represented by {{< mention "binyu" >}} and {{< mention "filip" >}}, and also our colleague [Rudi Stouffs](https://cde.nus.edu.sg/arch/staffs/rudi-stouffs-dr/) from the [NUS Department of Architecture](https://cde.nus.edu.sg/arch/) was there.
 
