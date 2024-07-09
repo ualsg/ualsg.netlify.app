@@ -81,13 +81,13 @@ Some of the expectations from PhD researchers during and at the end of their stu
 + Achieve independence and excellence in research. 
 + Become an expert in a specialised domain and attain a unique expertise not many others have.
 + Be able to conduct independent research from start to end (from identifying gaps, conceptualisation and planning to execution and communication). In short, become a great scholar.
-+ Create new knowledge and give a significant scientific contribution accepted by the community and be known for it (e.g. through impactful publications in leading outlets and other forms of output such as open data, open-source software, community engagements...).
-+ Collaborate and contribute to the scientific community in various ways.
-+ Attain a valuable set of skills, both hard (e.g. coding, statistics) and soft (e.g. written communication, presenting, project management) that can be applied to a variety of scientific challenges and in various environments.
++ Create new knowledge and introduce a significant scientific novelty accepted by the community and be known for it (primarily through impactful publications in leading outlets).
++ Collaborate and contribute to the scientific community in various ways (i.e. other forms of output such as open data, open-source software, community engagements...).
++ Attain a valuable set of skills, largely domain-agnostic, both hard (e.g. coding, statistics) and soft (e.g. written communication, presenting, project management) that can be applied to a variety of scientific challenges and in various environments.
 
 To succeed, a PhD student ideally should:
 + have ownership of his/her work, have intellectual and scientific curiosity, and be excited and passionate about the topic and field;
-+ have initiative and be proactive about a variety of aspects related to the research (e.g. take the lead about identifying gaps, think of new ideas, and follow relevant conferences and journals);
++ have initiative and be proactive about a variety of aspects related to the research (e.g. take the lead in identifying gaps, think of new ideas, and follow relevant conferences and journals);
 + continuously develop transferrable skills, be on top of the developments in the field and broader domains, and seek means to contribute and advance knowledge;
 + regularly seek opportunities to promote and apply their research;
 + revisit and adjust plans, and be open to feedback; and
@@ -218,8 +218,9 @@ Yes, we do. For more information, please read the content above.
 {{< /spoiler >}}
 
 
-{{< spoiler text="I see from the website that your department offers only a PhD in Architecture, but I am interested in what you folks do." >}}
-PhD programmes at NUS follow the nomenclature of the hosting departments, thus, if you pursue a PhD on a topic in this domain (i.e. urban analytics, etc.) and under our supervision, it will be nominally part of the PhD in Architecture programme, since we are part of the Department of Architecture. The department and its PhD cohort work on a wide array of topics, and the PhD _per se_ is not necessarily squarely related to architecture.
+{{< spoiler text="I see from the website that your department offers only a PhD in Architecture, but I am interested in what you folks do. Is there some other PhD degree you offer?" >}}
+PhD degrees at NUS are not awarded by research groups, they are managed by upper levels such as the department and graduate school.
+PhD programmes at NUS follow the nomenclature of the hosting departments, thus, if you pursue a PhD on a topic in this domain (i.e. urban analytics, etc.) and under the supervision of the PI of the group, it will be nominally part of the PhD in Architecture programme, since we are part of the Department of Architecture. The department and its PhD cohort work on a wide array of topics, and the PhD _per se_ is not necessarily squarely related to architecture.
 {{< /spoiler >}}
 
 
@@ -245,7 +246,7 @@ Our alumni have ended up in decent places after working with us.
 
 {{< spoiler text="Why should I choose your research group and NUS? Why should I do a PhD or postdoc in Asia?" >}}
 The [section above](#why-us) provides numerous reasons.
-Singapore and NUS are an excellent place to do a PhD and do research.
+Singapore and NUS are an excellent place to do a PhD and do research, and are very well recognised around the world.
 {{< /spoiler >}}
 
 
@@ -274,6 +275,12 @@ In brief, you work _with_ a supervisor, not _under_ a supervisor.
 We have a flexible environment with not much hierarchy and formalities.
 We are a small and friendly group.
 There is no micromanaging and meetings are conducted depending on the need.
+{{< /spoiler >}}
+
+
+{{< spoiler text="I do not think I am ready yet for a PhD / I plan to apply but have some time and would like to prepare for the PhD -- What should I do?" >}}
+That much depends on your current skillset and what you will be working on during your PhD. One thing you usually cannot go wrong with is enhance your technical skills (e.g. programming in Python, machine learning packages, data visualisation, get acquainted with the most recent developments in AI...), communication (e.g. English oral and writing skills), and start casually following journals in the field and have a cursory look at recent papers. 
+You might also want to consider having a break and enjoying a longer holiday before starting your doctoral programme.
 {{< /spoiler >}}
 
 
