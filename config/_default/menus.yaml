@@ -35,26 +35,30 @@ main:
     parent: 'geospatial resources'
     url: '/data-code'
     weight: 51
+  - name: 'global streetscapes'
+    parent: 'geospatial resources'
+    url: '/project/global-streetscapes/'
+    weight: 52
   - name: 'global building morphology indicators'
     parent: 'geospatial resources'
     url: '/project/gbmi/'
-    weight: 52
+    weight: 53
   - name: 'roofpedia'
     parent: 'geospatial resources'
     url: '/project/roofpedia/'
-    weight: 53
+    weight: 54
   - name: 'open building data'
     parent: 'geospatial resources'
     url: '/project/ogbd/'
-    weight: 54
+    weight: 55
   - name: '3d city index'
     parent: 'geospatial resources'
     url: '/project/3d-city-index/'
-    weight: 54
+    weight: 56
   - name: 'open data SG'
     parent: 'geospatial resources'
     url: '/post/2020/06/24/guide-for-open-urban-data-in-singapore/'
-    weight: 56
+    weight: 57
   - name: join
     weight: 80
   - name: openings
@@ -65,7 +69,7 @@ main:
     parent: join
     url: '/opportunities/why-us'
     weight: 82
-  - name: how to apply
+  - name: application guide
     parent: join
     url: '/opportunities/application-guide'
     weight: 84
