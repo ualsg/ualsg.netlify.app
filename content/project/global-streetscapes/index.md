@@ -18,7 +18,7 @@ image:
 # A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics
 
 {{% callout note %}}
-The dataset can be accessed [here](https://huggingface.co/datasets/NUS-UAL/global-streetscapes), while the code and online documentation are [here](https://github.com/ualsg/global-streetscapes).
+The dataset can be accessed [here](https://huggingface.co/datasets/NUS-UAL/global-streetscapes), while the code and online documentation are [here](https://github.com/ualsg/global-streetscapes). There is also a [journal paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023).
 {{% /callout %}}
 
 ## Summary
