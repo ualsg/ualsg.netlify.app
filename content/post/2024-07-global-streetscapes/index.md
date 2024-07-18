@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-We are excited to announce our project [_Global Streetscapes_](/project/global-streetscapes/).
+We are excited to announce our project [_Global Streetscapes_](/project/global-streetscapes/)!
 
 It is a big open large-scale labelled street-level imagery dataset addressing various challenges on using street view imagery in urban sciences.
 A comprehensive paper about the project is published as a namesake [article](https://doi.org/10.1016/j.isprsjprs.2024.06.023) in the _ISPRS Journal of Photogrammetry and Remote Sensing_:

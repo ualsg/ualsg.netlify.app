@@ -46,7 +46,7 @@ The topics of the lectures are listed below, while the abstracts and more inform
 + Twenty years of using crowd-sourced geodata to analyze urban phenomena – where do we go next?
 + What happens with big data approaches to urban science when data don't exist?
 
-Big thanks to our guests for the wonderful talks and their time! 
+Big thanks to our guests for their time and the wonderful talks! 
 
 ![](1.jpg)
 
