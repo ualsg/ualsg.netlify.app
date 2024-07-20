@@ -1,6 +1,6 @@
 ---
 title: Guide for prospective applicants
-subtitle: We welcome PhD students, visiting scholars, and researchers. Here are some tips.
+subtitle: We welcome PhD students, visiting scholars, and researchers. Here are more info & some tips.
 show_date: false
 toc: true
 
@@ -121,17 +121,13 @@ PhD applicants are not expected to have a rich publication record and scientific
 Some of these are instrumental in proving your technical skills, which are essential in our Lab and the College of Design and Engineering.
 
 The CV needs to be accompanied by:
-* a brief research proposal (2-4 pp.) containing a summary of the topics that you find interesting and a short literature review that covers recent developments in your area of interest, and an idea and plan for your PhD research. You should be able to briefly formulate existing gaps and think about how do you plan to fill them in the next few years. This does not have to be comprehensive and advanced, as during the first months of your PhD you'll have time to work on all that and sharpen your plans, but you should this document as an opportunity to demonstrate your motivation and research skills. Do remember to include other key components in your statement (a common mistake is to overlook including a literature review, contributions, output plan, and schedule) and avoid making your proposal generic (e.g. forgetting to mention the fit for our group, university, and Singapore, as admission/scholarship committees usually turn down such applications). The last point is of particular importance -- if your proposal gives an impression that it can be submitted also to several other universities, your application will not stand out;
+* a brief research proposal (2-4 pp.) containing a summary of the topics that you find interesting and a short literature review that covers recent developments in your area of interest, and an idea and plan for your PhD research. You should be able to briefly formulate existing gaps and think about how do you plan to fill them in the next few years. This does not have to be comprehensive and advanced, as during the first months of your PhD you'll have time to work on all that and sharpen your plans, but you should this document as an opportunity to demonstrate your motivation and research skills. Do remember to include other key components in your statement (a common mistake is to overlook including a literature review, contributions, output plan, and schedule) and avoid making your proposal generic (e.g. forgetting to mention the fit for our group, university, and Singapore, as admission/scholarship committees usually turn down such applications). For example, mention why you want to do a PhD particularly here, how does your expertise match our group, what research (i.e. papers) did attract your interest the most and how would you take it forward, etc. If your proposal gives an impression that it can be submitted also to several other universities, your application will not stand out;
 * examples of writing samples (if you have not written a paper yet, you might want to submit a thesis or individual assignment; avoid group assignments as it is not easy to isolate and ascertain your contribution to it);
 * a few words about one of our [publications](/publication) with brief ideas how would you take these results further and/or how would you use them for your research; and
 * a brief statement how do you envision contributing to our research agenda and group. A PhD is a substantial commitment from both sides for a few years, thus, your fit is no less important than your research finesse.
 
 All the points above should be concise, e.g. a few paragraphs for each aforementioned aspect, so it shouldn't take much time and effort to stand out.
 You will find that preparing such documentation is quite beneficial as it will also help you to explore and refine your thoughts and interests.
-
-For PhD applications at NUS, all applicants are required to submit their [Graduate Record Examination (GRE)](https://www.ets.org/gre.html) test scores, as part of the application.
-Candidates are required to obtain the GRE score of 320 (Verbal & Quantitative Total) and 3.5 (Analytical).
-Read more [here](https://cde.nus.edu.sg/graduate/graduate-programmes-by-research/admission-requirement-2/).
 
 Finally, we advise to make sure that you write your application in clear and concise English, and that you send your materials in PDF.
 English is the lingua franca of Singapore, NUS, and academia worldwide, thus, fluency is a must.
@@ -303,14 +299,6 @@ For visiting scholars, e.g. if they are doing a PhD, we need to make sure what t
 {{< spoiler text="I was not able to get a scholarship to support my PhD. Can I get an RA job?" >}}
 When we have RA openings, we post them on [our website with vacancies](https://ual.sg/opportunities/vacancies/).
 However, note that doing a PhD without a scholarship can be difficult and stressful because an RA job rarely covers the entire duration of the programme and it is not always perfectly aligned with a PhD project.
-{{< /spoiler >}}
-
-
-{{< spoiler text="Can I get exempted from GRE?" >}}
-We understand that a GRE may be time-consuming and difficult, but it helps providing evidence for your skills.
-Exemptions from GRE at NUS are almost non-existent.
-They are typically (but not always) only for NUS master graduates with a high GPA.
-If you are not able to get a GRE done on time, it might be possible to still apply and update your application soon afterwards with the GRE scores.
 {{< /spoiler >}}
 
 

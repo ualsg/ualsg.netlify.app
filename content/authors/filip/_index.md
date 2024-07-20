@@ -98,7 +98,7 @@ He is the founder and the principal investigator of the [NUS Urban Analytics Lab
 In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
 Filip has published more than 120 peer-reviewed articles.
 At NUS he has been awarded for teaching and research multiple times, and has supervised dozens of students leading them to publications in leading journals and placements at top universities and organisations.
-He delivered talks at more than 100 universities and organisations worldwide, including MIT, Stanford, Harvard, Berkeley, University of Tokyo, Princeton, Hong Kong University, Seoul National University, and ETH Zurich.
+He delivered talks at more than 100 universities and organisations worldwide, e.g. MIT, Stanford, Harvard, Berkeley, Peking, Tsinghua, University of Tokyo, Princeton, Hong Kong University, Seoul National University, and ETH Zurich.
 
 His background is in Geomatic engineering.
 Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (with highest honours) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
@@ -126,7 +126,7 @@ The list of his publications is available [here](https://filipbiljecki.com/#publ
 * CDE Young Researcher Award (NUS), 2023
 * College Teaching Excellence Award (NUS), 2023
 * School Teaching Excellence Award (NUS), 2021
-* Top 2% scientists worldwide (Stanford University), 2021 & 2022
+* Top 2% scientists worldwide (Stanford University)
 * Presidential Young Professorship (NUS), 2020
 * buildingSMART International Special Distinction Winner for Innovation, 2019
 * EuroSDR (association of European national mapping and cadastral agencies, and universities) award for the best PhD thesis related to GIS in Europe, 2017
