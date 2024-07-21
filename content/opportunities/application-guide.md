@@ -34,14 +34,14 @@ This pretty much depends on the nature of the position and career stage, but in 
 The [National University of Singapore (NUS)](http://www.nus.edu.sg) is [ranked consistently as one of the world's top universities]({{< ref "/post/2024-06-qs-ranking/index.md" >}}).
 It aspires to be a vital community of academics, researchers, staff, students and alumni working together in a spirit of innovation and enterprise for a better world.
 
-Singapore is a cosmopolitan English-speaking city-state bridging the East and the West.
-It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/s-pore-reclaims-top-spot-in-world-competitiveness-ranking-after-three-years) and the [safest country in the world](https://mothership.sg/2018/05/singapore-safest-country/), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean and efficient environment.
+[Singapore](https://en.wikipedia.org/wiki/Singapore) is a cosmopolitan English-speaking city-state bridging the East and the West.
+It is considered as the [#1 most competitive country](https://www.straitstimes.com/business/s-pore-reclaims-top-spot-in-world-competitiveness-ranking-after-three-years) and the [safest country in the world](https://mothership.sg/2018/05/singapore-safest-country/), [successfully attracting talents from all parts of the globe](https://www.straitstimes.com/singapore/singapore-retains-top-spot-in-asia-pacific-index-for-talent-competitiveness) by offering first-class living and working experience in the heart of Southeast Asia, and a very clean and efficient environment and unparalleled infrastructure.
 Residents enjoy also great food and weather.
 Overall, Singapore provides a fulfilling professional and personal experience in a liveable garden city.
 
 New researchers joining our group have an opportunity to work on research initiatives in the domains of the Lab (e.g. urban informatics, digital twins, 3D GIS, street view imagery, crowdsourced data, GeoAI, data quality and harmonisation, and GIScience) as part of existing or upcoming projects, and will have a chance to produce high-impact research.
 At the same time, researchers have flexibility to explore their interests and establish their agenda.
-Overall, being part of our Lab presents a rare opportunity in Singapore and Southeast Asia to be involved in the entire geospatial ecosystem under the same roof: from standardisation and generation of geoinformation all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field such as interface with AI and domains such as urban planning, mobility, energy, and climate.
+Overall, being part of our Lab presents a rare opportunity in Singapore and this part of Asia to be involved in the entire geospatial ecosystem under the same roof: from standardisation and generation of geoinformation all the way to their utilisation and visualisation, while continuously exploring new frontiers in the field such as interface with AI and domains such as urban planning, mobility, energy, and climate.
 
 We believe that our university, college, and research group provide a motivating, conducive, and flexible environment to explore the candidate's interests, build relevant skills, and develop world-class research required to attain a PhD degree or further qualifications at a research-intensive university such as NUS.
 Our productive and collaborative setting enables you to integrate your project with existing ones and leverage on our network and other activities to turbocharge your research.
@@ -52,6 +52,8 @@ Our small and friendly Lab is located at SDE4, [the first newly-built net-zero e
 
 Our [department](https://cde.nus.edu.sg/arch/) is consistently [ranked among the best in the world]({{< ref "/post/2021-03-qs-ranking/index.md" >}}).
 Our university is the [first and only one in Asia to be ranked within top 10 universities globally (QS)]({{< ref "/post/2024-06-qs-ranking/index.md" >}}).
+
+On a broader scale, [Southeast Asia](https://en.wikipedia.org/wiki/Southeast_Asia) is [one of the most dynamic and fastest growing regions in the world](https://home.cib.natixis.com/southeast-asia-an-emerging-bright-spot-in-asia-pacific-m-a), and it offers excellent travel opportunities to have a nice break from research.
 
 But above all, we are a friendly and supportive team of researchers that works on cool stuff together. 😊
 
@@ -217,13 +219,15 @@ Yes, we do. For more information, please read the content above.
 {{< spoiler text="I see from the website that your department offers only a PhD in Architecture, but I am interested in what you folks do. Is there some other PhD degree you offer?" >}}
 PhD degrees at NUS are not awarded by research groups, they are managed by upper levels such as the department and graduate school.
 PhD programmes at NUS follow the nomenclature of the hosting departments, thus, if you pursue a PhD on a topic in this domain (i.e. urban analytics, etc.) and under the supervision of the PI of the group, it will be nominally part of the PhD in Architecture programme, since we are part of the Department of Architecture. The department and its PhD cohort work on a wide array of topics, and the PhD _per se_ is not necessarily squarely related to architecture.
+In practice, as far as we know, this will not make or break your chances later in your career. Your work, publications, and attained skills matter the most.
 {{< /spoiler >}}
 
 
 {{< spoiler text="Can I do a part-time PhD?" >}}
 You can (NUS allows it), but we think you shouldn't.
-A PhD is a significant undertaking that is time and energy consuming, and it is quite difficult to combine it with a full-time job. In fact, it is challenging even when it is full-time. Thus, in principle, we do not accept part-time PhD students. If you want to do a good job, take the full-time route if you can.
+A PhD is a significant undertaking that is time and energy consuming, and it is quite difficult to combine it with a full-time job. In fact, it is challenging even when it is full-time. Thus, we do not accept part-time PhD students. If you want to do a great job, take the full-time route.
 {{< /spoiler >}}
+
 
 {{< spoiler text="How long does it take to finish a PhD?" >}}
 It takes about four years. 
@@ -237,12 +241,16 @@ That much depends on your profile and experience, but we don't see these positio
 Developing expertise in a particular niche and transferrable skills makes you attractive also to government agencies, national institutes, and industry.
 You could also think about starting a company, NUS offers some support for startups.
 Our alumni have ended up in decent places after working with us.
+Further, consulting is also another viable path.
 {{< /spoiler >}}
 
 
 {{< spoiler text="Why should I choose your research group and NUS? Why should I do a PhD or postdoc in Asia?" >}}
 The [section above](#why-us) provides numerous reasons.
-Singapore and NUS are an excellent place to do a PhD and do research, and are very well recognised around the world.
+Singapore and NUS are an excellent place to do a PhD and do research (and in terms of living as well), and are very well recognised around the world.
+Further, both NUS and Singapore are quite well connected with the rest of Asia and the world.
+For example, [we regularly host people from Europe, USA, China, ASEAN, and other places]({{< relref "/seminars/" >}}), allowing our members to develop extensive and diverse connections and get exposed to a variety of latest developments, and our scholars have opportunities to do international visits too.
+Finally, our group has a global footprint, evidenced by the impact of [our publications]({{< relref "/publication/" >}}) and [invited lectures]({{< relref "/post/2022-07-usa-visits" >}}) in several countries worldwide.
 {{< /spoiler >}}
 
 
@@ -254,7 +262,7 @@ However, please note that if you have an offer from a highly ranked university, 
 
 {{< spoiler text="Do I need to have a paper published for a PhD application?" >}}
 No. A publication record is not a requirement for a PhD.
-That said, of course, it will be a plus if you have one, as it demonstrates research skills and aptitude, and will make it easier to start a PhD.
+That said, of course, it will be a plus if you have one, as it demonstrates research skills and aptitude, and will make it easier to get into the PhD mode.
 {{< /spoiler >}}
 
 
@@ -271,6 +279,7 @@ In brief, you work _with_ a supervisor, not _under_ a supervisor.
 We have a flexible environment with not much hierarchy and formalities.
 We are a small and friendly group.
 There is no micromanaging and meetings are conducted depending on the need.
+There are also lots of collaborative opportunities, many of [our publications]({{< relref "/publication/" >}}) involve multiple people within the group and the department.
 {{< /spoiler >}}
 
 
@@ -303,7 +312,7 @@ However, note that doing a PhD without a scholarship can be difficult and stress
 
 
 {{< spoiler text="Can the university waive the PhD tuition fee if my scholarship funds only a stipend for living and research expenses, and the funding agency is not willing to cover also the tuition fee?" >}}
-No, NUS does not provide waivers, sorry.
+No, NUS does not provide waivers, sorry, we can't do much about it.
 {{< /spoiler >}}
 
 
@@ -328,3 +337,4 @@ Yes. We are happy to endorse candidates who are seeking external funding as long
 {{< spoiler text="I got admitted to the PhD programme, but I want to start later. Is it possible to defer the admission?" >}}
 Usually yes. There are lots of valid reasons for that, e.g. waiting for an external scholarship outcome. Please contact the graduate school if you got admitted but would like to start at the next intake instead.
 {{< /spoiler >}}
+
