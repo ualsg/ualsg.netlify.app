@@ -9,7 +9,8 @@ banner:
   caption: ""
 ---
 
-Thank you for your interest in joining our research group at the [National University of Singapore](https://nus.edu.sg), and contribute to [our research agenda](/about) focused on the nexus of novel urban data streams, urban analytics, and geospatial data science, a holistic and unique research agenda in Singapore and Southeast Asia and beyond.
+Thank you for your interest in joining our research group at the [National University of Singapore](https://nus.edu.sg).
+We look forward to working together on [a research framework](/about) focused on the nexus of novel urban data streams, urban analytics, and geospatial data science, a holistic and unique research agenda in Singapore and Southeast Asia and beyond.
 We continuously welcome motivated and talented prospective researchers from diverse disciplines and countries, who share our research goal of making cities smarter and more (geo)data-driven.
 
 Interested in joining us? This website contains more information and some tips, including [answers to frequently asked questions](#faq).
@@ -45,6 +46,8 @@ Overall, being part of our Lab presents a rare opportunity in Singapore and this
 
 We believe that our university, college, and research group provide a motivating, conducive, and flexible environment to explore the candidate's interests, build relevant skills, and develop world-class research required to attain a PhD degree or further qualifications at a research-intensive university such as NUS.
 Our productive and collaborative setting enables you to integrate your project with existing ones and leverage on our network and other activities to turbocharge your research.
+Further, our lab provides a nice academic network that grants a front row opportunity to connect and collaborate with renowned international researchers.
+In addition, PhD students are encouraged to go for exchange opportunities too.
 
 Our small and friendly Lab is located at SDE4, [the first newly-built net-zero energy building in Singapore]({{< ref "/post/2020-12-sde4-ilfi/index.md" >}}), and the first university building in the world to be [WELL Certified Gold](https://www.wellcertified.com/).
 
@@ -191,9 +194,9 @@ Thus, we prefer to prioritise those who work on research that is closely aligned
 
 The academic expectations are more or less listed above, but most importantly, we expect a committed and full integration in our group and an idea of a project that matches our agenda.
 
-If you are interested in spending some time with us, [contact us](/#contact) with the following information and materials: brief proposal (1-2 pages) aligned with our group, CV, desired time period of the stay, and funding scheme.
+If you are interested in spending some time with us, [contact us](/#contact) with the following information and materials: brief proposal (1 page) aligned with our group, CV, desired time period of the stay, and information on the funding scheme that you plan to use to facilitate the visit.
 
-Unfortunately, NUS does not have funding schemes to support incoming visiting scholars, and most of our visitors have been supported by their home universities, foreign government schemes, or other funding programmes.
+Unfortunately, NUS does not have funding programmes to support incoming visiting scholars, and most of our visitors have been supported by their home universities, their project budgets, foreign government schemes, or other funding streams.
 
 Visiting scholars who are students need to be enrolled at NUS as [non-graduating students](https://www.nus.edu.sg/registrar/academic-information-policies/non-graduating), which will organise their residence permit in Singapore for longer stays.
 
