@@ -7,6 +7,10 @@ banner:
   caption: ""
 ---
 
+{{% callout note %}}
+Before contacting us, please read [our guide for prospective applicants](/opportunities/application-guide/).
+{{% /callout %}}
+
 {{< opening >}}
 
 {{< past_openings >}}
