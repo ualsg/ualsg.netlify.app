@@ -182,23 +182,27 @@ If there is a match, we'll be happy to endorse your application.
 Good luck!
 
 
-## Visiting scholars
+## Visiting scholars (up to 12 months)
 
-We have hosted many visiting scholars in the past few years, including visiting PhD students and senior researchers (e.g. awardees of postdoc fellowships), from a period anywhere from a few months to one year.
+We have hosted several visiting scholars in the past few years, including overseas PhD students and senior researchers (e.g. awardees of [postdoc fellowships](/opportunities/fellowships/)), from a period anywhere from a few months to one year.
+Such stays have been productive and enriching for both the visitor and our group, resulting in [continuous collaborations and publications](/publication/).
 
-Please prepare a short proposal of the research you plan to conduct in our Lab together with a timeline and other specifics.
-Feel free to have a look at our website and recent papers, and think of a common overlap or complementary research direction, which will ensure a mutually beneficial research visit.
-Potential contributions to our research group are also relevant, as visiting fellowships should be a two-way relationship.
-Every year, we have bandwidth and space to accept only a few visiting researchers.
+If you are interested -- please prepare a short proposal of the research you plan to conduct during your stay in our Lab together with a timeline and other specifics.
+You are welcome to have a look at our [website](/about), recent [blog posts](/post), and recent [papers](/publication/), and think of a common overlap or complementary research direction, which will ensure a mutually beneficial research visit.
+We are excited to learn from each other and have continuous academic exchanges which may continue even beyond the stay here. 
+Fit and match with our research group are quite relevant, as visiting fellowships should be a two-way relationship.
+We are a small group, so every year, we have bandwidth and space to accept only a few visiting researchers.
 Thus, we prefer to prioritise those who work on research that is closely aligned with our activities, and ensure a complementary fit and contribution to our projects and team (and vice-versa), and at the same time making sure that you get the most of such a visit for your academic trajectory.
 
-The academic expectations are more or less listed above, but most importantly, we expect a committed and full integration in our group and an idea of a project that matches our agenda.
+The academic expectations are more or less [listed above](#what-are-the-general-requirements-and-what-makes-an-application-excel), but most importantly, we expect a committed integration in our group and an idea of research that matches our agenda and something that you would not normally do if you have simply stayed at your home university.
 
-If you are interested in spending some time with us, [contact us](/#contact) with the following information and materials: brief proposal (1 page) aligned with our group, CV, desired time period of the stay, and information on the funding scheme that you plan to use to facilitate the visit.
+If you are interested in spending some time with us, [contact us](/#contact) with the following information and materials: brief proposal (1 page) aligned with our agenda, CV, desired time period of the stay, and information on the funding scheme that you plan to use or apply for to facilitate the visit.
 
-Unfortunately, NUS does not have funding programmes to support incoming visiting scholars, and most of our visitors have been supported by their home universities, their project budgets, foreign government schemes, or other funding streams.
+Unfortunately, NUS does not have funding programmes to support incoming visiting scholars, and most of our visitors have been supported by their home universities, their project budgets, foreign government schemes, or [other funding streams](/opportunities/fellowships/).
 
 Visiting scholars who are students need to be enrolled at NUS as [non-graduating students](https://www.nus.edu.sg/registrar/academic-information-policies/non-graduating), which will organise their residence permit in Singapore for longer stays.
+The application to this programme needs to be done at least three months before the intended start date, which is done after discussions with us.
+Thus, if you are interested in a stay with us as visiting scholar, please contact us around 5-6 months in advance.
 
 
 ## Research assistants and research fellows (postdocs)
@@ -240,10 +244,11 @@ In practice, four years is the minimum time required, and doing a PhD in less th
 
 
 {{< spoiler text="After I finish a PhD or postdoc at NUS, what are my career opportunities?" >}}
-That much depends on your profile and experience, but we don't see these positions constrained to an academic future.
+That much depends on your profile, accomplishments, and experience.
+Academia tends to be the desired path of those who do a PhD and/or postdoc (and NUS is a highly reputable university, which helps in getting a job elsewhere afterwards), but we don't see these positions constrained to an academic future.
 Developing expertise in a particular niche and transferrable skills makes you attractive also to government agencies, national institutes, and industry.
 You could also think about starting a company, NUS offers some support for startups.
-Our alumni have ended up in decent places after working with us.
+Our alumni have ended up in decent places, including faculty positions, after working with us.
 Further, consulting is also another viable path.
 {{< /spoiler >}}
 
@@ -253,7 +258,7 @@ The [section above](#why-us) provides numerous reasons.
 Singapore and NUS are an excellent place to do a PhD and do research (and in terms of living as well), and are very well recognised around the world.
 Further, both NUS and Singapore are quite well connected with the rest of Asia and the world.
 For example, [we regularly host people from Europe, USA, China, ASEAN, and other places]({{< relref "/seminars/" >}}), allowing our members to develop extensive and diverse connections and get exposed to a variety of latest developments, and our scholars have opportunities to do international visits too.
-Finally, our group has a global footprint, evidenced by the impact of [our publications]({{< relref "/publication/" >}}) and [invited lectures]({{< relref "/post/2022-07-usa-visits" >}}) in several countries worldwide.
+Finally, our group and department have a global footprint, evidenced by the impact of [our publications]({{< relref "/publication/" >}}) and [invited lectures]({{< relref "/post/2022-07-usa-visits" >}}) in several countries worldwide.
 {{< /spoiler >}}
 
 
@@ -282,11 +287,11 @@ In brief, you work _with_ a supervisor, not _under_ a supervisor.
 We have a flexible environment with not much hierarchy and formalities.
 We are a small and friendly group.
 There is no micromanaging and meetings are conducted depending on the need.
-There are also lots of collaborative opportunities, many of [our publications]({{< relref "/publication/" >}}) involve multiple people within the group and the department.
+There are also lots of collaborative opportunities, many of [our publications]({{< relref "/publication/" >}}) involve multiple people within the group and the department, and sometimes elsewhere at the university and internationally.
 {{< /spoiler >}}
 
 
-{{< spoiler text="I do not think I am ready yet for a PhD / I plan to apply but have some time and would like to prepare for the PhD -- What should I do?" >}}
+{{< spoiler text="I do not think that I am ready yet for a PhD / I plan to apply but have some time and would like to prepare for the PhD -- What should I do?" >}}
 That much depends on your current skillset and what you will be working on during your PhD. One thing you usually cannot go wrong with is enhance your technical skills (e.g. programming in Python, machine learning packages, data visualisation, get acquainted with the most recent developments in AI...), communication (e.g. English oral and writing skills), and start casually following journals in the field and have a cursory look at recent papers. 
 You might also want to consider having a break and enjoying a longer holiday before starting your doctoral programme.
 {{< /spoiler >}}
@@ -319,7 +324,7 @@ No, NUS does not provide waivers, sorry, we can't do much about it.
 {{< /spoiler >}}
 
 
-{{< spoiler text="Do I need a master degree to apply for a PhD?" >}}
+{{< spoiler text="Do I need a masters degree to apply for a PhD?" >}}
 Yes, a masters degree is pretty much a hard requirement.
 If you have a bachelor degree, and you are interested in a PhD with us, we recommend you getting a masters degree first and build your research skills and experience, and then apply for a PhD.
 Our two departments ([NUS Architecture](https://cde.nus.edu.sg/arch/) and [NUS Real Estate](https://bschool.nus.edu.sg/real-estate/)) offer nice master programmes that you might want to consider in furthering your studies.
@@ -329,15 +334,17 @@ PhD admission with only a bachelor degree is possible, but only under exceptiona
 
 {{< spoiler text="Do I have to take courses during the PhD?" >}}
 Yes, but the coursework requirement is not as heavy as in some other places such as the USA. You can also request to waive certain courses if you have taken relevant ones at the graduate school level.
+Further, our department offers the option of one or two independent study courses, which count as a regular course, during which a piece of research is executed and submitted as a report. which can be integrated in the PhD.
+This is an attractive option also because during one semester it allows you to have two supervisors, one of which is a co-supervisor from elsewhere at the department or another department.
 {{< /spoiler >}}
 
 
 {{< spoiler text="I am looking for a postdoc position, but you have no openings at the moment. Can I apply for some fellowship that would fund my postdoc in your group?" >}}
-Yes. We are happy to endorse candidates who are seeking external funding as long as they are a match (e.g. read the information above to get a better idea about it). Check the [comprehensive list](../fellowships) that we prepared for candidates seeking external funding.
+Yes. We are happy to endorse candidates who are seeking external funding as long as they are [a match](#what-are-the-general-requirements-and-what-makes-an-application-excel) (e.g. read the information above to get a better idea about it). Check the [comprehensive list](../fellowships) that we prepared for candidates seeking external funding.
 {{< /spoiler >}}
 
 
-{{< spoiler text="I got admitted to the PhD programme, but I want to start later. Is it possible to defer the admission?" >}}
+{{< spoiler text="I got admitted to the PhD programme, but I want to start half year later. Is it possible to defer the admission?" >}}
 Usually yes. There are lots of valid reasons for that, e.g. waiting for an external scholarship outcome. Please contact the graduate school if you got admitted but would like to start at the next intake instead.
 {{< /spoiler >}}
 
