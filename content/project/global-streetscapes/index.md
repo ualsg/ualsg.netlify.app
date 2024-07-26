@@ -21,7 +21,7 @@ image:
 The dataset and models are [here](https://huggingface.co/datasets/NUS-UAL/global-streetscapes), while the code and online documentation are [here](https://github.com/ualsg/global-streetscapes). There is also a [journal paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023).
 {{% /callout %}}
 
-## Summary
+## Summary / TL;DR
 
 Street-level imagery[^1] is a popular data source in urban informatics, GIScience, urban studies, and computer vision, but datasets usually come without much context and metadata.
 We devised a set of hundreds of attributes that indicate a variety of characteristics of photos (e.g. type of road and weather) and may be useful for downstream analyses.
@@ -37,7 +37,7 @@ The project was carried out by the [Urban Analytics Lab](/) at the [National Uni
 While both the [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023) and [repository](https://github.com/ualsg/global-streetscapes) are rich in details, on this website you can find a description of what we do in a nutshell.
 For more information, please refer to the [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023) and the wiki on the [repository](https://github.com/ualsg/global-streetscapes).
 
-## Motivation
+## Introduction and Motivation
 
 In the last decade, street view imagery (SVI)[^1] has been [used widely by researchers globally in a variety of domains]({{< relref "/publication/2021-land-svi-review/" >}}), e.g.
 [for assessing walkability]({{< relref "/publication/2023-epb-semantic-networks" >}}),
