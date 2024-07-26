@@ -23,8 +23,11 @@ You can read more about our research agenda also in [an interview with the PI](h
 
 ![](banner-gbmi.png)
 
-We are involved in several international collaborations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
+We are involved in several international collaborations and organisations such as the [International Society for Photogrammetry and Remote Sensing (ISPRS)](https://www.isprs.org) and the [Open Geospatial Consortium (OGC)](https://www.opengeospatial.org).
+
 Within NUS, we collaborate primarily with several sister labs such as the [Building and Urban Data Science (BUDS) Lab](https://www.budslab.org), the [Integrated Data, Energy Analysis + Simulation (IDEAS) Lab](https://ideaslab.io), the [Behavioural Cognitive Science (BeCoS) Lab](https://behaviourscience.org), and the [Urban Climate Design Lab (UCDL)](https://www.sde.nus.edu.sg/arch/ucdl/), forging a constellation of research groups with complementary agendas operating at converging scales and with shared objectives.
+
+Besides funding from NUS and academic/government organisations such as Singapore's Ministry of Education, we also receive support from industry, e.g. [Takenaka Corporation from Japan]({{< relref "/post/2023-04-takenaka-collaboration" >}}).
 
 ![](ual-cny-dinner-2024-02.jpg)
 
