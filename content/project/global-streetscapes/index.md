@@ -94,9 +94,9 @@ Further, the [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023) provides a
 
 On a broader scope, NUS Global Streetscapes is composed of the following outputs:
 
-+ [Dataset and models](https://huggingface.co/datasets/NUS-UAL/global-streetscapes)
-+ [Code and online documentation](https://github.com/ualsg/global-streetscapes), including tutorials/wiki
-+ [Paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023)
++ [Dataset and models](https://huggingface.co/datasets/NUS-UAL/global-streetscapes). For users who have no access to Hugging Face, the dataset is [available also on Baidu Cloud Disk](https://pan.baidu.com/s/1wsbqfbA56sXjIdb0KoSBbQ?pwd=98tr).
++ [Code and online documentation](https://github.com/ualsg/global-streetscapes), including tutorials/wiki.
++ [Peer-reviewed paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023) published in an academic journal.
 
 ## Paper and attribution
 
@@ -195,7 +195,7 @@ The research was partially conducted at the Future Cities Lab Global at the Sing
 Besides the [paper about the project](https://doi.org/10.1016/j.isprsjprs.2024.06.023) and the references it contains, here are some reading recommendations, especially in relation to some aspects you may want to learn more about:
 
 - How can street view imagery be used? Read our [2021 review paper in Landscape and Urban Planning]({{< relref "/publication/2021-land-svi-review/" >}}).
-- Perception evaluation is commonly mentioned as one of the key applications of SVI, but how does it work exactly? Read our [2024 review paper in Cities]({{< relref "/publication/2024-cities-perception-rev/" >}}).
+- Perception evaluation is commonly mentioned as one of the key applications of SVI, but how does it work exactly? Read our [2024 review paper in Cities]({{< relref "/publication/2024-cities-perception-rev/" >}}). Recently, we also introduced a new use case related to perception -- [our 2024 paper in Building and Environment]({{< relref "/publication/2024-bae-building/" >}}) demonstrates how SVI can be used to understand the impression of building exterior and architecture at a large scale.
 - How does SVI compare to traditionally used satellite imagery? [Our 2022 conference paper]({{< relref "/publication/2022-sdsc-svi-sat-comparison" >}}) provides a systematic comparison between the two.
 - Crowdsourced data does not tend to have many panoramic images, is that a problem? [Our 2023 JAG study]({{< relref "/publication/2023-jag-svi-sensitivity" >}}) demonstrates that perspective (non-panoramic) imagery may be quite useful for typical studies such as mapping the urban form.
 - Crowdsourced imagery, akin to other forms of user-generated / volunteered geographic information may have quality issues, what are these? We identified dozens of quality elements and issues, and provided the first SVI quality framework in [a 2022 JAG paper]({{< relref "/publication/2022-jag-svi-quality" >}}).
@@ -217,9 +217,13 @@ However, when using the dataset in any way please attribute this project by citi
 
 Optionally, feel free to reach out to tell us a bit more how are you using this work and taking it forward.
 
-### I want to read more but I do not have access to the paper.
+### I want to read more but I do not have access to the paper. Is there any other way to download the paper?
 
 We prepared a green open access version (postprint) [here]({{< relref "/publication/2024-global-streetscapes" >}}).
+
+### I don't have access to the dataset deposited on Hugging Face. Is there any other way to download the dataset and models?
+
+For users who have no access to Hugging Face (e.g. those based in China), the dataset is [available also on Baidu Cloud Disk](https://pan.baidu.com/s/1wsbqfbA56sXjIdb0KoSBbQ?pwd=98tr).
 
 ### What if I find an error?
 
