@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- People
+- Alumni
 ---
 
 Markus Brenken is about to finish his bachelor's degree in Information Systems at Leuphana University Lüneburg, Germany. After his research project at the Urban Analytics Lab, he will continue his studies with a Master's degree in Data Science at ITU Copenhagen. His research interests are in the area of methodology and theory of data science. In our Lab, Markus works with user-generated textual content to gain better insights into the urban living environment.

@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- People
+- Alumni
 ---
 
 Florian is pursuing a Master's degree in Environmental Engineering at Technical University of Munich with a focus on 3D geoinformatics, environmental hazards, and hydrology. His practical experience includes internships in the engineering and reinsurance industries. He is interested in generating, updating, and applying semantic and dynamic 3D city models and exploring various data sources for this purpose. At UAL, he is conducting research for his Master's thesis with the aim to deepen his skills in data analysis.
