@@ -36,7 +36,7 @@ We are glad to share our new paper:
 
 This research was led by {{% mention "kunihiko" %}}.
 Congratulations on this important journal publication! :raised_hands: :clap:
-We are glad that this paper is one of the first outcomes of [our collaboration with Takenaka Corporation]({{< relref "../2023-04-takenaka-collaboration" >}}).
+We are glad that this paper is one of the first outcomes of [our collaboration with Takenaka Corporation]({{< relref "../post/2023-04-takenaka-collaboration" >}}).
 
 ![](1.png)
 
