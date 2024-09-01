@@ -24,5 +24,5 @@ We are introducing innovative methods, datasets, and software to derive new insi
 Converging multidisciplinary approaches inspired by recent advancements in computer science, geomatics and urban data science, and influenced by crowdsourcing and open science, we conceive cutting-edge techniques for urban sensing and analytics at the city-scale.
 Watch the [video](https://vimeo.com/764033095) above or read more [here](/about/).
 
-We are proudly based at the [Department of Architecture](https://cde.nus.edu.sg/arch/) at the [College of Design and Engineering](https://cde.nus.edu.sg) of the [National University of Singapore](https://www.nus.edu.sg), a leading global university centered in the heart of Southeast Asia.
+Established and directed by {{% mention "filip" %}}, we are proudly based at the [Department of Architecture](https://cde.nus.edu.sg/arch/) at the [College of Design and Engineering](https://cde.nus.edu.sg) of the [National University of Singapore](https://www.nus.edu.sg), a leading global university centered in the heart of Southeast Asia.
 We are also affiliated with the [Department of Real Estate](https://bschool.nus.edu.sg/real-estate/) at the [NUS Business School](https://bschool.nus.edu.sg).
