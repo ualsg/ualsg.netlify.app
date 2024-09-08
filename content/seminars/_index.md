@@ -22,6 +22,22 @@ For the full list of events at our [NUS Department of Architecture](https://cde.
 
 Please note that, to facilitate an enhanced atmosphere, engagement and interaction, the talks are only in-person at our [NUS College of Design and Engineering](https://cde.nus.edu.sg) (they are not streamed online) and they are not recorded.
 
+
+---
+
+### 2024-09-17 --- Greener Urban Trips for Everyone: From Measured Wellbeing Impacts to Big Data Analytics
+
+By [Tuuli Toivonen](https://researchportal.helsinki.fi/en/persons/tuuli-toivonen),
+[Digital Geography Lab](https://www.helsinki.fi/en/researchgroups/digital-geography-lab),
+[University of Helsinki](https://www.helsinki.fi/en),
+Finland
+
+The presentation focuses on analysing the availability of greenery in urban travel environments from various perspectives. It will present the ongoing work of a large European Research Council funded project GREENTRAVEL, which aims at producing novel understanding of the quality, availability and wellbeing impacts of green urban travel environments.
+The project employs technologies from immersive Virtual Reality to Big Data mining to understand the importance of green exposure during everyday travels and to identify relevant greenery features across seasons.  To scale to entire urban areas without losing the human street view perspective, the project employs computer vision on street-view images and 3D models to map relevant greenery features. Furthermore, mobile Big Data is being leveraged to study the mobility flows of the urban population and to reveal the equity of green exposure during these everyday trips, also considering different transportation modes.
+The presentation will describe the ongoing work of the project and more broadly the urban research at the Digital Geography Lab, hopefully providing a platform for fruitful discussions.
+
+![](2024-09-17.jpg)
+
 ---
 
 ### 2024-07-17 --- What happens with big data approaches to urban science when data don't exist?
