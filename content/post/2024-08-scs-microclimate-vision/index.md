@@ -38,6 +38,8 @@ This research was led by {{% mention "kunihiko" %}}.
 Congratulations on this important journal publication! :raised_hands: :clap:
 We are glad that this paper is one of the first outcomes of [our collaboration with Takenaka Corporation]({{< relref "../post/2023-04-takenaka-collaboration" >}}).
 
+The code has been released open-source at [GitHub](https://github.com/kunifujiwara/microclimate-vision).
+
 ![](1.png)
 
 ![](2.png)
