@@ -34,6 +34,51 @@ We would be pleased to learn how others are using our work.
 If you are interested in collaborating with us, please get in touch with the lead developer of each resource listed below.
 
 
+## TreeShadeMapper
+
+![](TreeShadeMapper.png)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A panorama-based technique to estimate sky view factor and solar irradiance considering transmittance of tree canopies |
+| Lead developer: | {{% mention "kunihiko" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.buildenv.2024.112071) published in BAE |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/kunifujiwara/TreeShadeMapper) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2024_bae_svf,
+  author = {Fujiwara, Kunihiko and Ito, Koichi and Ignatius, Marcel and Biljecki, Filip},
+  doi = {10.1016/j.buildenv.2024.112071},
+  journal = {Building and Environment},
+  pages = {112071},
+  title = {A panorama-based technique to estimate sky view factor and solar irradiance considering transmittance of tree canopies},
+  volume = {266},
+  year = {2024}
+}
+{{< /spoiler >}}|
+
+
+## Microclimate Vision
+
+![](microclimate-vision.jpg)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | Multimodal prediction of climatic parameters using street-level and satellite imagery |
+| Lead developer: | {{% mention "kunihiko" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.scs.2024.105733) published in SCS |
+| Code: | [<i class="fab fa-github"></i>  Github repo](https://github.com/kunifujiwara/microclimate-vision) |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2024_scs_microclimate_vision,
+  author = {Fujiwara, Kunihiko and Khomiakov, Maxim and Yap, Winston and Ignatius, Marcel and Biljecki, Filip},
+  doi = {10.1016/j.scs.2024.105733},
+  journal = {Sustainable Cities and Society},
+  pages = {105733},
+  title = {Microclimate Vision: Multimodal prediction of climatic parameters using street-level and satellite imagery},
+  volume = {114},
+  year = {2024}
+}
+{{< /spoiler >}}|
+
 ## Global Streetscapes
 
 ![](global-streetscapes.jpg)
@@ -43,6 +88,7 @@ If you are interested in collaborating with us, please get in touch with the lea
 | Short description: | A comprehensive dataset of 10 million street-level images across 688 cities for urban science and analytics. |
 | Lead developer: | {{% mention "yujun" %}} |
 | Further reading: | Please read the [paper](https://doi.org/10.1016/j.isprsjprs.2024.06.023) published in the ISPRS Journal of Photogrammetry and Remote Sensing |
+| Website: | [<i class="fas fa-home"></i> Website](/project/global-streetscapes) |
 | Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/ualsg/global-streetscapes) |
 | Main data source(s): | Mapillary, KartaView, OpenStreetMap, GADM, ... and manual labelling |
 | Coverage: | 688 cities around the world | 

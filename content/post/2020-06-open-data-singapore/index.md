@@ -65,8 +65,9 @@ While there are other instances not mentioned here, these are the datasets we co
 It also includes non-residential blocks such as multi-storey carparks.
 It does not contain building footprints though.
 We used this dataset as one of the input datasets to generate [3D building models]({{< ref "/post/2019-08-hdb-3d/index.md" >}}).
+* Geometric footprints of HDB buildings is available [here](https://data.gov.sg/collections/2033/view).
 * Data on non-HDB buildings (landed houses, condos, commercial buildings...) is not as complete and it is scattered around, but [URA's data portal](https://www.ura.gov.sg/realEstateIIWeb/supply/search.action) is a good starting point for exploration.
-* For open data on building footprints the best bet is OpenStreetMap, it has [nearly 100% completeness with rapid updates]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}), but attribute data may lack.
+* For open data on all building footprints the best bet is OpenStreetMap, it has [nearly 100% completeness with rapid updates]({{< ref "/post/2020-08-osm-singapore-building-data-quality/index.md" >}}), but attribute data may lack.
 Data.gov.sg contains [a dataset representing building footprints](https://data.gov.sg/dataset/master-plan-2014-building), but for some reason it is not complete, covering only a subset of buildings several years ago.
 It still might be useful though.
 * Check out [Roofpedia](/project/roofpedia/), our project that maps solar panels and green roofs on buildings, which includes open data on Singapore, together with several other cities.
@@ -223,7 +224,8 @@ Satellite imagery is available for academia through the [Planet's Education and 
 
 ### Point clouds (LiDAR), terrain data
 
-None, except terrain data of coarse resolution such as [SRTM](https://www2.jpl.nasa.gov/srtm/).
+Pretty much none, except terrain data of coarse resolution such as [SRTM](https://www2.jpl.nasa.gov/srtm/).
+Please see also [this page](https://ugl.sg/2022/10/03/dem-of-singapore-srtm/) from the [NUS Urban Green Lab](https://ugl.sg).
 
 ### Street-level imagery
 
@@ -275,6 +277,10 @@ The usual caveats:
 * Do not forget to attribute the data source in your use and mention the year when it was created/updated.
 * Some geospatial datasets may not pass all validity checks (e.g. they might have self-intersecting polygons), presenting a problem when they are used in spatial analyses.
 You can try fixing them using [prepair](https://github.com/tudelft3d/prepair).
+
+### Further reading
+
+You might also want to check out [this page](https://nusgis.org/data/) by NUS Geography collaborator [Yingwei Yan](https://discovery.nus.edu.sg/19079-yingwei-yan). 
 
 ### Have a suggestion for an entry? Spotted an error?
 
