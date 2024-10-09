@@ -22,6 +22,21 @@ For the full list of events at our [NUS Department of Architecture](https://cde.
 
 Please note that, to facilitate an enhanced atmosphere, engagement and interaction, the talks are only in-person at our [NUS College of Design and Engineering](https://cde.nus.edu.sg) (they are not streamed online) and they are not recorded.
 
+---
+
+### 2024-10-21 --- From Built Heritage 3D Spatial Documentation to National  Hazards Maps: a multi-scale & multi-techniques research approach
+
+By [Elisabetta Colucci](https://www.polito.it/en/staff?p=041312),
+[Department of Architecture and Design](https://www.dad.polito.it/en/),
+[Politecnico di Torino](https://www.polito.it/en),
+Italy
+
+It is now widely recognized that digital methods and techniques significantly aid the spatial documentation of cultural heritage.
+Thanks to innovative instruments, algorithms (from computer vision), and approaches (from artificial intelligence), it is possible to carry out 2D and 3D spatial documentation of built heritage and structures, ranging from architectural to territorial and landscape scales, with a multi-level-of-detail approach.
+National and international standards also enable the spatial and semantic documentation of cities, villages, and cultural heritage, helping to prevent damage and support urban planning, restoration efforts, structural design, monitoring studies, and more.
+Furthermore, open data, spatial databases, and interdisciplinary collaboration for analyzing these data offer a wealth of spatial data and parameters that assist in studying and analyzing risks and vulnerabilities in territorial areas and critical infrastructures, particularly related to natural hazards and climate change-induced risks.
+
+![](2024-10-21.jpg)
 
 ---
 
