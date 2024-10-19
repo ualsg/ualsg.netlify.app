@@ -15,24 +15,48 @@ summary = "Open stuff"
   columns = "1"
 +++ 
 
-We publish most of our code and data openly.
+We believe in open science, so we publish most of our code and data openly.
 We do that mostly through [our Github account](https://github.com/ualsg).
 
-Please see below for a list of resources and projects, especially lab-grown datasets, which we are happy to share. 
-On this page, we also include similar [outputs led by collaborators](#with-our-friendly-collaborators), in which we were involved.
+Please see below for a list of resources and projects, especially lab-grown datasets, which we are happy to make public. 
+On this page, we also include open [outputs led by collaborators](#with-our-friendly-collaborators), in which we were involved.
 
-On a related note, you may be interested in [our comprehensive survey on open-source software](https://doi.org/10.1016/j.compenvurbsys.2022.101825), published as a review paper in _Computers, Environment and Urban Systems_.
+On a related note, you may be interested in [our comprehensive survey on open-source software](https://doi.org/10.1016/j.compenvurbsys.2022.101825), led by our {{% mention "winston" %}}, published as a review paper in _Computers, Environment and Urban Systems_.
 
-In general, all resources are released under a liberal licence, enabling you unrestricted use as long as you attribute them.
+In general, all resources are released under a liberal licence, enabling unrestricted use as long as you properly attribute them.
 If you use the code and/or the data for presentations and publications, we kindly ask you to cite the related paper(s) and credit our work. 
 We have provided guidelines to do so in each resource.
 
-The usual caveat: while a great deal of effort has been put into each project, they are not free of errors, and we cannot be held responsible for the use of code and/or data and any issues that may arise.
+The usual disclaimer: while a great deal of effort and care has been put into each project, they are not free of errors, and we cannot be held responsible for the use of code and/or data and any issues that may arise.
+All code and data are provided _as is_.
 
 Feel free to contact us for more information, report bugs and errors, or simply to inform us what are you using the data for.
 We would be pleased to learn how others are using our work.
 If you are interested in collaborating with us, please get in touch with the lead developer of each resource listed below.
 
+## Nighttime Street View Imagery
+
+![](nighttime-svi.jpg)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | A large set of images collected during nighttime to support our explorations on this latent kind of urban visual data. |
+| Lead developer: | {{% mention "zicheng" %}} |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.scs.2024.105862) published in Sustainable Cities and Society |
+| Download: | [<i class="fab fa-github"></i> Github repo](https://github.com/fzc961020/Nighttime-SVI) (also uploaded on Mapillary)|
+| Main data source(s): | Own data collection |
+| Coverage: | Singapore | 
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2024_scs_nightSVI,
+ author = {Fan, Zicheng and Biljecki, Filip},
+ doi = {10.1016/j.scs.2024.105862},
+ journal = {Sustainable Cities and Society},
+ pages = {105862},
+ title = {Nighttime Street View Imagery: A new perspective for sensing urban lighting landscape},
+ volume = {116},
+ year = {2024}
+}
+{{< /spoiler >}}|
 
 ## TreeShadeMapper
 

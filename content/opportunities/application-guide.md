@@ -90,8 +90,10 @@ Some of the expectations from PhD researchers during and at the end of their stu
 + Collaborate and contribute to the scientific community in various ways (i.e. other forms of output such as open data, open-source software, community engagements...).
 + Attain a valuable set of skills, largely domain-agnostic, both hard (e.g. coding, statistics) and soft (e.g. written communication, presenting, project management) that can be applied to a variety of scientific challenges and in various environments.
 
+On a related note, have a look at [this nice illustrated guide to a PhD](https://matt.might.net/articles/phd-school-in-pictures/).
+
 To succeed, a PhD student ideally should:
-+ have ownership of his/her work, have intellectual and scientific curiosity, and be excited and passionate about the topic and field;
++ establish ownership of his/her work, have intellectual and scientific curiosity, be creative, and be excited and passionate about the topic and field;
 + have initiative and be proactive about a variety of aspects related to the research (e.g. take the lead in identifying gaps, think of new ideas, and follow relevant conferences and journals);
 + continuously develop transferrable skills, be on top of the developments in the field and broader domains, and seek means to contribute and advance knowledge;
 + regularly seek opportunities to promote and apply their research;
@@ -112,10 +114,11 @@ But here are some further tips and requirements on our end.
 
 The most important tip is to tailor your application and make it specific to our environment.
 PhD applications are examined carefully by the department and college.
-Your application will be given adequate attention, however, generic applications and those without a clear motivation and understanding of the scope of our work, and those that do not demonstrate research affinity, are typically rejected.
+Your application will be given adequate attention, however, generic applications with boilerplate text and those without a clear motivation and understanding of the scope of our work, and those that do not demonstrate research affinity, are typically rejected.
+Your PhD application reflects your ability and skill to find and digest information, which is an instrumental skill for a researcher to possess. 
 
 Therefore, in your application, you need to be clear with your motivation to spend several years in a PhD programme: why do you want to do a PhD, why are you interested in research and in an academic environment, what makes you a strong candidate, what are your career goals, what are your research interests, what are your relevant skills and accomplishments so far, and why do you want to come specifically to NUS and our department and group.
-Each of these points should be accompanied with some evidence or motivation.
+Each of these points should be substantiated with some evidence or motivation.
 
 Prospective candidates who did a bit of research on what we do and those that are able to demonstrate their aptitude for research and motivate their wish to join us in particular have a much better chance getting admitted into the doctoral programme.
 This is most evident from a tailored and research-focused application pertaining to our Lab, university and Singapore.
@@ -229,6 +232,11 @@ PhD programmes at NUS follow the nomenclature of the hosting departments, thus, 
 In practice, as far as we know, this will not make or break your chances later in your career. Your work, publications, and attained skills matter the most.
 {{< /spoiler >}}
 
+{{< spoiler text="I am preparing my application but I don't see you listed in the NUS application system. How to apply?" >}}
+This is related to the question above.
+Please select the PhD in Architecture programme in the application portal. 
+{{< /spoiler >}}
+
 
 {{< spoiler text="Can I do a part-time PhD?" >}}
 You can (NUS allows it), but we think you shouldn't.
@@ -321,6 +329,12 @@ However, note that doing a PhD without a scholarship can be difficult and stress
 
 {{< spoiler text="Can the university waive the PhD tuition fee if my scholarship funds only a stipend for living and research expenses, and the funding agency is not willing to cover also the tuition fee?" >}}
 No, NUS does not provide waivers, sorry, we can't do much about it.
+{{< /spoiler >}}
+
+{{< spoiler text="I didn't receive a reply to my email. Should I send it again?" >}}
+While we appreciate interest, we do not entertain generic emails and applications.
+Research abilities and commitment are key characteristics of a successful PhD researcher.
+If you have not invested time in researching a bit and in preparing your email, it is not good to have an expectation that someone will invest time to reply to you.
 {{< /spoiler >}}
 
 
