@@ -24,21 +24,21 @@ organizations:
 bio: ""
 
 interests:
+- Urban informatics
 - 3D city modelling, 3D GIS
 - GeoAI
-- Geographic data science
 
 education:
   courses:
   - course: PhD in 3D GIS (cum laude)
     institution: Delft University of Technology, Netherlands
-    year: 
+    year: 2017
   - course: MSc in Geomatics
     institution: Delft University of Technology, Netherlands
-    year: 
+    year: 2010
   - course: BSc in Geodesy and Geoinformatics
     institution: University of Zagreb, Croatia
-    year: 
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -96,12 +96,13 @@ user_groups:
 Dr Filip Biljecki is jointly appointed as faculty at the Department of Architecture (College of Design and Engineering) and the Department of Real Estate (NUS Business School) at the National University of Singapore.
 He is the founder and the principal investigator of the [NUS Urban Analytics Lab](/).
 In 2020 [he was appointed]({{< ref "/post/2020-07-filip-pyp/index.md" >}}) as NUS Presidential Young Professor.
-Filip has published more than 120 peer-reviewed articles.
+Filip has published more than 130 peer-reviewed articles.
 At NUS he has been awarded for teaching and research multiple times, and has supervised dozens of students leading them to publications in leading journals and placements at top universities and organisations.
 He delivered talks at more than 100 universities and organisations worldwide, e.g. MIT, Stanford, Harvard, Berkeley, Peking, Tsinghua, University of Tokyo, Princeton, Hong Kong University, Seoul National University, and ETH Zurich.
 
 His background is in Geomatic engineering.
 Filip holds a [PhD degree](https://filipbiljecki.com/phd.html) (with highest honours) in 3D GIS from the Delft University of Technology in the Netherlands, where he also did an MSc in Geomatics.
+In between, he accummulated industry experience as well, and has served as a consultant for companies and governments in the implementation of spatial data infrastructures.
 The list of his publications is available [here](https://filipbiljecki.com/#publications).
 
 ### Additional appointments
