@@ -37,7 +37,7 @@ We are glad to share our new paper:
 This research was led by {{% mention "kunihiko" %}}.
 Congratulations on this important journal publication! :raised_hands: :clap:
 
-This paper is another outcome of [our collaboration with Takenaka Corporation]({{< relref "../post/2023-04-takenaka-collaboration" >}}).
+This paper is another outcome of [our collaboration with Takenaka Corporation]({{< relref "/post/2023-04-takenaka-collaboration" >}}).
 
 The code has been released open-source at [GitHub](https://github.com/kunifujiwara/TreeShadeMapper).
 
