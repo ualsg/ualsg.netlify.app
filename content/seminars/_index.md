@@ -24,7 +24,7 @@ Please note that, to facilitate an enhanced atmosphere, engagement and interacti
 
 ---
 
-### 2024-10-21 --- From Built Heritage 3D Spatial Documentation to National  Hazards Maps: a multi-scale & multi-techniques research approach
+### 2024-10-21 --- From Built Heritage 3D Spatial Documentation to National Hazards Maps: a multi-scale & multi-techniques research approach
 
 By [Elisabetta Colucci](https://www.polito.it/en/staff?p=041312),
 [Department of Architecture and Design](https://www.dad.polito.it/en/),
