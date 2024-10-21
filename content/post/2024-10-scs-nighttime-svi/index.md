@@ -32,16 +32,19 @@ image:
 
 We are glad to share our new paper:
 
-> Fan Z, Biljecki F (2024): Nighttime Street View Imagery: A new perspective for sensing urban lighting landscape. Sustainable Cities and Society, 116: 105862. [<i class="ai ai-doi-square ai"></i> 10.1016/j.scs.2024.105862](https://doi.org/10.1016/j.scs.2024.105862) [<i class="far fa-file-pdf"></i> PDF](/publication/2024-scs-night-svi/2024-scs-night-svi.pdf)</i> <i class="ai ai-open-access-square ai"></i>
+> Fan Z, Biljecki F (2024): Nighttime Street View Imagery: A new perspective for sensing urban lighting landscape. Sustainable Cities and Society, 116: 105862. [<i class="ai ai-doi-square ai"></i> 10.1016/j.scs.2024.105862](https://doi.org/10.1016/j.scs.2024.105862) [<i class="far fa-file-pdf"></i> PDF](/publication/2024-scs-night-svi/2024-scs-night-svi.pdf)</i>
 
 This research was led by {{% mention "zicheng" %}}.
 Congratulations on his first PhD journal publication! :raised_hands: :clap:
 
 The dataset has been released openly at [GitHub](https://github.com/fzc961020/Nighttime-SVI).
 
+The paper is [available freely](https://authors.elsevier.com/a/1jy7F7sfVZE4FF) until 2024-12-06.
+
 ![](1.png)
 
 ![](2.png)
+
 
 ### Highlights
 

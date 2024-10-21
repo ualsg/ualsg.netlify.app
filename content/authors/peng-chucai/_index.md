@@ -56,7 +56,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 # - Research Staff and Doctoral Researchers
-- People
+- Alumni
 ---
 
 Peng Chucai is a researcher with experience in GIS, Remote Sensing, and Spatial Econometrics.
