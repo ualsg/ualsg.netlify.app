@@ -490,6 +490,28 @@ volume = {228}
 
 # With our friendly collaborators
 
+## Window Views dataset
+
+![](window-views.jpg)
+
+| | |
+| ------------------| ------------------------------ |
+| Short description: | An open, manually annotated dataset of window views in a high density city (Wuhan, China). The original data was taken from the balcony window views of 300 apartments listed for sale in August 2022 on the Chinese real estate online marketplaces lianjia in August 2022. |
+| Lead developer: | {{% mention "peng-chucai" %}} |
+| Data: | [Github](https://github.com/yahaha115/Window-view-dataset) |
+| Further reading: | Please read the [paper](https://doi.org/10.1016/j.cities.2024.105536) published in Cities |
+| Citation: | {{< spoiler text="Click to view the BibTeX entry" >}}
+@article{2025_cities_windowviews,
+  author = {Peng, Chucai and Xiang, Yang and Huang, Wenjing and Feng, Yale and Tang, Yongqi and Biljecki, Filip and Zhou, Zhixiang},
+  doi = {10.1016/j.cities.2024.105536},
+  journal = {Cities},
+  pages = {105536},
+  title = {Measuring the value of window views using real estate big data and computer vision: A case study in Wuhan, China},
+  volume = {156},
+  year = {2025}
+}
+{{< /spoiler >}}|
+
 ## Longitudinal thermographic dataset in Singapore
 
 ![](iris.png)
