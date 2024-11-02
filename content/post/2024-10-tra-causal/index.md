@@ -39,6 +39,8 @@ Congratulations on his continued successful publications during his PhD! :raised
 
 The paper is [available freely](https://authors.elsevier.com/a/1jzWn3Rd3v3eSF) until 2024-12-10.
 
+The code and dataset have been released [openly](https://github.com/koito19960406/bike_svi).
+
 ![](1.png)
 
 
