@@ -7,8 +7,8 @@ summary: "Cities publishes our new systematic review with a focus on opportuniti
 authors: [admin]
 tags: [paper, computer vision, machine learning, urban design, public spaces]
 categories: []
-date: 2024-11-08T12:33:22+08:00
-lastmod: 2024-11-08T12:33:22+08:00
+date: 2024-11-07T13:58:22+08:00
+lastmod: 2024-11-07T13:58:22+08:00
 featured: false
 draft: false
 show_related: true
