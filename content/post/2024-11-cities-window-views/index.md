@@ -32,7 +32,7 @@ image:
 
 We are glad to share our new paper:
 
-> Peng C, Xiang Y, Huang W, Feng Y, Tang Y, Biljecki F, Zhou Z (2024): Measuring the value of window views using real estate big data and computer vision. Cities, 156: 105536. [<i class="ai ai-doi-square ai"></i> 10.1016/j.cities.2024.105536](https://doi.org/10.1016/j.cities.2024.105536) [<i class="far fa-file-pdf"></i> PDF](/publication/2025-cities-windowviews/2025-cities-windowviews.pdf)</i>
+> Peng C, Xiang Y, Huang W, Feng Y, Tang Y, Biljecki F, Zhou Z (2025): Measuring the value of window views using real estate big data and computer vision: A case study in Wuhan, China. Cities, 156: 105536. [<i class="ai ai-doi-square ai"></i> 10.1016/j.cities.2024.105536](https://doi.org/10.1016/j.cities.2024.105536) [<i class="far fa-file-pdf"></i> PDF](/publication/2025-cities-windowviews/2025-cities-windowviews.pdf)</i>
 
 This research was led by {{% mention "peng-chucai" %}}.
 Congratulations on his new publication that is part of his PhD! :raised_hands: :clap:
