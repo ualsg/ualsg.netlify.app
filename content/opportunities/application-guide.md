@@ -227,7 +227,7 @@ Yes, we do. For more information, please read the content above.
 
 
 {{< spoiler text="I see from the website that your department offers only a PhD in Architecture, but I am interested in what you folks do. Is there some other PhD degree you offer?" >}}
-PhD degrees at NUS are not awarded by research groups, they are managed by upper levels such as the department and graduate school.
+PhD degrees at NUS are not awarded by research groups, they are managed by higher levels such as the department and graduate school.
 PhD programmes at NUS follow the nomenclature of the hosting departments, thus, if you pursue a PhD on a topic in this domain (i.e. urban analytics, etc.) and under the supervision of the PI of the group, it will be nominally part of the PhD in Architecture programme, since we are part of the Department of Architecture. The department and its PhD cohort work on a wide array of topics, and the PhD _per se_ is not necessarily squarely related to architecture.
 In practice, as far as we know, this will not make or break your chances later in your career. Your work, publications, and attained skills matter the most.
 {{< /spoiler >}}
@@ -252,7 +252,7 @@ In practice, four years is the minimum time required, and doing a PhD in less th
 
 
 {{< spoiler text="After I finish a PhD or postdoc at NUS, what are my career opportunities?" >}}
-That much depends on your profile, accomplishments, and experience.
+That much depends on your profile, accomplishments, experience, and the country you want to work in.
 Academia tends to be the desired path of those who do a PhD and/or postdoc (and NUS is a highly reputable university, which helps in getting a job elsewhere afterwards), but we don't see these positions constrained to an academic future.
 Developing expertise in a particular niche and transferrable skills makes you attractive also to government agencies, national institutes, and industry.
 You could also think about starting a company, NUS offers some support for startups.
@@ -317,7 +317,8 @@ Please consider other research groups at NUS and our department that may match y
 One of the best parts of doing a PhD is to learn how to identify gaps and set a research direction.
 Barring some circumstances such as funding/sponsoring project constraints, a PhD researcher will determine the topic in collaboration with the supervisor, after several iterations and with a high degree of freedom.
 We are open to a variety of topics and PhD projects, as long as they make sense, bridge a clear gap in the field, and fit within our group, and as long as they match your profile, strengths, skills, and interests. 
-For visiting scholars, e.g. if they are doing a PhD, we need to make sure what they do here will be compatible with their PhD at their home university, and not deviate too much, so what they do here can directly contribute towards their PhD at their home university.
+The fit in our research agenda is important because it would make it easier to get support and initiate collaborations.
+For visiting scholars, e.g. if they are doing a PhD, we need to make sure what they do here will be compatible with their PhD at their home university, and not deviate too much from it, so what they do here can directly contribute towards their PhD at their home university.
 {{< /spoiler >}}
 
 
@@ -334,7 +335,7 @@ No, NUS does not provide waivers, sorry, we can't do much about it.
 {{< spoiler text="I didn't receive a reply to my email. Should I send it again?" >}}
 While we appreciate interest, we do not entertain generic emails and applications.
 Research abilities and commitment are key characteristics of a successful PhD researcher.
-If you have not invested time in researching a bit and in preparing your email, it is not good to have an expectation that someone will invest time to reply to you.
+If you have not invested time in researching a bit and in preparing your email accordingly, it is not good to have an expectation that someone will invest time to reply to you, sorry.
 {{< /spoiler >}}
 
 
