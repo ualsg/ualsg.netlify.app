@@ -32,7 +32,7 @@ image:
 
 We are glad to share our new paper:
 
-> Ito K, Quintana M, Han X, Zimmermann R, Biljecki F (2024): Translating street view imagery to correct perspectives to enhance bikeability and walkability studies. International Journal of Geographical Information Science. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2024.2391969](https://doi.org/10.1080/13658816.2024.2391969) [<i class="far fa-file-pdf"></i> PDF](/publication/2024-ijgis-svi-gan/2024-ijgis-svi-gan.pdf)</i>
+> Ito K, Quintana M, Han X, Zimmermann R, Biljecki F (2024): Translating street view imagery to correct perspectives to enhance bikeability and walkability studies. International Journal of Geographical Information Science, 38(12): 2514-2544. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2024.2391969](https://doi.org/10.1080/13658816.2024.2391969) [<i class="far fa-file-pdf"></i> PDF](/publication/2024-ijgis-svi-gan/2024-ijgis-svi-gan.pdf)</i>
 
 This research was led by {{% mention "koichi" %}}.
 Congratulations on this important journal publication! :raised_hands: :clap:
@@ -61,7 +61,9 @@ BibTeX citation:
   author = {Ito, Koichi and Quintana, Matias and Han, Xianjing and Zimmermann, Roger and Biljecki, Filip},
   doi = {10.1080/13658816.2024.2391969},
   journal = {International Journal of Geographical Information Science},
-  pages = {1-31},
+  volume = {38},
+  number = {12},
+  pages = {2514-2544},
   title = {Translating street view imagery to correct perspectives to enhance bikeability and walkability studies},
   year = {2024}
 }
