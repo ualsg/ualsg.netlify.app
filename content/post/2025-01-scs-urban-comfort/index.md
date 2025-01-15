@@ -7,8 +7,8 @@ summary: "Sustainable Cities and Society publishes our work on advancing liveabi
 authors: [admin]
 tags: [paper, digital twins, suistanability, liveability, 3d, climate]
 categories: []
-date: 2025-01-15T15:31:22+08:00
-lastmod: 2025-01-15T15:31:22+08:00
+date: 2025-01-15T16:30:22+08:00
+lastmod: 2025-01-15T16:30:22+08:00
 featured: false
 draft: false
 show_related: true
