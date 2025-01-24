@@ -30,11 +30,11 @@ image:
 projects: []
 ---
 
-Over the last half year, the PI of the Urban Analytics Lab, {{% mention "filip" %}}, has been invited to visit 15 universities across China to give guest lectures and presentations, showcase the work of our research groups, and establish collaborations.
+Over the last half year, the PI of the Urban Analytics Lab, {{% mention "filip" %}}, has been invited to visit 15 universities across China to give guest lectures and presentations, showcase the work of our research group, and establish collaborations.
 
 ![](collage-1.jpg)
 
-It has been an enriching experience and impressive in many ways -- from the quality of research and the beautiful campuses to very driven and talented researchers.
+It has been an enriching experience and impressive in many ways -- from the quality of research and the beautiful campuses to the very driven and talented researchers.
 
 ![](collage-2.jpg)
 
