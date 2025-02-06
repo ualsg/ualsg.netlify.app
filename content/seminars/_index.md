@@ -24,6 +24,20 @@ Please note that, to facilitate an enhanced atmosphere, engagement and interacti
 
 ---
 
+### 2025-02-14 --- Towards GeoAI Foundation Models: Unlocking Spatial Knowledge through Vision-Language Models
+
+By [Meiliu Wu](https://www.gla.ac.uk/schools/ges/staff/meiliuwu/),
+[School of Geographical & Earth Sciences](https://www.gla.ac.uk/schools/ges/),
+[University of Glasgow](https://www.gla.ac.uk),
+Scotland
+
+As AI advances, the fusion of multimodal data (e.g., images, text, and spatial information) unlocks unprecedented opportunities for geospatial understanding. This talk introduces an innovative GeoAI framework that extracts and integrates spatial knowledge using Vision-Language Models (VLMs), including GPT-4 and Contrastive Language-Image Pretraining (CLIP), to enhance geospatial analytics. By enabling AI to interpret both visual and linguistic data with spatial awareness, this work expands the capabilities of AI to tackle complex geospatial tasks, such as image geo-localization, land use detection, and urban perception prediction. 
+The core of this framework leverages spatially explicit prompt engineering and contrastive learning, refining AI models to reason about geo-locations and spatial patterns. These techniques set a new benchmark for AI in geospatial applications, offering scalable, accurate, and explainable insights across diverse environments. As we push the boundaries of GeoAI, the integration of VLMs and spatial reasoning is paving the way for more intelligent, interpretable, and impactful decision-making in the geospatial domain and beyond. 
+
+![](2025-02-14.jpg)
+
+---
+
 ### 2024-10-21 --- From Built Heritage 3D Spatial Documentation to National Hazards Maps: a multi-scale & multi-techniques research approach
 
 By [Elisabetta Colucci](https://www.polito.it/en/staff?p=041312),
