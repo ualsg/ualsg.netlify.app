@@ -44,10 +44,10 @@ featured: false
 
 # Links
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: 'https://github.com/Sijie-Yang/Thermal-Affordance'
+url_dataset: 'https://thermal-affordance.ual.sg/dataset/'
 url_poster: ''
-url_project: ''
+url_project: 'https://thermal-affordance.ual.sg'
 url_slides: ''
 url_source: ''
 url_video: ''
