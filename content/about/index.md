@@ -29,7 +29,7 @@ Within NUS, we collaborate primarily with several sister labs such as the [Build
 
 Besides funding from NUS and academic/government organisations such as Singapore's Ministry of Education, we also receive support from industry, e.g. [Takenaka Corporation from Japan]({{< relref "/post/2023-04-takenaka-collaboration" >}}).
 
-![](ual-cny-dinner-2024-02.jpg)
+![](ual-cny-dinner-2025-02.jpg)
 
 ![](ual-dinner-2022-06.jpg)
 
