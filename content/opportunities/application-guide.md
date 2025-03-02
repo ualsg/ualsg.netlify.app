@@ -13,7 +13,7 @@ Thank you for your interest in joining our research group at the [National Unive
 We look forward to working together on [a research framework](/about) focused on the nexus of novel urban data streams, urban analytics, and geospatial data science, a holistic and unique research agenda in Singapore and Southeast Asia and beyond.
 We continuously welcome motivated and talented prospective researchers from diverse disciplines and countries, who share our research goal of making cities smarter and more (geo)data-driven.
 
-Interested in joining us? This website contains more information and some tips, including [answers to frequently asked questions](#faq).
+Interested in joining us? This page contains more information and some tips, including [answers to frequently asked questions](#faq).
 
 {{< toc mobile_only=false is_open=true >}}
 
@@ -24,7 +24,7 @@ This pretty much depends on the nature of the position and career stage, but in 
 + Perceived commitment and fit in our group (e.g. evident from a tailored cover letter with an elaborated narrative that is compatible with our current research agenda and builds upon our recent publications).
 + Compatibility/match of the expertise of the candidate with the research developed in our group and complementarity.
 + The candidate's ownership in a line of research and evident momentum in output and novelty in research activities so far and their impact (e.g. publications in leading international journals in the last few years, their citations, and impact/relevance in the broad scientific community). The publication record should be commensurate with years of experience (for entry-level researchers such as prospective PhD students, there is no such expectation but having a paper is a plus).
-+ Visibility and proactivity in scholarly communication (e.g. having a personal website with up to date information about one's work and research agenda, as we expect our scientists to be visible, promote the work internationally, and take ownership of their work).
++ Visibility and proactivity in scholarly communication (e.g. having a personal website with up to date information about one's work and research agenda, as we expect our scientists to be visible, take ownership of their work, and promote it internationally).
 + Evidence of coding/computational level to support the research and an indication of open science practices (e.g. visible from a developed GitHub repository or open-source package, and availability of reproducible workflows and having released open datasets).
 + Quality of the written English and materials provided, and communication skills. 
 + Community engagement and participation in local or international initiatives (e.g. workshops, talks, membership in working groups/societies).
@@ -327,8 +327,16 @@ For visiting scholars, e.g. if they are doing a PhD, we need to make sure what t
 {{< spoiler text="I was not able to get a scholarship to support my PhD. Can I get an RA job?" >}}
 When we have RA openings, we post them on [our website with vacancies](https://ual.sg/opportunities/vacancies/).
 However, note that doing a PhD without a scholarship can be difficult and stressful because an RA job rarely covers the entire duration of the programme and it is not always perfectly aligned with a PhD project.
+We do not accept self-funded PhD students.
 {{< /spoiler >}}
 
+{{< spoiler text="Do you accept self-funded PhD scholars?" >}}
+No. We accept only those that have a scholarship (either a Singapore-based or a foreign one).
+{{< /spoiler >}}
+
+{{< spoiler text="Is it possible to do a PhD remotely?" >}}
+No.
+{{< /spoiler >}}
 
 {{< spoiler text="Can the university waive the PhD tuition fee if my scholarship funds only a stipend for living and research expenses, and the funding agency is not willing to cover also the tuition fee?" >}}
 No, NUS does not provide waivers, sorry, we can't do much about it.
