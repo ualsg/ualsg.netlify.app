@@ -32,7 +32,7 @@ image:
 
 We are glad to share our new paper:
 
-> Yu D, Yue P, Wu B, Biljecki F, Chen M, Lu L (2025): Towards an Integrated Approach for Managing and Streaming 3D Spatial Data at the Component Level in Spatial Data Infrastructures. International Journal of Geographical Information Science. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2024.2434606](https://doi.org/10.1080/13658816.2024.2434606) [<i class="far fa-file-pdf"></i> PDF](/publication/2025-ijgis-3-dsdi/2025-ijgis-3-dsdi.pdf)</i>
+> Yu D, Yue P, Wu B, Biljecki F, Chen M, Lu L (2025): Towards an Integrated Approach for Managing and Streaming 3D Spatial Data at the Component Level in Spatial Data Infrastructures. International Journal of Geographical Information Science, 39(4): 847-871. [<i class="ai ai-doi-square ai"></i> 10.1080/13658816.2024.2434606](https://doi.org/10.1080/13658816.2024.2434606) [<i class="far fa-file-pdf"></i> PDF](/publication/2025-ijgis-3-dsdi/2025-ijgis-3-dsdi.pdf)</i>
 
 This research was led by {{% mention "yu-dayu" %}}, who was a visiting scholar in our research group while he has been doing a PhD at Wuhan University, after which he moved to Nanjing Normal University to join as faculty.
 Congratulations on his new publication that is part of his PhD! :raised_hands: :clap:
@@ -63,7 +63,9 @@ BibTeX citation:
   author = {Yu, Dayu and Yue, Peng and Wu, Binwen and Biljecki, Filip and Chen, Min and Lu, Luancheng},
   doi = {10.1080/13658816.2024.2434606},
   journal = {International Journal of Geographical Information Science},
-  pages = {1-25},
+  pages = {847-871},
+  volume = {39},
+  issue = {4},
   title = {Towards an integrated approach for managing and streaming 3D spatial data at the component level in spatial data infrastructures},
   year = {2025}
 }

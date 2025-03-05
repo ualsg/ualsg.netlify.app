@@ -50,3 +50,5 @@ It was great to exchange ideas with experts from MLIT, including Ms Yuka Sogawa,
 Thanks to MLIT, AIGID, & PLATEAU team (and many others involved including Ms Yu Nagura and Prof Yoshihide Sekimoto) for the inspiring leadership and activities.
 
 ![](3.jpg)
+
+![](4.jpg)
